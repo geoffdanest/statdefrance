@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-24",
+  "theme": "Logement",
+  "palette": "nuit",
+  "template": "grille",
+  "num": "N° 006",
+  "source": "Ministère de la Transition écologique, zonage ABC",
+  "source_url": "https://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-abc",
+  "dataset_id": "656715871172d08f8f680063",
+  "pct": 81,
+  "label": "des communes sont en zone C : le logement n’y est pas jugé tendu.",
+  "calc": "Colonne « Zonage ABC en vigueur depuis le 26 juin 2026 », 34 875 communes : C 28 326 (81,2 %), B2 3 162, B1 2 383, A 870, Abis 134 (0,4 %).",
+  "caption": "8 communes sur 10 ne manquent pas de logements, selon l’État.\n\nLe zonage ABC classe les communes selon la tension entre l’offre et la demande de logements. Dans la version entrée en vigueur le 26 juin 2026, 28 326 communes sur 34 875 (81 %) sont en zone C, la moins tendue. Seules 134 sont en zone Abis, la plus tendue. Ce classement sert notamment à fixer des plafonds de loyers et les aides à l’investissement.\n\nSource : Ministère de la Transition écologique, « Liste des communes selon le zonage ABC », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-abc\n\n#statdefrance #opendata #logement #immobilier #loyers #communes",
+  "status": "draft"
+}

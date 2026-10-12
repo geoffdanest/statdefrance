@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-23",
+  "theme": "Territoires",
+  "palette": "papier",
+  "template": "carte",
+  "num": "N° 005",
+  "source": "Atlasanté, population de référence",
+  "source_url": "https://www.data.gouv.fr/datasets/population-de-reference-t-popref-com",
+  "dataset_id": "6772c40953d3ce8c717bb851",
+  "calc": "COM_TYPE = COM et popref_annee = 2023 : 34 862 communes, 68 141 890 habitants (popref_mun). Communes ≥ 10 000 hab. : 1 040 (2,98 %) totalisant 50,99 % de la population. À l’inverse, 71 % des communes ont moins de 1 000 hab. et 12,8 % de la population.",
+  "caption": "1 040 communes abritent la moitié des Français.\n\nSur 34 862 communes, seules 1 040 dépassent 10 000 habitants, soit 3 %. Elles regroupent pourtant 51 % de la population. À l’autre bout, 7 communes sur 10 comptent moins de 1 000 habitants et rassemblent à peine 13 % des Français. Chiffres de population municipale issus du recensement 2023.\n\nSource : Atlasanté, « Population de référence (t_popref_com) », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/population-de-reference-t-popref-com\n\n#statdefrance #opendata #territoires #communes #population #ruralite",
+  "status": "draft",
+  "number": 1040,
+  "unit": "communes",
+  "hook": "de plus de 10 000 habitants abritent la moitié de la population."
+}
