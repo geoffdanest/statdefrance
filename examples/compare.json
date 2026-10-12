@@ -1,0 +1,33 @@
+{
+  "theme": "Territoires",
+  "source": "Insee, Code officiel géographique 2026",
+  "source_url": "https://www.data.gouv.fr/fr/datasets/code-officiel-geographique-cog/",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres à vérifier).\n\nSource : Insee, Code officiel géographique, sur data.gouv.fr\n\n#statdefrance #opendata #france",
+  "status": "draft",
+  "date": "2026-10-22",
+  "palette": "papier",
+  "template": "compare",
+  "num": "N° 004",
+  "title": "La France a plus de communes que l'Allemagne, l'Espagne et l'Italie réunies.",
+  "rows": [
+    {
+      "name": "France",
+      "value": 34875,
+      "highlight": true
+    },
+    {
+      "name": "Allemagne",
+      "value": 10750
+    },
+    {
+      "name": "Espagne",
+      "value": 8130
+    },
+    {
+      "name": "Italie",
+      "value": 7900
+    }
+  ],
+  "dot_unit": "communes",
+  "dataset_id": "exemple-cog"
+}

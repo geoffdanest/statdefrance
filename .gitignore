@@ -1,0 +1,6 @@
+candidates/
+__pycache__/
+*.pyc
+.DS_Store
+posts/_planche.jpg
+examples/_planche.jpg

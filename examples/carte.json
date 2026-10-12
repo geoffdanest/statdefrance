@@ -1,0 +1,15 @@
+{
+  "theme": "Territoires",
+  "source": "Insee, Code officiel géographique 2026",
+  "source_url": "https://www.data.gouv.fr/fr/datasets/code-officiel-geographique-cog/",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres à vérifier).\n\nSource : Insee, Code officiel géographique, sur data.gouv.fr\n\n#statdefrance #opendata #france",
+  "status": "draft",
+  "date": "2026-10-20",
+  "palette": "nuit",
+  "template": "carte",
+  "num": "N° 002",
+  "number": 34875,
+  "unit": "communes",
+  "hook": "Soit 4 communes européennes sur 10, un record en Europe.",
+  "dataset_id": "exemple-cog"
+}

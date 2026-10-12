@@ -1,0 +1,14 @@
+{
+  "theme": "Territoires",
+  "source": "Insee, Code officiel géographique 2026",
+  "source_url": "https://www.data.gouv.fr/fr/datasets/code-officiel-geographique-cog/",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres à vérifier).\n\nSource : Insee, Code officiel géographique, sur data.gouv.fr\n\n#statdefrance #opendata #france",
+  "status": "draft",
+  "date": "2026-10-19",
+  "palette": "papier",
+  "template": "grille",
+  "num": "N° 001",
+  "pct": 40,
+  "label": "des communes de l'Union européenne sont en France.",
+  "dataset_id": "exemple-cog"
+}

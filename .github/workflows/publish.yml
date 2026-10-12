@@ -1,0 +1,36 @@
+name: Publication Instagram (9h)
+on:
+  schedule:
+    - cron: "4 7 * * *"   # 9h à Paris en été
+    - cron: "4 8 * * *"   # 9h à Paris en hiver (le script ignore le passage trop tôt et ne publie jamais deux fois)
+  workflow_dispatch:
+    inputs:
+      date: { description: "Date à publier (AAAA-MM-JJ), vide = aujourd'hui", required: false }
+permissions:
+  contents: write
+concurrency: { group: publish, cancel-in-progress: false }
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Publier le post validé du jour
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scripts/publish_daily.py --force --date "${{ github.event.inputs.date }}"
+          else
+            python scripts/publish_daily.py
+          fi
+      - name: Enregistrer le statut « publié »
+        run: |
+          if [ -n "$(git status --porcelain posts)" ]; then
+            git config user.name "statdefrance-bot"
+            git config user.email "statdefrance-bot@users.noreply.github.com"
+            git add posts && git commit -qm "Publié : $(date +%F)" && git push
+          fi
