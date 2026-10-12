@@ -19,6 +19,10 @@ OUT = ROOT / "candidates"
 API = "https://www.data.gouv.fr/api/1"
 UA = {"User-Agent": "statdefrance-bot/1.0 (+https://github.com)"}
 MAX_DATASETS = 40
+PER_THEME = 3                      # jeux max par thème
+PER_KEYWORD = 2                    # jeux max par mot-clé d'actu
+MAX_AGE_DAYS = 4 * 365             # données mises à jour depuis moins de 4 ans
+TRUSTED_BADGES = {"public-service", "certified"}  # producteurs publics ou certifiés
 MAX_FILE = 12 * 1024 * 1024        # 12 Mo par fichier
 MAX_TOTAL = 160 * 1024 * 1024      # 160 Mo au total
 
@@ -47,7 +51,14 @@ tous tout toute toutes très vous votre après contre chez deux trois quatre cin
 france français française françaises années année jour jours semaine mois heure heures selon direct vidéo
 président gouvernement ministre premier nouvelle nouveau nouveaux grand grande petit petite fois point
 monde politique article dernier dernière enfin hier demain aujourd ainsi pourrait doit veut quoi
+lundi mardi mercredi jeudi vendredi samedi dimanche janvier février mars avril juin juillet août septembre
+octobre novembre décembre images photos photo live info infos infographie témoignage témoignages explique
+pourquoi comment combien voici après avant depuis pendant contre malgré lors face entre toujours encore
+selon plusieurs certains certaines nouvelle nouvelles grands grandes petits petites premier première
+annonce annonces affaire affaires question questions situation propos accord appel appels retour retours
+victimes morts mort blessés enquête procès justice police polémique crise mobilisation
 """.split())
+STOP_N = {unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode() for w in STOP}
 
 
 def norm(s):
@@ -80,14 +91,47 @@ def headlines():
     return items
 
 
-def keywords(items, n=14):
+def keywords(items, n=12):
+    """Mots présents dans au moins 2 titres différents, hors mots vides et noms propres."""
     c = Counter()
     for it in items:
-        words = re.findall(r"[A-Za-zÀ-ÿ’'-]{5,}", it["title"])
-        for w in {w.lower().strip("’'-") for w in words}:
-            if norm(w) not in {norm(s) for s in STOP}:
-                c[w] += 1
-    return [w for w, k in c.most_common(n) if k >= 2] or [w for w, _ in c.most_common(n)]
+        title = it["title"].replace("’", " ").replace("'", " ")
+        seen = set()
+        for m in re.finditer(r"[A-Za-zÀ-ÿ-]+", title):
+            w = m.group(0)
+            before = title[:m.start()].rstrip()
+            starts = not before or before[-1] in ":-–—|«\"!?."   # majuscule de début de phrase : OK
+            if len(w) < 5 or (w[:1].isupper() and not starts):    # noms propres (lieux, personnes) écartés
+                continue
+            k = w.lower()
+            if norm(k) in STOP_N or k in seen:
+                continue
+            seen.add(k); c[k] += 1
+    # un vrai mot commun apparaît au moins une fois en minuscules (élimine « Aubagne », « Riyad »…)
+    lower = set(re.findall(r"\b[a-zà-ÿ][a-zà-ÿ-]{4,}\b", " ".join(it["title"] for it in items).replace("’", " ")))
+    return [w for w, k in c.most_common(n * 2) if k >= 2 and w in lower][:n]
+
+
+def trusted(ds):
+    org = ds.get("organization") or {}
+    if not org:
+        return False
+    badges = {b.get("kind") for b in org.get("badges", []) or []}
+    return bool(badges & TRUSTED_BADGES) if "badges" in org else True
+
+
+def recent(ds):
+    d = ds.get("last_update") or ds.get("last_modified") or ""
+    try:
+        age = datetime.now(timezone.utc) - datetime.fromisoformat(d.replace("Z", "+00:00"))
+        return age.days <= MAX_AGE_DAYS
+    except Exception:
+        return True
+
+
+def series_key(title):
+    """« Carte des loyers 2023 » et « … 2024 » = même série : une seule retenue."""
+    return re.sub(r"\s+", " ", re.sub(r"[\d\"«»()]", "", norm(title))).strip()
 
 
 def search(q, sort="-reuses", size=8):
@@ -127,22 +171,27 @@ def main():
     news = headlines(); kws = keywords(news)
     print(f"{len(news)} titres lus. Mots-clés d'actu : {', '.join(kws)}")
 
-    queue = []  # (origine, thème/mot-clé, requête, tri)
-    for kw in kws:
-        queue.append(("actu", kw, kw, "-reuses"))
-    for theme, qs in THEMES.items():
-        for q in qs:
-            queue.append(("theme", theme, q, "-reuses"))
-            queue.append(("theme", theme, q, "-created"))
+    # file d'attente : actu d'abord, puis thèmes en tourniquet (tous les thèmes représentés)
+    queue = [("actu", kw, kw, "-reuses") for kw in kws]
+    rounds = max(len(q) for q in THEMES.values())
+    for i in range(rounds):
+        for theme, qs in THEMES.items():
+            if i < len(qs):
+                queue.append(("theme", theme, qs[i], "-reuses"))
+                queue.append(("theme", theme, qs[i], "-created"))
 
-    seen, picked, total = set(), [], 0
+    seen, series, picked, total = set(), set(), [], 0
+    count = Counter()
     for origin, label, q, sort in queue:
         if len(picked) >= MAX_DATASETS or total >= MAX_TOTAL: break
-        for ds in search(q, sort):
-            if len(picked) >= MAX_DATASETS: break
+        cap = PER_KEYWORD if origin == "actu" else PER_THEME
+        for ds in search(q, sort, size=12):
+            if count[label] >= cap or len(picked) >= MAX_DATASETS: break
             if ds["id"] in used or ds["id"] in seen: continue
-            if not ds.get("organization"): continue      # producteurs identifiés uniquement
             if ds.get("archived") or ds.get("deleted"): continue
+            if not trusted(ds) or not recent(ds): continue
+            sk = series_key(ds["title"])
+            if sk in series: continue
             res = pick_resource(ds)
             if not res: continue
             seen.add(ds["id"])
@@ -151,7 +200,7 @@ def main():
                 size = download(res["url"], d / "data.csv")
             except Exception as e:
                 print(f"  téléchargement raté {slug} : {e}"); continue
-            total += size
+            total += size; series.add(sk); count[label] += 1
             related = [h for h in news if origin == "actu" and norm(label) in norm(h["title"])][:3]
             meta = {
                 "dataset_id": ds["id"], "title": ds["title"], "page": ds.get("page") or f"https://www.data.gouv.fr/fr/datasets/{ds['slug']}/",
