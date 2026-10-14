@@ -43,6 +43,7 @@ THEMES = {
     "Culture": ["musées", "cinéma", "bibliothèques"],
     "Transports": ["trains", "vélo", "aéroports"],
     "Territoires": ["communes", "population", "prénoms"],
+    "Sport": ["sport", "licences sportives", "équipements sportifs"],
 }
 STOP = set("""
 alors aussi autre avant avec avoir bien cette comme dans depuis donc elle elles encore entre être fait faire
