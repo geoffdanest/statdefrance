@@ -1,7 +1,8 @@
-"""Publication quotidienne (GitHub Action, 9h et 18h heure de Paris).
+"""Publication quotidienne (GitHub Action, 6h et 12h heure de Paris).
 
-Deux créneaux par jour : posts/AAAA-MM-JJ.json (matin, 9h) et
-posts/AAAA-MM-JJ-soir.json (soir, 18h). Chaque passage publie les créneaux du jour
+Deux créneaux par jour : posts/AAAA-MM-JJ.json (matin, 6h) et
+posts/AAAA-MM-JJ-midi.json (midi, 12h). Horaires avancés car GitHub démarre souvent
+les tâches programmées avec plusieurs heures de retard. Chaque passage publie les créneaux du jour
 dont l'heure est atteinte et pas encore publiés. Un post n'est publié que si son statut est
 « validated » (validé par toi dans Claude). Après publication : statut
 « published » + lien du post Instagram, enregistrés dans le JSON.
@@ -10,7 +11,7 @@ Variables d'environnement (secrets GitHub) :
   IG_USER_ID       identifiant du compte Instagram professionnel
   IG_ACCESS_TOKEN  clé de publication (jeton « utilisateur système », sans expiration)
   GITHUB_REPOSITORY fourni automatiquement par GitHub (pseudo/repo)
-Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|soir, --dry-run (n'appelle pas Instagram)
+Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|midi, --dry-run (n'appelle pas Instagram)
 """
 import json, os, sys, time
 from datetime import datetime
@@ -47,7 +48,7 @@ def publish(image_url, caption):
     return media, link
 
 
-SLOTS = [("matin", "", 9), ("soir", "-soir", 18)]   # (nom, suffixe du fichier, heure de Paris)
+SLOTS = [("matin", "", 6), ("midi", "-midi", 12)]   # (nom, suffixe du fichier, heure de Paris)
 
 
 def publish_slot(day, name, suffix, now, dry):
