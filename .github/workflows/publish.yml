@@ -1,11 +1,14 @@
-name: Publication Instagram (9h)
+name: Publication Instagram (9h et 18h)
 on:
   schedule:
     - cron: "4 7 * * *"   # 9h à Paris en été
     - cron: "4 8 * * *"   # 9h à Paris en hiver (le script ignore le passage trop tôt et ne publie jamais deux fois)
+    - cron: "4 16 * * *"  # 18h à Paris en été
+    - cron: "4 17 * * *"  # 18h à Paris en hiver
   workflow_dispatch:
     inputs:
       date: { description: "Date à publier (AAAA-MM-JJ), vide = aujourd'hui", required: false }
+      slot: { description: "Créneau : matin, soir, ou vide = les deux", required: false }
 permissions:
   contents: write
 concurrency: { group: publish, cancel-in-progress: false }
@@ -17,13 +20,15 @@ jobs:
       - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - name: Publier le post validé du jour
+      - name: Publier les posts validés du jour
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: |
+          SLOT=""
+          if [ -n "${{ github.event.inputs.slot }}" ]; then SLOT="--slot ${{ github.event.inputs.slot }}"; fi
           if [ -n "${{ github.event.inputs.date }}" ]; then
-            python scripts/publish_daily.py --force --date "${{ github.event.inputs.date }}"
+            python scripts/publish_daily.py --force --date "${{ github.event.inputs.date }}" $SLOT
           else
             python scripts/publish_daily.py
           fi

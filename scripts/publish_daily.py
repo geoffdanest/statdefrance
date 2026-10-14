@@ -1,6 +1,8 @@
-"""Publication quotidienne (GitHub Action, 9h heure de Paris).
+"""Publication quotidienne (GitHub Action, 9h et 18h heure de Paris).
 
-Cherche posts/AAAA-MM-JJ.json du jour. Il n'est publié que si son statut est
+Deux créneaux par jour : posts/AAAA-MM-JJ.json (matin, 9h) et
+posts/AAAA-MM-JJ-soir.json (soir, 18h). Chaque passage publie les créneaux du jour
+dont l'heure est atteinte et pas encore publiés. Un post n'est publié que si son statut est
 « validated » (validé par toi dans Claude). Après publication : statut
 « published » + lien du post Instagram, enregistrés dans le JSON.
 
@@ -8,7 +10,7 @@ Variables d'environnement (secrets GitHub) :
   IG_USER_ID       identifiant du compte Instagram professionnel
   IG_ACCESS_TOKEN  clé de publication (jeton « utilisateur système », sans expiration)
   GITHUB_REPOSITORY fourni automatiquement par GitHub (pseudo/repo)
-Options : --force (ignore l'heure), --date AAAA-MM-JJ, --dry-run (n'appelle pas Instagram)
+Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|soir, --dry-run (n'appelle pas Instagram)
 """
 import json, os, sys, time
 from datetime import datetime
@@ -45,35 +47,51 @@ def publish(image_url, caption):
     return media, link
 
 
-def main(args):
-    now = datetime.now(ZoneInfo("Europe/Paris"))
-    force, dry = "--force" in args, "--dry-run" in args
-    day = args[args.index("--date") + 1] if "--date" in args else now.strftime("%Y-%m-%d")
-    if not force and now.hour < 9:
-        log(f"{now:%H:%M} à Paris : trop tôt, on attend 9h."); return 0
-    f = ROOT / "posts" / f"{day}.json"
+SLOTS = [("matin", "", 9), ("soir", "-soir", 18)]   # (nom, suffixe du fichier, heure de Paris)
+
+
+def publish_slot(day, name, suffix, now, dry):
+    f = ROOT / "posts" / f"{day}{suffix}.json"
     if not f.exists():
-        log(f"Aucun post prévu le {day}."); return 0
+        log(f"[{name}] Aucun post prévu le {day}."); return 0
     post = json.loads(f.read_text(encoding="utf-8"))
     status = post.get("status", "draft")
     if status == "published":
-        log(f"Déjà publié : {post.get('ig_permalink')}"); return 0
+        log(f"[{name}] Déjà publié : {post.get('ig_permalink')}"); return 0
     if status != "validated":
-        log(f"Post du {day} non validé (statut « {status} ») : rien n'est publié."); return 0
+        log(f"[{name}] Post du {day} non validé (statut « {status} ») : rien n'est publié."); return 0
     img = f.with_suffix(".jpg")
     if not img.exists():
-        log(f"ERREUR : visuel manquant {img.name}"); return 1
+        log(f"[{name}] ERREUR : visuel manquant {img.name}"); return 1
     repo = os.environ.get("GITHUB_REPOSITORY", "pseudo/statdefrance")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
     image_url = f"https://raw.githubusercontent.com/{repo}/{branch}/posts/{img.name}"
-    log(f"Publication du {day} ({post['template']}, {post['palette']}) depuis {image_url}")
+    log(f"[{name}] Publication du {day} ({post['template']}, {post['palette']}) depuis {image_url}")
     if dry:
         log("[simulation] Instagram non appelé."); return 0
     media, link = publish(image_url, post["caption"])
     post.update(status="published", ig_media_id=media, ig_permalink=link, published_at=now.isoformat())
     f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    log(f"Publié : {link}")
+    log(f"[{name}] Publié : {link}")
     return 0
+
+
+def main(args):
+    now = datetime.now(ZoneInfo("Europe/Paris"))
+    force, dry = "--force" in args, "--dry-run" in args
+    day = args[args.index("--date") + 1] if "--date" in args else now.strftime("%Y-%m-%d")
+    only = args[args.index("--slot") + 1] if "--slot" in args else None
+    code = 0
+    for name, suffix, hour in SLOTS:
+        if only and name != only:
+            continue
+        if not force and now.hour < hour:
+            log(f"[{name}] {now:%H:%M} à Paris : trop tôt, on attend {hour}h."); continue
+        try:
+            code |= publish_slot(day, name, suffix, now, dry)
+        except Exception as e:   # un créneau en échec n'empêche pas l'autre
+            log(f"[{name}] ERREUR : {e}"); code = 1
+    return code
 
 
 if __name__ == "__main__":

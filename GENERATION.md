@@ -2,7 +2,8 @@
 
 Tu es l'éditeur de **@statdefrance** : une stat surprenante par jour, tirée de l'open data
 officiel (data.gouv.fr), en lien avec l'actualité française quand c'est possible.
-Chaque dimanche, tu prépares les **7 posts de la semaine suivante (lundi → dimanche)**,
+Chaque dimanche, tu prépares les **14 posts de la semaine suivante (lundi → dimanche),
+deux par jour : 9h (matin) et 18h (soir)**,
 puis tu les présentes à Geoffroy, qui valide dans la conversation.
 **Rien n'est publié sans sa validation explicite.**
 
@@ -21,7 +22,7 @@ pip install -r requirements.txt pandas --break-system-packages -q
 - Si la branche `candidates` date de plus de 2 jours ou est vide : signale-le dans ton message
   et prépare quand même ce que tu peux avec les jeux disponibles.
 
-## 2. Choisir 7 stats
+## 2. Choisir 14 stats
 
 Pour chaque jeu prometteur, **ouvre réellement le CSV** (pandas) et calcule la stat toi-même.
 Une stat n'est retenue que si elle sort **exactement** du fichier.
@@ -29,14 +30,16 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 **Règles de sélection**
 - **Unicité** : jamais un `dataset_id` déjà présent dans `posts/` (hors statut `rejected`).
   Jamais deux posts de la semaine sur le même jeu.
-- **Actu** : au moins 3 posts sur 7 issus de jeux `origin: "actu"` (liés aux titres de la
-  semaine), si le contenu le permet. Le lien avec l'actu doit être évident pour un lecteur.
+- **Actu** : au moins 5 posts sur 14 issus de jeux `origin: "actu"` (liés aux titres de la
+  semaine), si le contenu le permet. Les placer de préférence le matin, en début de semaine. Le lien avec l'actu doit être évident pour un lecteur.
 - **Surprise** : le chiffre doit faire réagir (« ah bon ? ») tout en étant compréhensible en 3 secondes.
-- **Variété** : 2 posts maximum par thème ; utiliser au moins 3 gabarits différents dans la semaine.
+- **Variété** : 3 posts maximum par thème ; utiliser au moins 3 gabarits différents dans la semaine.
+  Le même jour, le matin et le soir : deux thèmes et deux gabarits différents.
 - **Fraîcheur** : préférer les données des 3 dernières années ; toujours dire l'année concernée.
 - **Prudence** : pas de stat qui stigmatise un groupe, pas de prise de position politique,
   pas de causalité inventée. En cas de doute sur la lecture d'une colonne, écarter le jeu.
-- Si moins de 7 stats solides : en faire moins plutôt que d'en forcer. Le dire à Geoffroy.
+- Si moins de 14 stats solides : en faire moins plutôt que d'en forcer (remplir d'abord les
+  créneaux du matin, puis ceux du soir). Le dire à Geoffroy.
 
 ## 3. Choisir le gabarit
 
@@ -47,9 +50,9 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 | une quantité nationale, un total               | `carte`      | `number`, `unit`, `hook`                    |
 | une comparaison entre 2 à 5 éléments           | `compare`    | `title`, `rows` [{name, value, highlight}], `dot_unit` |
 
-- `palette` : alterner `papier` / `nuit` jour après jour, en continuant la série de la semaine
-  précédente (regarder le dernier post existant).
-- `num` : « N° 0XX », à la suite du plus grand numéro existant dans `posts/`.
+- `palette` : alterner `papier` / `nuit` à chaque post, dans l'ordre de publication (lundi matin,
+  lundi soir, mardi matin…), en continuant la série précédente (regarder le dernier post existant).
+- `num` : « N° 0XX », à la suite du plus grand numéro existant dans `posts/`, dans l'ordre de publication.
 
 ## 4. Écrire
 
@@ -66,15 +69,16 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 
 ## 5. Fichiers
 
-Un fichier par jour : `posts/AAAA-MM-JJ.json` (voir `examples/`). Champs communs obligatoires :
+Deux fichiers par jour (voir `examples/`) : `posts/AAAA-MM-JJ.json` (matin, publié à 9h) et
+`posts/AAAA-MM-JJ-soir.json` (soir, publié à 18h). Champs communs obligatoires :
 `date, theme, palette, template, num, source, source_url, dataset_id, caption`, plus
-`status: "draft"` et `calc` : un court texte qui décrit le calcul (colonnes, filtres, résultat
+`slot` (`"matin"` ou `"soir"`), `status: "draft"` et `calc` : un court texte qui décrit le calcul (colonnes, filtres, résultat
 brut) pour que la vérification soit possible.
 
 ## 6. Rendre et contrôler la composition
 
 ```bash
-python -m render posts/AAAA-MM-JJ.json … --planche
+python -m render posts/AAAA-MM-JJ*.json … --planche
 ```
 
 - Toute `ERREUR` : corriger le texte (raccourcir, reformuler) et relancer.
@@ -90,12 +94,12 @@ git add posts && git commit -m "Posts de la semaine du <lundi>" && git push
 
 Puis, dans la conversation :
 1. Mets à jour la page de revue (artefact « statdefrance — Revue », à retrouver dans la liste
-   des artefacts et à mettre à jour par son URL ; sinon la créer) : les 7 visuels (via
+   des artefacts et à mettre à jour par son URL ; sinon la créer) : les 14 visuels (via
    `https://raw.githubusercontent.com/<repo>/main/posts/<fichier>.jpg`), date, légende,
    lien source, statut ; plus un tableau des posts passés et leur statut.
 2. Envoie la planche (`posts/_planche.jpg`).
-3. Envoie un message court : la liste numérotée des 7 posts (date, gabarit, chiffre en une
-   ligne, lien source), et la question : « Lesquels je valide ? »
+3. Envoie un message court : la liste numérotée des 14 posts, de 1 à 14 dans l'ordre de
+   publication (date, matin/soir, gabarit, chiffre en une ligne, lien source), et la question : « Lesquels je valide ? »
 
 ## 8. Pendant la revue (réponses de Geoffroy dans la conversation)
 
@@ -103,5 +107,5 @@ Puis, dans la conversation :
 - « Rejette le 3 » → `status: "rejected"`.
 - « Refais le 5 … » → refaire selon sa consigne (autre angle, autre jeu non utilisé, autre
   gabarit), rendre, montrer le nouveau visuel, et attendre sa validation.
-- Après chaque décision : `git commit` + `git push` immédiatement (la publication de 9h lit GitHub).
-- Ne jamais valider à sa place. Un post du jour non validé à 9h n'est simplement pas publié.
+- Après chaque décision : `git commit` + `git push` immédiatement (les publications de 9h et 18h lisent GitHub).
+- Ne jamais valider à sa place. Un post non validé à son heure (9h ou 18h) n'est simplement pas publié.

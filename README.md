@@ -1,25 +1,25 @@
 # statdefrance
 
-Une stat surprenante par jour sur Instagram, tirée de l'open data officiel (data.gouv.fr)
-et liée à l'actualité française. Tout est automatique, sauf **ta validation, une fois par semaine**.
+Deux stats surprenantes par jour sur Instagram (9h et 18h), tirées de l'open data officiel (data.gouv.fr)
+et liées à l'actualité française. Tout est automatique, sauf **ta validation, une fois par semaine**.
 
 ## La semaine type
 
 | Quand | Qui | Quoi |
 |---|---|---|
-| Dimanche ~17h | GitHub (gratuit) | Lit les titres de l'actu, collecte une quarantaine de jeux de données data.gouv jamais utilisés |
-| Dimanche 18h | Claude (ton abonnement) | Choisit 7 stats, calcule, écrit, compose les visuels, te les présente dans une conversation |
+| Dimanche ~17h | GitHub (gratuit) | Lit les titres de l'actu, collecte jusqu'à 70 jeux de données data.gouv jamais utilisés |
+| Dimanche 18h | Claude (ton abonnement) | Choisit 14 stats (2 par jour), calcule, écrit, compose les visuels, te les présente dans une conversation |
 | Quand tu veux | Toi | Tu réponds dans la conversation : « OK pour tout sauf le 3, refais le 5 » |
-| Chaque jour 9h | GitHub (gratuit) | Publie le post validé du jour. Pas validé = pas publié |
+| Chaque jour 9h et 18h | GitHub (gratuit) | Publie le post validé du créneau. Pas validé = pas publié |
 
 ## Ce que contient le repo
 
 - `render/` — les 4 gabarits (grille, carte, hémicycle, comparaison), palettes Papier / Nuit,
   grain, logo, contrôles de composition. `python -m render posts/*.json --planche`
 - `scripts/fetch_candidates.py` — collecte du dimanche (actu + data.gouv, sans doublon)
-- `scripts/publish_daily.py` — publication Instagram du post validé du jour
+- `scripts/publish_daily.py` — publication Instagram des posts validés du jour (9h et 18h)
 - `GENERATION.md` — le cahier des charges que Claude suit chaque dimanche
-- `posts/` — un fichier par jour (`AAAA-MM-JJ.json` + `.jpg`), avec son statut
+- `posts/` — deux fichiers par jour (`AAAA-MM-JJ.json` à 9h, `AAAA-MM-JJ-soir.json` à 18h, + `.jpg`), avec son statut
 - `examples/` — 4 posts d'exemple (chiffres de démonstration)
 
 ## Mise en route (une seule fois)

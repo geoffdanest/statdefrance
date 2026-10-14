@@ -1,4 +1,4 @@
-"""Collecte hebdomadaire (GitHub Action, dimanche 17h).
+"""Collecte hebdomadaire (GitHub Action, dimanche 17h) — de quoi faire 14 posts.
 
 1. Lit les gros titres français de la semaine (flux RSS publics) et en tire des mots-clés.
 2. Cherche sur data.gouv.fr des jeux de données liés à ces mots-clés, puis complète
@@ -18,13 +18,13 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "candidates"
 API = "https://www.data.gouv.fr/api/1"
 UA = {"User-Agent": "statdefrance-bot/1.0 (+https://github.com)"}
-MAX_DATASETS = 40
-PER_THEME = 3                      # jeux max par thème
+MAX_DATASETS = 70            # 14 posts par semaine : large réserve
+PER_THEME = 5                      # jeux max par thème
 PER_KEYWORD = 2                    # jeux max par mot-clé d'actu
 MAX_AGE_DAYS = 4 * 365             # données mises à jour depuis moins de 4 ans
 TRUSTED_BADGES = {"public-service", "certified"}  # producteurs publics ou certifiés
 MAX_FILE = 12 * 1024 * 1024        # 12 Mo par fichier
-MAX_TOTAL = 160 * 1024 * 1024      # 160 Mo au total
+MAX_TOTAL = 250 * 1024 * 1024      # 250 Mo au total
 
 FEEDS = [  # titres d'actualité publics, utilisés uniquement comme mots-clés
     "https://www.francetvinfo.fr/titres.rss",
