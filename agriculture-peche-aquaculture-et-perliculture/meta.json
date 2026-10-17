@@ -1,0 +1,15 @@
+{
+  "dataset_id": "690ba547e068527bfd8ebca5",
+  "title": "Agriculture, pêche, aquaculture et perliculture",
+  "page": "https://www.data.gouv.fr/datasets/agriculture-peche-aquaculture-et-perliculture",
+  "organization": "Institut de la statistique de la Polynésie française",
+  "description": "Ce jeu de données présente une série temporelle d’indicateurs relatifs aux secteurs de l'agriculture, de la pêche, de l’aquaculture et de la perliculture en Polynésie française. Il comprend notamment :\n\n* l’évolution de la flotte palangrière active et de l’effort de pêche (tonnage / nombre d’embarcations / jours-de-pêche) ;\n* Production de coprah;\n* Surface agricole utilisée par type de culture;\n* Nombre d’élevages et d’animaux par subdivision;\n* l’évolution de la production commerciale par espèce (poids vif en tonnes) ;\n",
+  "resource_title": "Répartition par sexe des responsables d’exploitations agricoles par filière en Polynésie française en 2023",
+  "resource_url": "https://static.data.gouv.fr/resources/agriculture-peche-aquaculture-et-perliculture/20251118-202016/11406.csv",
+  "last_modified": "2025-11-18T20:20:17.169000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "agriculture",
+  "news": []
+}

@@ -1,0 +1,31 @@
+{
+  "dataset_id": "63872f28a3c9175973e743a5",
+  "title": "Manifestations sportives à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/manifestations-sportives-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "Cette liste recense les manifestations sportives organisées depuis 2019 au sein des équipements de la Ville d'Antibes, que les manifestations soient organisées par la Ville elle-même ou par des tiers (associations etc.). Pour la réutilisation du présent jeu de données, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l’information sous la forme suivante : « Source : Ville d’Antibes, disponible sur data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour] ». Merci.",
+  "resource_title": "antibes-animations-sportives.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/manifestations-sportives-a-antibes-juan-les-pins/20260728-095119/antibes-animations-sportives.csv",
+  "last_modified": "2026-07-28T09:51:19.749000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "manifestations",
+  "query": "manifestations",
+  "news": [
+    {
+      "title": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\"",
+      "link": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des dizaines de manifestations, des incidents dans les grandes villes... Le point sur la journée de mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN DIRECT, manifestations du 17 octobre : à Paris et dans les grandes villes de France, des cortèges calmes et des scènes d’affrontements avec les forces de l’ordre",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ]
+}

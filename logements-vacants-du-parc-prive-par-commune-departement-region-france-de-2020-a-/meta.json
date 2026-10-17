@@ -1,0 +1,15 @@
+{
+  "dataset_id": "61816c6e23197bb34835228e",
+  "title": "Logements vacants du parc privé par commune, département, région, France, de 2020 à 2026",
+  "page": "https://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026",
+  "organization": "Ministère de la Transition écologique",
+  "description": "**Contexte :**\nLe traitement LOVAC a été créé dans le cadre du [plan national de lutte contre les logements vacants](https://www.ecologie.gouv.fr/plan-national-lutte-contre-logements-vacants). Lancé en 2020, il vise notamment à outiller les collectivités et services déconcentrés dans le repérage et la caractérisation des logements vacants afin de proposer des solutions de remise sur le marché adaptées aux propriétaires concernés.\n\n[Les données LOVAC](https://doc-datafoncier.cerema.fr/doc/fiche_descriptive/lovac) alimentent [Zéro Logement Vacant](https://zerologementvacant.beta.gouv.fr/), le service publique numérique gratuit proposé par la Direction Générale de l'Aménagement, du Logement et de la Nature. Cet outil est destiné à accompagner les collectivités dans la mobilisation des propriétaires de logements structurellement vacants (vacants depuis plus de 2 ans) et du parc locatif privé en prévention de la vacance des passoires énergétiques ([loi Climat et résilience](https://www.ecologie.gouv.fr/plan-national-lutte-contre-logements-vacantshttps://www.ecologie.gouv.fr/politiques-publiques/location-gel-loyers-passoires-energetiques)).\n\n**Présentation du jeu de données :**\nLOVAC est une base de données fondée sur le [fichier 1767Biscom](<https://www.collectivites-locales.gouv.fr/files/finances-locales/Fiche descriptive 1767 bis com.pdf>) de la DGFiP,  croisé avec les [Fichiers Fonciers (FF)](https://doc-datafoncier.cerema.fr/doc/ff/) et [DV3F](https://doc-datafoncier.cerema.fr",
+  "resource_title": "Lovac_opendata_France.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/logements-vacants-du-parc-prive-par-commune-departement-region-france/20260625-163737/lovac-opendata-france26.csv",
+  "last_modified": "2026-06-25T16:37:37.802000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "logement",
+  "news": []
+}

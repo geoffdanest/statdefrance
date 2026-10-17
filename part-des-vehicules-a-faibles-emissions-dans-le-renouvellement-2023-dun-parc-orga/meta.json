@@ -1,0 +1,26 @@
+{
+  "dataset_id": "66ffa6a2598756b774500fe8",
+  "title": "Part des véhicules à faibles émissions dans le renouvellement 2023 d'un parc (organisation OFFICE PUBLIC DE L HABITAT DU DEPARTEMENT DE SEINE-MARITIME)",
+  "page": "https://www.data.gouv.fr/datasets/part-des-vehicules-a-faibles-emissions-dans-le-renouvellement-2023-dun-parc-organisation-office-public-de-l-habitat-du-departement-de-seine-maritime",
+  "organization": "OFFICE PUBLIC DE L HABITAT DU DEPARTEMENT DE SEINE-MARITIME",
+  "description": "Ce jeu de données répond au spécifications du schéma \"Part des véhicules à faibles émissions dans le renouvellement d'un parc\" disponible sur le site [schema.data.gouv.fr](https://schema.data.gouv.fr/etalab/schema-vehicules-faibles-emissions-renouvellement-parc)",
+  "resource_title": "donnees-vehicules-faibles-emissions-renouvellement-parc-office-public-de-l-habitat-du-departement-de-seine-maritime.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/part-des-vehicules-a-faibles-emissions-dans-le-renouvellement-dun-parc-organisation-office-public-de-l-habitat-du-departement-de-seine-maritime-1/20250925-101832/data.csv",
+  "last_modified": "2025-09-25T10:18:32.511000+00:00",
+  "license": "notspecified",
+  "origin": "actu",
+  "label": "office",
+  "query": "office",
+  "news": [
+    {
+      "title": "Une antenne de l'office de tourisme de Lyon saccagée et incendiée en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/economie/greve/une-antenne-de-l-office-de-tourisme-de-lyon-a-ete-saccagee-et-incendiee-en-marge-de-la-mobilisation-du-17-octobre_8241787.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Mobilisation du 17 octobre : Une antenne de l’office de tourisme de Lyon saccagée et incendiée",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-lyon/4255204-20261017-mobilisation-17-octobre-antenne-office-tourisme-lyon-saccagee-incendiee?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

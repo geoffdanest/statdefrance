@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5be2c6a8634f4123b9b81a76",
+  "title": "emploi salarié au régime agricole",
+  "page": "https://www.data.gouv.fr/datasets/emploi-salarie-au-regime-agricole",
+  "organization": "Mutualité Sociale Agricole",
+  "description": "Les contrats ayant cessé avant la fin de l’année civile sont exclus du champ. Le contrat de travail peut être réalisé pour une journée de travail au minimum. Un salarié peut avoir plusieurs emplois ou contrats.\nLes emplois en équivalent temps plein sont obtenus en divisant le nombre d’heures rémunérées par l’horaire légal ou conventionnel en vigueur dans l’établissement employeur.\nSource : SISAL – Système d’information des salariés agricoles",
+  "resource_title": "cotas_emploi_2024.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/emploi-salarie-au-regime-agricole/20260106-135126/cotas-emploi-2024.csv",
+  "last_modified": "2026-01-06T13:51:26.368000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "emploi",
+  "news": []
+}

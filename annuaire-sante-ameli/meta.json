@@ -1,0 +1,15 @@
+{
+  "dataset_id": "68e51e04c4258097a201a3cc",
+  "title": "Annuaire santé Ameli",
+  "page": "https://www.data.gouv.fr/datasets/annuaire-sante-ameli",
+  "organization": "Caisse nationale de l'Assurance Maladie",
+  "description": "<br />\n\n**Jeu de données du nouvel Annuaire santé Ameli**\n\nL'annuaire santé Ameli (<https://annuairesante.ameli.fr/>) répond à la mission générale d’information des assurés en vue notamment de faciliter l’accès aux soins, confiée à l'Assurance Maladie en application de l’article L.162-1-11 du Code de la Sécurité sociale. Il permet de trouver les coordonnées des professionnels de santé exerçant à titre libéral et celles des centres de santé. Il permet également de connaître le secteur conventionnel auquel appartient un professionnel de santé, son option tarifaire, s’il accepte ou non la carte vitale, s’il prend en charge ou non l’application carte Vitale.\n\nLe présent jeu de données contient des informations à caractère personnel relatives aux professionnels de santé. Il est publié conformément aux dispositions de [l'article L. 1461-2 du Code de la santé publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072665\\&idArticle=LEGIARTI000031923894\\&dateTexte=\\&categorieLien=cid). La réutilisation de ces données est soumise au respect de la réglementation relative à la protection de la vie privée.\n\n**Note** : le jeu de données partagé sur cette page reflète la nouvelle version de l’annuaire santé Ameli lancée récemment.\n\nLe périmètre du nouvel annuaire santé diffère de l’ancien annuaire : il ne contient plus les tarifs des actes les plus couramment pratiqués par les professionnels de santé, ni leurs horaires de cabinets. De plus, le périmètre des éta",
+  "resource_title": "Liste des centres de santé (CDS) de l'Annuaire santé Ameli",
+  "resource_url": "https://static.data.gouv.fr/resources/annuaire-sante-ameli/20261012-023120/liste-cds-20261012-043104.csv",
+  "last_modified": "2026-10-12T02:31:21.062000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

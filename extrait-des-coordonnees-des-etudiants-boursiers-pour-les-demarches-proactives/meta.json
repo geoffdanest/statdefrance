@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6a2984c099d1cb741398dfce",
+  "title": "Extrait des coordonnées des étudiants boursiers pour les démarches proactives",
+  "page": "https://www.data.gouv.fr/datasets/extrait-des-coordonnees-des-etudiants-boursiers-pour-les-demarches-proactives",
+  "organization": "Direction interministérielle du numérique",
+  "description": "Cette page décrit les **données contenues dans les** **fichiers transmis par le \"Générateur de fichiers de contact pour la proactivité\"**, un outil conçu pour les administrations souhaitant informer, de manière proactive, les étudiants boursiers sur des prestations ou des avantages qui leur sont proposés.\\\n\\\nCes informations proviennent du centre national des œuvres universitaires et scolaires (Cnous) qui a pour mission d’accompagner les étudiants dans leur vie quotidienne, notamment en attribuant des bourses sur critères sociaux, en gérant les logements étudiants, les restaurants universitaires et les aides financières.\n\nLes données transmises dans les fichiers sont un extrait des informations disponibles dans le système du Cnous. Le fichier est conçu sur mesure pour les administrations, en fonction de leur périmètre géographique et des échelons de bourse ciblés par leur dispositif d'aide. L'extrait transmis contient alors la liste des coordonnées des étudiants boursiers concernés.\\\n**La direction interministérielle du numérique (DINUM) est chargée par le Cnous de la diffusion de ces extraits de données**, via le \"Générateur de fichiers de contact pour la proactivité\".\n\n### Paramètres requis constituer l'extrait :\n\nLe fichier est généré exclusivement pour une administration souhaitant mettre en œuvre une démarche proactive au bénéfice des étudiants boursiers. Le fichier est donc conçu sur mesure à partir des informations suivantes :\n\n* code COG de la commune ou des communes ",
+  "resource_title": "Exemple de fichier transmis",
+  "resource_url": "https://static.data.gouv.fr/resources/coordonnees-des-etudiants-boursiers-pour-les-demarches-proactives/20260616-091520/dataset-example-coordonnees-etudiants-boursiers-demarches-proactives.csv",
+  "last_modified": "2026-06-16T09:19:01.374000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "étudiants",
+  "news": []
+}

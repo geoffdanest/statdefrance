@@ -1,0 +1,31 @@
+{
+  "dataset_id": "57fce28ac751df0e4079df72",
+  "title": "Données de rapportage de la saison balnéaire ",
+  "page": "https://www.data.gouv.fr/datasets/donnees-de-rapportage-de-la-saison-balneaire-1",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "description": "Le fichier Excel consultable sur cette page comporte les données du contrôle sanitaire exercé par les Agences régionales de santé, vis-à-vis des paramètres microbiologiques *Escherichia coli* et entérocoques intestinaux, relatives à chaque site de baignade ayant fait l'objet d'un rapportage européen au titre de la Directive 2006/7/CE du Parlement européen et du Conseil du 15 février 2006 concernant la gestion de la qualité des eaux de baignade et abrogeant la directive 76/160/CE, et d'un classement des eaux de baignade depuis 2015.\n\nLes fichiers mis en ligne depuis 2020 concernent les données suivantes :\n\n* liste des sites de baignade (informations générales, origine de l'eau, coordonnées géographiques, etc.);\n\n* caractéristiques du site de baignade (classement, lien vers le document de synthèse du profil de baignade, etc.) ;\n\n* informations sur la saison balnéaire et les événements survenus en cours de saison (interdiction de baignade, pollution à court terme, situation anormale, etc.) ;\n\n* informations sur les résultats d'analyses.\n",
+  "resource_title": "saison-balneaire-2026-liste-des-sites-de-baignade.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-de-rapportage-de-la-saison-balneaire-1/20260709-082704/liste-des-sites-de-baignade-saison-2026-opendata-v1.csv",
+  "last_modified": "2026-07-09T08:27:04.837000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "saison",
+  "query": "saison",
+  "news": [
+    {
+      "title": "Déjà confronté aux mobilisations lycéennes et contre la vie chère, le gouvernement craint \"la saison des colères agricoles\"",
+      "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/deja-confronte-aux-mobilisations-lyceennes-et-contre-la-vie-chere-le-gouvernement-craint-la-saison-des-coleres-agricoles_8220625.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "NBA : Victor Wembanyama est chaud bouillant, et pas que pour soutenir le mouvement des lycéens, avant le début de saison",
+      "link": "https://www.20minutes.fr/sport/basketball/nba/4255158-20261017-nba-victor-wembanyama-chaud-bouillant-soutenir-mouvement-lyceens-avant-debut-saison?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "EN IMAGES. « Star Academy » : Qui sont les candidats de la nouvelle saison ?",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4254189-images-star-academy-candidats-nouvelle-saison?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

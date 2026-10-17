@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6536661882301752417a278d",
+  "title": "Recensement de la population - Fichiers détail : Individus localisés au canton-ou-ville ",
+  "page": "https://www.data.gouv.fr/datasets/recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-ville",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "description": "Données localisées au canton-ou-ville (et à l'IRIS, pour les IRIS d'au moins 200 habitants) décrivant les caractéristiques de chaque personne recensée, celles de son ménage, ainsi que celles de sa résidence principale.\nLe fichier national individus localisés au canton-ou-ville est disponible au format Parquet.\n\n**Champ** : tous individus.\n\n**[Lien vers le fichier détail des logements ordinaires](https://www.data.gouv.fr/fr/datasets/recensement-de-la-population-fichiers-detail-logements-ordinaires/)**\n\n**[Retrouvez toute la documentation sur insee.fr](https://www.insee.fr/fr/statistiques/8205966)**",
+  "resource_title": "dictionnaire-variables-indcvi-2021.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-ville-2020-1/20250211-165315/varmod-indcvi-2021.csv",
+  "last_modified": "2025-02-11T16:54:39.044000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "population",
+  "news": []
+}

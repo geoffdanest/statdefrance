@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5d12ee8206e3e762c0c89a4c",
+  "title": "Répertoire des Musées de France : base Muséofile",
+  "page": "https://www.data.gouv.fr/datasets/musees-de-france-base-museofile",
+  "organization": "Ministère de la Culture",
+  "description": "Muséofile répertorie les « [Musées de France](https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-musees-de-france/qu-est-ce-qu-un-musee-de-france) » (plus de 1 200) au sens du Code du Patrimoine\n\nPour chaque « Musée de France » sont indiqués, notamment : le nom officiel, les adresses postale et Internet, le numéro de téléphone, les informations de géolocalisation, un bref historique du musée et de ses collections, les principales thématiques des collections…\n\nLes données de la base Muséofile sont liées à celles des bases Joconde catalogue collectif des collections des musées de France, et Mérimée.\n\nVous pouvez en savoir plus sur la rubrique thématique [\"Musées\"](https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-musees-de-france/museofile-le-repertoire-des-musees-de-france) du site du ministère de la culture.\n\nListe des codes et libellés champs :\\\n\\\nREF : Identifiant du musée ; \\\nNOMOFF : Nom officiel du musée ; \\\nAUTNOM remplace \\\nNOMUSAGE : Nom d’usage du musée ; \\\nADRL1\\_M : Adresse (ligne 1) ; \\\nLIEU\\_M : Adresse (ligne 2) ; \\\nCP\\_M : Code Postal ; \\\nVILLE\\_M : Ville ; \\\nDPT : Département ; \\\nREGION : Région ; \\\nURL\\_M : Adresse du site ou de la page du site internet ; \\\nTEL\\_M : Téléphone générique du musée ; \\\nCATEG : Catégorie spécifique de musée ; \\\nDOMPAL : Principaux domaines thématiques des collections ; \\\nHIST : Histoire de la collection ; ATOUT : Atouts de la collection ; \\\nTHEMES : Détails des domaines thématiques des co",
+  "resource_title": "musees-de-france-base-museofile.csv",
+  "resource_url": "https://ministere-culture.s3.sbg.io.cloud.ovh.net/POP/museofile.csv",
+  "last_modified": "2026-10-12T01:02:33+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "musées",
+  "news": []
+}

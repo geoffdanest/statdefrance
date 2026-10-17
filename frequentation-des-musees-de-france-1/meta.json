@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5af120e7b595087cfabcde82",
+  "title": "Fréquentation des Musées de France",
+  "page": "https://www.data.gouv.fr/datasets/frequentation-des-musees-de-france-1",
+  "organization": "Ministère de la Culture",
+  "description": "Fréquentation totale, payante et gratuite dans les Musées de France de 2001 à 2022.\n\n2001 : Les musées n'avaient pas encore l'appellation. Ils avaient le statut de musée classé ou contrôlé.  \n2002 : Loi musée de janvier 2002. Les musées nationaux et les musées classés sont devenus automatiquement des musées de France.  \n2003 : Les musées contrôlés sont devenus des musées de France - Février 2003\n\nLa colonne \"Note\": signale : \"F\" : le musée est fermé ; \"NC\" : la fréquentation n'a pas été communiquée ; \"R\" : retrait de l'appellation \"Musées de France\".\n\n**_Attention_** : Certains sites communiquent une fréquentation cumulée pour l’ensemble des musées du site. La colonne « Observations » contient les références des musées dont la fréquentation est cumulée (cf. colonne « Réf du musée »). \n\n**A partir de 2019, l'identifiant (ID MUSEOFILE) de la[base Muséofile](https://data.culture.gouv.fr/explore/dataset/musees-de-france-base-museofile) a été ajouté**.  \n\n\n[Pour en savoir plus](https://www.culture.gouv.fr/Thematiques/Etudes-et-statistiques/Publications) sur la fréquentation des patrimoines.",
+  "resource_title": "frequentation-des-musees-de-france.csv",
+  "resource_url": "https://ministere-culture.s3.sbg.io.cloud.ovh.net/FREQ_MUSEES/ENTREES_ET_CATEGORIES_DE_PUBLIC.csv",
+  "last_modified": "2026-10-15T15:13:31+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "musées",
+  "news": []
+}

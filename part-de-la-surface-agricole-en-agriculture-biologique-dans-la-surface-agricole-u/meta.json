@@ -1,0 +1,15 @@
+{
+  "dataset_id": "67cad6ef9c8ad4fe75b8b7de",
+  "title": "Part de la surface agricole en agriculture biologique dans la surface agricole utile",
+  "page": "https://www.data.gouv.fr/datasets/part-de-la-surface-agricole-en-agriculture-biologique-dans-la-surface-agricole-utile",
+  "organization": "Ecolab",
+  "description": "L'indicateur mesure le pourcentage % de surface agricole utile (SAU) en agriculture biologique (agriculture biologique certifiée ou en conversion) par rapport à la SAU totale.",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/part-de-la-surface-agricole-en-agriculture-biologique-dans-la-surface-agricole-utile/20260908-114858/description-des-champs.csv",
+  "last_modified": "2026-09-08T11:48:59.941000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "agriculture",
+  "news": []
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5e74ecf52eb7514f2d3b8845",
+  "title": "Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 ",
+  "page": "https://www.data.gouv.fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
+  "organization": "Santé publique France",
+  "description": "### INFORMATION IMPORTANTE\n\n**Ce jeudi 4 Novembre 2021**, le format de la variable **sursaud_cl_age_corona** sera modifié :\n\n**Nouveau codage :**\n0 = \"Tous âges\"\n1 = \"0-4 ans\" \n2 = \"5-14 ans\"\n3 = \"15-44 ans\"\n4 = \"45-64 ans\"\n5 = \"65-74 ans\"\n6 = \"75 ans ou plus\"\n\n**Ancien actuel :**\n0 = \"Tous âges\"\nA = \"moins de 15ans\" \nB = \"15-44 ans\"\nC = \"45-64 ans\"\nD = \"65-74 ans\"\nE = \"75 ans ou plus\"\n\n\n### Les actions de Santé publique France\n\nSanté publique France a pour mission d'améliorer et de protéger la santé des populations. Durant la crise sanitaire liée à l'épidémie du COVID-19, Santé publique France se charge de surveiller et comprendre la dynamique de l'épidémie, d'anticiper les différents scénarii et de mettre en place des actions pour prévenir et limiter la transmission de ce virus sur le territoire national.\n\n### Description du jeu de données\n\nDeux fichiers sont proposés :\n\n- **Les données quotidiennes de SOS médecins et des urgences hospitalières par département, sexe et tranche d’âge des patients** : nombre de passages aux urgences pour suspicion de COVID-19, nombre total de passages aux urgences avec un diagnostic médical renseigné, nombre d’hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, nombre total d’actes médicaux SOS Médecins pour suspicion de COVID-19, nombre total d’actes médicaux SOS Médecins avec un diagnostic médical renseigné.\n\n- **Les données quotidiennes de SOS médecins et des urgences hospitalières par région, sexe et tranches d’âg",
+  "resource_title": "sursaud-covid-quot-reg-2025-01-01-18h00.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/20250101-170007/sursaud-covid-quot-reg-2025-01-01-18h00.csv",
+  "last_modified": "2025-01-01T18:00:08.067000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "médecins",
+  "news": []
+}

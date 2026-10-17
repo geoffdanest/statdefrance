@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6834629c4aab22399dba4b3f",
+  "title": "Bibliothèque Départementale des Côtes d'Armor: identifiants des bibliothèques",
+  "page": "https://www.data.gouv.fr/datasets/bibliotheque-departementale-des-cotes-darmor-identifiants-des-bibliotheques-1",
+  "organization": "Département des Côtes d'Armor",
+  "description": "Retouver ici la liste des identifiants des bibliothèque utilisés dans les bases de données, et correspondance avec les noms de communes et les noms de bibliothèques.\nIl permet une aide à l'exploitation des données de type \"[Prêt des documents par commune](https://datarmor.cotesdarmor.fr/datasets/ok-402-bca-pret-par-commune)\". \n\nCet identifiant correspond à 7 caractères et est construit sous la forme d'un préfixe (le chiffre 10) associé au numéro INSEE de la commune.",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://datarmor.cotesdarmor.fr/data-fair/api/v1/datasets/2025-402-bca-correspondance-numero-bibliotheque/raw",
+  "last_modified": "2026-01-29T21:29:27+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "bibliothèques",
+  "news": []
+}

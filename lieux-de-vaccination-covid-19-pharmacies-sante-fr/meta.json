@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6054c74f975004ce3df81202",
+  "title": "Lieux de vaccination Covid-19 (pharmacies) - Santé.fr",
+  "page": "https://www.data.gouv.fr/datasets/lieux-de-vaccination-covid-19-pharmacies-sante-fr",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "description": "Le site web [Santé.fr](https://www.sante.fr/) recense sur l’ensemble du territoire les centres de vaccination Covid et pharmacies réalisant la vaccination. \n\n**Jeu de données** \n[Santé.fr](https://www.sante.fr/) propose ses données relatives aux pharmacies déclarées dans le portail de déclaration des pharmacies comme réalisant la vaccination contre la Covid-19.\n\nRemarque : Les centres de vaccination contre la covid-19 sont déjà exposés sur data.gouv.fr à l’adresse suivante : https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/\n\nLes données sont publiées sur cette page une fois par jour (jours ouvrés uniquement). Il n'y a pas toujours une mise à jour ou une correction, seule la dernière version est disponible.\n\n**Nouveautés août 2021 :** ajout des types de vaccins proposés et des coordonnées géographiques",
+  "resource_title": "santefr-lieux-vaccination-covid-pharmacies.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/lieux-de-vaccination-covid-19-pharmacies-sante-fr/20261015-210042/santefr-lieux-vaccination-covid-pharmacies.csv",
+  "last_modified": "2026-10-15T21:00:45.144000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

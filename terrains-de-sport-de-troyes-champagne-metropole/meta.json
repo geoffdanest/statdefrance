@@ -1,0 +1,15 @@
+{
+  "dataset_id": "66b486a15961f605b3a57ad1",
+  "title": "Terrains de sport de Troyes Champagne Métropole",
+  "page": "https://www.data.gouv.fr/datasets/terrains-de-sport-de-troyes-champagne-metropole",
+  "organization": "Troyes Champagne Métropole",
+  "description": "**Définition**:\nÉquipement sportif de plein air.\n\n**Sélection** : \n**Sont retenus** :\n- les plate-formes multi-sports, les terrains d’entraînement, les terrains de football, les terrains de rugby, les stades, les petits terrains de sports référencés par le Ministère des Sports,\n- les pistes d’autodrome, les circuits auto-moto,\n- les hippodromes (piste), les vélodromes (piste), les cynodromes (piste), les grands stades d’athlétisme (piste),\n- les terrains de tennis,\n- les bassins de natation à l’air libre, les piscines découvertes.\n\n\nPour la liste des variables, voir pages 110 à 116 du document \"descriptif de contenu BD TOPO version 3.0\" : [https://geoservices.ign.fr/sites/default/files/2021-07/DC_BDTOPO_3-0.pdf]\n\n**INFORMATION** : LE JEU DE DONNÉES EST DISPONIBLE EN TROIS FORMATS (*.XLSX, *.CSV ET *.GPKG). LE NOMBRE D'ENREGISTREMENTS EST DE L'ORDRE DE : 325",
+  "resource_title": "c-1-7.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/terrains-de-sport-de-troyes-champagne-metropole/20240808-084949/c-1-7.csv",
+  "last_modified": "2024-08-08T10:49:50.086000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}

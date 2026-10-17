@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5c3538da9ce2e7459c6d765a",
+  "title": "Les bibliothèques des collectivités territoriales : adresses et données d’activité",
+  "page": "https://www.data.gouv.fr/datasets/adresses-des-bibliotheques-publiques-2",
+  "organization": "Ministère de la Culture",
+  "description": "**Données des bibliothèques des collectivités territoriales au 05/06/2025.**\n\n  \nCe jeu de données rassemble les adresses des bibliothèques municipales, intercommunales et départementales, ainsi que les principaux indicateurs d’activité de ces établissements, dits « chiffre-clés » pour l’année 2023. Les informations disponibles dans ce jeu de données sont issues de l’enquête statistique annuelle conduite par le Service du Livre et de la Lecture du Ministère de la Culture pour l’année considérée, en partenariat avec les bibliothèques départementales. Des lacunes peuvent subsister. \n\nLes unités utilisées sont les suivantes : Pour l’indicateur de « Surface », l’unité est le mètre carré. \n\nL’amplitude horaire est égale au nombre d’heures d’ouverture hebdomadaire habituel du lieu de lecture. Les temps de travail sont mesurés en « Équivalent temps plein ». Suite au changement de modèle de la collecte des données d’activités des bibliothèques, survenu en 2020, certains indicateurs peuvent être remplis au niveau du lieu de lecture ou au niveau du réseau, ce qui peut expliquer certaines lacunes.",
+  "resource_title": "adresses-des-bibliotheques-publiques.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/adresses-des-bibliotheques-publiques-2/20250827-130718/adresses-des-bibliotheques-publiques.csv",
+  "last_modified": "2025-08-27T13:07:19.762000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "bibliothèques",
+  "news": []
+}

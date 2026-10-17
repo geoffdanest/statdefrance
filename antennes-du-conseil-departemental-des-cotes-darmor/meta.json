@@ -1,0 +1,26 @@
+{
+  "dataset_id": "56b1bb5888ee38694a81d141",
+  "title": "Antennes du Conseil Départemental des Côtes d'Armor",
+  "page": "https://www.data.gouv.fr/datasets/antennes-du-conseil-departemental-des-cotes-darmor",
+  "organization": "Département des Côtes d'Armor",
+  "description": "Coordonnées des différents sites du Conseil Départemental des Côtes d'Armor\n\n",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://datarmor.cotesdarmor.fr/data-fair/api/v1/datasets/antennes-du-conseil-departemental-des-cotes-darmor/raw",
+  "last_modified": "2026-01-29T20:36:16+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "antenne",
+  "query": "antenne",
+  "news": [
+    {
+      "title": "Une antenne de l'office de tourisme de Lyon saccagée et incendiée en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/economie/greve/une-antenne-de-l-office-de-tourisme-de-lyon-a-ete-saccagee-et-incendiee-en-marge-de-la-mobilisation-du-17-octobre_8241787.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Mobilisation du 17 octobre : Une antenne de l’office de tourisme de Lyon saccagée et incendiée",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-lyon/4255204-20261017-mobilisation-17-octobre-antenne-office-tourisme-lyon-saccagee-incendiee?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "635a0251ae37fbcc1290f691",
+  "title": "Emploi : Professions culturelles par département",
+  "page": "https://www.data.gouv.fr/datasets/emploi-professions-culturelles-par-departement",
+  "organization": "Ministère de la Culture",
+  "description": "Part des actifs exerçant une profession culturelle dans l’ensemble des actifs du département.\n\nLa population concernée rassemble les actifs en emploi, qu'ils soient salariés ou indépendants. \n\nAu sein de la nomenclature des professions et des catégories socioprofessionnelles de l'Insee, sont retenues comme professions culturelles :  \n\\- architectes  \n\\- cadres et techniciens de l'archivage, de la conservation et de la documentation  \n\\- professions des arts visuels et des métiers d'art  \n\\- professions du spectacle  \n\\- professions littéraires  \n\\- professeurs d'art (hors établissements scolaires)\n\nDonnées 2017",
+  "resource_title": "professions-culturelles_departements_2017.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/emploi-professions-culturelles-par-departement/20250827-133151/professions-culturelles-departements-2017.csv",
+  "last_modified": "2025-08-27T13:31:52.475000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "emploi",
+  "news": []
+}

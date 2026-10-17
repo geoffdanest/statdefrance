@@ -1,0 +1,10 @@
+Colonne,Description
+date_mesure,Dimension temporelle de la mesure. La date fait référence  à une période écoulée et non un instant précis.
+geocode_departement,Code officiel géographique départemental selon les données de l'INSEE du 1er janvier de l'année en cours. https://www.insee.fr/fr/information/2560452
+libelle_departement,Libellé du département selon la nomenclature de l'INSEE. https://www.insee.fr/fr/information/2560452
+geocode_region,Code officiel géographique régional selon les données de l'INSEE du 1er janvier de l'année en cours. https://www.insee.fr/fr/information/2560452
+libelle_region,Libellé de la région selon la nomenclature de l'INSEE. https://www.insee.fr/fr/information/2560452
+substance,Substance achetée
+biocontrole,Boolean permettant de déterminer si la substance est une substance active de biocontrole
+danger_substance,Danger de la substance
+valeur,Valeur de l'indicateur en t : Quantité totale de substances actives (QSA) achetées hors usage en agriculture biologique et hors biocontrôle

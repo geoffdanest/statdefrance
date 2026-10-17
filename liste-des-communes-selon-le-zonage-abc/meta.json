@@ -1,0 +1,15 @@
+{
+  "dataset_id": "656715871172d08f8f680063",
+  "title": "Liste des communes selon le zonage ABC",
+  "page": "https://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-abc",
+  "organization": "Ministère de la Transition écologique",
+  "description": "Défini à l’article D304-1 du code de la construction et de l’habitation, le zonage conventionnellement appelé ABC effectue un « classement des communes du territoire national en zones géographiques en fonction du déséquilibre entre l'offre et de la demande de logements ». Par ordre décroissant de tension, les zones géographiques sont : Abis, A, B1, B2 et C.\n\nLe zonage ABC est utilisé pour plus d'une vingtaine de dispositions, parmi lesquelles :\n\n* le logement locatif intermédiaire (LLI) pour les investisseurs institutionnels: périmètre géographique d'éligibilité et plafonds de loyers et de ressources des locataires.\n\n* le dispositif Denormandie : plafonds de loyers et de ressources des locataires.\n\n* le dispositif Loc’Avantages : plafonds de ressources des locataires.\n\n* le dispositif Pinel : périmètre géographique d'éligibilité et plafonds de loyers et de ressources des locataires.\n\n* le prêt social location-accession (PSLA) : plafonds de ressources, de loyers et de prix de vente.\n\n* le prêt locatif social (PLS) : plafonds de loyer.\n\n* le bail réel solidaire (BRS) : plafonds de prix de cession des droits réels et de ressources des locataires.\n\n* le prêt à taux zéro (PTZ) dans le neuf et l’ancien : périmètre géographique d'éligibilité du PTZ dans l'ancien et plafonds de ressources et plafonds de prix d'opération du PTZ dans le neuf et l'ancien.\n\n* la mobilisation du foncier public : taux de décote de cession\n\nPlus d'informations sur le zonage ABC [à ce lien](https://www.ecolo",
+  "resource_title": "Liste ensemble des communes - Zonage ABC en vigueur 26 juin 2026.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/liste-des-communes-selon-le-zonage-abc/20260703-091314/liste-ensemble-des-communes-zonage-abc-en-vigueur-26-juin-2026.csv",
+  "last_modified": "2026-07-03T09:13:15.092000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

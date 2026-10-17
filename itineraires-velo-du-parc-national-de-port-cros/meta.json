@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6aba3ca57d893e3869d17f62",
+  "title": "Itinéraires vélo du Parc national de Port-Cros",
+  "page": "https://www.data.gouv.fr/datasets/itineraires-velo-du-parc-national-de-port-cros",
+  "organization": "Parc national de Port-Cros",
+  "description": "**Description**\n\nCes itinéraires vélos sont publiées sur le site [Destination Parc national de Port-Cros Baie des îles d'Or.](https://destination.portcros-parcnational.fr/)\\\nLes tracés ont été réalisés à partir de la BD TOPO 2011 de l'IGN.\n\n**Champs du jeu de données :**\n\n* id: Identifiant unique de l'itinéraire\n* nom : Nom de l'itinéraire\n* secteur : Nom du secteur du Parc sur lequel se trouve la randonnée\n* url : lien url vers la fiche Géotrek\n* incendie : Itinéraire fermé en cas de fermeture de massif.\n",
+  "resource_title": "pnpc_itineraires_velo.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/itineraires-velo-du-parc-national-de-port-cros/20260928-100837/pnpc-itineraires-velo.csv",
+  "last_modified": "2026-09-28T10:08:38.477000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "vélo",
+  "news": []
+}

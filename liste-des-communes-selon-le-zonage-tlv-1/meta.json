@@ -1,0 +1,15 @@
+{
+  "dataset_id": "657c88da2947e13be0597058",
+  "title": "Liste des communes selon le zonage TLV",
+  "page": "https://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-tlv-1",
+  "organization": "Ministère de la Transition écologique",
+  "description": "Défini à l’article 232 du code général des impôts, le zonage de la taxe sur les logements vacants (TLV) a été créé en 2013 puis refondu le 25 août 2023 dans l’objectif de répondre aux problématiques soulevées par le phénomène d’attrition des résidences permanentes dans les zones touristiques.\n\nLe zonage TLV classe les communes en deux catégories : tendues et non-tendues.\n\nLes zones tendues sont définies selon deux cas :\n\n1. Les communes appartenant à une zone d’urbanisation continue (UU : unités urbaines, au sens de l’Insee) de plus de 50 000 habitants où existe un déséquilibre marqué entre l’offre et la demande de logements, entraînant des difficultés sérieuses d’accès au logement sur l’ensemble du parc résidentiel existant.\n\n2. Les communes ne respectant pas les conditions prévues au 1. où il existe un déséquilibre marqué entre l'offre et la demande de logements entraînant des difficultés sérieuses d'accès au logement sur l'ensemble du parc résidentiel existant, caractérisé notamment par un taux élevé de résidences secondaires et des prix immobiliers et des loyers élevés dans le parc privé. Il s'agit des « communes tendues et touristiques ».\n\nLe zonage TLV est utilisé pour plus d'une vingtaine de dispositions, parmi lesquelles :\n\n* la taxe sur logements vacants (TLV),\n\n* la taxe d’habitation sur les logements vacants (THLV),\n\n* la majoration de la taxe d’habitation sur les résidences secondaires (THRS),\n\n* l’encadrement des loyers,\n\n* le plafonnement des honoraires des prof",
+  "resource_title": "Zonage TLV",
+  "resource_url": "https://static.data.gouv.fr/resources/liste-des-communes-selon-le-zonage-tlv-1/20251230-094759/zonage-tlv-decret-22-dec-2025.csv",
+  "last_modified": "2025-12-30T09:48:00.475000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

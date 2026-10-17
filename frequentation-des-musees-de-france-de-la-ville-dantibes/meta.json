@@ -1,0 +1,15 @@
+{
+  "dataset_id": "63983cea9ced6d9c098aacac",
+  "title": "Fréquentation des Musées de France de la Ville d'Antibes",
+  "page": "https://www.data.gouv.fr/datasets/frequentation-des-musees-de-france-de-la-ville-dantibes",
+  "organization": "Ville d'Antibes",
+  "description": "Fréquentation totale, payante et gratuite des Musées de France de la Ville d’Antibes, à savoir le musée Picasso et le musée d’Archéologie, et ce depuis 2001.\nCe jeu, extrait de la plateforme de données ouvertes du ministère de la Culture pour les données courant de 2001 à 2020, a été complété pour l’année 2021 par la Direction des Musées de la ville d’Antibes. Une précision a également été apportée, s’agissant du seul musée Picasso, pour les années 2006 et 2007 au cours desquelles une importante campagne de rénovation a eu lieu.\n\nPour la réutilisation du présent jeu, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l'information sous la forme suivante : « Source : Ville d’Antibes, disponible sur data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour] ». Merci.\n",
+  "resource_title": "antibes-frequentation-musees-france.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/frequentation-des-musees-de-france-de-la-ville-dantibes/20260121-104904/antibes-frequentation-musees-france.csv",
+  "last_modified": "2026-01-21T10:49:06.329000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "musées",
+  "news": []
+}

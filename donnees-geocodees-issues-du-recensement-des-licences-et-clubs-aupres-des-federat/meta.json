@@ -1,0 +1,15 @@
+{
+  "dataset_id": "53699ebba3a729239d205f58",
+  "title": "Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports",
+  "page": "https://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports",
+  "organization": "Institut national de la jeunesse et de l’éducation populaire",
+  "description": "Le recensement annuel des licences auprès des fédérations sportives agréées par le ministère en charge des sports permet de mesurer le niveau et l’évolution dans le temps de la pratique sportive encadrée. Ces statistiques fournissent un éclairage pour les politiques publiques de développement du sport, tant au niveau national que territorial.\n**Il s'agit d'un recensement au lieu d'habitation de la personne et non au lieu de pratique.**\n\nLes données issues du recensement sont dans un second temps **géocodées par l'Insee** pour la **France (hors Mayotte)**, afin de pouvoir communiquer ces fichiers au niveau communal.\n\nLes données ne sont pas disponibles pour l'ensemble des fédérations. Un certain nombre d'entre elles ne disposaient pas de données totalement géolocalisables à la commune permettant une exploitation exhaustive.\nLes données géocodées ont donc été traitées afin de pouvoir communiquer une _**estimation**_ du nombre de licences annuelles par commune et par fédération.\n\nLes données du millésime N correspondent à la saison N-1/N ou à l'année civile N selon le fonctionnement des fédérations (ex : lic-data-2023 est une répartition des licences de la saison 2022/2023 ou de l'année 2023).\n\n**A partir de 2019**, certains changements ont été opérés dans les fichiers transmis:\n\n-Niveau de précision commune-QPV et non plus commune\n-Tranches d'âge du recensement des licences et non du recensement quinquennal\n-Données de population non inclues dans le fichier\n-Distinction données",
+  "resource_title": "clubs-data-2018.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports/20210618-174537/clubs-data-2018.csv",
+  "last_modified": "2021-06-18T17:49:39.684000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}

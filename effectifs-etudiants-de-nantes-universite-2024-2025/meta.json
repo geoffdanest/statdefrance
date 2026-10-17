@@ -1,0 +1,15 @@
+{
+  "dataset_id": "694527a76d1022dd2fb85fb7",
+  "title": "Effectifs étudiants de Nantes Université 2024-2025",
+  "page": "https://www.data.gouv.fr/datasets/effectifs-etudiants-de-nantes-universite-2024-2025",
+  "organization": "Nantes Université",
+  "description": "Ce jeu de données « effectifs étudiants de Nantes Université 2024-2025» s’appuie sur les effectifs des remontées « SISE\\* Inscriptions » au ministère au 15 janvier de chaque année universitaire. Les effectifs pris en compte sont ceux des étudiants en inscription principale hors doubles inscriptions (CPGE, UCO, formations paramédicales (IFSI, kiné, pédicure-podologue, IADE) et dossiers VAE). Cela permet de visualiser réellement le volume d’étudiants inscrits administrativement et qui suivent des enseignements à Nantes Université. La notion d'inscription principale permet de dénombrer des étudiants en personne physique (sans double compte au sein d'un même établissement).\n",
+  "resource_title": "003_effectifs_etudiant_24-25_NantesU_bdd.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/effectifs-etudiants-de-nantes-universite-2024-2025/20251219-102342/003-effectifs-etudiant-24-25-nantesu-bdd.csv",
+  "last_modified": "2025-12-19T10:23:44.162000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "étudiants",
+  "news": []
+}

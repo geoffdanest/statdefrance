@@ -1,0 +1,15 @@
+{
+  "dataset_id": "6abd223ad8aba7d3653ab90f",
+  "title": "Nombre de ménages en précarité énergétique logement",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-menages-en-precarite-energetique-logement",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nUn ménage est considéré en situation de précarité énergétique logement (par niveau de vie) lorsque les dépenses énergétiques de son logement sont supérieures à 8 % de son revenu, et que son revenu par unité de consommation le place dans les 30% des ménages les plus modestes.\nL'indicateur présente le nombre de ménages en situation de précarité énergétique selon la méthodologie de calcul dite par niveau de vie.\n\nSources des données: INSEE.",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-menages-en-precarite-energetique-logement/20261006-115919/description-des-champs.csv",
+  "last_modified": "2026-10-06T11:59:19.816000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "logement",
+  "news": []
+}

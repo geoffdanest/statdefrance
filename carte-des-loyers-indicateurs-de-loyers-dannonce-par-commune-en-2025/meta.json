@@ -1,0 +1,15 @@
+{
+  "dataset_id": "693aa2feed1bf4da603faa49",
+  "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2025",
+  "page": "https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2025",
+  "organization": "Ministère de la Transition écologique",
+  "description": "**Contexte du projet**\n\nLa connaissance du niveau des loyers est importante pour garantir le bon fonctionnement du marché locatif et la conduite des politiques nationales et locales de l’habitat. La Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN) a lancé en 2018 le projet de « carte des loyers » en s’associant d’une part à une équipe de recherche en économie d’Agrosup Dijon et de l’Institut national de la recherche en agronomique (INRAE), et d’autre part à SeLoger et leboncoin. En 2020, le projet a été repris par l’Agence Nationale pour l’Information sur le Logement (ANIL), qui a publié, en 2022, en 2023, en 2024 et en 2025, de nouvelles versions de la carte.\n\nCe partenariat innovant a permis de reconstituer une base de données avec 9,1 millions d’annonces locatives. A partir de ces données, l’équipe de recherche et l’ANIL ont développé une méthodologie d’estimation d’indicateurs, à l’échelle communale, du loyer (charges comprises) par m² pour les appartements et maisons.\n\nCes indicateurs expérimentaux sont mis en ligne afin d’être utilisables par tous : services de l’Etat, collectivités territoriales, professionnels de l’immobiliers, particuliers bailleurs et locataires. A partir de 2022, les cartes sont actualisées et publiées tous les ans par l’ANIL.\n\nCe projet fournit une information complémentaire à celle offerte par les Observatoires Locaux des Loyers (OLL), déployés depuis 2013 et renforcés depuis 2018 par la loi Elan. Aujourd’hui, ce réseau as",
+  "resource_title": "Indicateur de loyer appartement de 1 ou 2 pièces",
+  "resource_url": "https://static.data.gouv.fr/resources/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2025/20251211-144934/pred-app12-mef-dhup.csv",
+  "last_modified": "2025-12-11T14:58:19.899000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "loyers",
+  "news": []
+}
