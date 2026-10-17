@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17",
+  "slot": "midi",
+  "theme": "Logement",
+  "palette": "papier",
+  "template": "compare",
+  "num": "N° 001",
+  "source": "ANIL, carte des loyers 2025",
+  "source_url": "https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2025",
+  "dataset_id": "693aa2feed1bf4da603faa49",
+  "title": "Un studio de 30 m² : 682 € par mois à Nice, deux fois plus qu’à Saint-Étienne.",
+  "rows": [
+    {
+      "name": "Nice",
+      "value": 682,
+      "highlight": true
+    },
+    {
+      "name": "Bordeaux",
+      "value": 556
+    },
+    {
+      "name": "Toulouse",
+      "value": 490
+    },
+    {
+      "name": "Saint-Étienne",
+      "value": 343
+    }
+  ],
+  "dot_unit": "€",
+  "per_dot": 25,
+  "calc": "Fichier « Indicateur de loyer appartement de 1 ou 2 pièces » 2025, colonne loypredm2 (loyer d’annonce charges comprises, €/m²) × 30 m². Nice (06088) 22,74 → 682 € ; Bordeaux (33063) 18,54 → 556 € ; Toulouse (31555) 16,33 → 490 € ; Saint-Étienne (42218) 11,44 → 343 €. Rapport Nice / Saint-Étienne : 1,99. Paris n’a pas de valeur unique (une par arrondissement, de 30 à 40 €/m²).",
+  "caption": "682 € à Nice, 343 € à Saint-Étienne : le même studio, deux loyers.\n\nEn 2025, le loyer d’annonce d’un petit appartement (1 ou 2 pièces), charges comprises, atteint 22,7 € le m² à Nice contre 11,4 € à Saint-Étienne. Pour 30 m², cela donne environ 682 € par mois d’un côté, 343 € de l’autre. Bordeaux (556 €) et Toulouse (490 €) se situent entre les deux. Alors que la vie chère a mobilisé des milliers de personnes ce 17 octobre, le logement reste le premier poste où les écarts entre villes se creusent.\n\nSource : ANIL / Ministère de la Transition écologique, « Carte des loyers – Indicateurs de loyers d’annonce par commune en 2025 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2025\n\n#statdefrance #opendata #logement #loyers #viechere #immobilier",
+  "status": "draft"
+}
