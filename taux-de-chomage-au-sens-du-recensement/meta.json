@@ -1,0 +1,15 @@
+{
+  "dataset_id": "69b989759cbf238599d4757a",
+  "title": "Taux de chômage (au sens du recensement)",
+  "page": "https://www.data.gouv.fr/datasets/taux-de-chomage-au-sens-du-recensement",
+  "organization": "Tableau de bord des mobilités durables",
+  "description": "#### Définition\r\n\r\nLe taux de chômage au sens du recensement de la population est le rapport entre le nombre de chômeurs et la population active (15 ans ou plus). La population active comprend la population active ayant un emploi (ou population active occupée) et les chômeurs.\r\n\r\nUnité : % (ou nombre d’actifs au chômage)\r\n\r\n#### Lecture\r\n\r\nEn 2023, 11% des actifs de 15 ans ou plus en France métropolitaine sont au chômage, au sens du recensement.\r\n\r\n#### Métadonnées\r\n\r\n-   Fréquence de mise à jour : annuelle\r\n-   Année(s) disponible(s) : 2012, 2017, 2023\r\n-   Couverture géographique : France métropolitaine + DROM (hors Mayotte)\r\n-   Maille minimale disponible : communale\r\n\r\n#### Source(s) de données\r\n\r\n[Insee, Recensement de la population - Population active et chômage (emplois au lieu de résidence)](https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_RP_EMPLOI_LR_PRINC)\r\n\r\n#### Méthodologie de construction\r\n\r\nIl s’agit du nombre de chômeurs de 15 ans ou plus sur un territoire, rapporté à l’ensemble de la population active (actifs en emploi et chômeurs) de 15 ans ou plus du territoire, pour une année N donnée. Le taux de chômage correspond au calcul suivant :\r\n\r\n(pop\\_chomeurs / pop\\_actifs) \\* 100\r\n\r\navec :\r\n\r\n-   `pop_chomeurs` : actifs de 15 ans ou plus au chômage sur un territoire l’année N.\r\n\r\n-   `pop_actifs` : ensemble des actifs (occupés et au chômage) de 15 ans ou plus sur le territoire l’année N.\r\n\r\nGéographie : les données sont diffusés selon la géographie ",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/taux-de-chomage-au-sens-du-recensement/20261014-133231/description-des-champs.csv",
+  "last_modified": "2026-10-14T13:32:31.893000+00:00",
+  "license": "odc-odbl",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "chômage",
+  "news": []
+}

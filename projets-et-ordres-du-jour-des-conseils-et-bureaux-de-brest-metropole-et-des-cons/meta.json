@@ -1,0 +1,31 @@
+{
+  "dataset_id": "64cbb8d827d63db9f4e7e2d3",
+  "title": "Projets et ordres du jour des Conseils et Bureaux de Brest métropole et des Conseils de la Ville de Brest",
+  "page": "https://www.data.gouv.fr/datasets/projets-et-ordres-du-jour-des-conseils-et-bureaux-de-brest-metropole-et-des-conseils-de-la-ville-de-brest",
+  "organization": "Brest métropole",
+  "description": "Ordres du jour des conseils de Brest métropole et de la ville de Brest, généralement publiés une semaine avant le conseil.\nLes ordres du jour peuvent être visualisés, triés et filtrés à partir de cet [explorateur.](https://explore.data.gouv.fr/fr/datasets/64cbb8d827d63db9f4e7e2d3/#/resources/39691735-0349-4bbd-9e0f-c55cbb3fa8a0)\n\n[Accès direct au dernier ordre du jour du Conseil Municipal](https://echanges.brest-metropole.fr/VIPOD03/actes-odj/dernierODJ_ConseilMunicipal.pdf)\n\n[Accès direct au dernier ordre du jour du Conseil de Métropole](https://echanges.brest-metropole.fr/VIPOD03/actes-odj/dernierODJ_ConseilMetropole.pdf)\n\n",
+  "resource_title": "ordresdujour.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/projets-et-ordres-du-jour-des-conseils-et-bureaux-de-brest-metropole-et-des-conseils-de-la-ville-de-brest/20261018-140621/ordresdujour.csv",
+  "last_modified": "2026-10-18T14:06:21.343000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "ordre",
+  "query": "ordre",
+  "news": [
+    {
+      "title": "\"On a sous-évalué le nombre de casseurs\" : le maintien de l'ordre sous le feu des critiques après les violences en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-sous-evalue-le-nombre-de-casseurs-le-maintien-de-l-ordre-sous-le-feu-des-critiques-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242750.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pillages et affrontements entre émeutiers et forces de l'ordre dans l'agglomération pointoise, trois fonctionnaires touchés par balles",
+      "link": "https://la1ere.franceinfo.fr/guadeloupe/l-agglomeration-pointoise-theatre-de-pillage-et-d-affrontements-entre-emeutiers-et-forces-de-l-ordre-1749273.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les élus LFI \"ont armé la violence avec leurs mots d'ordre\", accuse le président de LR Bruno Retailleau",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-elus-lfi-ont-arme-la-violence-avec-leurs-mots-d-ordre-accuse-le-president-de-lr-bruno-retailleau_8242834.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

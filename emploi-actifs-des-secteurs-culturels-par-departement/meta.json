@@ -1,0 +1,15 @@
+{
+  "dataset_id": "635a0251e708959bd890f68e",
+  "title": "Emploi : Actifs des secteurs culturels par département",
+  "page": "https://www.data.gouv.fr/datasets/emploi-actifs-des-secteurs-culturels-par-departement",
+  "organization": "Ministère de la Culture",
+  "description": "Part des actifs des secteurs culturels dans l'ensemble des actifs du département. La population concernée rassemble les actifs en emploi, qu'ils soient salariés ou indépendants. Au sein de la nomenclature d'activités française de l'Insee, sont considérés comme culturels les secteurs suivants :   \n\\- architecture  \n\\- arts visuels   \n\\- audiovisuel, multimédia  \n\\- éducation, formation  \n\\- livre et presse  \n\\- patrimoine  \n\\- publicité  \n\\- spectacle vivant\n\nDonnées 2017",
+  "resource_title": "actifs-des-secteurs-culturels_departements_2017.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/emploi-actifs-des-secteurs-culturels-par-departement/20250827-133146/actifs-des-secteurs-culturels-departements-2017.csv",
+  "last_modified": "2025-08-27T13:31:46.970000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "emploi",
+  "news": []
+}

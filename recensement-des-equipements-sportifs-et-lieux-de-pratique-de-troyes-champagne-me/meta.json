@@ -1,0 +1,15 @@
+{
+  "dataset_id": "66cf11c2596a6fd675322315",
+  "title": "Recensement des équipements sportifs et lieux de pratique de Troyes Champagne Métropole",
+  "page": "https://www.data.gouv.fr/datasets/recensement-des-equipements-sportifs-et-lieux-de-pratique-de-troyes-champagne-metropole",
+  "organization": "Troyes Champagne Métropole",
+  "description": "Base de données Data ES, équipements sportifs et lieux de pratiques.\n\nINFORMATION : LE JEU DE DONNÉES EST DISPONIBLE EN TROIS FORMATS (.XLSX, .CSV ET *.GPKG). LE NOMBRE D'ENREGISTREMENTS EST DE L'ORDRE DE : 644",
+  "resource_title": "l-4.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/recensement-des-equipements-sportifs-et-lieux-de-pratique-de-troyes-champagne-metropole/20240828-120220/l-4.csv",
+  "last_modified": "2024-08-28T14:02:20.741000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "équipements sportifs",
+  "news": []
+}

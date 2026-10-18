@@ -1,0 +1,15 @@
+{
+  "dataset_id": "611dd842e0a4278f26ef6a59",
+  "title": "Consommation annuelle d’électricité et gaz par commune et par code NAF",
+  "page": "https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune-et-par-code-naf-2",
+  "organization": "Grand Poitiers Open Data",
+  "description": "Permet de visualiser l’évolution de 2011 à 2021 des consommations d'électricité et de gaz par secteur d'activité, par catégorie de consommation, par code NAF et par commune.\n\n\n\nCes données sont publiées dans le respect des règles relatives à la protection des Informations Commercialement Sensibles.\n\nUne notice méthodologique est disponible en PJ.\n\nLes données sont ventilées sur le référentiel INSEE au 1er janvier 2021.\nUne question sur le jeu de données ? Un cas d'usage à partager avec d'autres utilisateurs ? Le [Forum des experts open data électricité et gaz](https://www.agenceore.fr/forum-expert) est là pour ça !",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.grandpoitiers.fr/data-fair/api/v1/datasets/consommation-annuelle-delectricite-et-gaz-par-commune-et-par-code-naf/raw",
+  "last_modified": "2026-01-29T21:03:24+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "électricité",
+  "news": []
+}

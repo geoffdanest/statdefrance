@@ -1,0 +1,15 @@
+{
+  "dataset_id": "602eaa18c7db5ddb8b0cc547",
+  "title": "Médecins accrédités par la HAS",
+  "page": "https://www.data.gouv.fr/datasets/medecins-accredites-par-la-has",
+  "organization": "Haute Autorité de santé",
+  "description": "En application de l’article L. 1414-3-2 du Code de la santé publique, l’accréditation des médecins est une démarche volontaire.\n\nC’est une démarche de gestion des risques fondée sur les programmes élaborés par les organismes agréés pour l’accréditation (OA) dont l'objectif est d’améliorer la qualité des pratiques professionnelles, de réduire le nombre et de limiter les conséquences des événements indésirables associés aux soins au bénéfice de la sécurité du patient.\n\nElle concerne les médecins exerçant une spécialité ou une activité dite «à risques» en établissement de santé (décret n° 2006-909 du 21 juillet 2006) : gynécologie-obstétrique, anesthésie-réanimation, chirurgie, spécialités interventionnelles, échographie obstétricale, réanimation médicale.\n\nPlus d’information sur l’accréditation est disponible sur le site de la Haute Autorité de Santé :\nhttps://www.has-sante.fr/jcms/c_2008271\n\nLa liste des médecins accréditée est publié quotidiennement en open data (ci-dessous) au format `xlsx` et au format `csv` séparé par des virgules.\n\nElle est également disponible par API à l'adresse https://accreditation-des-medecins.fr/siam/api/v1/medecins, au format `csv` séparé par des points-virgules.\n\n## Schéma des données\n\n| Champ              | Description                                                                          | Commentaire                                                                        |\n|--------------------|-------------------------------------------------",
+  "resource_title": "medecin-accredites-has.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/medecins-accredites-par-la-has/20261017-054535/medecin-accredites-has.csv",
+  "last_modified": "2026-10-17T05:45:37.193000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "médecins",
+  "news": []
+}

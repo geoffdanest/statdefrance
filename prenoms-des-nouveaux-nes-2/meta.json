@@ -1,0 +1,15 @@
+{
+  "dataset_id": "68da7c04a447f407a59a58f8",
+  "title": "Prénoms des nouveaux-nés",
+  "page": "https://www.data.gouv.fr/datasets/prenoms-des-nouveaux-nes-2",
+  "organization": "VILLE DE QUIMPER",
+  "description": "Liste des prénoms donnés à l'état-civil. Il s'agit du premier prénom inscrit. Le nombre d'occurrence est relevé pour chaque prénom.\n\nLe modèle de données relatif aux prénoms des nouveaux-nés déclarés à l’état-civil spécifie la structure et le contenu d'un jeu de données simple et très apprécié du public. Il consiste en une liste de prénoms déclarés à l'état-civil de la commune de naissance, avec l'occurrence de chacun pour une année donnée. Les prénoms listés correspondent au premier prénom donné dans chaque acte de naissance.\n",
+  "resource_title": "Prénoms des nouveaux-nés",
+  "resource_url": "https://static.data.gouv.fr/resources/prenoms-des-nouveaux-nes-2/20260112-140316/prenoms.csv",
+  "last_modified": "2026-01-12T14:03:17.107000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "prénoms",
+  "news": []
+}

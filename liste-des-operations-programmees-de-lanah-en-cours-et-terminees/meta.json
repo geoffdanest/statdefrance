@@ -1,0 +1,31 @@
+{
+  "dataset_id": "64baa5c3658fd7f16a3f7fd0",
+  "title": "Liste des opérations programmées de l'Anah (en cours et terminées)",
+  "page": "https://www.data.gouv.fr/datasets/liste-des-operations-programmees-de-lanah-en-cours-et-terminees",
+  "organization": "Agence Nationale de l'Habitat",
+  "description": "L’agence nationale de l’habitat (Anah) met en œuvre la politique nationale d’amélioration du parc de logements privés existants. Elle accorde des aides financières aux propriétaires occupants et bailleurs ainsi qu’aux syndicats de copropriétaires pour la réalisation de travaux lourds ou d’amélioration de leur habitat sous certaines conditions.\n\nUne part importante des subventions de l’Anah sont octroyées à travers des dispositifs opérationnels mis en œuvre par les Collectivités locales.\n\nLes opérations programmées pour l’amélioration de l’habitat (OPAH), les programmes d’intérêt général (PIG), dont les volets accompagnement de pacte territorial, ou encore les plans de sauvegarde de copropriétés en difficultés sont des outils opérationnels, qui traduisent des décisions politiques de l’habitat prises à l’échelle locale pour améliorer les conditions de vie des ménages plus modestes. L’enjeu porte donc sur la qualité des processus de mise en œuvre d’une opération programmée pour atteindre les objectifs qualitatifs et quantitatifs fixés par les maîtres d’ouvrage. Afin de les adapter aux exigences nationales ainsi qu’aux enjeux locaux, les dispositifs de l’Anah ont donc vocation à évoluer pour les rendre plus pertinents et améliorer en continu leur efficacité.\n\nLes données d’objectifs sont saisies par les services déconcentrés au moment du lancement de la convention : les objectifs peuvent avoir changé dans des avenants mais les modifications ne sont pas nécessairement reportées da",
+  "resource_title": "Opérations programmées vivantes et terminées en format csv (Mise à jour quotidienne)",
+  "resource_url": "https://static.data.gouv.fr/resources/liste-des-operations-programmees-de-lanah-en-cours-et-terminees/20261017-060152/20261017-operations-programmees.csv",
+  "last_modified": "2026-10-17T06:01:53.693000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "opération",
+  "query": "opération",
+  "news": [
+    {
+      "title": "\"J'ai vraiment ressenti votre soutien, merci\" : le pape Léon XIV s'adresse à la foule pour la première fois depuis son opération",
+      "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/j-ai-vraiment-ressenti-votre-soutien-merci-le-pape-leon-xiv-s-adresse-a-la-foule-pour-la-premiere-fois-depuis-son-operation_8242744.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Un tsunami de terrorisme juif » : en Cisjordanie occupée, derrière la violence des colons pendant la récolte des olives, une opération de nettoyage ethnique à grande échelle",
+      "link": "https://www.lemonde.fr/international/article/2026/10/18/un-tsunami-de-terrorisme-juif-en-cisjordanie-occupee-derriere-la-violence-des-colons-pendant-la-recolte-des-olives-une-operation-de-nettoyage-ethnique-a-grande-echelle_6797074_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
+      "link": "https://www.lemonde.fr/religions/article/2026/10/18/le-pape-leon-xiv-remercie-les-fideles-reunis-place-saint-pierre-apres-son-operation-et-annonce-la-reprise-progressive-de-ses-activites_6797082_1653130.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ]
+}

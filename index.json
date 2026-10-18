@@ -1,0 +1,625 @@
+{
+  "generated_at": "2026-10-18T18:04:17.405341+00:00",
+  "keywords": [
+    "violences",
+    "marge",
+    "ordre",
+    "opération",
+    "lendemain",
+    "était",
+    "tennis",
+    "table",
+    "vraiment",
+    "journée",
+    "guerre",
+    "allocution"
+  ],
+  "headlines": [
+    {
+      "title": "Mobilisation du 17 octobre : suivez l'allocution d'Emmanuel Macron au lendemain des violences en marge des manifestations",
+      "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"On a sous-évalué le nombre de casseurs\" : le maintien de l'ordre sous le feu des critiques après les violences en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-sous-evalue-le-nombre-de-casseurs-le-maintien-de-l-ordre-sous-le-feu-des-critiques-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242750.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Sept mille personnes se sont rassemblées à Limoges pour une marche après l'incendie de l'hôtel de ville en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/sept-mille-personnes-se-sont-rassemblees-a-limoges-pour-une-marche-apres-l-incendie-de-l-hotel-de-ville-en-marge-de-la-mobilisation-du-17-octobre_8243089.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Plus de 30 000 pilleurs dénombrés à Marseille en marge de la manifestation du 17 octobre, selon la préfecture de police des Bouches-du-Rhône",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-30-000-pilleurs-denombres-a-marseille-en-marge-de-la-manifestation-du-17-octobre-selon-la-prefecture-de-police-des-bouches-du-rhone_8243068.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"J'invite chacun à venir nous aider !\" : à Paris, Lyon et Limoges, des riverains se mobilisent pour remettre les rues en état après les violences du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/j-invite-chacun-a-venir-nous-aider-a-paris-lyon-et-limoges-des-riverains-se-mobilisent-pour-remettre-les-rues-en-etat-apres-les-manifestations-du-17-octobre_8242858.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'Association des maires de France appelle au rassemblement devant les mairies lundi midi, après les violences en marge de la mobilisation du 17 octobre",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-association-des-maires-de-france-appelle-au-rassemblement-devant-les-mairies-lundi-midi-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242981.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "À Mulhouse, l'IGPN saisie après qu'une manifestante mineure a perdu l'usage d'un œil",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-mulhouse-l-igpn-saisie-apres-qu-une-manifestante-mineure-a-perdu-l-usage-d-un-il_8242996.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Laurent Nuñez était complètement dépassé\" : les appels à la démission du ministre de l'Intérieur se multiplient au lendemain des violences du 17 octobre",
+      "link": "https://www.franceinfo.fr/economie/greve/laurent-nunez-etait-completement-depasse-les-appels-a-demission-du-ministre-de-l-interieur-se-multiplient-apres-les-violences-du-17-octobre_8242828.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Félix Lebrun devient champion d'Europe de tennis de table pour la première fois et succède à son frère Alexis",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/felix-lebrun-devient-champion-d-europe-de-tennis-de-table-pour-la-premiere-fois-et-succede-a-son-frere-alexis_8242897.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Donald Trump apporte son \"soutien plein et entier\" à Benyamin Nétanyahou avant les élections en Israël",
+      "link": "https://www.franceinfo.fr/monde/israel/donald-trump-apporte-son-soutien-plein-et-entier-a-benyamin-netanyahou-avant-les-elections-en-israel_8243020.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'Hérault et le Gard placés en vigilance orange pour un risque de pluies, d'inondations et d'orages à partir de lundi après-midi, annonce Météo-France",
+      "link": "https://www.franceinfo.fr/environnement/meteo/l-herault-et-le-gard-seront-places-en-vigilance-orange-pour-un-risque-de-pluies-d-inondations-et-d-orages-a-partir-de-lundi-apres-midi-annonce-meteo-france_8242903.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Ligue 1 : sept buts, dont quatre sur pénalty... Le Paris FC sort vainqueur d'un match complètement fou contre Rennes",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-sept-buts-dont-quatre-sur-penalty-le-paris-fc-sort-vainqueur-d-un-match-completement-fou-contre-rennes_8243116.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"C'était vraiment une soirée inoubliable\" : Céline Dion comble ses fans pour son dernier show à Paris",
+      "link": "https://www.franceinfo.fr/culture/musique/celine-dion/c-etait-vraiment-une-soiree-inoubliable-celine-dion-comble-ses-fans-pour-son-dernier-show-a-paris_8242831.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"J'ai vraiment ressenti votre soutien, merci\" : le pape Léon XIV s'adresse à la foule pour la première fois depuis son opération",
+      "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/j-ai-vraiment-ressenti-votre-soutien-merci-le-pape-leon-xiv-s-adresse-a-la-foule-pour-la-premiere-fois-depuis-son-operation_8242744.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Vainqueur à Angers, l'OM enchaîne enfin en Ligue 1 et se donne un peu d'air",
+      "link": "https://www.franceinfo.fr/sports/foot/om/vainqueur-a-angers-l-om-enchaine-enfin-en-ligue-1-et-se-donne-un-peu-d-air_8242867.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Ryad Rani, Sabrine Kharbach, Soumaya Sarré... Quels sont les visages qui incarnent la mobilisation lycéenne ?",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ryad-rani-sabrine-kharbach-soumaya-sarre-quels-sont-les-visages-qui-incarnent-la-mobilisation-lyceenne_8241493.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Sécheresse, déforestation... On vous explique comment des incendies en Indonésie répandent leurs fumées toxiques en Asie du Sud-Est",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/secheresse-deforestation-on-vous-explique-comment-des-incendies-en-indonesie-repandent-leurs-fumees-toxiques-en-asie-du-sud-est_8241829.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Quelle est l'importance de la France et de l'Europe pour le renseignement militaire transmis à l'Ukraine ?",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quelle-est-l-importance-de-la-france-et-de-l-europe-pour-le-renseignement-militaire-transmis-a-l-ukraine_8238481.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Un coup de pouce à l'auto-stop\" : en Bretagne, des lignes de covoiturage gratuit pour accélérer le partage de la voiture",
+      "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/en-toute-sobriete-face-a-la-crise-climatique/reportage-un-coup-de-pouce-a-l-auto-stop-en-bretagne-des-lignes-de-covoiturage-gratuit-pour-accelerer-le-partage-de-la-voiture_8205926.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La 17e COP biodiversité rassemble près de 200 pays en Arménie pour tenter de relancer les efforts de protection de la nature",
+      "link": "https://www.franceinfo.fr/environnement/biodiversite/cop-biodiversite/la-17e-cop-biodiversite-rassemble-pres-de-200-pays-en-armenie-pour-tenter-de-relancer-les-efforts-de-protection-de-la-nature_8241739.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pillages et affrontements entre émeutiers et forces de l'ordre dans l'agglomération pointoise, trois fonctionnaires touchés par balles",
+      "link": "https://la1ere.franceinfo.fr/guadeloupe/l-agglomeration-pointoise-theatre-de-pillage-et-d-affrontements-entre-emeutiers-et-forces-de-l-ordre-1749273.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des dizaines d'orangs-outangs ont été sauvés des incendies en Indonésie, selon plusieurs ONG",
+      "link": "https://www.franceinfo.fr/monde/asie/des-dizaines-d-orang-outans-ont-ete-sauves-des-incendies-en-indonesie-selon-plusieurs-ong_8242822.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"La Gradiva\" : dans un premier film plein de grâce, Marine Atlan perce l'âme de la jeunesse d'aujourd'hui",
+      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/la-gradiva-dans-un-premier-film-plein-de-grace-marine-atlan-perce-l-ame-de-la-jeunesse-d-aujourd-hui_8237416.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"L'idée, c'était de gagner en notoriété\" : se passe-t-il vraiment \"quelque chose\" autour de la candidature de David Lisnard à la présidentielle ?",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/l-idee-c-etait-de-gagner-en-notoriete-se-passe-t-il-vraiment-quelque-chose-autour-de-la-candidature-de-david-lisnard-a-la-presidentielle_8238541.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"L'appel des profondeurs\" au Musée de la marine : sept objets pour plonger dans l'histoire de l'exploration sous-marine",
+      "link": "https://www.franceinfo.fr/culture/arts-expos/en-images-l-appel-des-profondeurs-au-musee-de-la-marine-sept-objets-pour-plonger-dans-l-histoire-de-l-exploration-sous-marine_8235511.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Sauvé par ses remplaçants, le PSG renverse Strasbourg et prend provisoirement les commandes de la Ligue 1",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/a-nouveau-sauve-par-ses-remplacants-le-psg-renverse-strasbourg-et-prend-provisoirement-les-commandes-de-la-ligue-1_8241889.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Donald Trump affirme que \"la France brûle\" après les manifestations du 17 octobre et dénonce un pays \"brisé\" par l'immigration",
+      "link": "https://www.franceinfo.fr/economie/greve/les-progressistes-occidentaux-ont-importe-le-tiers-monde-le-vice-president-americain-jd-vance-pointe-le-role-de-l-immigration-dans-les-violences-lors-des-manifestations-du-17-octobre_8242465.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Les grandes artères commerçantes de Marseille dévalisées à 80%\" le 17 octobre, selon la présidente de l'association des commerçants du centre-ville",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-grandes-arteres-commercantes-de-marseille-devalisees-a-80-le-17-octobre-selon-la-presidente-de-l-association-des-commercants-du-centre-ville_8242900.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les élus LFI \"ont armé la violence avec leurs mots d'ordre\", accuse le président de LR Bruno Retailleau",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-elus-lfi-ont-arme-la-violence-avec-leurs-mots-d-ordre-accuse-le-president-de-lr-bruno-retailleau_8242834.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il n'y a pas de gagnant de la journée de samedi, il n'y a que des perdants\", souligne Marine Tondelier après les violences dans plusieurs villes de France",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-n-y-a-pas-de-gagnant-de-la-journee-de-samedi-il-n-y-a-que-des-perdants-souligne-marine-tondelier-apres-les-violences-dans-plusieurs-villes-de-france_8242846.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Une facture financière très élevée\" : 1 500 commerçants ont été touchés par les violences en marge de la mobilisation du 17 octobre, selon une fédération de la distribution",
+      "link": "https://www.franceinfo.fr/economie/commerce/une-facture-financiere-tres-elevee-1-500-commercants-ont-ete-touches-par-les-violences-en-marge-de-la-mobilisation-du-17-octobre-selon-une-federation-de-la-distribution_8242840.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il passait simplement dans la rue\" : une vitre tombe sur un homme lors des débordements de la mobilisation du 17 octobre",
+      "link": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/video-il-passait-simplement-dans-la-rue-une-vitre-tombe-sur-un-homme-lors-des-debordements-de-la-mobilisation-du-17-octobre-3435363.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Française Prithika Pavade médaillée de bronze aux championnats d'Europe de tennis de table",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/la-francaise-prithika-pavade-medaillee-de-bronze-aux-championnats-d-europe-de-tennis-de-table_8242723.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A nouveau champions d'Europe, les frères Lebrun assoient un peu plus leur domination en double",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/a-nouveau-champions-d-europe-les-freres-lebrun-assoient-un-peu-plus-leur-domination-en-double_8242036.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Nous l'avons averti\" : Benyamin Nétanyahou n'a pas écouté les mises en garde de ses conseillers sur l'argent envoyé par le Qatar à Gaza avant le 7-Octobre",
+      "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/nous-l-avons-averti-benyamin-netanyahou-n-a-pas-ecoute-les-mises-en-garde-de-ses-conseillers-sur-l-argent-envoye-par-le-qatar-a-gaza-avant-le-7-octobre_8198282.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le réchauffement climatique va-t-il changer la saison des épisodes méditerranéens ?",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/le-rechauffement-climatique-va-t-il-changer-la-saison-des-episodes-mediterraneens_8217976.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN DIRECT, mobilisation du 17 octobre : les tensions subsistent à Paris ou à Lyon et les condamnations politiques se multiplient avant l’allocution d’Emmanuel Macron",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-a-paris-nouvelles-tensions-sur-la-place-de-la-republique-et-ses-alentours_6795855_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Mobilisations sociales : à Paris, Emmanuel Grégoire dénonce des « défaillances de sécurité » au lendemain des violences dans la capitale",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/18/mobilisations-sociales-a-paris-emmanuel-gregoire-denonce-des-defaillances-de-securite-au-lendemain-des-violences-dans-la-capitale_6797192_823448.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« Un tsunami de terrorisme juif » : en Cisjordanie occupée, derrière la violence des colons pendant la récolte des olives, une opération de nettoyage ethnique à grande échelle",
+      "link": "https://www.lemonde.fr/international/article/2026/10/18/un-tsunami-de-terrorisme-juif-en-cisjordanie-occupee-derriere-la-violence-des-colons-pendant-la-recolte-des-olives-une-operation-de-nettoyage-ethnique-a-grande-echelle_6797074_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en puissance de la DZ Mafia",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/18/a-aix-en-provence-le-proces-d-un-triple-homicide-qui-a-prefigure-la-montee-en-puissance-de-la-dz-mafia_6797077_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international",
+      "link": "https://www.lemonde.fr/afrique/video/2026/10/18/comment-l-administration-de-donald-trump-utilise-des-pays-africains-pour-expulser-des-migrants-en-depit-du-droit-international_6797087_3212.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« C’est une école de l’humilité » : l’art du vitrail séduit une nouvelle génération d’artisans",
+      "link": "https://www.lemonde.fr/campus/article/2026/10/18/c-est-une-ecole-de-l-humilite-l-art-du-vitrail-seduit-une-nouvelle-generation-d-artisans_6797042_4401467.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 17 et 18 octobre",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/18/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-17-et-18-octobre_6797086_4355770.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "En Espagne, la gauche radicale aborde les élections en ordre dispersé",
+      "link": "https://www.lemonde.fr/international/article/2026/10/18/en-espagne-la-gauche-radicale-aborde-les-elections-en-ordre-disperse_6797079_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Pour l’essayiste états-unien Thomas Chatterton Williams, « la gauche américaine a commis une erreur majeure en défendant une politique centrée sur l’identitarisme »",
+      "link": "https://www.lemonde.fr/livres/article/2026/10/18/pour-l-essayiste-etats-unien-thomas-chatterton-williams-la-gauche-americaine-a-commis-une-erreur-majeure-en-defendant-une-politique-centree-sur-l-identitarisme_6797083_3260.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "link": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-les-dernieres-informations_6796922_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
+      "link": "https://www.lemonde.fr/religions/article/2026/10/18/le-pape-leon-xiv-remercie-les-fideles-reunis-place-saint-pierre-apres-son-operation-et-annonce-la-reprise-progressive-de-ses-activites_6797082_1653130.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Dans l’Aisne, Paul Mougenot, le sénateur inclassable, admirateur de Charles Maurras, embarrasse aussi bien à droite qu’à l’extrême droite",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/18/dans-l-aisne-paul-mougenot-le-senateur-inclassable-admirateur-de-charles-maurras-embarrasse-aussi-bien-a-droite-qu-a-l-extreme-droite_6797080_823448.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Du flamenco sur un air de Rosalia, les champions olympiques Guillaume Cizeron et Laurence Fournier Beaudry continuent d’élargir l’horizon du patinage artistique",
+      "link": "https://www.lemonde.fr/sport/article/2026/10/18/du-flamenco-sur-un-air-de-rosalia-les-champions-olympiques-guillaume-cizeron-et-laurence-fournier-beaudry-continuent-d-elargir-l-horizon-du-patinage-artistique_6797070_3242.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Une start-up londonienne rêve de recréer les concerts des idoles disparues",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "A la Comédie-Française, Julie Duclos ou l’art du théâtre qui va de soi",
+      "link": "https://www.lemonde.fr/culture/article/2026/10/18/a-la-comedie-francaise-julie-duclos-ou-l-art-du-theatre-qui-va-de-soi_6797064_3246.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« Une vie pour l’art. Gustave Fayet » : portrait d’un collectionneur clairvoyant",
+      "link": "https://www.lemonde.fr/culture/article/2026/10/18/une-vie-pour-l-art-gustave-fayet-portrait-d-un-collectionneur-clairvoyant_6797085_3246.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT Violences urbaines : L’IGPN saisie après qu’une jeune femme a perdu un œil à Mulhouse samedi...",
+      "link": "https://www.20minutes.fr/societe/4255280-20261018-direct-violences-urbaines-darmanin-veut-justice-extremement-ferme-face-violences-gravite-inouie?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Voiture brûlée, corps découpé et narcotrafic… Qui a exécuté le grand frère d’Amine Kessaci et ses alliés ?",
+      "link": "https://www.20minutes.fr/justice/4254326-20261018-voiture-brulee-corps-decoupe-narcotrafic-execute-grand-frere-amine-kessaci-allies?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Tennis de table : Le français Félix Lebrun sacré champion d’Europe pour la première fois",
+      "link": "https://www.20minutes.fr/sport/tennis_de_table/4255363-20261018-tennis-table-francais-felix-lebrun-sacre-champion-europe-premiere-fois?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Retour sur la manifestation et les violences du 17 octobre",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4255334-images-retour-manifestation-violences-17-octobre?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Mobilisation du 17 octobre : « La colère est trop grande »… Boris, « gilet jaune » de la première heure, de retour sept ans après",
+      "link": "https://www.20minutes.fr/societe/4255238-20261018-mobilisation-17-octobre-colere-trop-grande-boris-gilet-jaune-premiere-heure-retour-sept-ans-apres?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Mobilisation du 17 octobre : La presse internationale sidérée par ce « chaos »",
+      "link": "https://www.20minutes.fr/societe/4255339-20261018-mobilisation-17-octobre-presse-internationale-yeux-rives-france-face-images-chaos?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Magasins pillés, vélos et camions brûlés… Paris se réveille avec la gueule de bois",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4255349-images-magasins-pilles-velos-camions-brules-paris-reveille-gueule-bois?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« J’ai toujours l’impression qu’elle est là »… On a assisté à un café pour parler du deuil animalier",
+      "link": "https://www.20minutes.fr/societe/4250160-20261018-toujours-impression-assiste-cafe-parler-deuil-animalier?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "datasets": [
+    {
+      "dataset_id": "64cbb8d827d63db9f4e7e2d3",
+      "title": "Projets et ordres du jour des Conseils et Bureaux de Brest métropole et des Conseils de la Ville de Brest",
+      "organization": "Brest métropole",
+      "origin": "actu",
+      "label": "ordre",
+      "dir": "projets-et-ordres-du-jour-des-conseils-et-bureaux-de-brest-metropole-et-des-cons"
+    },
+    {
+      "dataset_id": "64baa5c3658fd7f16a3f7fd0",
+      "title": "Liste des opérations programmées de l'Anah (en cours et terminées)",
+      "organization": "Agence Nationale de l'Habitat",
+      "origin": "actu",
+      "label": "opération",
+      "dir": "liste-des-operations-programmees-de-lanah-en-cours-et-terminees"
+    },
+    {
+      "dataset_id": "630f5173873064dd369479b4",
+      "title": "table de correspondance entre n° Siren et code Insee des communes",
+      "organization": "Direction générale des collectivités locales",
+      "origin": "actu",
+      "label": "table",
+      "dir": "table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes"
+    },
+    {
+      "dataset_id": "56a8a5dcc751df5b7dceae20",
+      "title": "Journées départementales du sport féminin dans les Côtes d'Armor",
+      "organization": "Département des Côtes d'Armor",
+      "origin": "actu",
+      "label": "journée",
+      "dir": "journees-departementales-du-sport-feminin-dans-les-cotes-darmor"
+    },
+    {
+      "dataset_id": "69bd265e2545e17d2d65fd37",
+      "title": "Zonages des professionnels de santé libéraux",
+      "organization": "Atlasanté",
+      "origin": "theme",
+      "label": "Santé",
+      "dir": "zonages-des-professionnels-de-sante-liberaux"
+    },
+    {
+      "dataset_id": "6aba32e9fe937575a896c111",
+      "title": "Etablissements de santé vérifiés - Béziers",
+      "organization": "Communauté d'Agglomération Béziers Méditerranée",
+      "origin": "theme",
+      "label": "Santé",
+      "dir": "etablissements-de-sante-verifies-beziers"
+    },
+    {
+      "dataset_id": "635a0251ae37fbcc1290f691",
+      "title": "Emploi : Professions culturelles par département",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Emploi",
+      "dir": "emploi-professions-culturelles-par-departement"
+    },
+    {
+      "dataset_id": "635a0251e708959bd890f68e",
+      "title": "Emploi : Actifs des secteurs culturels par département",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Emploi",
+      "dir": "emploi-actifs-des-secteurs-culturels-par-departement"
+    },
+    {
+      "dataset_id": "6a9e70c287fd111bdb6a229d",
+      "title": "Emplois de la filière bois",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Emploi",
+      "dir": "emplois-de-la-filiere-bois"
+    },
+    {
+      "dataset_id": "653668616ffc5fc0becb52b4",
+      "title": "Recensement de la population - Fichiers détail : Logements ordinaires",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Logement",
+      "dir": "recensement-de-la-population-fichiers-detail-logements-ordinaires"
+    },
+    {
+      "dataset_id": "6abd223ad8aba7d3653ab90f",
+      "title": "Nombre de ménages en précarité énergétique logement",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Logement",
+      "dir": "nombre-de-menages-en-precarite-energetique-logement"
+    },
+    {
+      "dataset_id": "6a8c50e89cd3c72a08931d48",
+      "title": "Acquisition de livres de Noël pour les enfants des écoles maternelles publiques et privées de la ville de Brignoles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "dir": "acquisition-de-livres-de-noel-pour-les-enfants-des-ecoles-maternelles-publiques-"
+    },
+    {
+      "dataset_id": "6a8c4cfcec97decdc46f7175",
+      "title": "Spectacles de Noël pour les écoles maternelles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "dir": "spectacles-de-noel-pour-les-ecoles-maternelles-annee-2026"
+    },
+    {
+      "dataset_id": "69f9e8f7acdc2a1aecdddc02",
+      "title": "Indice de Position Sociale des écoles à partir de 2022 sur le territoire de Saintes Grandes Rives, l'Agglo",
+      "organization": "Saintes Grandes Rives, l'Agglo",
+      "origin": "theme",
+      "label": "Éducation",
+      "dir": "indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-sain"
+    },
+    {
+      "dataset_id": "67cad6ef9c8ad4fe75b8b7de",
+      "title": "Part de la surface agricole en agriculture biologique dans la surface agricole utile",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "dir": "part-de-la-surface-agricole-en-agriculture-biologique-dans-la-surface-agricole-u"
+    },
+    {
+      "dataset_id": "68539efb85493296b78b2902",
+      "title": "Quantité totale de substances actives (QSA) achetées hors usage en agriculture biologique et hors biocontrôle",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "dir": "quantite-totale-de-substances-actives-qsa-achetees-hors-usage-en-agriculture-bio"
+    },
+    {
+      "dataset_id": "63983cea9ced6d9c098aacac",
+      "title": "Fréquentation des Musées de France de la Ville d'Antibes",
+      "organization": "Ville d'Antibes",
+      "origin": "theme",
+      "label": "Culture",
+      "dir": "frequentation-des-musees-de-france-de-la-ville-dantibes"
+    },
+    {
+      "dataset_id": "69cb9a983269345c1944f966",
+      "title": "Encadrement sportif : référentiel de compétences pour renforcer l’engagement environnemental du sport",
+      "organization": "Pôle ressources national transition écologique et sports de nature",
+      "origin": "theme",
+      "label": "Sport",
+      "dir": "encadrement-sportif-referentiel-de-competences-pour-renforcer-lengagement-enviro"
+    },
+    {
+      "dataset_id": "69b989759cbf238599d4757a",
+      "title": "Taux de chômage (au sens du recensement)",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Emploi",
+      "dir": "taux-de-chomage-au-sens-du-recensement"
+    },
+    {
+      "dataset_id": "6751be987c09f4be821c6934",
+      "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2024",
+      "organization": "Ministère de la Transition écologique",
+      "origin": "theme",
+      "label": "Logement",
+      "dir": "carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024"
+    },
+    {
+      "dataset_id": "611dd842e0a4278f26ef6a59",
+      "title": "Consommation annuelle d’électricité et gaz par commune et par code NAF",
+      "organization": "Grand Poitiers Open Data",
+      "origin": "theme",
+      "label": "Énergie",
+      "dir": "consommation-annuelle-delectricite-et-gaz-par-commune-et-par-code-naf-2"
+    },
+    {
+      "dataset_id": "611dd8425e16a88d96ef6a59",
+      "title": "Consommation annuelle d’électricité et gaz par IRIS et par secteur d’activité",
+      "organization": "Grand Poitiers Open Data",
+      "origin": "theme",
+      "label": "Énergie",
+      "dir": "consommation-annuelle-delectricite-et-gaz-par-iris-et-par-secteur-dactivite-1"
+    },
+    {
+      "dataset_id": "6965fd7bdd5d82d4c4664a66",
+      "title": "Production annuelle d’électricité par filière - Saint-Pierre-et-Miquelon",
+      "organization": "Electricité de France",
+      "origin": "theme",
+      "label": "Énergie",
+      "dir": "production-annuelle-delectricite-par-filiere-saint-pierre-et-miquelon-1"
+    },
+    {
+      "dataset_id": "67cad6ce691ec92263232aa0",
+      "title": "Nombre d’exploitations agricoles",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "dir": "nombre-dexploitations-agricoles"
+    },
+    {
+      "dataset_id": "6acf81cf17a2cababf4d9a05",
+      "title": "Nombre moyen de stationnements vélo sécurisés par gare",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Transports",
+      "dir": "nombre-moyen-de-stationnements-velo-securises-par-gare-1"
+    },
+    {
+      "dataset_id": "6aba3ca57d893e3869d17f62",
+      "title": "Itinéraires vélo du Parc national de Port-Cros",
+      "organization": "Parc national de Port-Cros",
+      "origin": "theme",
+      "label": "Transports",
+      "dir": "itineraires-velo-du-parc-national-de-port-cros"
+    },
+    {
+      "dataset_id": "6536661882301752417a278d",
+      "title": "Recensement de la population - Fichiers détail : Individus localisés au canton-ou-ville ",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Territoires",
+      "dir": "recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-vi"
+    },
+    {
+      "dataset_id": "5e74ecf52eb7514f2d3b8845",
+      "title": "Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 ",
+      "organization": "Santé publique France",
+      "origin": "theme",
+      "label": "Santé",
+      "dir": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-c"
+    },
+    {
+      "dataset_id": "602eaa18c7db5ddb8b0cc547",
+      "title": "Médecins accrédités par la HAS",
+      "organization": "Haute Autorité de santé",
+      "origin": "theme",
+      "label": "Santé",
+      "dir": "medecins-accredites-par-la-has"
+    },
+    {
+      "dataset_id": "5bc5df57634f417a900a5ed0",
+      "title": "Annuaire des diagnostiqueurs immobiliers",
+      "organization": "Ministère de la Cohésion des territoires",
+      "origin": "theme",
+      "label": "Logement",
+      "dir": "annuaire-des-diagnostiqueurs-immobiliers"
+    },
+    {
+      "dataset_id": "6a2984c099d1cb741398dfce",
+      "title": "Extrait des coordonnées des étudiants boursiers pour les démarches proactives",
+      "organization": "Direction interministérielle du numérique",
+      "origin": "theme",
+      "label": "Éducation",
+      "dir": "extrait-des-coordonnees-des-etudiants-boursiers-pour-les-demarches-proactives"
+    },
+    {
+      "dataset_id": "6834629c4aab22399dba4b3f",
+      "title": "Bibliothèque Départementale des Côtes d'Armor: identifiants des bibliothèques",
+      "organization": "Département des Côtes d'Armor",
+      "origin": "theme",
+      "label": "Culture",
+      "dir": "bibliotheque-departementale-des-cotes-darmor-identifiants-des-bibliotheques-1"
+    },
+    {
+      "dataset_id": "602e74912f4f8f3583868fb6",
+      "title": "Prénoms des nouveaux nés de Neuville-Saint-Rémy",
+      "organization": "Commune de Neuville-Saint-Rémy",
+      "origin": "theme",
+      "label": "Territoires",
+      "dir": "prenoms-des-nouveaux-nes-de-neuville-saint-remy"
+    },
+    {
+      "dataset_id": "5a90572888ee384a37a8bf83",
+      "title": "Liste annuelle des prénoms des nouveaux-nés déclarés à l’état-civil de Pirae",
+      "organization": "Ville de Pirae",
+      "origin": "theme",
+      "label": "Territoires",
+      "dir": "liste-annuelle-des-prenoms-des-nouveaux-nes-declares-a-letat-civil-de-pirae"
+    },
+    {
+      "dataset_id": "5bc6dc8a8b4c411f8f1a0a17",
+      "title": "Liste des prénoms",
+      "organization": "Ville de Nevers",
+      "origin": "theme",
+      "label": "Territoires",
+      "dir": "liste-des-prenoms"
+    },
+    {
+      "dataset_id": "68da7c04a447f407a59a58f8",
+      "title": "Prénoms des nouveaux-nés",
+      "organization": "VILLE DE QUIMPER",
+      "origin": "theme",
+      "label": "Territoires",
+      "dir": "prenoms-des-nouveaux-nes-2"
+    },
+    {
+      "dataset_id": "56a8a17fc751df5b62ceae1c",
+      "title": "Equipements sportifs des Côtes d'Armor",
+      "organization": "Département des Côtes d'Armor",
+      "origin": "theme",
+      "label": "Sport",
+      "dir": "equipements-sportifs-des-cotes-darmor"
+    },
+    {
+      "dataset_id": "66cf11c2596a6fd675322315",
+      "title": "Recensement des équipements sportifs et lieux de pratique de Troyes Champagne Métropole",
+      "organization": "Troyes Champagne Métropole",
+      "origin": "theme",
+      "label": "Sport",
+      "dir": "recensement-des-equipements-sportifs-et-lieux-de-pratique-de-troyes-champagne-me"
+    }
+  ]
+}

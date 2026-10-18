@@ -1,0 +1,15 @@
+{
+  "dataset_id": "653668616ffc5fc0becb52b4",
+  "title": "Recensement de la population - Fichiers détail : Logements ordinaires",
+  "page": "https://www.data.gouv.fr/datasets/recensement-de-la-population-fichiers-detail-logements-ordinaires",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "description": "Données localisées à la commune et à l'IRIS décrivant les caractéristiques des logements et celles des ménages qui les occupent.\nLe fichier national logements ordinaires est disponible au format Parquet.\n\n**Champ** : logements ordinaires.\n\n**[Lien vers le fichier détail des individus localisés au canton-ou-ville](https://www.data.gouv.fr/fr/datasets/recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-ville/)**\n\n**[Retrouvez toute la documentation sur insee.fr](https://www.insee.fr/fr/statistiques/8205966)**",
+  "resource_title": "dictionnaire-variables-logemt-2021.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/recensement-de-la-population-fichiers-detail-logements-ordinaires-en-2020-1/20250212-094253/dictionnaire-variables-logemt-2021.csv",
+  "last_modified": "2025-02-12T09:42:59.980000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "logement",
+  "news": []
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "69bd265e2545e17d2d65fd37",
+  "title": "Zonages des professionnels de santé libéraux",
+  "page": "https://www.data.gouv.fr/datasets/zonages-des-professionnels-de-sante-liberaux",
+  "organization": "Atlasanté",
+  "description": "Les jeux de données t\\_zonages\\_com, t\\_zonages\\_gq, t\\_zonages\\_qpv permettent de restituer la composition des territoires de vie-santé et des bassins de vie / cantons-ville ainsi que les différents zonages des professions de santé.\n\nDataSanté est une base de données mise à disposition par le projet AtlaSanté. Cet outil a été construit pour stocker et partager des informations provenant de différentes sources de données, afin d'alimenter les cartes interactives produites par Atlasanté (SIRSé, CartoSanté, …).\\\nLes données restituées dans DataSanté sont publiques et sont mises à jour au fil de l'eau en fonction des publications des producteurs de données.\\\nChaque table est décrite dans un dictionnaire des données (source de données, champs de la table, …). \n",
+  "resource_title": "t_zonages_gq.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/zonages-des-professionnels-de-sante-liberaux/20260811-072014/t-zonages-gq.csv",
+  "last_modified": "2026-08-11T07:20:15.367000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

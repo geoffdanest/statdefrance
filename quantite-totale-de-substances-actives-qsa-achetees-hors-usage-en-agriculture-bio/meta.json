@@ -1,0 +1,15 @@
+{
+  "dataset_id": "68539efb85493296b78b2902",
+  "title": "Quantité totale de substances actives (QSA) achetées hors usage en agriculture biologique et hors biocontrôle",
+  "page": "https://www.data.gouv.fr/datasets/quantite-totale-de-substances-actives-qsa-achetees-hors-usage-en-agriculture-biologique-et-hors-biocontrole",
+  "organization": "Ecolab",
+  "description": "La stratégie Écophyto 2030 est la statégie nationale pour réduire la dépendance et le risque lié à l'utilisation de produits phytopharmaceutiques; le recours généralisé à ces produits ayant permis d’augmenter la productivité mais s’accompagnant de conséquences négatives, sur la santé humaine et l’environnement dans son ensemble (faune, flore, milieux aquatiques et ressource en eau). \n\nL'indicateur représente les quantités de substances actives phytopharmaceutiques achetées en France (hors susbtance active de biocontrôle et hors substance active utilisable en agriculture biologique) dans l'année, en tonnes. \n\nSource des données: BNVD ; traitement : CGDD/SDES. Périmètre: hexagone et outre-mer. #biodiversité #santé #ressources",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/quantite-totale-de-substances-actives-qsa-achetees-hors-usage-en-agriculture-biologique-et-hors-biocontrole/20260325-015732/description-des-champs.csv",
+  "last_modified": "2026-03-25T01:57:32.978000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "agriculture",
+  "news": []
+}

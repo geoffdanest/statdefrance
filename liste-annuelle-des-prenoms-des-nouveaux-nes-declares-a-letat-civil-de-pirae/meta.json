@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5a90572888ee384a37a8bf83",
+  "title": "Liste annuelle des prénoms des nouveaux-nés déclarés à l’état-civil de Pirae",
+  "page": "https://www.data.gouv.fr/datasets/liste-annuelle-des-prenoms-des-nouveaux-nes-declares-a-letat-civil-de-pirae",
+  "organization": "Ville de Pirae",
+  "description": "Ce jeu de données fait partie du <a href=\"http://opendatalocale.net/scdl/\">Socle Commun des Données Locales (SCDL)</a>.<br>Le jeu de données PRENOM contient les données essentielles suivantes (SCDL Prénoms des nouveaux-nés V 1.1.2) :<pre><ul><li>COMMUNE_NOM         Nom de la commune<li>COLL_INSEE          code INSEE de la commune<li>ENFANT_SEXE         Sexe du nouveau-né (M/F)<li>ENFANT_PRENOM       Prénom du nouveau-né<li>NOMBRE_OCCURRENCES   Nombre d'occurrences du prénom pour l'année correspondante.<li>ANNEE               Année de relevé</ul></pre>",
+  "resource_title": "Liste annuelle des prénoms des nouveaux-nés déclarés à l’état-civil de Pirae",
+  "resource_url": "https://static.data.gouv.fr/resources/liste-annuelle-des-prenoms-des-nouveaux-nes-declares-a-letat-civil-de-pirae/20190331-004822/liste-annuelle-des-prenoms.csv",
+  "last_modified": "2023-12-16T07:24:47.255000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "prénoms",
+  "news": []
+}

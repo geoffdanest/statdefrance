@@ -1,0 +1,15 @@
+{
+  "dataset_id": "611dd8425e16a88d96ef6a59",
+  "title": "Consommation annuelle d’électricité et gaz par IRIS et par secteur d’activité",
+  "page": "https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-iris-et-par-secteur-dactivite-1",
+  "organization": "Grand Poitiers Open Data",
+  "description": "Permet de visualiser l’évolution de 2011 à 2021 des consommations d'électricité et de gaz par secteur d'activité (résidentiel, tertiaire, industriel, agricole ou non affecté) et par IRIS.\n\n\n\nLe jeu de données décrit aussi le nombre de points de livraison par maille géographique.\n\nLes données sont ventilées sur le référentiel INSEE au 1er janvier 2021.\n\nCes données sont publiées dans le respect des règles relatives à la protection des Informations Commercialement Sensibles.\n\nUne notice méthodologique est disponible en PJ.\nUne question sur le jeu de données ? Un cas d'usage à partager avec d'autres utilisateurs ? Le [Forum des experts open data électricité et gaz](https://www.agenceore.fr/forum-expert) est là pour ça !",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.grandpoitiers.fr/data-fair/api/v1/datasets/consommation-annuelle-delectricite-et-gaz-par-iris-et-par-secteur-dactivite/raw",
+  "last_modified": "2026-01-29T21:03:49+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "électricité",
+  "news": []
+}

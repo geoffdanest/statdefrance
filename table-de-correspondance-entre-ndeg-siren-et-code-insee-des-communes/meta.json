@@ -1,0 +1,31 @@
+{
+  "dataset_id": "630f5173873064dd369479b4",
+  "title": "table de correspondance entre n° Siren et code Insee des communes",
+  "page": "https://www.data.gouv.fr/datasets/table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes",
+  "organization": "Direction générale des collectivités locales",
+  "description": "La table indique pour chaque commune son numéro Siren et son code Insee.",
+  "resource_title": "banatic-sireninsee-last.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes/20240307-175212/banatic-sireninsee-last.csv",
+  "last_modified": "2024-03-07T17:53:51.672000+00:00",
+  "license": "notspecified",
+  "origin": "actu",
+  "label": "table",
+  "query": "table",
+  "news": [
+    {
+      "title": "Félix Lebrun devient champion d'Europe de tennis de table pour la première fois et succède à son frère Alexis",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/felix-lebrun-devient-champion-d-europe-de-tennis-de-table-pour-la-premiere-fois-et-succede-a-son-frere-alexis_8242897.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Française Prithika Pavade médaillée de bronze aux championnats d'Europe de tennis de table",
+      "link": "https://www.franceinfo.fr/sports/tennis-de-table/la-francaise-prithika-pavade-medaillee-de-bronze-aux-championnats-d-europe-de-tennis-de-table_8242723.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Tennis de table : Le français Félix Lebrun sacré champion d’Europe pour la première fois",
+      "link": "https://www.20minutes.fr/sport/tennis_de_table/4255363-20261018-tennis-table-francais-felix-lebrun-sacre-champion-europe-premiere-fois?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

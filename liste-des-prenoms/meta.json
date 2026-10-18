@@ -1,0 +1,15 @@
+{
+  "dataset_id": "5bc6dc8a8b4c411f8f1a0a17",
+  "title": "Liste des prénoms",
+  "page": "https://www.data.gouv.fr/datasets/liste-des-prenoms",
+  "organization": "Ville de Nevers",
+  "description": "Liste des prénoms donnés à Nevers depuis 1905 avec nombre d'occurrences par année\nDonnées respectant les recommandations du Socle Commun des Données Locales\n\nhttps://scdl.opendatafrance.net/docs/schemas/prenoms.html",
+  "resource_title": "20221213-245804406-prenom.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/liste-des-prenoms/20221213-150708/20221213-245804406-prenom.csv",
+  "last_modified": "2022-12-13T15:07:08.830000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "prénoms",
+  "news": []
+}

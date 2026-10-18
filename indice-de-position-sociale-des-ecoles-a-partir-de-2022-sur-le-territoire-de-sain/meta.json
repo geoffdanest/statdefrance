@@ -1,0 +1,15 @@
+{
+  "dataset_id": "69f9e8f7acdc2a1aecdddc02",
+  "title": "Indice de Position Sociale des écoles à partir de 2022 sur le territoire de Saintes Grandes Rives, l'Agglo",
+  "page": "https://www.data.gouv.fr/datasets/indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-saintes-grandes-rives-lagglo",
+  "organization": "Saintes Grandes Rives, l'Agglo",
+  "description": "L’indice de position sociale (IPS) d’un établissement scolaire est un indicateur calculé par la DEPP. Ce dernier résume les conditions socio-économiques et culturelles des familles des élèves accueillis dans l'établissement. L'IPS permet ainsi de rendre compte des disparités sociales existantes entre établissements et à l’intérieur de ces mêmes établissements.\n",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://opendata.agglo-saintes.fr/data-fair/api/v1/datasets/ips-ecoles-a-partir-2022-epci/convert",
+  "last_modified": "2026-10-02T22:00:47+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "école",
+  "news": []
+}

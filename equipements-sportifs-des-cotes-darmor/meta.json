@@ -1,0 +1,15 @@
+{
+  "dataset_id": "56a8a17fc751df5b62ceae1c",
+  "title": "Equipements sportifs des Côtes d'Armor",
+  "page": "https://www.data.gouv.fr/datasets/equipements-sportifs-des-cotes-darmor",
+  "organization": "Département des Côtes d'Armor",
+  "description": "Liste des équipements sportifs pour chaque commune des Côtes d'Armor.",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://datarmor.cotesdarmor.fr/data-fair/api/v1/datasets/equipements-sportifs-des-cotes-darmor/raw",
+  "last_modified": "2026-01-29T21:00:57+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "équipements sportifs",
+  "news": []
+}

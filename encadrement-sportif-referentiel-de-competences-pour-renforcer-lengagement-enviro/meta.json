@@ -1,0 +1,15 @@
+{
+  "dataset_id": "69cb9a983269345c1944f966",
+  "title": "Encadrement sportif : référentiel de compétences pour renforcer l’engagement environnemental du sport",
+  "page": "https://www.data.gouv.fr/datasets/encadrement-sportif-referentiel-de-competences-pour-renforcer-lengagement-environnemental-du-sport",
+  "organization": "Pôle ressources national transition écologique et sports de nature",
+  "description": "Ce référentiel vise à servir de base de travail pour les personnes en charge de la conception de formation ou de modules de formation mais aussi comme document de référence pour accompagner l’intégration de la transition écologique et de la biodiversité dans les diplômes d’encadrement sportif qu’ils soient fédéraux ou d’État.\n\n* Définir une vision partagée et un langage commun ;\n* Formaliser et identifier les compétences socles pour les métiers d’éducateurs sportifs en fournissant un cadre structurant ;\n* Renforcer la mise en réseau et la coopération et donner de la visibilité à la démarche, reconnaitre les compétences et pouvoir partager avec les acteurs de la formation.\n",
+  "resource_title": "Objectifs et savoirs.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/referentiel-de-competences-de-lencadrement-sportif-en-milieu-naturel/20260331-223125/objectifs-et-savoirs.csv",
+  "last_modified": "2026-03-31T22:31:25.814000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}
