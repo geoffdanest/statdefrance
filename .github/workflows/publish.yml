@@ -34,9 +34,12 @@ jobs:
             python scripts/publish_daily.py
           fi
       - name: Enregistrer le statut « publié »
+        if: always()   # même si un créneau a échoué : ne jamais perdre le statut d'un post déjà publié
         run: |
           if [ -n "$(git status --porcelain posts)" ]; then
             git config user.name "statdefrance-bot"
             git config user.email "statdefrance-bot@users.noreply.github.com"
-            git add posts && git commit -qm "Publié : $(date +%F)" && git push
+            git add posts && git commit -qm "Publié : $(date +%F)"
+            # le repo a pu bouger pendant la publication (validations, autre robot) : on récupère puis on pousse
+            for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
           fi

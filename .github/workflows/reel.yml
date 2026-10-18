@@ -21,6 +21,7 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: python scripts/publish_reel.py
       - name: Enregistrer le statut « publié »
+        if: always()
         run: |
           if [ -n "$(git status --porcelain reels)" ]; then
             git config user.name "statdefrance-bot"
