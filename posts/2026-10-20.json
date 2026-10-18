@@ -31,6 +31,6 @@
   "dot_unit": "contrats",
   "calc": "Fichier cotas_emploi_2024 (1 232 EPCI, année 2024), colonne Nb.contrats.actifs.en.fin.d.annee : CU du Grand Reims 9 707 ; Métropole d’Aix-Marseille-Provence 9 583 ; Métropole de Lyon 7 797 ; Nantes Métropole 7 173. Premier EPCI : Métropole du Grand Paris 29 669. Total des EPCI : 838 614.",
   "caption": "Le Grand Reims, plus agricole que Lyon ou Marseille.\n\nFin 2024, on comptait 9 707 contrats salariés actifs au régime agricole dans la communauté urbaine du Grand Reims, terre de champagne. C’est plus que dans la métropole d’Aix-Marseille-Provence (9 583) ou de Lyon (7 797), pourtant bien plus peuplées. Le régime agricole couvre les salariés des exploitations mais aussi des coopératives et organismes agricoles, ce qui place le Grand Paris en tête (29 669). Au total, 838 614 contrats en France, alors que le gouvernement redoute une « saison des colères agricoles ».\n\nSource : Mutualité Sociale Agricole, « emploi salarié au régime agricole », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/emploi-salarie-au-regime-agricole\n\n#statdefrance #opendata #agriculture #emploi #champagne #reims",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 250
 }

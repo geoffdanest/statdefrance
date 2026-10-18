@@ -31,6 +31,6 @@
   "dot_unit": "clubs",
   "calc": "Fichier clubs-data-2018.csv (latin-1), somme clubs_sportifs_2018 par nom_federation : FF de football 13 854 ; FF de tennis 7 341 ; FF de pétanque et jeu provençal 5 633 ; FF de basketball 3 873. Dernière année disponible dans ce jeu : 2018.",
   "caption": "5 633 clubs de pétanque, 3 873 de basket.\n\nD’après le recensement des fédérations sportives (données 2018, les plus récentes de ce jeu), la pétanque compte 5 633 clubs affiliés en France, loin devant le basket (3 873). Le football reste de loin le premier sport en nombre de clubs (13 854), devant le tennis (7 341).\n\nSource : Institut national de la jeunesse et de l’éducation populaire, « Données géocodées issues du recensement des licences et clubs auprès des fédérations sportives agréées par le ministère chargé des sports », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports\n\n#statdefrance #opendata #sport #petanque #basket #clubs",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 500
 }

@@ -13,5 +13,5 @@
   "hook": "sont déclarées pour vacciner contre le Covid-19 (2026).",
   "calc": "Fichier santefr-lieux-vaccination-covid-pharmacies.csv (mis à jour le 15/10/2026) : 13 922 lignes. Lignes dont le Titre contient « pharmacie » : 13 458 (13 456 Finess distincts). Les 464 autres sont des centres de santé ou de vaccination.",
   "caption": "Plus de 13 000 pharmacies vaccinent contre le Covid.\n\nLe site Santé.fr recense 13 458 pharmacies déclarées pour la vaccination contre le Covid-19, auxquelles s’ajoutent quelques centaines de centres de santé et de vaccination. Une offre de proximité, sans rendez-vous dans de nombreux cas, au moment où s’ouvre la saison des vaccins d’automne.\n\nSource : Ministère des Solidarités et de la Santé, « Lieux de vaccination Covid-19 (pharmacies) - Santé.fr », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/lieux-de-vaccination-covid-19-pharmacies-sante-fr\n\n#statdefrance #opendata #sante #vaccination #pharmacie #covid",
-  "status": "draft"
+  "status": "validated"
 }

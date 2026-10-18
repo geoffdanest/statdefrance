@@ -13,5 +13,5 @@
   "hook": "sont classées « A bis », la zone où le logement est le plus tendu.",
   "calc": "Fichier zonage ABC en vigueur depuis le 26 juin 2026 (34 875 communes) : Abis 134 ; A 870 ; B1 2 383 ; B2 3 162 ; C 28 326 (81,2 %).",
   "caption": "134 communes sur près de 35 000.\n\nLe zonage ABC classe les communes selon le déséquilibre entre l’offre et la demande de logements. Dans sa version en vigueur depuis juin 2026, seules 134 communes sont en zone « A bis », la plus tendue, et 870 en zone A. À l’inverse, 28 326 communes, soit 81 %, sont en zone C, la moins tendue. Ce classement fixe notamment des plafonds de loyers et l’accès à certaines aides, un sujet sensible en pleine mobilisation contre la vie chère.\n\nSource : Ministère de la Transition écologique, « Liste des communes selon le zonage ABC », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-abc\n\n#statdefrance #opendata #logement #immobilier #loyers #viechere",
-  "status": "draft"
+  "status": "validated"
 }

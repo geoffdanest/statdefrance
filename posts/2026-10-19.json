@@ -27,6 +27,6 @@
   "dot_unit": "communes",
   "calc": "Fichier Zonage TLV (34 875 communes). Colonne « Zonage TLV 2013 » = TLV : 1 138. « Zonage TLV 2023 » : 1. Zone tendue 1 432 + 2. Zone touristique et tendue 2 261 = 3 693. « Zonage TLV post décret 22/12/2025 » : 1 430 + 2 259 = 3 689. Rapport 3 689 / 1 138 = 3,24.",
   "caption": "1 138 communes en 2013, 3 689 aujourd’hui.\n\nLe zonage « TLV » désigne les communes où le logement est jugé sous tension : la taxe sur les logements vacants y est due, et les maires peuvent majorer celle sur les résidences secondaires. En 2013, 1 138 communes étaient concernées. Depuis la refonte de 2023, qui a ajouté les zones touristiques, elles sont 3 693, et 3 689 après le décret de décembre 2025. Alors que la vie chère a fait descendre des milliers de personnes dans la rue ce 17 octobre, la carte des communes où se loger devient difficile s’est nettement étendue.\n\nSource : Ministère de la Transition écologique, « Liste des communes selon le zonage TLV », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-communes-selon-le-zonage-tlv-1\n\n#statdefrance #opendata #logement #zonetendue #viechere #immobilier",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 60
 }

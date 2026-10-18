@@ -31,6 +31,6 @@
   "dot_unit": "musées",
   "calc": "Fichier musees-de-france-base-museofile.csv (séparateur |, 1 216 musées), comptage par Region : Auvergne-Rhône-Alpes 137 ; Île-de-France 133 ; Normandie 90 ; Bretagne 34. Rapport 137 / 34 = 4,0.",
   "caption": "34 musées de France en Bretagne, 137 en Auvergne-Rhône-Alpes.\n\nLa base Muséofile recense 1 216 établissements labellisés « Musée de France ». L’Auvergne-Rhône-Alpes en compte 137, devant l’Île-de-France (133). La Bretagne n’en compte que 34, quatre fois moins, et moins que la Normandie voisine (90). Parmi les régions métropolitaines, seule la Corse (10) en compte moins.\n\nSource : Ministère de la Culture, « Répertoire des Musées de France : base Muséofile », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/musees-de-france-base-museofile\n\n#statdefrance #opendata #culture #musees #bretagne #patrimoine",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 5
 }
