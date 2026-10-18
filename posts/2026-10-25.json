@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-25",
+  "slot": "matin",
+  "theme": "Environnement",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "N° 016",
+  "source": "Min. de la Santé, saison balnéaire 2026",
+  "source_url": "https://www.data.gouv.fr/datasets/donnees-de-rapportage-de-la-saison-balneaire-1",
+  "dataset_id": "57fce28ac751df0e4079df72",
+  "title": "En 2026, le Finistère compte plus de sites de baignade que le Var.",
+  "rows": [
+    {
+      "name": "Finistère",
+      "value": 269,
+      "highlight": true
+    },
+    {
+      "name": "Var",
+      "value": 202
+    },
+    {
+      "name": "Alpes-Maritimes",
+      "value": 157
+    },
+    {
+      "name": "Morbihan",
+      "value": 146
+    }
+  ],
+  "dot_unit": "sites",
+  "calc": "Fichier saison-balneaire-2026-liste-des-sites-de-baignade.csv (latin-1), 3 409 sites. Comptage par Département : 029 = 269 ; 083 = 202 ; 006 = 157 ; 056 = 146. Eau côtière 2 043 (59,9 %).",
+  "caption": "269 sites de baignade surveillés dans le Finistère.\n\nEn 2026, 3 409 sites de baignade ont fait l’objet d’un contrôle sanitaire en France. Le département qui en compte le plus n’est pas sur la Méditerranée : c’est le Finistère, avec 269 sites, devant le Var (202) et les Alpes-Maritimes (157). Six sites sur dix sont en mer, les autres en lac ou en rivière.\n\nSource : Ministère des Solidarités et de la Santé, « Données de rapportage de la saison balnéaire », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/donnees-de-rapportage-de-la-saison-balneaire-1\n\n#statdefrance #opendata #environnement #baignade #finistere #bretagne",
+  "status": "draft"
+}

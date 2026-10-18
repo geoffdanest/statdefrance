@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "slot": "matin",
+  "theme": "Logement",
+  "palette": "nuit",
+  "template": "carte",
+  "num": "N° 008",
+  "source": "Min. Transition écologique, LOVAC 2026",
+  "source_url": "https://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026",
+  "dataset_id": "61816c6e23197bb34835228e",
+  "number": 1179845,
+  "unit": "logements",
+  "hook": "du parc privé sont vides depuis plus de deux ans (2026).",
+  "calc": "Fichier Lovac_opendata_France.csv (latin-1), ligne France, millésime 2026, colonne pp_vacant_plus_2ans = 1 179 845 (pp_vacant = 3 160 235). Série 2020-2026 : entre 1 114 443 et 1 348 470 chaque année. NB : millésime 2025 incohérent pour pp_vacant (2,38 M), non utilisé.",
+  "caption": "Près de 1,2 million de logements vides depuis plus de deux ans.\n\nSelon les fichiers LOVAC 2026, 1 179 845 logements du parc privé sont vacants depuis plus de deux ans en France, sur 3,2 millions de logements vacants au total. Ce chiffre dépasse le million chaque année depuis 2020. En pleine mobilisation contre la vie chère, ces logements durablement vides sont une des pistes suivies par le plan national de lutte contre la vacance.\n\nSource : Ministère de la Transition écologique, « Logements vacants du parc privé par commune, département, région, France, de 2020 à 2026 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/logements-vacants-du-parc-prive-par-commune-departement-region-france-de-2020-a-2026\n\n#statdefrance #opendata #logement #logementsvacants #viechere #immobilier",
+  "status": "draft"
+}

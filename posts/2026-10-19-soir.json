@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-19",
+  "slot": "soir",
+  "theme": "Sécurité",
+  "palette": "papier",
+  "template": "grille",
+  "num": "N° 005",
+  "source": "SDIS de l’Essonne, interventions (2022)",
+  "source_url": "https://www.data.gouv.fr/datasets/interventions-des-pompiers",
+  "dataset_id": "5bd9c7c8634f412c5f28cc48",
+  "pct": 83,
+  "label": "des sorties des pompiers de l’Essonne sont des secours à personne.",
+  "calc": "Fichier interventions-sdis91 (depuis 2018), année 2022 : somme nb_ope = 97 304. SUAP 81 041 (83,3 %) ; accidents de la route (ACCI) 4 812 (4,9 %) ; incendies urbains (INCU) 2 057 (2,1 %) ; catégorie vide 9 394 (9,7 %). 2022 = dernière année complète (2023 partielle).",
+  "caption": "Les pompiers éteignent des feux… dans 2 % des cas.\n\nEn 2022, les sapeurs-pompiers de l’Essonne sont intervenus 97 304 fois. 83 % de ces interventions étaient des secours d’urgence à personne (malaises, chutes, blessures), contre 5 % pour des accidents de la route et à peine 2 % pour des incendies. Après les images de feux en marge de la mobilisation du 17 octobre, un rappel : le cœur du métier, c’est désormais le secours aux personnes.\n\nSource : Service départemental d'incendie et de secours de l'Essonne, « Interventions des pompiers », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/interventions-des-pompiers\n\n#statdefrance #opendata #pompiers #securite #essonne #secours",
+  "status": "draft"
+}

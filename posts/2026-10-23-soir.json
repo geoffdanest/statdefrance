@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-23",
+  "slot": "soir",
+  "theme": "Territoires",
+  "palette": "papier",
+  "template": "hemicycle",
+  "num": "N° 013",
+  "source": "Atlasanté, population de référence 2023",
+  "source_url": "https://www.data.gouv.fr/datasets/population-de-reference-t-popref-com",
+  "dataset_id": "6772c40953d3ce8c717bb851",
+  "pct": 52,
+  "title": "Plus de la moitié des communes ont moins de 500 habitants.",
+  "label": "des communes, 6 % des habitants",
+  "calc": "Fichier t-popref-com.csv, COM_TYPE = COM et popref_annee = 2023 : 34 862 communes. popref_mun < 500 : 18 256 communes (52,4 %), qui rassemblent 6,0 % de la population municipale.",
+  "caption": "La moitié des communes, 6 % des habitants.\n\nSelon la population de référence 2023, 18 256 des 34 862 communes de France ont moins de 500 habitants, soit 52 %. Ensemble, elles ne rassemblent pourtant que 6 % de la population. C’est l’une des singularités françaises : un pays de toutes petites communes.\n\nSource : Atlasanté, « Population de référence (t_popref_com) », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/population-de-reference-t-popref-com\n\n#statdefrance #opendata #territoires #communes #ruralite #population",
+  "status": "draft"
+}

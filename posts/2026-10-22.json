@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-22",
+  "slot": "matin",
+  "theme": "Agriculture",
+  "palette": "nuit",
+  "template": "grille",
+  "num": "N° 010",
+  "source": "ISPF, exploitations agricoles (2023)",
+  "source_url": "https://www.data.gouv.fr/datasets/agriculture-peche-aquaculture-et-perliculture",
+  "dataset_id": "690ba547e068527bfd8ebca5",
+  "pct": 20,
+  "label": "des éleveurs bovins de Polynésie française sont des femmes.",
+  "calc": "Fichier 11406.csv « Répartition par sexe des responsables d’exploitations agricoles par filière en Polynésie française en 2023 » : ligne Femmes, Filière bovine = 0,2. Maximum : horticole 0,39 ; vanille 0,37 ; avicole 0,38. Minimum : bovine 0,2.",
+  "caption": "Une éleveuse pour quatre éleveurs.\n\nEn Polynésie française, en 2023, 20 % des responsables d’exploitations bovines sont des femmes. Aucune filière n’est à majorité féminine : les plus féminisées sont l’horticulture (39 %), l’aviculture (38 %) et la vanille (37 %). Un éclairage loin de l’Hexagone, alors que l’agriculture revient au cœur de l’actualité.\n\nSource : Institut de la statistique de la Polynésie française, « Agriculture, pêche, aquaculture et perliculture », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/agriculture-peche-aquaculture-et-perliculture\n\n#statdefrance #opendata #agriculture #polynesie #elevage #femmes",
+  "status": "draft"
+}
