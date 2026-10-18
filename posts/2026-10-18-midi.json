@@ -31,5 +31,8 @@
   "dot_unit": "accidents",
   "calc": "Fichier Vehicules_2024.csv : 54 402 accidents (Num_Acc uniques). Accidents avec au moins un véhicule de la catégorie : voiture (catv 7) 40 718 ; deux-roues motorisé (catv 2, 30, 31, 32, 33, 34, 41, 42, 43) 17 000 = 31,2 % ; vélo (1, 80) 5 523 ; EDP motorisé (50) 2 842. Un accident peut compter dans plusieurs lignes.",
   "caption": "Un accident corporel sur trois implique un deux-roues motorisé.\n\nEn 2024, les forces de l’ordre ont recensé 54 402 accidents de la route ayant fait au moins une victime. Une voiture est impliquée dans 40 718 d’entre eux, un scooter ou une moto dans 17 000 (31 %), un vélo dans 5 523 et une trottinette électrique ou un engin similaire dans 2 842. Un même accident peut impliquer plusieurs types de véhicules.\n\nSource : Ministère de l’Intérieur, « Bases de données annuelles des accidents corporels de la circulation routière », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024\n\n#statdefrance #opendata #securiteroutiere #moto #scooter #velo #trottinette",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18643192831035089",
+  "ig_permalink": "https://www.instagram.com/p/Deocc5LHXSc/",
+  "published_at": "2026-10-18T12:14:43.809817+02:00"
 }
