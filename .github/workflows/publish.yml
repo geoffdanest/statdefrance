@@ -1,14 +1,15 @@
-name: Publication Instagram (6h et 12h)
+name: Publication Instagram (9h et 18h)
 on:
   schedule:
-    - cron: "4 4 * * *"   # 6h à Paris en été
-    - cron: "4 5 * * *"   # 6h à Paris en hiver (le script ignore le passage trop tôt et ne publie jamais deux fois)
-    - cron: "4 10 * * *"  # 12h à Paris en été
-    - cron: "4 11 * * *"  # 12h à Paris en hiver
+    # Secours : le déclenchement à l'heure vient des tâches programmées Claude (9h02 et 18h02).
+    - cron: "4 7 * * *"   # 9h à Paris en été
+    - cron: "4 8 * * *"   # 9h à Paris en hiver (le script ignore le passage trop tôt et ne publie jamais deux fois)
+    - cron: "4 16 * * *"  # 18h à Paris en été
+    - cron: "4 17 * * *"  # 18h à Paris en hiver
   workflow_dispatch:
     inputs:
       date: { description: "Date à publier (AAAA-MM-JJ), vide = aujourd'hui", required: false }
-      slot: { description: "Créneau : matin, midi, ou vide = les deux", required: false }
+      slot: { description: "Créneau : matin, soir, ou vide = les deux", required: false }
 permissions:
   contents: write
 concurrency: { group: publish, cancel-in-progress: false }
