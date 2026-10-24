@@ -12,5 +12,8 @@
   "label": "des centres de santé comptent au moins un généraliste.",
   "calc": "Fichier « Liste des centres de santé (CDS) » (15 932 lignes, 3 618 etab_finess distincts). Centres ayant au moins une ligne specialite_libelle = Médecin généraliste : 1 672 / 3 618 = 46,2 %. Chirurgien-dentiste : 1 841 (50,9 %).",
   "caption": "Un centre de santé sur deux n’a pas de généraliste.\n\nL’annuaire santé de l’Assurance Maladie recense 3 618 centres de santé. Seuls 1 672 d’entre eux, soit 46 %, proposent une consultation de médecine générale. Les dentistes y sont plus présents (1 841 centres). Un repère utile pour ceux qui cherchent un médecin traitant.\n\nSource : Caisse nationale de l'Assurance Maladie, « Annuaire santé Ameli », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/annuaire-sante-ameli\n\n#statdefrance #opendata #sante #medecin #centresdesante #accesauxsoins",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18095709077160973",
+  "ig_permalink": "https://www.instagram.com/p/De3jVVMl3xG/",
+  "published_at": "2026-10-24T09:03:28.896758+02:00"
 }
