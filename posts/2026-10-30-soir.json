@@ -12,5 +12,5 @@
   "label": "des cantines déclarantes atteignaient l’objectif de 20 % de bio en 2021.",
   "calc": "Fichier « Résultats de campagnes de télédéclaration des cantines (données 2021) » : 3 089 télédéclarations (year = 2021, canteen_id distincts). teledeclaration_ratio_bio >= 0,20 : 30,7 %. Médiane 9,9 %, moyenne 14,3 %. Bio + autres produits EGalim >= 50 % : 15,6 %.",
   "caption": "Le bio à la cantine : l’objectif de 20 % encore loin.\n\nLa loi EGalim fixe à la restauration collective un objectif de 20 % de produits bio. En 2021, parmi les 3 089 cantines qui ont déclaré leurs achats sur la plateforme « ma cantine », moins d’une sur trois (31 %) l’atteignait. Pour la moitié d’entre elles, le bio pesait moins de 10 % des achats. Ces déclarations sont volontaires : elles ne couvrent pas toutes les cantines.\n\nSource : Ministère de l’Agriculture, « Résultats de campagnes de télédéclaration des cantines », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/resultats-de-campagnes-de-teledeclaration-des-cantines\n\n#statdefrance #opendata #alimentation #cantine #bio #egalim",
-  "status": "draft"
+  "status": "validated"
 }

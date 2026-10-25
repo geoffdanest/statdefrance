@@ -31,6 +31,6 @@
   "dot_unit": "%",
   "calc": "Fichier quotidien urgences/SOS Médecins, dates de passage 2024. Somme nbre_hospit_corona / somme nbre_pass_corona par classe d'âge (sursaud_cl_age_corona) : 1+2 (0-14 ans) 1 550/10 065 = 15,4 % ; 3 (15-44) 1 048/10 801 = 9,7 % ; 4 (45-64) 2 372/8 973 = 26,4 % ; 5 (65-74) 4 123/8 569 = 48,1 % ; 6 (75+) 18 342/28 668 = 64,0 %. Tous âges : 27 435/67 076 = 40,9 %. Moins de 45 ans (classes 1+2+3) : 2 598/20 866 = 12,5 % (affiché 12). Valeurs arrondies à l'unité.",
   "caption": "Le Covid reste une affaire sérieuse pour les plus âgés.\n\nEn 2024, parmi les passages aux urgences pour suspicion de Covid-19, 64 % des patients de 75 ans et plus ont été hospitalisés, contre 10 % chez les 15-44 ans. Tous âges confondus, c’est 4 passages sur 10. Les 75 ans et plus représentent à eux seuls plus de 4 passages pour Covid sur 10. De quoi rappeler l’intérêt du rappel vaccinal d’automne chez les seniors.\n\nSource : Santé publique France, « Données des urgences hospitalières et de SOS médecins relatives à l'épidémie de COVID-19 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19\n\n#statdefrance #opendata #sante #covid #urgences #seniors",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 2
 }

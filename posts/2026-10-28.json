@@ -12,5 +12,5 @@
   "label": "des députés élus au second tour des législatives 2024 sont des femmes.",
   "calc": "Fichier résultats définitifs du 2nd tour (501 circonscriptions). Pour k = 1 à 4 : Elu k = « élu » → 501 élus, dont Sexe candidat k = FEMININ : 179 → 35,7 %. Hors les 76 députés élus dès le 1er tour (absents du fichier). Seconds tours : 409 duels, 89 triangulaires, 2 quadrangulaires, 1 candidat seul.",
   "caption": "Un peu plus d’un député sur trois est une femme.\n\nAux législatives anticipées de 2024, 501 députés ont été élus au second tour. 179 sont des femmes, soit 36 %. La parité des candidatures est obligatoire depuis 2000, mais elle ne garantit pas celle des élus. Ce chiffre n’inclut pas les 76 députés élus dès le premier tour.\n\nSource : Ministère de l’Intérieur, « Elections législatives des 30 juin et 7 juillet 2024 - Résultats définitifs du 2nd tour », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-2nd-tour\n\n#statdefrance #opendata #elections #legislatives #parite #assembleenationale",
-  "status": "draft"
+  "status": "validated"
 }

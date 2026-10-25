@@ -31,6 +31,6 @@
   "dot_unit": "visiteurs",
   "calc": "Fichier à largeur fixe, lignes NOM_MUSEE = Musée Picasso, NB_TOTAL_ENTREES : 2019 131 483 ; 2020 43 175 ; 2022 150 479 ; 2023 188 878 ; 2024 184 084 ; 2025 199 213 (139 040 payantes + 60 173 gratuites). Maximum de la série 2001-2025 (précédent : 2002, 164 961). +51,5 % par rapport à 2019.",
   "caption": "Le musée Picasso d’Antibes n’a jamais eu autant de visiteurs.\n\nEn 2025, 199 213 personnes ont visité le château Grimaldi, où Picasso a travaillé en 1946 : c’est le plus haut niveau depuis le début de la série en 2001, et 50 % de plus qu’en 2019. Après la chute de 2020, la fréquentation a dépassé son niveau d’avant-Covid dès 2022.\n\nSource : Ville d’Antibes, « Fréquentation des Musées de France de la Ville d'Antibes », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/frequentation-des-musees-de-france-de-la-ville-dantibes\n\n#statdefrance #opendata #culture #musees #picasso #antibes",
-  "status": "draft",
+  "status": "validated",
   "per_dot": 5000
 }

@@ -12,5 +12,5 @@
   "label": "des médecins accrédités par la HAS sont anesthésistes-réanimateurs.",
   "calc": "Fichier médecins accrédités (collecte du 25/10/2026) : 11 429 lignes, 9 683 N° RPPS distincts. RPPS distincts avec OA = CFAR (anesthésie-réanimation) : 2 800 → 28,9 %. Puis ORTHORISQ (chirurgie orthopédique) 1 812, GYNERISQ 1 199, FCVD (chirurgie viscérale) 961.",
   "caption": "Près d’un médecin accrédité sur trois est anesthésiste.\n\nL’accréditation de la Haute Autorité de santé est une démarche volontaire de gestion des risques, réservée aux spécialités dites « à risques » exercées en établissement. En 2026, 9 683 médecins sont accrédités, dont 2 800 anesthésistes-réanimateurs (29 %), loin devant les chirurgiens orthopédistes (1 812) et les gynécologues-obstétriciens (1 199).\n\nSource : Haute Autorité de santé, « Médecins accrédités par la HAS », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/medecins-accredites-par-la-has\n\n#statdefrance #opendata #sante #medecins #anesthesie #securitedessoins",
-  "status": "draft"
+  "status": "validated"
 }

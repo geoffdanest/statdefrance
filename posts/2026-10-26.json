@@ -13,5 +13,5 @@
   "hook": "blancs ou nuls au second tour de la présidentielle 2012.",
   "calc": "Fichier « Résultats des présidentielles par circonscription 2012 2nd tour (6 mai 2012) », 577 circonscriptions. Somme Blancs et nuls = 2 154 956 ; Votants 37 016 309 → 5,82 % ; Inscrits 46 066 307 → abstention 19,6 %. Vérif. : Votants − Exprimés = Blancs et nuls.",
   "caption": "Plus de 2 millions d’électeurs se sont déplacés… pour ne choisir personne.\n\nAu second tour de la présidentielle de 2012, 2 154 956 bulletins blancs ou nuls ont été déposés dans l’urne, soit 5,8 % des votants. À l’époque, blancs et nuls étaient encore comptés ensemble : les votes blancs ne sont décomptés à part que depuis 2014. Un repère, alors que la campagne pour la prochaine présidentielle s’ouvre.\n\nSource : Sciences Po (CDSP), « Elections présidentielles 1965-2012 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/elections-presidentielles-1965-2012-1\n\n#statdefrance #opendata #elections #presidentielle #voteblanc #democratie",
-  "status": "draft"
+  "status": "validated"
 }
