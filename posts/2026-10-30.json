@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-30",
+  "slot": "matin",
+  "theme": "Santé",
+  "palette": "nuit",
+  "template": "grille",
+  "num": "N° 024",
+  "source": "Atlasanté, zonages (2026)",
+  "source_url": "https://www.data.gouv.fr/datasets/zonages-des-professionnels-de-sante-liberaux",
+  "dataset_id": "69bd265e2545e17d2d65fd37",
+  "pct": 24,
+  "label": "des Réunionnais vivent dans une zone sous-dotée en dentistes.",
+  "calc": "Fichier t_zonages_gq (mise à jour 30/07/2026) : 130 grands quartiers, tous à La Réunion, population totale 881 349. zdent_niveau (arrêté du 31/12/2024) : 1_Tres_sous_dotee 12,2 % + 2_Sous_dotee 12,1 % = 24,3 % de la population. Médecins généralistes (zmed) : ZIP 9,7 %, ZAC 6,4 %.",
+  "caption": "À La Réunion, un habitant sur quatre vit loin des dentistes.\n\nSelon le zonage des chirurgiens-dentistes en vigueur (arrêté de fin 2024), 24 % des Réunionnais habitent un quartier classé « très sous-doté » ou « sous-doté ». Pour les médecins généralistes, près de 10 % vivent en zone d’intervention prioritaire. Ces zonages servent à cibler les aides à l’installation des soignants.\n\nSource : Atlasanté, « Zonages des professionnels de santé libéraux », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/zonages-des-professionnels-de-sante-liberaux\n\n#statdefrance #opendata #sante #dentiste #lareunion #desertsmedicaux",
+  "status": "draft"
+}

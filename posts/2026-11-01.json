@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-01",
+  "slot": "matin",
+  "theme": "Éducation",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "N° 026",
+  "source": "DEPP via Saintes Agglo, IPS 2024-25",
+  "source_url": "https://www.data.gouv.fr/datasets/indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-saintes-grandes-rives-lagglo",
+  "dataset_id": "69f9e8f7acdc2a1aecdddc02",
+  "title": "Écoles privées et publiques : l’écart social se creuse d’année en année.",
+  "rows": [
+    {
+      "name": "Rentrée 2022",
+      "value": 16.4
+    },
+    {
+      "name": "Rentrée 2023",
+      "value": 17.4
+    },
+    {
+      "name": "Rentrée 2024",
+      "value": 18.4,
+      "highlight": true
+    }
+  ],
+  "dot_unit": "point d’indice",
+  "calc": "Fichier IPS des écoles (Saintes Grandes Rives), colonnes nationales par rentree_scolaire : 2022-2023 privé 119,3 / public 102,9 → écart 16,4 ; 2023-2024 120,3 / 102,9 → 17,4 ; 2024-2025 121,5 / 103,1 → 18,4. Ensemble 2024-2025 : 105,8.",
+  "caption": "L’écart social entre écoles privées et publiques se creuse.\n\nL’indice de position sociale (IPS), calculé par le ministère de l’Éducation nationale, résume le milieu social et culturel des familles des élèves : plus il est élevé, plus le public est favorisé. À la rentrée 2024, il atteint 121,5 en moyenne dans les écoles primaires privées, contre 103,1 dans le public. L’écart est passé de 16,4 points en 2022 à 18,4 points en 2024.\n\nSource : Saintes Grandes Rives l’Agglo, « Indice de Position Sociale des écoles à partir de 2022 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-saintes-grandes-rives-lagglo\n\n#statdefrance #opendata #education #ecole #mixitesociale #ips",
+  "status": "draft",
+  "per_dot": 0.5
+}

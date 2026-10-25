@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-27",
+  "slot": "matin",
+  "theme": "Culture",
+  "palette": "nuit",
+  "template": "hemicycle",
+  "num": "N° 020",
+  "source": "Min. de la Culture, emploi (2017)",
+  "source_url": "https://www.data.gouv.fr/datasets/emploi-professions-culturelles-par-departement",
+  "dataset_id": "635a0251ae37fbcc1290f691",
+  "pct": 23,
+  "title": "Paris abrite près d’un professionnel de la culture sur quatre.",
+  "label": "des actifs exerçant un métier culturel",
+  "calc": "Fichier professions culturelles par département (2017) : Paris (75) 139 944 actifs en profession culturelle / total France (101 départements) 609 597 = 22,96 %. Paris pèse 6,9 % de l'ensemble des actifs (1 816 371 / 26 486 319). Part de métiers culturels parmi les actifs : Paris 7,7 %, France 2,3 %.",
+  "caption": "Près d’un professionnel de la culture sur quatre habite à Paris.\n\nEn 2017, la France comptait environ 610 000 actifs exerçant une profession culturelle (artistes, journalistes, architectes, métiers du patrimoine…). Près de 140 000 vivaient à Paris, alors que la capitale ne regroupe que 7 % de l’ensemble des actifs du pays. À Paris, 1 actif sur 13 exerce un métier culturel, contre 1 sur 43 en moyenne en France.\n\nSource : Ministère de la Culture, « Emploi : Professions culturelles par département », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/emploi-professions-culturelles-par-departement\n\n#statdefrance #opendata #culture #emploi #paris #metiersdelaculture",
+  "status": "draft"
+}
