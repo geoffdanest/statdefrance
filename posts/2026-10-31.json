@@ -1,32 +1,17 @@
 {
   "date": "2026-10-31",
   "slot": "matin",
-  "theme": "Société",
-  "palette": "papier",
-  "template": "compare",
-  "num": "N° 025",
-  "source": "Ville de Nevers, prénoms 1905-2021",
-  "source_url": "https://www.data.gouv.fr/datasets/liste-des-prenoms",
-  "dataset_id": "5bc6dc8a8b4c411f8f1a0a17",
-  "title": "À Nevers, on donne près de 5 fois plus de prénoms différents que dans les années 1950.",
-  "rows": [
-    {
-      "name": "Années 1950",
-      "value": 761
-    },
-    {
-      "name": "Années 1980",
-      "value": 1811
-    },
-    {
-      "name": "Années 2010",
-      "value": 3579,
-      "highlight": true
-    }
-  ],
-  "dot_unit": "prénoms",
-  "calc": "Fichier prénoms de Nevers (sexes M et F, I exclu). Prénoms distincts par décennie : 1950-1959 761 (12 875 naissances) ; 1980-1989 1 811 (16 858) ; 2010-2019 3 579 (12 489). 3 579 / 761 = 4,70. Prénom n°1 des garçons : Jean 1950s (15,6 % des garçons), Jules 2010s (1,9 %).",
-  "caption": "Les prénoms ne se sont jamais autant diversifiés.\n\nÀ Nevers, il est né à peu près autant d’enfants dans les années 2010 que dans les années 1950 (environ 12 500). Mais on leur a donné 3 579 prénoms différents, contre 761 soixante ans plus tôt. Dans les années 1950, Jean était donné à plus d’un garçon sur sept ; dans les années 2010, le prénom n°1, Jules, à moins de 2 %.\n\nSource : Ville de Nevers, « Liste des prénoms », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-prenoms\n\n#statdefrance #opendata #prenoms #societe #nevers #genealogie",
-  "status": "draft",
-  "per_dot": 50
+  "theme": "Logement",
+  "palette": "nuit",
+  "template": "carte",
+  "num": "N° 028",
+  "source": "Anah, opérations programmées (2026)",
+  "source_url": "https://www.data.gouv.fr/datasets/liste-des-operations-programmees-de-lanah-en-cours-et-terminees",
+  "dataset_id": "64baa5c3658fd7f16a3f7fd0",
+  "number": 1124,
+  "unit": "opérations",
+  "hook": "pour rénover l’habitat privé sont en cours, dans 99 départements.",
+  "calc": "Fichier Anah (mis à jour le 17/10/2026), 4 880 opérations. En cours au 25/10/2026 : datedebut <= 2026-10-25 et dateexpiration >= 2026-10-25 → 1 124 opérations, 99 départements distincts. Dont 600 OPAH (tous types) et 369 PIG. 1er département : Essonne (47).",
+  "caption": "Plus de 1 100 chantiers de rénovation de l’habitat privé pilotés en même temps.\n\nFin octobre 2026, 1 124 opérations programmées de l’Anah sont en cours, dans 99 départements. Ce sont des dispositifs locaux (OPAH, programmes d’intérêt général…) montés avec les collectivités pour aider les propriétaires modestes à rénover leur logement : isolation, adaptation au vieillissement, lutte contre l’habitat indigne. L’Essonne en compte le plus (47).\n\nSource : Agence nationale de l’habitat, « Liste des opérations programmées de l'Anah (en cours et terminées) », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-operations-programmees-de-lanah-en-cours-et-terminees\n\n#statdefrance #opendata #logement #renovation #habitat #anah",
+  "status": "draft"
 }

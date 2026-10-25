@@ -1,36 +1,17 @@
 {
   "date": "2026-10-29",
   "slot": "matin",
-  "theme": "Culture",
-  "palette": "papier",
-  "template": "compare",
-  "num": "N° 023",
-  "source": "Ville d’Antibes, musées (2025)",
-  "source_url": "https://www.data.gouv.fr/datasets/frequentation-des-musees-de-france-de-la-ville-dantibes",
-  "dataset_id": "63983cea9ced6d9c098aacac",
-  "title": "Le musée Picasso d’Antibes a battu son record en 2025 : près de 200 000 visiteurs.",
-  "rows": [
-    {
-      "name": "2019",
-      "value": 131483
-    },
-    {
-      "name": "2020",
-      "value": 43175
-    },
-    {
-      "name": "2022",
-      "value": 150479
-    },
-    {
-      "name": "2025",
-      "value": 199213,
-      "highlight": true
-    }
-  ],
-  "dot_unit": "visiteurs",
-  "calc": "Fichier à largeur fixe, lignes NOM_MUSEE = Musée Picasso, NB_TOTAL_ENTREES : 2019 131 483 ; 2020 43 175 ; 2022 150 479 ; 2023 188 878 ; 2024 184 084 ; 2025 199 213 (139 040 payantes + 60 173 gratuites). Maximum de la série 2001-2025 (précédent : 2002, 164 961). +51,5 % par rapport à 2019.",
-  "caption": "Le musée Picasso d’Antibes n’a jamais eu autant de visiteurs.\n\nEn 2025, 199 213 personnes ont visité le château Grimaldi, où Picasso a travaillé en 1946 : c’est le plus haut niveau depuis le début de la série en 2001, et 50 % de plus qu’en 2019. Après la chute de 2020, la fréquentation a dépassé son niveau d’avant-Covid dès 2022.\n\nSource : Ville d’Antibes, « Fréquentation des Musées de France de la Ville d'Antibes », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/frequentation-des-musees-de-france-de-la-ville-dantibes\n\n#statdefrance #opendata #culture #musees #picasso #antibes",
-  "status": "draft",
-  "per_dot": 5000
+  "theme": "Territoires",
+  "palette": "nuit",
+  "template": "carte",
+  "num": "N° 024",
+  "source": "DGCL, communes 2024",
+  "source_url": "https://www.data.gouv.fr/datasets/table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes",
+  "dataset_id": "630f5173873064dd369479b4",
+  "number": 6,
+  "unit": "communes",
+  "hook": "n’ont aucun habitant : des villages détruits à Verdun en 1916.",
+  "calc": "Fichier table Siren/Insee des communes (DGCL), 34 935 communes, colonne pmun_2024 (population municipale 2024, espaces retirés). pmun_2024 = 0 : 6 communes, toutes en Meuse (dep_com 55) : Beaumont-en-Verdunois, Bezonvaux, Cumières-le-Mort-Homme, Fleury-devant-Douaumont, Haumont-près-Samogneux, Louvemont-Côte-du-Poivre. Suivante : Rochefourchat (26), 1 habitant.",
+  "caption": "Six communes françaises n’ont aucun habitant. Et c’est voulu.\n\nSur les 34 935 communes recensées en 2024, six affichent une population de zéro. Toutes sont dans la Meuse : ce sont des villages détruits pendant la bataille de Verdun en 1916, jamais reconstruits, mais conservés comme communes « mortes pour la France ». Chacune garde un maire, nommé par le préfet. La plus petite commune habitée, Rochefourchat (Drôme), compte un seul habitant.\n\nSource : Direction générale des collectivités locales, « Table de correspondance entre n° Siren et code Insee des communes », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes\n\n#statdefrance #opendata #territoires #communes #verdun #histoire",
+  "status": "draft"
 }
