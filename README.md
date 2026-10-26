@@ -1,13 +1,13 @@
 # statdefrance
 
-Deux stats surprenantes par jour sur Instagram (9h et 18h), tirées de l'open data officiel (data.gouv.fr)
+Deux stats surprenantes par jour sur Instagram (9h et 18h), tirées de l'open data officiel (data.gouv.fr et Insee)
 et liées à l'actualité française. Tout est automatique, sauf **ta validation, une fois par semaine**.
 
 ## La semaine type
 
 | Quand | Qui | Quoi |
 |---|---|---|
-| Dimanche ~17h | GitHub (gratuit) | Lit les titres de l'actu, collecte jusqu'à 70 jeux de données data.gouv jamais utilisés |
+| Dimanche ~17h | GitHub (gratuit) | Lit les titres de l'actu, collecte jusqu'à 70 jeux data.gouv et 20 jeux Insee jamais utilisés |
 | Dimanche 18h | Claude (ton abonnement) | Choisit 14 stats (2 par jour), calcule, écrit, compose les visuels, te les présente dans une conversation |
 | Quand tu veux | Toi | Tu réponds dans la conversation : « OK pour tout sauf le 3, refais le 5 » |
 | Chaque jour 9h et 18h | Claude (tâches programmées), GitHub en secours | Publie le post validé du créneau. Pas validé = pas publié |
@@ -16,7 +16,8 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 
 - `render/` — les 4 gabarits (grille, carte, hémicycle, comparaison), palettes Papier / Nuit,
   grain, logo, contrôles de composition. `python -m render posts/*.json --planche`
-- `scripts/fetch_candidates.py` — collecte du dimanche (actu + data.gouv, sans doublon)
+- `scripts/fetch_candidates.py` — collecte du dimanche (actu + data.gouv + Insee, sans doublon).
+  L'Insee passe par son catalogue Melodi : gratuit, sans clé ni inscription.
 - `scripts/publish_daily.py` — publication Instagram des posts validés du jour (9h et 18h)
 - `GENERATION.md` — le cahier des charges que Claude suit chaque dimanche
 - `posts/` — deux fichiers par jour (`AAAA-MM-JJ.json` à 9h, `AAAA-MM-JJ-soir.json` à 18h, + `.jpg`), avec son statut

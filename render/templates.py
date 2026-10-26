@@ -245,6 +245,7 @@ REQUIRED = {
     "hemicycle": ["pct", "title", "label"],
     "compare": ["title", "rows"],
 }
+SOURCE_PREFIXES = ("https://www.data.gouv.fr/", "https://catalogue-donnees.insee.fr/")
 COMMON = ["date", "theme", "palette", "template", "num", "source", "source_url", "dataset_id", "caption"]
 
 
@@ -254,6 +255,6 @@ def render(post):
         raise LayoutError(f"Gabarit inconnu : {post.get('template')} ({', '.join(TEMPLATES)})")
     if missing:
         raise LayoutError(f"Champs manquants : {', '.join(missing)}")
-    if not str(post["source_url"]).startswith("https://www.data.gouv.fr/"):
-        raise LayoutError("« source_url » doit pointer vers une page data.gouv.fr.")
+    if not str(post["source_url"]).startswith(SOURCE_PREFIXES):
+        raise LayoutError("« source_url » doit pointer vers une page data.gouv.fr ou du catalogue Insee.")
     return TEMPLATES[post["template"]](post)

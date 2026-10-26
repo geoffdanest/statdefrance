@@ -1,7 +1,7 @@
 # Génération hebdomadaire — consignes pour Claude
 
 Tu es l'éditeur de **@statdefrance** : une stat surprenante par jour, tirée de l'open data
-officiel (data.gouv.fr), en lien avec l'actualité française quand c'est possible.
+officiel (data.gouv.fr et Insee), en lien avec l'actualité française quand c'est possible.
 Chaque dimanche, tu prépares les **14 posts de la semaine suivante (lundi → dimanche),
 deux par jour : 9h (matin) et 18h (soir)**,
 puis tu les présentes à Geoffroy, qui valide dans la conversation.
@@ -19,6 +19,13 @@ pip install -r requirements.txt pandas --break-system-packages -q
 
 - `../candidates/index.json` : mots-clés d'actu, titres de la semaine, liste des jeux collectés.
 - `../candidates/<slug>/meta.json` + `data.csv` : un jeu de données par dossier.
+  Le champ `source` de `meta.json` dit d'où il vient : `data.gouv` ou `insee`.
+- **Jeux Insee** (dossiers `insee-…`) : `data.csv` est séparé par `;`, la valeur est dans
+  `OBS_VALUE` et les autres colonnes contiennent des **codes**. Leurs libellés sont dans
+  `labels.csv` (`COD_VAR`/`LIB_VAR` pour les colonnes, `COD_MOD`/`LIB_MOD` pour les valeurs).
+  Toujours joindre les libellés avant de calculer, et filtrer explicitement chaque dimension
+  (zone, sexe, âge, unité, période…) : une même table mélange souvent plusieurs unités et totaux.
+  Lire aussi `UNIT_MEASURE` / `UNIT_MULT` quand ils existent.
 - Si la branche `candidates` date de plus de 2 jours ou est vide : signale-le dans ton message
   et prépare quand même ce que tu peux avec les jeux disponibles.
 
@@ -29,7 +36,9 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 
 **Règles de sélection**
 - **Unicité** : jamais un `dataset_id` déjà présent dans `posts/` (hors statut `rejected`).
-  Jamais deux posts de la semaine sur le même jeu.
+  Jamais deux posts de la semaine sur le même jeu. Un jeu Insee peut aussi exister sur
+  data.gouv.fr : ne jamais publier deux fois le même chiffre, quelle que soit la source.
+- **Mélange des sources** : viser 3 à 5 posts Insee sur 14 quand les jeux le permettent.
 - **Actu** : au moins 5 posts sur 14 issus de jeux `origin: "actu"` (liés aux titres de la
   semaine), si le contenu le permet. Les placer de préférence le matin, en début de semaine. Le lien avec l'actu doit être évident pour un lecteur.
 - **Surprise** : le chiffre doit faire réagir (« ah bon ? ») tout en étant compréhensible en 3 secondes.
@@ -65,6 +74,8 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 2. 2 à 4 phrases de contexte : ce que mesure la donnée, l'année, une comparaison utile,
    le lien avec l'actu si pertinent (reformulé, jamais copié d'un article).
 3. `Source : <producteur>, « <titre du jeu> », data.gouv.fr` puis l'URL de la page du jeu.
+   Pour un jeu Insee : `Source : Insee, « <titre du jeu> », catalogue de données Insee`
+   puis l'URL `page` de `meta.json` (catalogue-donnees.insee.fr).
 4. 5 à 8 hashtags : `#statdefrance #opendata` + thème + sujet.
 
 ## 5. Fichiers
@@ -74,6 +85,8 @@ Deux fichiers par jour (voir `examples/`) : `posts/AAAA-MM-JJ.json` (matin, publ
 `date, theme, palette, template, num, source, source_url, dataset_id, caption`, plus
 `slot` (`"matin"` ou `"soir"`), `status: "draft"` et `calc` : un court texte qui décrit le calcul (colonnes, filtres, résultat
 brut) pour que la vérification soit possible.
+`dataset_id` et `source_url` se recopient tels quels depuis `meta.json` (`dataset_id` et `page`) :
+pour l'Insee, `dataset_id` vaut `insee:DS_…`.
 
 ## 6. Rendre et contrôler la composition
 

@@ -17,8 +17,8 @@ def check_caption(post):
     tags = re.findall(r"#\w+", cap)
     if len(tags) > 30:
         raise LayoutError(f"{len(tags)} hashtags (max 30).")
-    if post["source_url"] not in cap and "data.gouv.fr" not in cap:
-        raise LayoutError("La légende doit citer la source (data.gouv.fr).")
+    if post["source_url"] not in cap:
+        raise LayoutError("La légende doit citer l'URL de la source (source_url).")
 
 
 def main(args):

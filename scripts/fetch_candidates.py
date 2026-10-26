@@ -3,12 +3,13 @@
 1. Lit les gros titres français de la semaine (flux RSS publics) et en tire des mots-clés.
 2. Cherche sur data.gouv.fr des jeux de données liés à ces mots-clés, puis complète
    avec les grands thèmes.
-3. Exclut tout jeu de données déjà utilisé dans posts/ (une donnée = un seul post).
-4. Télécharge un fichier CSV léger par jeu retenu dans candidates/, avec ses métadonnées.
+3. Fait de même dans le catalogue de l'Insee (API Melodi, gratuite et sans clé).
+4. Exclut tout jeu de données déjà utilisé dans posts/ (une donnée = un seul post).
+5. Télécharge un fichier CSV léger par jeu retenu dans candidates/, avec ses métadonnées.
 
 Aucune IA ici : le script collecte, Claude choisit ensuite.
 """
-import json, re, sys, time, unicodedata, xml.etree.ElementTree as ET
+import io, json, re, sys, time, unicodedata, zipfile, xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -25,6 +26,16 @@ MAX_AGE_DAYS = 4 * 365             # données mises à jour depuis moins de 4 an
 TRUSTED_BADGES = {"public-service", "certified"}  # producteurs publics ou certifiés
 MAX_FILE = 12 * 1024 * 1024        # 12 Mo par fichier
 MAX_TOTAL = 250 * 1024 * 1024      # 250 Mo au total
+
+# Insee — catalogue Melodi : accès libre, sans clé, 30 requêtes par minute
+INSEE_API = "https://api.insee.fr/melodi"
+INSEE_PAGE = "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/{}"
+MAX_INSEE = 20                     # jeux Insee en plus des jeux data.gouv
+INSEE_PER_LABEL = 2                # jeux Insee max par mot-clé d'actu ou par thème
+INSEE_MAX_ZIP = 40 * 1024 * 1024   # 40 Mo par archive téléchargée
+INSEE_MAX_CSV = 25 * 1024 * 1024   # 25 Mo par CSV extrait
+INSEE_MAX_TOTAL = 150 * 1024 * 1024
+INSEE_DELAY = 2.5                  # secondes entre deux appels (reste sous 30/min)
 
 FEEDS = [  # titres d'actualité publics, utilisés uniquement comme mots-clés
     "https://www.francetvinfo.fr/titres.rss",
@@ -135,6 +146,125 @@ def series_key(title):
     return re.sub(r"\s+", " ", re.sub(r"[\d\"«»()]", "", norm(title))).strip()
 
 
+# ---------- Insee (Melodi) ----------
+
+def _txt(v, lang="fr"):
+    """Les textes du catalogue Insee sont des listes [{lang, content}] : garder le français."""
+    if isinstance(v, str):
+        return v
+    if isinstance(v, dict):
+        return v.get("content") or ""
+    if isinstance(v, list):
+        items = [x for x in v if isinstance(x, dict)]
+        for x in items:
+            if (x.get("lang") or "").lower().startswith(lang):
+                return x.get("content") or ""
+        return (items[0].get("content") or "") if items else ""
+    return ""
+
+
+def insee_catalog():
+    try:
+        r = requests.get(f"{INSEE_API}/catalog/all", headers=UA, timeout=60); r.raise_for_status()
+        data = r.json()
+        return data if isinstance(data, list) else data.get("data", [])
+    except Exception as e:
+        print(f"  catalogue Insee indisponible : {e}"); return []
+
+
+def insee_csv_url(ds):
+    for prod in ds.get("product") or []:
+        fmt = (prod.get("format") or "").upper()
+        lang = (prod.get("language") or "FR").upper()
+        if "CSV" in fmt and lang.startswith("FR") and prod.get("accessURL"):
+            return prod["accessURL"]
+    return None
+
+
+def insee_download(url, dest_dir):
+    """Archive ZIP Insee → data.csv (observations) + labels.csv (libellés des codes)."""
+    buf = io.BytesIO()
+    with requests.get(url, headers=UA, timeout=120, stream=True) as r:
+        r.raise_for_status()
+        for chunk in r.iter_content(1 << 16):
+            buf.write(chunk)
+            if buf.tell() > INSEE_MAX_ZIP: raise ValueError("archive trop grosse")
+    with zipfile.ZipFile(buf) as z:
+        names = z.namelist()
+        data = next((n for n in names if n.lower().endswith("_data.csv")), None) \
+            or next((n for n in names if n.lower().endswith(".csv") and "metadata" not in n.lower()), None)
+        labels = next((n for n in names if n.lower().endswith("_metadata.csv")), None)
+        if not data: raise ValueError("pas de CSV dans l'archive")
+        if z.getinfo(data).file_size > INSEE_MAX_CSV: raise ValueError("CSV trop gros")
+        (dest_dir / "data.csv").write_bytes(z.read(data))
+        n = z.getinfo(data).file_size
+        if labels:
+            (dest_dir / "labels.csv").write_bytes(z.read(labels))
+            n += z.getinfo(labels).file_size
+    return n
+
+
+def collect_insee(kws, used, news):
+    """Jeux Insee : d'abord ceux liés aux mots-clés d'actu, puis par thème, puis les plus récents."""
+    catalog = insee_catalog()
+    print(f"{len(catalog)} jeux au catalogue Insee.")
+    rows = []
+    for ds in catalog:
+        ident = ds.get("identifier")
+        if not ident or f"insee:{ident}" in used: continue
+        try:
+            age = datetime.now(timezone.utc) - datetime.fromisoformat(str(ds.get("modified", ""))[:10]).replace(tzinfo=timezone.utc)
+            if age.days > MAX_AGE_DAYS: continue
+        except Exception:
+            pass
+        url = insee_csv_url(ds)
+        if not url: continue
+        title = _txt(ds.get("title")); desc = _txt(ds.get("description")) or _txt(ds.get("abstract"))
+        rows.append({"ds": ds, "id": ident, "url": url, "title": title, "desc": desc,
+                     "text": f" {norm(title)} {norm(desc)} ", "modified": str(ds.get("modified", ""))})
+    rows.sort(key=lambda x: x["modified"], reverse=True)
+
+    def match(word):
+        w = norm(word)
+        return [x for x in rows if re.search(rf"\b{re.escape(w)}", x["text"])]
+
+    queue = [("actu", kw, match(kw)) for kw in kws]
+    queue += [("theme", theme, [x for q in qs for x in match(q)]) for theme, qs in THEMES.items()]
+    queue += [("recent", "Récents", rows)]
+
+    picked, seen, total = [], set(), 0
+    for origin, label, cands in queue:
+        n = 0
+        for x in cands:
+            if len(picked) >= MAX_INSEE or total >= INSEE_MAX_TOTAL: break
+            if n >= INSEE_PER_LABEL or x["id"] in seen: continue
+            seen.add(x["id"])
+            d = OUT / f"insee-{x['id'].lower()}"; d.mkdir(exist_ok=True)
+            try:
+                size = insee_download(x["url"], d)
+            except Exception as e:
+                print(f"  téléchargement Insee raté {x['id']} : {e}"); time.sleep(INSEE_DELAY); continue
+            total += size; n += 1
+            related = [h for h in news if origin == "actu" and norm(label) in norm(h["title"])][:3]
+            meta = {
+                "source": "insee", "dataset_id": f"insee:{x['id']}", "title": x["title"],
+                "page": INSEE_PAGE.format(x["id"]), "organization": "Insee",
+                "description": x["desc"][:1500], "resource_title": x["id"], "resource_url": x["url"],
+                "last_modified": x["modified"], "license": "Licence ouverte Etalab",
+                "num_observations": x["ds"].get("numObservations"),
+                "origin": "theme" if origin == "recent" else origin, "label": label,
+                "query": label, "news": related,
+                "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : "
+                           "leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs).",
+            }
+            (d / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+            picked.append({k: meta[k] for k in ("dataset_id", "title", "organization", "origin", "label", "source")} | {"dir": d.name})
+            print(f"  + [insee:{origin}:{label}] {x['title'][:70]}")
+            time.sleep(INSEE_DELAY)
+    print(f"{len(picked)} jeux Insee retenus, {total / 1e6:.1f} Mo.")
+    return picked
+
+
 def search(q, sort="-reuses", size=8):
     try:
         r = requests.get(f"{API}/datasets/", params={"q": q, "page_size": size, "sort": sort}, headers=UA, timeout=30)
@@ -204,20 +334,23 @@ def main():
             total += size; series.add(sk); count[label] += 1
             related = [h for h in news if origin == "actu" and norm(label) in norm(h["title"])][:3]
             meta = {
-                "dataset_id": ds["id"], "title": ds["title"], "page": ds.get("page") or f"https://www.data.gouv.fr/fr/datasets/{ds['slug']}/",
+                "source": "data.gouv", "dataset_id": ds["id"], "title": ds["title"], "page": ds.get("page") or f"https://www.data.gouv.fr/fr/datasets/{ds['slug']}/",
                 "organization": ds["organization"]["name"], "description": (ds.get("description") or "")[:1500],
                 "resource_title": res.get("title"), "resource_url": res["url"], "last_modified": res.get("last_modified"),
                 "license": ds.get("license"), "origin": origin, "label": label, "query": q, "news": related,
             }
             (d / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
-            picked.append({k: meta[k] for k in ("dataset_id", "title", "organization", "origin", "label")} | {"dir": slug})
+            picked.append({k: meta[k] for k in ("dataset_id", "title", "organization", "origin", "label", "source")} | {"dir": slug})
             print(f"  + [{origin}:{label}] {ds['title'][:70]}")
             time.sleep(0.3)
+
+    print(f"{len(picked)} jeux data.gouv retenus, {total / 1e6:.1f} Mo.")
+    picked += collect_insee(kws, used, news)
 
     index = {"generated_at": datetime.now(timezone.utc).isoformat(), "keywords": kws,
              "headlines": news[:60], "datasets": picked}
     (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"{len(picked)} jeux retenus, {total / 1e6:.1f} Mo.")
+    print(f"{len(picked)} jeux retenus au total.")
     return 0 if picked else 1
 
 

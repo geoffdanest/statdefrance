@@ -1,4 +1,4 @@
-name: Collecte hebdo (data.gouv + actu)
+name: Collecte hebdo (data.gouv + Insee + actu)
 on:
   schedule:
     - cron: "7 15 * * 0"   # dimanche ~17h (été) / ~16h (hiver) à Paris, avant la génération de 18h
