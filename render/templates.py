@@ -245,7 +245,10 @@ REQUIRED = {
     "hemicycle": ["pct", "title", "label"],
     "compare": ["title", "rows"],
 }
-SOURCE_PREFIXES = ("https://www.data.gouv.fr/", "https://catalogue-donnees.insee.fr/")
+SOURCE_PREFIXES = tuple("https://" + d + "/" for d in (
+    "www.data.gouv.fr", "catalogue-donnees.insee.fr", "data.education.gouv.fr", "odre.opendatasoft.com",
+    "ressources.data.sncf.com", "data.ameli.fr", "data.drees.solidarites-sante.gouv.fr",
+    "odisse.santepubliquefrance.fr", "data.ademe.fr"))
 COMMON = ["date", "theme", "palette", "template", "num", "source", "source_url", "dataset_id", "caption"]
 
 
@@ -256,5 +259,5 @@ def render(post):
     if missing:
         raise LayoutError(f"Champs manquants : {', '.join(missing)}")
     if not str(post["source_url"]).startswith(SOURCE_PREFIXES):
-        raise LayoutError("« source_url » doit pointer vers une page data.gouv.fr ou du catalogue Insee.")
+        raise LayoutError("« source_url » doit pointer vers la page du jeu sur un portail officiel connu (voir SOURCE_PREFIXES).")
     return TEMPLATES[post["template"]](post)

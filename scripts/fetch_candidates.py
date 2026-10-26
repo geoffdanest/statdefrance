@@ -3,7 +3,8 @@
 1. Lit les gros titres français de la semaine (flux RSS publics) et en tire des mots-clés.
 2. Cherche sur data.gouv.fr des jeux de données liés à ces mots-clés, puis complète
    avec les grands thèmes.
-3. Fait de même dans le catalogue de l'Insee (API Melodi, gratuite et sans clé).
+3. Fait de même dans le catalogue de l'Insee (API Melodi, gratuite et sans clé)
+   et dans les portails thématiques (voir scripts/sources.py) — toujours l'actu d'abord.
 4. Exclut tout jeu de données déjà utilisé dans posts/ (une donnée = un seul post).
 5. Télécharge un fichier CSV léger par jeu retenu dans candidates/, avec ses métadonnées.
 
@@ -14,6 +15,9 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 import requests
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sources
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "candidates"
@@ -55,6 +59,8 @@ THEMES = {
     "Transports": ["trains", "vélo", "aéroports"],
     "Territoires": ["communes", "population", "prénoms"],
     "Sport": ["sport", "licences sportives", "équipements sportifs"],
+    "Environnement": ["déchets", "qualité de l'air", "eau"],
+    "Économie": ["inflation", "entreprises", "épargne"],
 }
 STOP = set("""
 alors aussi autre avant avec avoir bien cette comme dans depuis donc elle elles encore entre être fait faire
@@ -347,7 +353,16 @@ def main():
     print(f"{len(picked)} jeux data.gouv retenus, {total / 1e6:.1f} Mo.")
     picked += collect_insee(kws, used, news)
 
+    taken = used | {p["dataset_id"] for p in picked}
+    extra = sources.collect_all(kws=kws, themes=THEMES, used=taken, news=news, out_dir=OUT, ua=UA, norm=norm,
+                                max_age_days=MAX_AGE_DAYS, api=API, pick_resource=pick_resource)
+    print(f"{len(extra)} jeux des portails thématiques retenus.")
+    picked += extra
+
+    by_source = Counter(p.get("source", "data.gouv") for p in picked)
+    actu = Counter(p.get("source", "data.gouv") for p in picked if p.get("origin") == "actu")
     index = {"generated_at": datetime.now(timezone.utc).isoformat(), "keywords": kws,
+             "by_source": dict(by_source), "actu_by_source": dict(actu),
              "headlines": news[:60], "datasets": picked}
     (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"{len(picked)} jeux retenus au total.")
