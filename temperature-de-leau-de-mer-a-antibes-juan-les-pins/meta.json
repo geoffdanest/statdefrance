@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "61af30f22397a1134de82463",
+  "title": "Température de l’eau de mer à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/temperature-de-leau-de-mer-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "Il s’agit de la température de l’eau de mer relevée en deux points d’Antibes Juan-les-Pins, dits de la Gravette (Est cap) et des Ondes (Ouest cap), depuis juin 2020.\nLes échantillons sont pris aux deux points de référence précisés dans le fichier antibes_eau_temperature.txt dans 1 mètre d'eau.\nLes prélèvements ont lieu dans la journée, parfois le matin, parfois l'après-midi.\nLa prise de température est effectuée avec un thermomètre Testo 103 selon la norme DIN EN ISO 9001- Plage de moins 30 °C à 220 °C.\nPour la réutilisation du présent jeu, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l'information sous la forme suivante : \"Source : Ville d'Antibes, disponible sur data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour]\". Merci\n",
+  "resource_title": "antibes-eau-temperature-est-cap.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/temperature-de-leau-de-mer-a-antibes-juan-les-pins/20261002-134057/antibes-eau-temperature-est-cap.csv",
+  "last_modified": "2026-10-02T13:40:57.835000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "eau",
+  "news": []
+}

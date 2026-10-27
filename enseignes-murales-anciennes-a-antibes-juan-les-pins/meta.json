@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6389ca9390bfe0fe0779c9ec",
+  "title": "Enseignes murales anciennes à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/enseignes-murales-anciennes-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "Ce jeu consiste à lister les enseignes murales anciennes, ou qui paraissent anciennes, et qui risquent de disparaître au fil des constructions ou ravalements, ou par le jeu du temps qui passe. On entend par enseigne la marque distinctive d’un commerce sous la forme d’une peinture ou d’une inscription portant l'indication du commerce. Ne sont relevées que les enseignes relatives à des commerces qui n’existent plus en leur regard. La finalité est de préserver cette mémoire. Pour la réutilisation du présent jeu, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l'information sous la forme suivante : « Source : Ville d’Antibes, disponible du data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour] ». Merci.",
+  "resource_title": "antibes-enseignes-murales.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/enseignes-murales-anciennes-a-antibes-juan-les-pins/20231218-083130/antibes-enseignes-murales.csv",
+  "last_modified": "2023-12-18T08:31:32.677000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "ancienne",
+  "query": "ancienne",
+  "news": [
+    {
+      "title": "L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans",
+      "link": "https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Michèle Barzach, l’ancienne ministre de la Santé de Chirac, est morte à 83 ans",
+      "link": "https://www.20minutes.fr/politique/4257677-20261026-michele-barzach-ancienne-ministre-sante-chirac-morte-83-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

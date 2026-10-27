@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "637f48d327fdf9561842518f",
+  "title": "Part des immigrés dans la population - Sailly-Lez-Lannoy",
+  "page": "https://www.data.gouv.fr/datasets/part-des-immigres-dans-la-population-sailly-lez-lannoy",
+  "organization": "Sailly-Lez-Lannoy",
+  "description": "L'indicateur représente la part des immigrés au sein de la population.\n\nSelon la définition de l'Insee, un immigré est une personne née étrangère à l'étranger et résidant en France. Les personnes nées françaises à l'étranger et vivant en France ne sont donc pas comptabilisées. À l'inverse, certains immigrés ont pu devenir français, les autres restant étrangers. Les populations étrangère et immigrée ne se confondent pas totalement : un immigré n'est pas nécessairement étranger et réciproquement, certains étrangers sont nés en France (essentiellement des mineurs). La qualité d'immigré est permanente : un individu continue à appartenir à la population immigrée même s'il devient français par acquisition. C'est le pays de naissance, et non la nationalité à la naissance, qui définit l'origine géographique d'un immigré.\n\nSource : Observatoire des territoires, https://www.observatoire-des-territoires.gouv.fr/part-des-immigres-dans-la-population",
+  "resource_title": "part-des-immigres-dans-la-population-sailly-lez-lannoy.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/part-des-immigres-dans-la-population-sailly-lez-lannoy/20221124-115900/part-des-immigres-dans-la-population-sailly-lez-lannoy.csv",
+  "last_modified": "2022-11-24T15:25:55.870000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "population",
+  "news": []
+}

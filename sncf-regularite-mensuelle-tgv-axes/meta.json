@@ -1,0 +1,17 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:regularite-mensuelle-tgv-axes",
+  "title": "Régularité mensuelle TGV par axe",
+  "page": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-axes/",
+  "organization": "SNCF",
+  "description": "Découvrez la régularité mensuelle des grands axes TGV. La régularité TGV tient compte des différentes durées de trajet des clients (aussi appelée composite). Un train est considéré à l'heure si son retard au terminus est inférieur à 5min pour un parcours inférieur à 1h30 Un train est considéré à l'heure si son retard au terminus est inférieur à 10min pour un parcours entre 1h30 et 3h Un train est considéré à l'heure si son retard au terminus est inférieur à 15min pour un parcours au-delà de 3h Le 4 secteurs géographiques TGV correspondent aux quatre gares TGV parisiennes. TGV International regroupent les trains internationaux de SNCF (SVI, ALLEO, LYRIA, ELIPSOS). Les trains opérés par d'autres entreprises ferroviaires comme Thalys et Eurostar ne sont pas pris en compte. Les TGV inter secteurs, Nord &lt; &gt; Atlantique sont repris dans le secteur Nord, les TGV inter secteurs Est &lt; &gt; Nord et Est &lt; &gt; Atlantique dans le secteur Est, les TGV inter secteurs Atlantique &lt; &gt; Sud Est dans le secteur Sud Est et les TGV Rhin Rhône de province à province dans le secteur Sud Est. Les horaires d'arrivée sont également déterminés par des capteurs détectant le passage du train à un point déterminé marquant l'entrée en gare et exceptionnellement par des suivis manuel. La précision des mesures est la minute arrondie à minute inférieure, ce qui est conforme à l'ensemble des normes retenues pour la confection des horaires et chronogrammes de service.. Le résultat de régularité ",
+  "resource_title": "Régularité mensuelle TGV par axe",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/regularite-mensuelle-tgv-axes/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-02T10:06:13+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "régularité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

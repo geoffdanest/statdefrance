@@ -1,0 +1,17 @@
+{
+  "source": "ameli",
+  "dataset_id": "ameli:depenses-par-poste",
+  "title": "Risques professionnels : dépenses par poste",
+  "page": "https://data.ameli.fr/explore/dataset/depenses-par-poste/",
+  "organization": "Assurance Maladie",
+  "description": "Ce jeu de données est une des sources de datavisualisations disponibles sur le site Data risques professionnels . Informations générales : La population sur laquelle est basée ce jeu de données correspond aux salariés et aux entreprises du régime général. Il s’agit essentiellement des salariés, des travailleurs indépendants ayant souscrit à l’assurance volontaire AT/MP (Avat), ainsi que de certains agents de la fonction publique (contractuels, temps courts, etc.). Ces données ne prennent pas en compte : les exploitants et salariés agricoles, qui relèvent du régime agricole ; les personnels des fonctions publiques, qui sont couverts par leur administration ; les travailleurs indépendants n’ayant pas souscrit à l’Avat. Ce jeu de données présente des informations sur les dépenses liées aux : les accidents du travail ; les accidents de trajet ; les maladies professionnelles. par poste de dépense. Pour plus d'informations (source, champ, définitions des modalités), consulter la page Méthode du site. Couverture spatiale et granularité : Ce jeu de données couvre la France entière. Les données sont présentées pour tous les secteurs d’activité confondus. Mises à jour des données : Mise à jour du 24/08/2026 : première mise en ligne des données, de l'année 2015 à l'année 2024 Pour plus d'informations et détails sur les mises à jour et changements opérés dans les données (périmètre, mode de calcul, correctif, etc.), consulter la page Méthode du site. Fréquence de mise à jour des données ",
+  "resource_title": "Risques professionnels : dépenses par poste",
+  "resource_url": "https://data.ameli.fr/api/explore/v2.1/catalog/datasets/depenses-par-poste/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-04-20T12:17:08+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "dépenses",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

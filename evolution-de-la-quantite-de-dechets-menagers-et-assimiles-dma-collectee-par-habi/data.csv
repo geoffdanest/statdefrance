@@ -1,0 +1,9 @@
+Colonne,Description
+date_mesure,"Date de prise en compte de la mesure. Attention, en fonction des indicateurs et des sources, cette année peut représenter des mesures finalisées au 31 décembre de l'année précédente."
+geocode_departement,Code officiel géographique de l'INSEE du département
+libelle_departement,Libellé du département venant de l'INSEE
+geocode_region,Code officiel géographique de l'INSEE pour la région
+libelle_region,Libellé de la région venant de l'INSEE
+numerateur,Tonnage total de déchets ménagers et assimiles par habitant
+denominateur,Ratio entre la moyenne du tonnage dma collecté en 2010 (mesures sur les années 2009 et 2011) et la population du territoire en 2010.
+valeur,Valeur de l'indicateur en indice base 100 en 2010 : Evolution de la quantité de déchets ménagers et assimilés (DMA) collectée par habitant  (base 100 en 2010)

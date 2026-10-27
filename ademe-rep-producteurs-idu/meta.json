@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:rep-producteurs-idu",
+  "title": "REP - Liste des producteurs enregistrés dans SYDEREP avec leur identifiant unique",
+  "page": "https://data.ademe.fr/datasets/rep-producteurs-idu",
+  "organization": "ADEME",
+  "description": "### Le jeu de données Il comprend la **liste des producteurs des filières à Responsabilité élargie du producteur (REP) enregistrés dans SYDEREP avec leur identifiant unique (IDU)** conformément à [l’article L. 541-10-13 du Code de l’environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041583847). Le jeu de données concerne les filières REP : ABJ, ASL, EEE, BPS, DISP-MED, EA, EMPAP, JOUET, LUB, MNU, PA, PCHIM, PMCB, PNEU, TLC, TABAC. Pour le producteur, l’IDU est la preuve qu’il est bien enregistré au registre pour une filière, conformément à l’article L. 541-10-13 du Code de l'environnement. Pour l’ADEME, il sert à faciliter le suivi et le contrôle du respect des obligations de REP qui incombent à ces producteurs, ainsi qu’à identifier les producteurs en système individuel et les producteurs adhérents à un éco-organisme qui sont éligibles à la redevance annuelle. Ainsi, pour les filières en vigueur, le vendeur d'un produit relevant du principe de REP peut communiquer à l'acheteur, à la demande de ce dernier, l'IDU sous lequel est enregistré le producteur qui remplit pour ce produit les obligations de REP (cf. [L. 541-10-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041599045) du code de l'environnement). Pour utiliser ce jeu de données, téléchargez le [**référentiel**](https://data.ademe.fr/data-fair/api/v1/datasets/rep-producteurs-idu/metadata-attachments/REP_referentiels_codes_filieres_categoriesagrement.xlsx) utilisé. [![Donnez votre a",
+  "resource_title": "REP - Liste des producteurs enregistrés dans SYDEREP avec leur identifiant unique",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/rep-producteurs-idu/lines?format=csv&size=10000",
+  "last_modified": "2026-10-26T06:30:26.291Z",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

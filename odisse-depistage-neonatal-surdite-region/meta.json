@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:depistage-neonatal-surdite-region",
+  "title": "Dépistage néonatal : Surdité permanente néonatale (Région)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/depistage-neonatal-surdite-region/",
+  "organization": "Santé publique France",
+  "description": "La surdité permanente néonatale est le déficit sensoriel le plus fréquent en Europe. Elle peut entraîner des troubles du développement de la communication, du langage, et de l’évolution cognitive. Elle fait l’objet d’un programme de dépistage néonatal spécifique, dont l’arrêté a été publié fin 2014. Son dépistage repose sur des tests auditifs indolores réalisés en maternité lorsque l’enfant est endormi. Les données utilisées sont celles des centres régionaux du dépistage néonatal (CRDN) et de l’Insee. Plusieurs indicateurs d’évaluation du déploiement du programme national de dépistage de la surdité néonatale ont été estimés pour la France (Hexagonale et DROMs) à partir des données colligées en 2015 et 2016. Ils sont mis à jour ponctuellement. Précisions : Les données agrégées ont été validées par les ARS de chaque ancienne région et transmises à Santé publique France par les centres régionaux du dépistage néonatal. Couverture par le programme de dépistage : (Nombre de naissances dans les maternités ayant déployé de manière systématique le programme de dépistage de l’audition / nombre de naissances vivantes dans une région donnée)*100. Il y a trois extrapolations : i) Pour la région Hauts-de-France : le nombre d’enfants couverts pendant les trois derniers mois de l’année 2015 en Picardie a été estimé en appliquant le taux de couverture observé en 2016. ii) Pour la région Normandie : le nombre d’enfants couverts en Haute-Normandie a été estimé pour l’année 2016 en appliquant le",
+  "resource_title": "Dépistage néonatal : Surdité permanente néonatale (Région)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/depistage-neonatal-surdite-region/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-04-04T13:49:03+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "ancienne",
+  "query": "ancienne",
+  "news": [
+    {
+      "title": "L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans",
+      "link": "https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Michèle Barzach, l’ancienne ministre de la Santé de Chirac, est morte à 83 ans",
+      "link": "https://www.20minutes.fr/politique/4257677-20261026-michele-barzach-ancienne-ministre-sante-chirac-morte-83-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

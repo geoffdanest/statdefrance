@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:conso_brute_corrigee_client_direct",
+  "title": "Consommation mensuelle brute corrigée et des clients RPT",
+  "page": "https://odre.opendatasoft.com/explore/dataset/conso_brute_corrigee_client_direct/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données présente les données mensuelles de consommation à la maille nationale (France métropolitaine, Corse incluse), la consommation et l'autoconsommation des clients directs de RTE. La consommation brute est la consommation totale d’électricité, avec pertes sur les réseaux de transport et de distribution. Elle inclut l’autoconsommation et exclut la consommation du pompage. La consommation corrigée des aléas météorologiques est la consommation d’électricité qui aurait été observée si les températures avaient été alignées sur les températures de référence pour la période. Ce calcul est réalisé chaque année sur la base des données de consommation et de température. De cette manière, il est possible de distinguer les variations de consommation dues à des tendances structurelles (démographie, activité économique, changements de comportement) ou à la conjoncture (crise sanitaire, etc.) de ce qui relève uniquement de la thermosensibilité du système électrique français. Par exemple, si lors d’une semaine d’hiver les températures sont plus élevées que les normales de saison, les besoins de chauffage diminuent et la consommation brute (c’est-à-dire non corrigée) sera plus faible que la consommation ramenée aux températures normales. La consommation est également corrigée pour tenir compte de certains éléments de calendrier (jours chômés, année bissextile…). RTE utilise pour le calcul de consommation corrigée des températures normales fournies par Météo France. En 2026, Mété",
+  "resource_title": "Consommation mensuelle brute corrigée et des clients RPT",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/conso_brute_corrigee_client_direct/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-09-22T08:49:28+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "consommation électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

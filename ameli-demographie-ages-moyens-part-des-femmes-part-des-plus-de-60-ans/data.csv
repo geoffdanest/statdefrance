@@ -1,0 +1,594 @@
+﻿annee;profession_sante;part_femmes;part_hommes;part_des_60_ans_et_plus;part_des_moins_de_60_ans;age_moyen_global;age_moyen_femmes;age_moyen_hommes;vision_generale_all;vision_generale_prescriptions;vision_profession_territoire
+2025;Anesthésistes-réanimateurs;0.26;0.74;0.2;0.8;50;49;50;oui;oui;oui
+2025;Cardiologues;0.27;0.73;0.36;0.64;54;49;55;oui;oui;oui
+2025;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.48;0.52;0.19;0.81;45;42;47;oui;oui;oui
+2025;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.59;0.41;0.24;0.76;51;50;53;oui;oui;oui
+2025;Endocrinologues;0.76;0.24;0.34;0.66;53;51;59;non;oui;oui
+2025;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;43;non;non;non
+2025;Ensemble des médecins;0.44;0.56;0.33;0.67;52;48;55;non;non;non
+2025;Ensemble des médecins spécialistes (hors généralistes);0.4;0.6;0.34;0.66;53;50;55;non;non;non
+2025;Gynécologues médicaux et obstétriciens;0.6;0.4;0.35;0.65;53;50;59;oui;oui;oui
+2025;Infirmiers;0.82;0.18;0.1;0.9;46;46;46;oui;oui;oui
+2025;Masseurs-kinésithérapeutes;0.5;0.5;0.09;0.91;41;39;42;oui;oui;oui
+2025;Médecins généralistes (hors médecins à expertise particulière - MEP);0.49;0.51;0.3;0.7;50;46;54;oui;oui;oui
+2025;Neurologues;0.49;0.51;0.3;0.7;51;48;55;non;oui;oui
+2025;Orthoptistes;0.88;0.12;0.09;0.91;39;39;40;oui;oui;oui
+2025;Pédiatres;0.73;0.27;0.29;0.71;52;49;60;oui;oui;oui
+2025;Rhumatologues;0.51;0.49;0.4;0.6;53;49;59;oui;oui;oui
+2025;Psychologues;0.0;0.0;0.0;0.0;0;0;0;;;
+2025;Autres médecins;0.38;0.62;0.32;0.68;52;48;55;non;non;non
+2025;Chirurgiens;0.14;0.86;0.26;0.74;51;45;52;oui;oui;oui
+2025;Dermatologues;0.75;0.25;0.41;0.59;55;53;60;oui;oui;oui
+2025;Ensemble des médecins généralistes;0.48;0.52;0.32;0.68;51;47;55;non;non;non
+2025;Médecins nucléaires;0.32;0.68;0.15;0.85;47;47;47;non;oui;oui
+2025;Médecins pathologistes;0.56;0.44;0.3;0.7;51;49;52;non;oui;oui
+2025;Médecins vasculaires;0.48;0.52;0.29;0.71;51;50;51;non;oui;oui
+2025;Oto-rhino-laryngologistes;0.29;0.71;0.42;0.58;55;48;57;oui;oui;oui
+2025;Radiologues;0.34;0.66;0.35;0.65;53;51;54;oui;oui;oui
+2025;Stomatologues;0.26;0.74;0.36;0.64;52;45;54;non;oui;oui
+2025;Allergologues;0.64;0.36;0.43;0.57;53;52;55;non;oui;oui
+2025;Ensemble des chirurgiens-dentistes;0.48;0.52;0.2;0.8;45;43;48;non;non;non
+2025;Hépato-gastro-entérologues;0.37;0.63;0.35;0.65;53;47;56;oui;oui;oui
+2025;Médecins généralistes à expertise particulière (MEP);0.34;0.66;0.61;0.39;61;59;62;oui;oui;oui
+2025;Néphrologues;0.37;0.63;0.29;0.71;51;48;53;non;oui;oui
+2025;Ophtalmologues;0.4;0.6;0.37;0.63;53;51;55;oui;oui;oui
+2025;Orthophonistes;0.97;0.03;0.1;0.9;42;42;47;oui;oui;oui
+2025;Pneumologues;0.43;0.57;0.34;0.66;53;48;56;oui;oui;oui
+2025;Psychiatres;0.47;0.53;0.44;0.56;56;53;59;oui;oui;oui
+2025;Pédicures-podologues;0.66;0.34;0.09;0.91;42;42;43;oui;oui;oui
+2025;Radiothérapeutes;0.4;0.6;0.18;0.82;48;46;49;non;oui;oui
+2025;Sages-femmes;0.97;0.03;0.07;0.93;42;42;40;oui;oui;oui
+2024;Autres médecins;0.37;0.63;0.35;0.65;53;48;56;non;non;non
+2024;Cardiologues;0.27;0.73;0.37;0.63;54;48;56;oui;oui;oui
+2024;Endocrinologues;0.75;0.25;0.36;0.64;54;51;61;non;oui;oui
+2024;Ensemble des médecins;0.43;0.57;0.34;0.66;52;48;55;non;non;non
+2024;Ensemble des médecins généralistes;0.47;0.53;0.34;0.66;51;47;55;non;non;non
+2024;Infirmiers;0.82;0.18;0.1;0.9;46;46;46;oui;oui;oui
+2024;Masseurs-kinésithérapeutes;0.49;0.51;0.09;0.91;41;39;42;oui;oui;oui
+2024;Médecins généralistes (hors médecins à expertise particulière - MEP);0.47;0.53;0.32;0.68;51;46;54;oui;oui;oui
+2024;Médecins généralistes à expertise particulière (MEP);0.35;0.65;0.61;0.39;60;58;61;oui;oui;oui
+2024;Médecins vasculaires;0.48;0.52;0.29;0.71;51;50;51;non;oui;oui
+2024;Neurologues;0.48;0.52;0.3;0.7;52;48;55;non;oui;oui
+2024;Orthoptistes;0.88;0.12;0.09;0.91;40;40;40;oui;oui;oui
+2024;Pédicures-podologues;0.66;0.34;0.08;0.92;42;42;42;oui;oui;oui
+2024;Sages-femmes;0.97;0.03;0.07;0.93;42;42;39;oui;oui;oui
+2024;Chirurgiens;0.14;0.86;0.27;0.73;51;45;52;oui;oui;oui
+2024;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.47;0.53;0.2;0.8;45;42;48;oui;oui;oui
+2024;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.59;0.41;0.24;0.76;51;50;53;oui;oui;oui
+2024;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;43;non;non;non
+2024;Ensemble des médecins spécialistes (hors généralistes);0.39;0.61;0.35;0.65;53;50;55;non;non;non
+2024;Gynécologues médicaux et obstétriciens;0.58;0.42;0.37;0.63;54;50;59;oui;oui;oui
+2024;Hépato-gastro-entérologues;0.36;0.64;0.36;0.64;53;47;57;oui;oui;oui
+2024;Néphrologues;0.38;0.62;0.3;0.7;52;47;54;non;oui;oui
+2024;Ophtalmologues;0.4;0.6;0.39;0.61;54;51;55;oui;oui;oui
+2024;Orthophonistes;0.97;0.03;0.1;0.9;42;42;47;oui;oui;oui
+2024;Pneumologues;0.41;0.59;0.37;0.63;53;48;57;oui;oui;oui
+2024;Psychiatres;0.46;0.54;0.46;0.54;57;54;59;oui;oui;oui
+2024;Pédiatres;0.71;0.29;0.31;0.69;52;49;60;oui;oui;oui
+2024;Radiothérapeutes;0.38;0.62;0.18;0.82;48;46;49;non;oui;oui
+2024;Rhumatologues;0.5;0.5;0.42;0.58;54;49;59;oui;oui;oui
+2024;Allergologues;0.63;0.37;0.48;0.52;54;53;56;non;oui;oui
+2024;Anesthésistes-réanimateurs;0.25;0.75;0.21;0.79;50;49;50;oui;oui;oui
+2024;Dermatologues;0.73;0.27;0.43;0.57;55;53;61;oui;oui;oui
+2024;Ensemble des chirurgiens-dentistes;0.48;0.52;0.2;0.8;46;43;48;non;non;non
+2024;Médecins nucléaires;0.33;0.67;0.14;0.86;47;46;47;non;oui;oui
+2024;Médecins pathologistes;0.55;0.45;0.31;0.69;51;50;54;non;oui;oui
+2024;Oto-rhino-laryngologistes;0.28;0.72;0.42;0.58;55;48;57;oui;oui;oui
+2024;Radiologues;0.33;0.67;0.36;0.64;53;51;55;oui;oui;oui
+2024;Stomatologues;0.25;0.75;0.4;0.6;53;47;55;non;oui;oui
+2023;Allergologues;0.65;0.35;0.49;0.51;55;54;57;non;oui;oui
+2023;Autres médecins;0.35;0.65;0.36;0.64;54;49;56;non;non;non
+2023;Dermatologues;0.72;0.28;0.44;0.56;56;54;61;oui;oui;oui
+2023;Endocrinologues;0.75;0.25;0.36;0.64;54;52;61;non;oui;oui
+2023;Ensemble des médecins généralistes;0.46;0.54;0.35;0.65;51;47;55;non;non;non
+2023;Hépato-gastro-entérologues;0.35;0.65;0.37;0.63;53;47;57;oui;oui;oui
+2023;Masseurs-kinésithérapeutes;0.49;0.51;0.09;0.91;41;39;42;oui;oui;oui
+2023;Ophtalmologues;0.4;0.6;0.41;0.59;54;52;56;oui;oui;oui
+2023;Psychiatres;0.46;0.54;0.46;0.54;57;54;59;oui;oui;oui
+2023;Pédiatres;0.7;0.3;0.32;0.68;52;49;60;oui;oui;oui
+2023;Pédicures-podologues;0.66;0.34;0.08;0.92;41;41;42;oui;oui;oui
+2023;Sages-femmes;0.97;0.03;0.06;0.94;41;42;39;oui;oui;oui
+2023;Anesthésistes-réanimateurs;0.25;0.75;0.23;0.77;50;49;51;oui;oui;oui
+2023;Cardiologues;0.26;0.74;0.37;0.63;54;48;56;oui;oui;oui
+2023;Chirurgiens;0.13;0.87;0.26;0.74;51;45;52;oui;oui;oui
+2023;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.46;0.54;0.21;0.79;46;43;48;oui;oui;oui
+2023;Ensemble des médecins spécialistes (hors généralistes);0.38;0.62;0.36;0.64;53;50;55;non;non;non
+2023;Médecins généralistes (hors médecins à expertise particulière - MEP);0.46;0.54;0.32;0.68;51;46;55;oui;oui;oui
+2023;Médecins généralistes à expertise particulière (MEP);0.36;0.64;0.61;0.39;60;58;61;oui;oui;oui
+2023;Médecins nucléaires;0.32;0.68;0.15;0.85;47;46;47;non;oui;oui
+2023;Médecins vasculaires;0.46;0.54;0.29;0.71;51;50;51;non;oui;oui
+2023;Neurologues;0.48;0.52;0.3;0.7;52;48;56;non;oui;oui
+2023;Orthophonistes;0.97;0.03;0.09;0.91;42;42;47;oui;oui;oui
+2023;Orthoptistes;0.88;0.12;0.09;0.91;40;40;40;oui;oui;oui
+2023;Radiologues;0.33;0.67;0.37;0.63;54;51;55;oui;oui;oui
+2023;Rhumatologues;0.49;0.51;0.43;0.57;54;50;59;oui;oui;oui
+2023;Stomatologues;0.24;0.76;0.44;0.56;54;47;56;non;oui;oui
+2023;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.6;0.4;0.24;0.76;51;50;53;oui;oui;oui
+2023;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;43;non;non;non
+2023;Ensemble des chirurgiens-dentistes;0.47;0.53;0.21;0.79;46;43;48;non;non;non
+2023;Ensemble des médecins;0.42;0.58;0.35;0.65;52;49;55;non;non;non
+2023;Gynécologues médicaux et obstétriciens;0.57;0.43;0.4;0.6;54;51;59;oui;oui;oui
+2023;Infirmiers;0.82;0.18;0.09;0.91;45;45;46;oui;oui;oui
+2023;Médecins pathologistes;0.56;0.44;0.32;0.68;52;50;54;non;oui;oui
+2023;Néphrologues;0.37;0.63;0.31;0.69;52;48;54;non;oui;oui
+2023;Oto-rhino-laryngologistes;0.26;0.74;0.43;0.57;55;48;57;oui;oui;oui
+2023;Pneumologues;0.4;0.6;0.37;0.63;53;48;57;oui;oui;oui
+2023;Radiothérapeutes;0.36;0.64;0.2;0.8;48;47;49;non;oui;oui
+2022;Allergologues;0.67;0.33;0.49;0.51;56;55;58;non;oui;oui
+2022;Cardiologues;0.25;0.75;0.38;0.62;54;48;56;oui;oui;oui
+2022;Dermatologues;0.71;0.29;0.46;0.54;56;54;61;oui;oui;oui
+2022;Ensemble des chirurgiens-dentistes;0.46;0.54;0.22;0.78;47;44;49;non;non;non
+2022;Ensemble des médecins;0.41;0.59;0.36;0.64;53;49;55;non;non;non
+2022;Ensemble des médecins spécialistes (hors généralistes);0.38;0.62;0.37;0.63;54;51;55;non;non;non
+2022;Hépato-gastro-entérologues;0.33;0.67;0.38;0.62;54;47;57;oui;oui;oui
+2022;Masseurs-kinésithérapeutes;0.48;0.52;0.1;0.9;41;39;43;oui;oui;oui
+2022;Néphrologues;0.37;0.63;0.3;0.7;52;48;54;non;oui;oui
+2022;Ophtalmologues;0.4;0.6;0.43;0.57;54;52;56;oui;oui;oui
+2022;Orthoptistes;0.88;0.12;0.09;0.91;40;40;40;oui;oui;oui
+2022;Oto-rhino-laryngologistes;0.24;0.76;0.44;0.56;55;48;57;oui;oui;oui
+2022;Pneumologues;0.39;0.61;0.37;0.63;54;48;58;oui;oui;oui
+2022;Sages-femmes;0.97;0.03;0.06;0.94;41;41;38;oui;oui;oui
+2022;Stomatologues;0.22;0.78;0.48;0.52;54;48;56;non;oui;oui
+2022;Anesthésistes-réanimateurs;0.25;0.75;0.25;0.75;51;49;51;oui;oui;oui
+2022;Chirurgiens;0.12;0.88;0.26;0.74;51;46;52;oui;oui;oui
+2022;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.45;0.55;0.22;0.78;46;43;49;oui;oui;oui
+2022;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.59;0.41;0.24;0.76;51;49;53;oui;oui;oui
+2022;Gynécologues médicaux et obstétriciens;0.56;0.44;0.43;0.57;55;52;59;oui;oui;oui
+2022;Médecins généralistes à expertise particulière (MEP);0.37;0.63;0.61;0.39;60;58;61;oui;oui;oui
+2022;Médecins vasculaires;0.46;0.54;0.3;0.7;51;50;52;non;oui;oui
+2022;Neurologues;0.45;0.55;0.31;0.69;52;48;56;non;oui;oui
+2022;Pédiatres;0.69;0.31;0.35;0.65;53;50;60;oui;oui;oui
+2022;Radiologues;0.32;0.68;0.37;0.63;54;51;55;oui;oui;oui
+2022;Rhumatologues;0.48;0.52;0.44;0.56;55;50;60;oui;oui;oui
+2022;Autres médecins;0.34;0.66;0.38;0.62;54;49;57;non;non;non
+2022;Endocrinologues;0.74;0.26;0.35;0.65;54;52;61;non;oui;oui
+2022;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;43;non;non;non
+2022;Ensemble des médecins généralistes;0.44;0.56;0.35;0.65;52;47;55;non;non;non
+2022;Infirmiers;0.82;0.18;0.09;0.91;45;45;45;oui;oui;oui
+2022;Médecins généralistes (hors médecins à expertise particulière - MEP);0.45;0.55;0.33;0.67;51;47;55;oui;oui;oui
+2022;Médecins nucléaires;0.31;0.69;0.16;0.84;47;47;47;non;oui;oui
+2022;Médecins pathologistes;0.56;0.44;0.35;0.65;53;51;55;non;oui;oui
+2022;Orthophonistes;0.97;0.03;0.09;0.91;42;42;46;oui;oui;oui
+2022;Psychiatres;0.45;0.55;0.48;0.52;57;54;60;oui;oui;oui
+2022;Pédicures-podologues;0.66;0.34;0.08;0.92;41;41;41;oui;oui;oui
+2022;Radiothérapeutes;0.36;0.64;0.21;0.79;49;47;50;non;oui;oui
+2021;Autres médecins;0.33;0.67;0.41;0.59;55;49;58;non;non;non
+2021;Cardiologues;0.24;0.76;0.38;0.62;54;48;56;oui;oui;oui
+2021;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.44;0.56;0.23;0.77;47;44;49;oui;oui;oui
+2021;Dermatologues;0.7;0.3;0.47;0.53;56;54;61;oui;oui;oui
+2021;Ensemble des médecins généralistes;0.43;0.57;0.36;0.64;52;48;56;non;non;non
+2021;Ensemble des médecins spécialistes (hors généralistes);0.37;0.63;0.39;0.61;54;51;56;non;non;non
+2021;Gynécologues médicaux et obstétriciens;0.56;0.44;0.47;0.53;56;53;59;oui;oui;oui
+2021;Hépato-gastro-entérologues;0.32;0.68;0.38;0.62;54;47;57;oui;oui;oui
+2021;Médecins généralistes (hors médecins à expertise particulière - MEP);0.44;0.56;0.34;0.66;52;47;55;oui;oui;oui
+2021;Médecins pathologistes;0.56;0.44;0.37;0.63;54;52;56;non;oui;oui
+2021;Orthophonistes;0.97;0.03;0.1;0.9;42;42;47;oui;oui;oui
+2021;Psychiatres;0.45;0.55;0.49;0.51;57;54;60;oui;oui;oui
+2021;Pédiatres;0.68;0.32;0.37;0.63;53;50;60;oui;oui;oui
+2021;Pédicures-podologues;0.66;0.34;0.08;0.92;41;41;41;oui;oui;oui
+2021;Radiologues;0.31;0.69;0.37;0.63;54;51;55;oui;oui;oui
+2021;Radiothérapeutes;0.35;0.65;0.23;0.77;49;47;51;non;oui;oui
+2021;Sages-femmes;0.97;0.03;0.06;0.94;41;42;37;oui;oui;oui
+2021;Allergologues;0.68;0.32;0.51;0.49;57;56;59;non;oui;oui
+2021;Anesthésistes-réanimateurs;0.25;0.75;0.27;0.73;51;49;52;oui;oui;oui
+2021;Chirurgiens;0.11;0.89;0.26;0.74;51;46;52;oui;oui;oui
+2021;Endocrinologues;0.74;0.26;0.35;0.65;54;52;61;non;oui;oui
+2021;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;43;non;non;non
+2021;Ensemble des médecins;0.4;0.6;0.37;0.63;53;49;56;non;non;non
+2021;Masseurs-kinésithérapeutes;0.48;0.52;0.1;0.9;41;39;43;oui;oui;oui
+2021;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.6;0.4;59;57;60;oui;oui;oui
+2021;Neurologues;0.43;0.57;0.31;0.69;53;49;56;non;oui;oui
+2021;Oto-rhino-laryngologistes;0.23;0.77;0.44;0.56;55;48;58;oui;oui;oui
+2021;Rhumatologues;0.47;0.53;0.46;0.54;55;50;60;oui;oui;oui
+2021;Stomatologues;0.2;0.8;0.52;0.48;55;49;57;non;oui;oui
+2021;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.59;0.41;0.24;0.76;51;50;52;oui;oui;oui
+2021;Ensemble des chirurgiens-dentistes;0.45;0.55;0.23;0.77;47;44;49;non;non;non
+2021;Infirmiers;0.82;0.18;0.09;0.91;45;45;45;oui;oui;oui
+2021;Médecins nucléaires;0.31;0.69;0.17;0.83;48;47;48;non;oui;oui
+2021;Médecins vasculaires;0.47;0.53;0.31;0.69;51;50;52;non;oui;oui
+2021;Néphrologues;0.36;0.64;0.3;0.7;52;48;55;non;oui;oui
+2021;Ophtalmologues;0.4;0.6;0.46;0.54;55;53;56;oui;oui;oui
+2021;Orthoptistes;0.88;0.12;0.09;0.91;40;40;40;oui;oui;oui
+2021;Pneumologues;0.37;0.63;0.39;0.61;54;49;58;oui;oui;oui
+2020;Allergologues;0.69;0.31;0.51;0.49;57;56;60;non;oui;oui
+2020;Anesthésistes-réanimateurs;0.24;0.76;0.3;0.7;52;50;52;oui;oui;oui
+2020;Autres médecins;0.31;0.69;0.44;0.56;56;50;59;non;non;non
+2020;Chirurgiens;0.11;0.89;0.25;0.75;51;46;52;oui;oui;oui
+2020;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.44;0.56;0.23;0.77;47;44;50;oui;oui;oui
+2020;Ensemble des chirurgiens-dentistes;0.45;0.55;0.23;0.77;47;44;50;non;non;non
+2020;Hépato-gastro-entérologues;0.3;0.7;0.38;0.62;54;48;57;oui;oui;oui
+2020;Infirmiers;0.82;0.18;0.09;0.91;45;45;45;oui;oui;oui
+2020;Masseurs-kinésithérapeutes;0.48;0.52;0.1;0.9;41;39;43;oui;oui;oui
+2020;Médecins pathologistes;0.56;0.44;0.4;0.6;54;52;56;non;oui;oui
+2020;Néphrologues;0.35;0.65;0.31;0.69;52;48;54;non;oui;oui
+2020;Orthophonistes;0.97;0.03;0.1;0.9;42;42;46;oui;oui;oui
+2020;Pédiatres;0.67;0.33;0.39;0.61;54;51;60;oui;oui;oui
+2020;Radiothérapeutes;0.35;0.65;0.25;0.75;50;47;51;non;oui;oui
+2020;Cardiologues;0.23;0.77;0.38;0.62;54;48;56;oui;oui;oui
+2020;Ensemble des auxiliaires médicaux;0.71;0.29;0.1;0.9;43;43;43;non;non;non
+2020;Ensemble des médecins;0.39;0.61;0.38;0.62;53;50;56;non;non;non
+2020;Ensemble des médecins spécialistes (hors généralistes);0.36;0.64;0.4;0.6;54;52;56;non;non;non
+2020;Médecins nucléaires;0.3;0.7;0.15;0.85;48;47;48;non;oui;oui
+2020;Neurologues;0.41;0.59;0.31;0.69;53;49;56;non;oui;oui
+2020;Ophtalmologues;0.41;0.59;0.47;0.53;55;54;56;oui;oui;oui
+2020;Orthoptistes;0.88;0.12;0.09;0.91;40;41;40;oui;oui;oui
+2020;Radiologues;0.31;0.69;0.37;0.63;54;51;55;oui;oui;oui
+2020;Stomatologues;0.19;0.81;0.56;0.44;56;50;57;non;oui;oui
+2020;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.59;0.41;0.23;0.77;51;49;52;oui;oui;oui
+2020;Dermatologues;0.7;0.3;0.49;0.51;57;55;61;oui;oui;oui
+2020;Endocrinologues;0.73;0.27;0.34;0.66;54;52;60;non;oui;oui
+2020;Ensemble des médecins généralistes;0.42;0.58;0.37;0.63;53;48;56;non;non;non
+2020;Gynécologues médicaux et obstétriciens;0.55;0.45;0.5;0.5;56;54;58;oui;oui;oui
+2020;Médecins généralistes (hors médecins à expertise particulière - MEP);0.42;0.58;0.34;0.66;52;47;56;oui;oui;oui
+2020;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.58;0.42;59;57;60;oui;oui;oui
+2020;Médecins vasculaires;0.48;0.52;0.28;0.72;51;50;52;non;oui;oui
+2020;Oto-rhino-laryngologistes;0.22;0.78;0.46;0.54;55;49;57;oui;oui;oui
+2020;Pneumologues;0.36;0.64;0.42;0.58;55;49;58;oui;oui;oui
+2020;Psychiatres;0.44;0.56;0.51;0.49;58;55;60;oui;oui;oui
+2020;Pédicures-podologues;0.66;0.34;0.08;0.92;41;41;41;oui;oui;oui
+2020;Rhumatologues;0.44;0.56;0.48;0.52;56;51;60;oui;oui;oui
+2020;Sages-femmes;0.97;0.03;0.07;0.93;42;42;36;oui;oui;oui
+2019;Allergologues;0.68;0.32;0.47;0.53;58;56;60;non;oui;oui
+2019;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.43;0.57;0.23;0.77;48;44;50;oui;oui;oui
+2019;Ensemble des chirurgiens-dentistes;0.44;0.56;0.23;0.77;48;45;50;non;non;non
+2019;Ensemble des médecins spécialistes (hors généralistes);0.36;0.64;0.41;0.59;55;52;56;non;non;non
+2019;Gynécologues médicaux et obstétriciens;0.55;0.45;0.52;0.48;56;54;58;oui;oui;oui
+2019;Hépato-gastro-entérologues;0.28;0.72;0.38;0.62;54;48;57;oui;oui;oui
+2019;Masseurs-kinésithérapeutes;0.47;0.53;0.11;0.89;41;39;43;oui;oui;oui
+2019;Médecins vasculaires;0.46;0.54;0.25;0.75;51;50;53;non;oui;oui
+2019;Neurologues;0.4;0.6;0.32;0.68;53;49;56;non;oui;oui
+2019;Ophtalmologues;0.41;0.59;0.48;0.52;55;54;56;oui;oui;oui
+2019;Orthophonistes;0.97;0.03;0.1;0.9;42;42;46;oui;oui;oui
+2019;Anesthésistes-réanimateurs;0.24;0.76;0.31;0.69;52;50;52;oui;oui;oui
+2019;Autres médecins;0.3;0.7;0.45;0.55;56;50;59;non;non;non
+2019;Cardiologues;0.22;0.78;0.38;0.62;54;49;56;oui;oui;oui
+2019;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.21;0.79;50;49;52;oui;oui;oui
+2019;Dermatologues;0.69;0.31;0.5;0.5;57;55;60;oui;oui;oui
+2019;Ensemble des auxiliaires médicaux;0.71;0.29;0.1;0.9;43;43;44;non;non;non
+2019;Ensemble des médecins;0.38;0.62;0.38;0.62;54;50;56;non;non;non
+2019;Infirmiers;0.82;0.18;0.09;0.91;45;45;45;oui;oui;oui
+2019;Médecins généralistes (hors médecins à expertise particulière - MEP);0.41;0.59;0.34;0.66;52;47;56;oui;oui;oui
+2019;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.56;0.44;58;57;60;oui;oui;oui
+2019;Néphrologues;0.33;0.67;0.32;0.68;53;48;55;non;oui;oui
+2019;Psychiatres;0.43;0.57;0.52;0.48;58;55;60;oui;oui;oui
+2019;Sages-femmes;0.97;0.03;0.06;0.94;42;42;36;oui;oui;oui
+2019;Chirurgiens;0.1;0.9;0.25;0.75;51;46;52;oui;oui;oui
+2019;Endocrinologues;0.73;0.27;0.34;0.66;54;52;60;non;oui;oui
+2019;Ensemble des médecins généralistes;0.4;0.6;0.36;0.64;53;48;56;non;non;non
+2019;Médecins nucléaires;0.31;0.69;0.16;0.84;48;47;48;non;oui;oui
+2019;Médecins pathologistes;0.56;0.44;0.41;0.59;55;53;56;non;oui;oui
+2019;Orthoptistes;0.88;0.12;0.08;0.92;40;41;40;oui;oui;oui
+2019;Oto-rhino-laryngologistes;0.21;0.79;0.46;0.54;56;49;57;oui;oui;oui
+2019;Pneumologues;0.35;0.65;0.43;0.57;55;48;58;oui;oui;oui
+2019;Pédiatres;0.65;0.35;0.42;0.58;54;51;60;oui;oui;oui
+2019;Pédicures-podologues;0.67;0.33;0.08;0.92;41;41;41;oui;oui;oui
+2019;Radiologues;0.3;0.7;0.36;0.64;54;51;55;oui;oui;oui
+2019;Radiothérapeutes;0.34;0.66;0.25;0.75;50;48;52;non;oui;oui
+2019;Rhumatologues;0.43;0.57;0.48;0.52;56;51;60;oui;oui;oui
+2019;Stomatologues;0.18;0.82;0.6;0.4;57;51;58;non;oui;oui
+2018;Allergologues;0.67;0.33;0.44;0.56;58;57;60;non;oui;oui
+2018;Anesthésistes-réanimateurs;0.24;0.76;0.33;0.67;52;51;53;oui;oui;oui
+2018;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.42;0.58;0.22;0.78;48;44;50;oui;oui;oui
+2018;Ensemble des auxiliaires médicaux;0.71;0.29;0.1;0.9;43;43;44;non;non;non
+2018;Ensemble des chirurgiens-dentistes;0.43;0.57;0.22;0.78;48;45;50;non;non;non
+2018;Médecins vasculaires;0.21;0.79;0.57;0.43;59;58;59;non;oui;oui
+2018;Neurologues;0.39;0.61;0.32;0.68;54;50;56;non;oui;oui
+2018;Néphrologues;0.31;0.69;0.33;0.67;53;49;55;non;oui;oui
+2018;Orthoptistes;0.89;0.11;0.08;0.92;41;41;40;oui;oui;oui
+2018;Oto-rhino-laryngologistes;0.19;0.81;0.46;0.54;56;49;57;oui;oui;oui
+2018;Pneumologues;0.32;0.68;0.44;0.56;55;49;58;oui;oui;oui
+2018;Radiologues;0.3;0.7;0.36;0.64;54;51;55;oui;oui;oui
+2018;Radiothérapeutes;0.34;0.66;0.26;0.74;51;48;52;non;oui;oui
+2018;Sages-femmes;0.97;0.03;0.07;0.93;42;42;35;oui;oui;oui
+2018;Stomatologues;0.17;0.83;0.61;0.39;57;51;59;non;oui;oui
+2018;Autres médecins;0.28;0.72;0.46;0.54;56;50;59;non;non;non
+2018;Chirurgiens;0.09;0.91;0.24;0.76;51;46;52;oui;oui;oui
+2018;Ensemble des médecins spécialistes (hors généralistes);0.35;0.65;0.41;0.59;55;53;56;non;non;non
+2018;Gynécologues médicaux et obstétriciens;0.54;0.46;0.51;0.49;56;55;58;oui;oui;oui
+2018;Médecins généralistes (hors médecins à expertise particulière - MEP);0.39;0.61;0.33;0.67;53;47;56;oui;oui;oui
+2018;Médecins pathologistes;0.55;0.45;0.41;0.59;55;54;57;non;oui;oui
+2018;Pédiatres;0.64;0.36;0.42;0.58;55;52;60;oui;oui;oui
+2018;Pédicures-podologues;0.67;0.33;0.08;0.92;41;41;40;oui;oui;oui
+2018;Rhumatologues;0.42;0.58;0.46;0.54;56;52;60;oui;oui;oui
+2018;Cardiologues;0.21;0.79;0.38;0.62;54;49;56;oui;oui;oui
+2018;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.2;0.8;50;49;51;oui;oui;oui
+2018;Dermatologues;0.69;0.31;0.48;0.52;57;55;60;oui;oui;oui
+2018;Endocrinologues;0.72;0.28;0.33;0.67;54;51;60;non;oui;oui
+2018;Ensemble des médecins;0.37;0.63;0.38;0.62;54;50;56;non;non;non
+2018;Ensemble des médecins généralistes;0.39;0.61;0.35;0.65;53;48;56;non;non;non
+2018;Hépato-gastro-entérologues;0.26;0.74;0.37;0.63;55;49;57;oui;oui;oui
+2018;Infirmiers;0.82;0.18;0.09;0.91;45;45;45;oui;oui;oui
+2018;Masseurs-kinésithérapeutes;0.47;0.53;0.11;0.89;41;39;43;oui;oui;oui
+2018;Médecins généralistes à expertise particulière (MEP);0.39;0.61;0.53;0.47;58;56;59;oui;oui;oui
+2018;Médecins nucléaires;0.29;0.71;0.16;0.84;48;48;48;non;oui;oui
+2018;Ophtalmologues;0.41;0.59;0.48;0.52;56;55;56;oui;oui;oui
+2018;Orthophonistes;0.97;0.03;0.1;0.9;42;41;46;oui;oui;oui
+2018;Psychiatres;0.42;0.58;0.53;0.47;58;55;60;oui;oui;oui
+2017;Anesthésistes-réanimateurs;0.23;0.77;0.34;0.66;52;51;53;oui;oui;oui
+2017;Autres médecins;0.27;0.73;0.48;0.52;57;51;59;non;non;non
+2017;Chirurgiens;0.09;0.91;0.24;0.76;52;46;52;oui;oui;oui
+2017;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.19;0.81;50;49;51;oui;oui;oui
+2017;Ensemble des auxiliaires médicaux;0.71;0.29;0.09;0.91;43;43;44;non;non;non
+2017;Masseurs-kinésithérapeutes;0.46;0.54;0.11;0.89;41;39;43;oui;oui;oui
+2017;Médecins généralistes à expertise particulière (MEP);0.39;0.61;0.5;0.5;58;56;59;oui;oui;oui
+2017;Médecins pathologistes;0.55;0.45;0.41;0.59;55;54;57;non;oui;oui
+2017;Oto-rhino-laryngologistes;0.18;0.82;0.45;0.55;56;50;57;oui;oui;oui
+2017;Cardiologues;0.2;0.8;0.37;0.63;55;49;56;oui;oui;oui
+2017;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.41;0.59;0.22;0.78;48;44;51;oui;oui;oui
+2017;Ensemble des chirurgiens-dentistes;0.42;0.58;0.22;0.78;48;45;51;non;non;non
+2017;Ensemble des médecins spécialistes (hors généralistes);0.34;0.66;0.4;0.6;55;53;56;non;non;non
+2017;Neurologues;0.37;0.63;0.31;0.69;54;50;56;non;oui;oui
+2017;Orthoptistes;0.89;0.11;0.08;0.92;41;41;40;oui;oui;oui
+2017;Pneumologues;0.31;0.69;0.42;0.58;55;49;58;oui;oui;oui
+2017;Pédicures-podologues;0.67;0.33;0.08;0.92;41;41;40;oui;oui;oui
+2017;Sages-femmes;0.97;0.03;0.06;0.94;42;42;35;oui;oui;oui
+2017;Dermatologues;0.68;0.32;0.45;0.55;56;55;60;oui;oui;oui
+2017;Endocrinologues;0.71;0.29;0.34;0.66;54;52;60;non;oui;oui
+2017;Ensemble des médecins;0.36;0.64;0.37;0.63;54;51;56;non;non;non
+2017;Ensemble des médecins généralistes;0.38;0.62;0.35;0.65;53;49;56;non;non;non
+2017;Gynécologues médicaux et obstétriciens;0.54;0.46;0.49;0.51;56;55;58;oui;oui;oui
+2017;Hépato-gastro-entérologues;0.24;0.76;0.36;0.64;55;49;57;oui;oui;oui
+2017;Infirmiers;0.83;0.17;0.09;0.91;45;45;45;oui;oui;oui
+2017;Médecins généralistes (hors médecins à expertise particulière - MEP);0.37;0.63;0.33;0.67;53;48;56;oui;oui;oui
+2017;Médecins nucléaires;0.28;0.72;0.17;0.83;48;48;48;non;oui;oui
+2017;Néphrologues;0.29;0.71;0.34;0.66;54;50;55;non;oui;oui
+2017;Ophtalmologues;0.41;0.59;0.45;0.55;56;55;56;oui;oui;oui
+2017;Orthophonistes;0.97;0.03;0.1;0.9;41;41;47;oui;oui;oui
+2017;Psychiatres;0.41;0.59;0.53;0.47;58;56;60;oui;oui;oui
+2017;Pédiatres;0.63;0.37;0.41;0.59;55;52;60;oui;oui;oui
+2017;Radiologues;0.28;0.72;0.34;0.66;54;51;55;oui;oui;oui
+2017;Radiothérapeutes;0.32;0.68;0.28;0.72;51;48;52;non;oui;oui
+2017;Rhumatologues;0.4;0.6;0.44;0.56;56;52;59;oui;oui;oui
+2017;Stomatologues;0.16;0.84;0.59;0.41;57;53;58;non;oui;oui
+2016;Anesthésistes-réanimateurs;0.23;0.77;0.32;0.68;53;51;53;oui;oui;oui
+2016;Dermatologues;0.68;0.32;0.42;0.58;56;55;59;oui;oui;oui
+2016;Endocrinologues;0.7;0.3;0.32;0.68;54;52;59;non;oui;oui
+2016;Ensemble des médecins spécialistes (hors généralistes);0.34;0.66;0.38;0.62;55;53;56;non;non;non
+2016;Gynécologues médicaux et obstétriciens;0.54;0.46;0.47;0.53;57;56;58;oui;oui;oui
+2016;Hépato-gastro-entérologues;0.23;0.77;0.33;0.67;55;49;56;oui;oui;oui
+2016;Infirmiers;0.83;0.17;0.08;0.92;45;45;45;oui;oui;oui
+2016;Masseurs-kinésithérapeutes;0.46;0.54;0.11;0.89;41;39;43;oui;oui;oui
+2016;Médecins pathologistes;0.53;0.47;0.39;0.61;55;54;57;non;oui;oui
+2016;Neurologues;0.35;0.65;0.3;0.7;54;50;55;non;oui;oui
+2016;Néphrologues;0.28;0.72;0.31;0.69;53;50;55;non;oui;oui
+2016;Pneumologues;0.3;0.7;0.39;0.61;55;49;58;oui;oui;oui
+2016;Psychiatres;0.41;0.59;0.53;0.47;58;56;59;oui;oui;oui
+2016;Sages-femmes;0.97;0.03;0.06;0.94;42;42;34;oui;oui;oui
+2016;Stomatologues;0.16;0.84;0.52;0.48;57;53;58;non;oui;oui
+2016;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.41;0.59;0.21;0.79;48;45;51;oui;oui;oui
+2016;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.19;0.81;50;49;51;oui;oui;oui
+2016;Ensemble des médecins;0.35;0.65;0.36;0.64;54;51;56;non;non;non
+2016;Médecins nucléaires;0.3;0.7;0.15;0.85;48;48;49;non;oui;oui
+2016;Orthophonistes;0.97;0.03;0.1;0.9;41;41;46;oui;oui;oui
+2016;Pédicures-podologues;0.67;0.33;0.07;0.93;41;41;40;oui;oui;oui
+2016;Radiologues;0.27;0.73;0.32;0.68;54;51;55;oui;oui;oui
+2016;Radiothérapeutes;0.32;0.68;0.31;0.69;52;50;53;non;oui;oui
+2016;Autres médecins;0.26;0.74;0.48;0.52;57;52;59;non;non;non
+2016;Cardiologues;0.19;0.81;0.35;0.65;54;49;56;oui;oui;oui
+2016;Chirurgiens;0.08;0.92;0.24;0.76;52;46;52;oui;oui;oui
+2016;Ensemble des auxiliaires médicaux;0.7;0.3;0.09;0.91;43;43;44;non;non;non
+2016;Ensemble des chirurgiens-dentistes;0.42;0.58;0.21;0.79;48;45;51;non;non;non
+2016;Ensemble des médecins généralistes;0.36;0.64;0.34;0.66;53;49;56;non;non;non
+2016;Médecins généralistes (hors médecins à expertise particulière - MEP);0.36;0.64;0.32;0.68;53;48;56;oui;oui;oui
+2016;Médecins généralistes à expertise particulière (MEP);0.39;0.61;0.47;0.53;57;56;59;oui;oui;oui
+2016;Ophtalmologues;0.41;0.59;0.43;0.57;56;55;56;oui;oui;oui
+2016;Orthoptistes;0.89;0.11;0.08;0.92;41;41;39;oui;oui;oui
+2016;Oto-rhino-laryngologistes;0.17;0.83;0.42;0.58;56;50;57;oui;oui;oui
+2016;Pédiatres;0.62;0.38;0.4;0.6;55;53;59;oui;oui;oui
+2016;Rhumatologues;0.39;0.61;0.42;0.58;56;52;59;oui;oui;oui
+2015;Autres médecins;0.25;0.75;0.46;0.54;57;52;59;non;non;non
+2015;Cardiologues;0.18;0.82;0.34;0.66;54;49;55;oui;oui;oui
+2015;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.4;0.6;0.21;0.79;48;45;51;oui;oui;oui
+2015;Ensemble des chirurgiens-dentistes;0.41;0.59;0.21;0.79;48;45;51;non;non;non
+2015;Ensemble des médecins généralistes;0.35;0.65;0.33;0.67;53;49;56;non;non;non
+2015;Orthophonistes;0.97;0.03;0.1;0.9;41;41;47;oui;oui;oui
+2015;Orthoptistes;0.89;0.11;0.08;0.92;41;41;39;oui;oui;oui
+2015;Pneumologues;0.28;0.72;0.37;0.63;55;49;57;oui;oui;oui
+2015;Pédicures-podologues;0.67;0.33;0.07;0.93;41;41;40;oui;oui;oui
+2015;Radiologues;0.26;0.74;0.31;0.69;54;51;55;oui;oui;oui
+2015;Radiothérapeutes;0.31;0.69;0.29;0.71;52;50;53;non;oui;oui
+2015;Rhumatologues;0.37;0.63;0.4;0.6;56;51;59;oui;oui;oui
+2015;Sages-femmes;0.97;0.03;0.06;0.94;42;43;34;oui;oui;oui
+2015;Stomatologues;0.14;0.86;0.49;0.51;57;54;58;non;oui;oui
+2015;Dermatologues;0.67;0.33;0.39;0.61;56;55;58;oui;oui;oui
+2015;Ensemble des médecins;0.34;0.66;0.35;0.65;54;51;56;non;non;non
+2015;Gynécologues médicaux et obstétriciens;0.54;0.46;0.45;0.55;57;56;57;oui;oui;oui
+2015;Infirmiers;0.83;0.17;0.08;0.92;45;45;44;oui;oui;oui
+2015;Médecins généralistes (hors médecins à expertise particulière - MEP);0.34;0.66;0.31;0.69;53;48;56;oui;oui;oui
+2015;Médecins généralistes à expertise particulière (MEP);0.39;0.61;0.45;0.55;57;55;58;oui;oui;oui
+2015;Médecins nucléaires;0.31;0.69;0.14;0.86;48;47;49;non;oui;oui
+2015;Neurologues;0.35;0.65;0.28;0.72;53;51;55;non;oui;oui
+2015;Néphrologues;0.27;0.73;0.29;0.71;53;50;54;non;oui;oui
+2015;Anesthésistes-réanimateurs;0.23;0.77;0.3;0.7;53;51;53;oui;oui;oui
+2015;Chirurgiens;0.08;0.92;0.24;0.76;52;46;52;oui;oui;oui
+2015;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.19;0.81;50;49;51;oui;oui;oui
+2015;Endocrinologues;0.69;0.31;0.31;0.69;54;52;59;non;oui;oui
+2015;Ensemble des auxiliaires médicaux;0.7;0.3;0.09;0.91;43;43;44;non;non;non
+2015;Ensemble des médecins spécialistes (hors généralistes);0.33;0.67;0.37;0.63;55;53;56;non;non;non
+2015;Hépato-gastro-entérologues;0.22;0.78;0.31;0.69;54;49;56;oui;oui;oui
+2015;Masseurs-kinésithérapeutes;0.45;0.55;0.11;0.89;41;39;44;oui;oui;oui
+2015;Médecins pathologistes;0.53;0.47;0.35;0.65;55;54;57;non;oui;oui
+2015;Ophtalmologues;0.41;0.59;0.39;0.61;55;55;56;oui;oui;oui
+2015;Oto-rhino-laryngologistes;0.16;0.84;0.39;0.61;56;50;57;oui;oui;oui
+2015;Psychiatres;0.41;0.59;0.51;0.49;58;56;59;oui;oui;oui
+2015;Pédiatres;0.61;0.39;0.38;0.62;55;53;59;oui;oui;oui
+2014;Anesthésistes-réanimateurs;0.23;0.77;0.29;0.71;53;52;53;oui;oui;oui
+2014;Autres médecins;0.25;0.75;0.44;0.56;57;53;59;non;non;non
+2014;Ensemble des auxiliaires médicaux;0.7;0.3;0.09;0.91;43;43;44;non;non;non
+2014;Ensemble des médecins spécialistes (hors généralistes);0.33;0.67;0.35;0.65;55;53;55;non;non;non
+2014;Masseurs-kinésithérapeutes;0.45;0.55;0.11;0.89;42;39;44;oui;oui;oui
+2014;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.41;0.59;57;55;58;oui;oui;oui
+2014;Ophtalmologues;0.41;0.59;0.36;0.64;55;55;55;oui;oui;oui
+2014;Orthoptistes;0.89;0.11;0.07;0.93;40;41;38;oui;oui;oui
+2014;Oto-rhino-laryngologistes;0.15;0.85;0.37;0.63;56;51;56;oui;oui;oui
+2014;Psychiatres;0.4;0.6;0.49;0.51;58;56;59;oui;oui;oui
+2014;Pédicures-podologues;0.67;0.33;0.07;0.93;41;41;40;oui;oui;oui
+2014;Radiologues;0.25;0.75;0.29;0.71;54;50;55;oui;oui;oui
+2014;Chirurgiens;0.07;0.93;0.24;0.76;52;47;52;oui;oui;oui
+2014;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.18;0.82;49;49;51;oui;oui;oui
+2014;Dermatologues;0.66;0.34;0.37;0.63;56;55;58;oui;oui;oui
+2014;Gynécologues médicaux et obstétriciens;0.53;0.47;0.42;0.58;56;56;57;oui;oui;oui
+2014;Hépato-gastro-entérologues;0.21;0.79;0.3;0.7;54;49;56;oui;oui;oui
+2014;Infirmiers;0.83;0.17;0.07;0.93;45;45;44;oui;oui;oui
+2014;Médecins généralistes (hors médecins à expertise particulière - MEP);0.33;0.67;0.3;0.7;53;48;55;oui;oui;oui
+2014;Médecins nucléaires;0.29;0.71;0.14;0.86;48;47;49;non;oui;oui
+2014;Néphrologues;0.27;0.73;0.29;0.71;53;51;54;non;oui;oui
+2014;Orthophonistes;0.97;0.03;0.1;0.9;41;41;47;oui;oui;oui
+2014;Sages-femmes;0.98;0.02;0.07;0.93;43;43;34;oui;oui;oui
+2014;Cardiologues;0.17;0.83;0.32;0.68;54;49;55;oui;oui;oui
+2014;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.39;0.61;0.2;0.8;49;45;51;oui;oui;oui
+2014;Endocrinologues;0.69;0.31;0.28;0.72;53;51;58;non;oui;oui
+2014;Ensemble des chirurgiens-dentistes;0.4;0.6;0.2;0.8;49;45;51;non;non;non
+2014;Ensemble des médecins;0.33;0.67;0.33;0.67;54;51;56;non;non;non
+2014;Ensemble des médecins généralistes;0.34;0.66;0.31;0.69;53;49;56;non;non;non
+2014;Médecins pathologistes;0.53;0.47;0.32;0.68;55;54;56;non;oui;oui
+2014;Neurologues;0.34;0.66;0.27;0.73;53;51;55;non;oui;oui
+2014;Pneumologues;0.27;0.73;0.35;0.65;55;50;57;oui;oui;oui
+2014;Pédiatres;0.6;0.4;0.38;0.62;55;53;59;oui;oui;oui
+2014;Radiothérapeutes;0.3;0.7;0.28;0.72;52;49;53;non;oui;oui
+2014;Rhumatologues;0.37;0.63;0.37;0.63;56;51;58;oui;oui;oui
+2014;Stomatologues;0.14;0.86;0.43;0.57;57;54;57;non;oui;oui
+2013;Anesthésistes-réanimateurs;0.23;0.77;0.27;0.73;53;52;53;oui;oui;oui
+2013;Autres médecins;0.24;0.76;0.43;0.57;57;53;58;non;non;non
+2013;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.58;0.42;0.17;0.83;49;49;50;oui;oui;oui
+2013;Dermatologues;0.66;0.34;0.33;0.67;55;54;57;oui;oui;oui
+2013;Endocrinologues;0.68;0.32;0.26;0.74;53;51;57;non;oui;oui
+2013;Ensemble des médecins spécialistes (hors généralistes);0.32;0.68;0.33;0.67;55;53;55;non;non;non
+2013;Gynécologues médicaux et obstétriciens;0.53;0.47;0.4;0.6;56;56;57;oui;oui;oui
+2013;Médecins généralistes (hors médecins à expertise particulière - MEP);0.31;0.69;0.29;0.71;53;48;55;oui;oui;oui
+2013;Médecins pathologistes;0.51;0.49;0.27;0.73;54;54;56;non;oui;oui
+2013;Orthophonistes;0.97;0.03;0.1;0.9;42;41;47;oui;oui;oui
+2013;Pneumologues;0.26;0.74;0.31;0.69;55;50;56;oui;oui;oui
+2013;Psychiatres;0.39;0.61;0.46;0.54;57;56;58;oui;oui;oui
+2013;Sages-femmes;0.98;0.02;0.06;0.94;43;44;34;oui;oui;oui
+2013;Cardiologues;0.17;0.83;0.3;0.7;54;49;55;oui;oui;oui
+2013;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.38;0.62;0.19;0.81;49;45;51;oui;oui;oui
+2013;Ensemble des chirurgiens-dentistes;0.39;0.61;0.19;0.81;49;45;51;non;non;non
+2013;Ensemble des médecins;0.32;0.68;0.31;0.69;54;51;55;non;non;non
+2013;Ensemble des médecins généralistes;0.32;0.68;0.3;0.7;53;49;55;non;non;non
+2013;Infirmiers;0.83;0.17;0.07;0.93;45;45;44;oui;oui;oui
+2013;Masseurs-kinésithérapeutes;0.44;0.56;0.11;0.89;42;39;44;oui;oui;oui
+2013;Néphrologues;0.27;0.73;0.28;0.72;53;50;54;non;oui;oui
+2013;Orthoptistes;0.9;0.1;0.07;0.93;40;41;38;oui;oui;oui
+2013;Pédiatres;0.58;0.42;0.38;0.62;56;53;59;oui;oui;oui
+2013;Rhumatologues;0.36;0.64;0.35;0.65;55;51;58;oui;oui;oui
+2013;Chirurgiens;0.07;0.93;0.23;0.77;52;47;52;oui;oui;oui
+2013;Ensemble des auxiliaires médicaux;0.7;0.3;0.09;0.91;43;43;44;non;non;non
+2013;Hépato-gastro-entérologues;0.19;0.81;0.28;0.72;54;49;55;oui;oui;oui
+2013;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.37;0.63;56;55;57;oui;oui;oui
+2013;Médecins nucléaires;0.29;0.71;0.14;0.86;48;47;49;non;oui;oui
+2013;Neurologues;0.33;0.67;0.25;0.75;53;51;54;non;oui;oui
+2013;Ophtalmologues;0.41;0.59;0.33;0.67;55;55;55;oui;oui;oui
+2013;Oto-rhino-laryngologistes;0.14;0.86;0.34;0.66;55;51;56;oui;oui;oui
+2013;Pédicures-podologues;0.67;0.33;0.07;0.93;41;41;40;oui;oui;oui
+2013;Radiologues;0.25;0.75;0.28;0.72;54;50;55;oui;oui;oui
+2013;Radiothérapeutes;0.3;0.7;0.3;0.7;52;49;53;non;oui;oui
+2013;Stomatologues;0.14;0.86;0.39;0.61;57;54;57;non;oui;oui
+2012;Anesthésistes-réanimateurs;0.22;0.78;0.27;0.73;53;52;53;oui;oui;oui
+2012;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.37;0.63;0.19;0.81;49;45;51;oui;oui;oui
+2012;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.57;0.43;0.16;0.84;49;48;50;oui;oui;oui
+2012;Ensemble des médecins;0.31;0.69;0.29;0.71;54;51;55;non;non;non
+2012;Ophtalmologues;0.41;0.59;0.3;0.7;55;55;55;oui;oui;oui
+2012;Oto-rhino-laryngologistes;0.14;0.86;0.32;0.68;55;51;56;oui;oui;oui
+2012;Pneumologues;0.25;0.75;0.27;0.73;54;49;55;oui;oui;oui
+2012;Pédiatres;0.57;0.43;0.36;0.64;56;53;58;oui;oui;oui
+2012;Sages-femmes;0.99;0.01;0.07;0.93;44;44;35;oui;oui;oui
+2012;Chirurgiens;0.06;0.94;0.23;0.77;52;47;52;oui;oui;oui
+2012;Dermatologues;0.65;0.35;0.31;0.69;55;54;57;oui;oui;oui
+2012;Ensemble des auxiliaires médicaux;0.69;0.31;0.08;0.92;43;43;44;non;non;non
+2012;Ensemble des médecins généralistes;0.31;0.69;0.28;0.72;53;49;55;non;non;non
+2012;Masseurs-kinésithérapeutes;0.43;0.57;0.11;0.89;42;39;44;oui;oui;oui
+2012;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.34;0.66;56;54;57;oui;oui;oui
+2012;Médecins pathologistes;0.51;0.49;0.23;0.77;54;53;55;non;oui;oui
+2012;Orthophonistes;0.97;0.03;0.1;0.9;42;41;47;oui;oui;oui
+2012;Orthoptistes;0.9;0.1;0.06;0.94;40;41;39;oui;oui;oui
+2012;Radiologues;0.24;0.76;0.26;0.74;53;50;54;oui;oui;oui
+2012;Autres médecins;0.24;0.76;0.41;0.59;57;53;58;non;non;non
+2012;Cardiologues;0.16;0.84;0.29;0.71;54;48;55;oui;oui;oui
+2012;Endocrinologues;0.67;0.33;0.23;0.77;52;50;57;non;oui;oui
+2012;Ensemble des chirurgiens-dentistes;0.38;0.62;0.18;0.82;49;45;51;non;non;non
+2012;Ensemble des médecins spécialistes (hors généralistes);0.32;0.68;0.31;0.69;54;53;55;non;non;non
+2012;Gynécologues médicaux et obstétriciens;0.53;0.47;0.37;0.63;56;56;56;oui;oui;oui
+2012;Hépato-gastro-entérologues;0.18;0.82;0.26;0.74;54;49;55;oui;oui;oui
+2012;Infirmiers;0.83;0.17;0.07;0.93;45;45;44;oui;oui;oui
+2012;Médecins généralistes (hors médecins à expertise particulière - MEP);0.3;0.7;0.27;0.73;53;48;55;oui;oui;oui
+2012;Médecins nucléaires;0.28;0.72;0.13;0.87;48;46;49;non;oui;oui
+2012;Neurologues;0.33;0.67;0.23;0.77;53;50;54;non;oui;oui
+2012;Néphrologues;0.25;0.75;0.28;0.72;53;49;54;non;oui;oui
+2012;Psychiatres;0.39;0.61;0.43;0.57;57;55;58;oui;oui;oui
+2012;Pédicures-podologues;0.68;0.32;0.07;0.93;41;41;40;oui;oui;oui
+2012;Radiothérapeutes;0.29;0.71;0.27;0.73;52;50;53;non;oui;oui
+2012;Rhumatologues;0.34;0.66;0.32;0.68;55;51;57;oui;oui;oui
+2012;Stomatologues;0.13;0.87;0.34;0.66;57;53;57;non;oui;oui
+2011;Autres médecins;0.23;0.77;0.39;0.61;56;52;58;non;non;non
+2011;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.57;0.43;0.15;0.85;49;48;50;oui;oui;oui
+2011;Dermatologues;0.65;0.35;0.27;0.73;54;53;56;oui;oui;oui
+2011;Ensemble des médecins;0.31;0.69;0.27;0.73;53;51;55;non;non;non
+2011;Ensemble des médecins généralistes;0.3;0.7;0.25;0.75;53;49;54;non;non;non
+2011;Hépato-gastro-entérologues;0.18;0.82;0.24;0.76;53;48;54;oui;oui;oui
+2011;Masseurs-kinésithérapeutes;0.42;0.58;0.11;0.89;42;39;44;oui;oui;oui
+2011;Pédiatres;0.55;0.45;0.36;0.64;55;53;58;oui;oui;oui
+2011;Stomatologues;0.13;0.87;0.31;0.69;56;54;57;non;oui;oui
+2011;Anesthésistes-réanimateurs;0.22;0.78;0.25;0.75;53;52;53;oui;oui;oui
+2011;Endocrinologues;0.68;0.32;0.19;0.81;51;49;56;non;oui;oui
+2011;Ensemble des chirurgiens-dentistes;0.37;0.63;0.18;0.82;49;45;51;non;non;non
+2011;Ensemble des médecins spécialistes (hors généralistes);0.31;0.69;0.29;0.71;54;53;55;non;non;non
+2011;Gynécologues médicaux et obstétriciens;0.52;0.48;0.34;0.66;56;55;56;oui;oui;oui
+2011;Médecins généralistes (hors médecins à expertise particulière - MEP);0.29;0.71;0.25;0.75;52;48;54;oui;oui;oui
+2011;Neurologues;0.32;0.68;0.2;0.8;52;50;53;non;oui;oui
+2011;Néphrologues;0.24;0.76;0.27;0.73;53;49;54;non;oui;oui
+2011;Ophtalmologues;0.41;0.59;0.27;0.73;54;54;54;oui;oui;oui
+2011;Orthophonistes;0.96;0.04;0.09;0.91;41;41;47;oui;oui;oui
+2011;Orthoptistes;0.9;0.1;0.06;0.94;41;41;38;oui;oui;oui
+2011;Radiologues;0.24;0.76;0.24;0.76;53;50;54;oui;oui;oui
+2011;Cardiologues;0.15;0.85;0.27;0.73;53;48;54;oui;oui;oui
+2011;Chirurgiens;0.06;0.94;0.22;0.78;52;47;52;oui;oui;oui
+2011;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.36;0.64;0.18;0.82;49;45;51;oui;oui;oui
+2011;Ensemble des auxiliaires médicaux;0.69;0.31;0.08;0.92;43;43;44;non;non;non
+2011;Infirmiers;0.83;0.17;0.06;0.94;45;45;44;oui;oui;oui
+2011;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.3;0.7;55;53;56;oui;oui;oui
+2011;Médecins nucléaires;0.26;0.74;0.14;0.86;48;47;49;non;oui;oui
+2011;Médecins pathologistes;0.51;0.49;0.21;0.79;54;53;54;non;oui;oui
+2011;Oto-rhino-laryngologistes;0.13;0.87;0.29;0.71;55;51;55;oui;oui;oui
+2011;Pneumologues;0.25;0.75;0.24;0.76;54;49;55;oui;oui;oui
+2011;Psychiatres;0.39;0.61;0.4;0.6;57;55;57;oui;oui;oui
+2011;Pédicures-podologues;0.68;0.32;0.06;0.94;41;41;40;oui;oui;oui
+2011;Radiothérapeutes;0.29;0.71;0.24;0.76;52;51;53;non;oui;oui
+2011;Rhumatologues;0.33;0.67;0.3;0.7;55;50;57;oui;oui;oui
+2011;Sages-femmes;0.99;0.01;0.06;0.94;44;44;37;oui;oui;oui
+2010;Autres médecins;0.22;0.78;0.37;0.63;56;51;57;non;non;non
+2010;Chirurgiens-dentistes spécialistes d'orthopédie dento-faciale (ODF);0.57;0.43;0.15;0.85;49;48;49;oui;oui;oui
+2010;Endocrinologues;0.67;0.33;0.16;0.84;51;49;55;non;oui;oui
+2010;Neurologues;0.33;0.67;0.16;0.84;51;49;53;non;oui;oui
+2010;Ophtalmologues;0.4;0.6;0.25;0.75;54;54;54;oui;oui;oui
+2010;Orthophonistes;0.96;0.04;0.09;0.91;41;41;47;oui;oui;oui
+2010;Oto-rhino-laryngologistes;0.13;0.87;0.27;0.73;54;51;55;oui;oui;oui
+2010;Pneumologues;0.24;0.76;0.2;0.8;53;49;54;oui;oui;oui
+2010;Pédiatres;0.54;0.46;0.34;0.66;55;53;58;oui;oui;oui
+2010;Stomatologues;0.13;0.87;0.27;0.73;56;53;56;non;oui;oui
+2010;Chirurgiens;0.05;0.95;0.22;0.78;52;47;52;oui;oui;oui
+2010;Chirurgiens-dentistes (hors spécialistes d'orthopédie dento-faciale - ODF);0.35;0.65;0.18;0.82;49;45;51;oui;oui;oui
+2010;Gynécologues médicaux et obstétriciens;0.52;0.48;0.31;0.69;55;55;56;oui;oui;oui
+2010;Hépato-gastro-entérologues;0.17;0.83;0.22;0.78;53;48;54;oui;oui;oui
+2010;Infirmiers;0.83;0.17;0.06;0.94;45;45;44;oui;oui;oui
+2010;Médecins généralistes (hors médecins à expertise particulière - MEP);0.28;0.72;0.22;0.78;52;48;54;oui;oui;oui
+2010;Néphrologues;0.22;0.78;0.25;0.75;53;50;53;non;oui;oui
+2010;Orthoptistes;0.9;0.1;0.06;0.94;41;41;38;oui;oui;oui
+2010;Pédicures-podologues;0.68;0.32;0.06;0.94;41;41;40;oui;oui;oui
+2010;Radiothérapeutes;0.29;0.71;0.2;0.8;52;50;52;non;oui;oui
+2010;Anesthésistes-réanimateurs;0.23;0.77;0.25;0.75;53;53;53;oui;oui;oui
+2010;Cardiologues;0.15;0.85;0.25;0.75;53;48;54;oui;oui;oui
+2010;Dermatologues;0.64;0.36;0.24;0.76;54;53;56;oui;oui;oui
+2010;Ensemble des auxiliaires médicaux;0.69;0.31;0.08;0.92;43;43;44;non;non;non
+2010;Ensemble des chirurgiens-dentistes;0.36;0.64;0.17;0.83;49;45;51;non;non;non
+2010;Ensemble des médecins;0.3;0.7;0.24;0.76;53;50;54;non;non;non
+2010;Ensemble des médecins généralistes;0.29;0.71;0.23;0.77;52;48;54;non;non;non
+2010;Ensemble des médecins spécialistes (hors généralistes);0.31;0.69;0.27;0.73;54;52;54;non;non;non
+2010;Masseurs-kinésithérapeutes;0.42;0.58;0.11;0.89;42;39;44;oui;oui;oui
+2010;Médecins généralistes à expertise particulière (MEP);0.38;0.62;0.26;0.74;54;53;55;oui;oui;oui
+2010;Médecins nucléaires;0.24;0.76;0.13;0.87;48;47;49;non;oui;oui
+2010;Médecins pathologistes;0.51;0.49;0.19;0.81;53;52;54;non;oui;oui
+2010;Psychiatres;0.39;0.61;0.37;0.63;56;55;57;oui;oui;oui
+2010;Radiologues;0.23;0.77;0.22;0.78;52;49;53;oui;oui;oui
+2010;Rhumatologues;0.33;0.67;0.27;0.73;54;50;56;oui;oui;oui
+2010;Sages-femmes;0.99;0.01;0.07;0.93;44;45;37;oui;oui;oui

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6965fd7bdd5d82d4c4664a66",
+  "title": "Production annuelle d’électricité par filière - Saint-Pierre-et-Miquelon",
+  "page": "https://www.data.gouv.fr/datasets/production-annuelle-delectricite-par-filiere-saint-pierre-et-miquelon-1",
+  "organization": "Electricité de France",
+  "description": "<p>Les informations relatives à la production annuelle d'électricité par filière sont établies à partir de données de comptage, de télémesures ainsi que des estimations.</p><p><br /></p><p>Pour toute question, vous pouvez vous adresser à : sei-data-office@edf.fr</p>",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://opendata.edf.fr/data-fair/api/v1/datasets/production-annuelle-d-electricite-par-filiere-saint-pierre-et-miquelon/convert",
+  "last_modified": "2026-04-28T06:55:44+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "électricité",
+  "news": []
+}

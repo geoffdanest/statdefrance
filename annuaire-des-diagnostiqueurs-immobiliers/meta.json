@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "5bc5df57634f417a900a5ed0",
+  "title": "Annuaire des diagnostiqueurs immobiliers",
+  "page": "https://www.data.gouv.fr/datasets/annuaire-des-diagnostiqueurs-immobiliers",
+  "organization": "Ministère de la Cohésion des territoires",
+  "description": "L’annuaire met à disposition du grand public la liste des personnes habilitées pour établir des diagnostics immobiliers (diagnostiqueurs immobiliers).\nCet annuaire est alimenté par les organismes de certification qui fournissent la liste des diagnostiqueurs qu’ils ont certifiés.\n\nL'annuaire est consultable en ligne sur le site [http://diagnostiqueurs.din.developpement-durable.gouv.fr](http://diagnostiqueurs.din.developpement-durable.gouv.fr)",
+  "resource_title": "Annuaire des diagnostiqueurs  (Maj du 31/12/2020 )",
+  "resource_url": "https://static.data.gouv.fr/resources/annuaire-des-diagnostiqueurs-immobiliers/20201231-210009/20201231-annuaire-diagnostiqueurs.csv",
+  "last_modified": "2020-12-31T21:00:10.864000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "immobilier",
+  "news": []
+}

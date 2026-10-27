@@ -1,0 +1,17 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:regularite-mensuelle-tgv-aqst",
+  "title": "Régularité mensuelle TGV par liaisons",
+  "page": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/",
+  "organization": "SNCF",
+  "description": "Découvrez la régularité mensuelle TGV par liaisons (AQST). La régularité TGV tient compte des différentes durées de trajet des clients (aussi appelée composite). Un train est considéré à l'heure si son retard au terminus est inférieur à 5min pour un parcours inférieur à 1h30 Un train est considéré à l'heure si son retard au terminus est inférieur à 10min pour un parcours entre 1h30 et 3h Un train est considéré à l'heure si son retard au terminus est inférieur à 15min pour un parcours au-delà de 3h Les horaires d'arrivée sont également déterminés par des capteurs détectant le passage du train à un point déterminé marquant l'entrée en gare et exceptionnellement par des suivis manuel. La précision des mesures est la minute arrondie à minute inférieure, ce qui est conforme à l'ensemble des normes retenues pour la confection des horaires et chronogrammes de service. Le résultat de régularité global n’est ni la moyenne des résultats des 6 axes, ni la moyenne des résultats de l’ensemble des liaisons. En effet, le taux de régularité est le nombre de trains à l’heure à leur terminus sur le nombre de trains total ayant circulé sur le périmètre considéré. De plus, un même TGV peut compter dans plusieurs liaisons, mais il ne compte qu’une seule fois dans la régularité globale. Les chiffres de ce jeu de données ne doivent donc pas être utilisés pour calculer une régularité globale TGV ou par axe. Pour consulter la régularité mensuelle TGV globale, cliquez ici . Pour consulter la régularit",
+  "resource_title": "Régularité mensuelle TGV par liaisons",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/regularite-mensuelle-tgv-aqst/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-02T10:10:31+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "régularité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

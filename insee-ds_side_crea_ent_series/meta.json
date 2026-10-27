@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SIDE_CREA_ENT_SERIES",
+  "title": "Créations d'entreprises - séries longues",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SIDE_CREA_ENT_SERIES",
+  "organization": "Insee",
+  "description": "Les créations d'entreprises sont réparties selon le secteur d’activité et la forme légale, elles sont disponibles pour les niveaux France, région et département.\nCes données sont requêtables via l’API Melodi à partir de l’identifiant (idbank BDM) présent sur insee.fr, voir rubrique Pour en savoir plus.",
+  "resource_title": "DS_SIDE_CREA_ENT_SERIES",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SIDE_CREA_ENT_SERIES/DS_SIDE_CREA_ENT_SERIES_CSV_FR",
+  "last_modified": "2026-10-16T08:45:53.910265219",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 184293,
+  "origin": "theme",
+  "label": "Récents",
+  "query": "Récents",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

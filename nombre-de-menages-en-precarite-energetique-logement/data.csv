@@ -1,0 +1,11 @@
+Colonne,Description
+date_mesure,"Date de prise en compte de la mesure. Attention, en fonction des indicateurs et des sources, cette année peut représenter des mesures finalisées au 31 décembre de l'année précédente."
+geocode_commune,Code officiel géographique de l'INSEE de la commune
+libelle_commune,Libellé de la commune venant de l'INSEE
+geocode_epci,Code officiel géographique de l'INSEE de l'EPCI
+libelle_epci,Libellé de l'EPCI venant de l'INSEE
+geocode_departement,Code officiel géographique de l'INSEE du département
+libelle_departement,Libellé du département venant de l'INSEE
+geocode_region,Code officiel géographique de l'INSEE pour la région
+libelle_region,Libellé de la région venant de l'INSEE
+valeur,Valeur de l'indicateur en ménages : Nombre de ménages en précarité énergétique logement

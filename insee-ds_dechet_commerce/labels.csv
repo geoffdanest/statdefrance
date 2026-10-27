@@ -1,0 +1,88 @@
+"COD_VAR";"LIB_VAR";"COD_MOD";"LIB_MOD";"GEO_OBJECT"
+"ACTIVITY";"Activité économique";"45";"Commerce et réparation d'automobiles et de motocycles";
+"ACTIVITY";"Activité économique";"46";"Commerce de gros, à l’exception des automobiles et des motocycles";
+"ACTIVITY";"Activité économique";"47";"Commerce de détail, à l’exception des automobiles et des motocycles";
+"ACTIVITY";"Activité économique";"_T";"Total";
+"CONF_STATUS";"Statut de confidentialité";"F";"Diffusable";
+"CONF_STATUS";"Statut de confidentialité";"C";"Confidentiel (secret statistique)";
+"NB_EMPL";"Nombre d'employés";"ELT50";"Moins de 50";
+"NB_EMPL";"Nombre d'employés";"E250T499";"De 250 à 499";
+"NB_EMPL";"Nombre d'employés";"EGE500";"500 ou plus";
+"NB_EMPL";"Nombre d'employés";"E50T249";"De 50 à 249";
+"NB_EMPL";"Nombre d'employés";"_T";"Total";
+"OBS_STATUS";"Statut de l'observation";"A";"Normale";
+"OBS_STATUS";"Statut de l'observation";"M";"Valeur manquante : les données n’existent pas (sans objet : so)";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"_Z";"Non applicable";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q3_4";"Par des estimations au volume effectuées en interne";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_1";"Éco-conception";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_5";"Système de management ISO 14001 avec des indicateurs déchets";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_9";"Autre";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q5_3";"Le groupe";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_6";"Autre";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_8";"Développement du tri à la source";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q5_4";"Autre";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q3_1";"Par des factures ou des redevances par pesées";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_4";"Recours à un prestataire intervenant à l’intérieur de votre établissement pour collecter et trier les déchets";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q1_1";"Oui";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q3_5";"Autre (coefficients techniques, caractérisation…)";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_2";"Sensibilisation et formation du personnel à la gestion des déchets";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_4";"Réduction des emballages reçus (demander aux fournisseurs de limiter les quantités d’emballage)";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_5";"Réduction des chutes, pertes et rebuts";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q5_2";"L'entreprise";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q3_3";"Par des pesées réalisées en interne";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_1";"Personnel dédié à la gestion des déchets";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q1_2";"Non";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q5_1";"L'établissement";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_2";"Introduction de matières premières recyclées";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_7";"Recherche de nouvelles filières de valorisation";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q3_2";"Par des factures ou des redevances par estimations (volumes de bacs et nombre de rotations,…)";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_6";"Prévoir une action en lien avec les pertes alimentaire";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q4_3";"Trouver ou augmenter les échanges de ""coproduits"" entre établissements de votre entreprise";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"Q2_3";"Mise à disposition d’équipements de tri des déchets";
+"QUALI_WASTE";"Question qualitative du questionnaire déchet";"_T";"Total";
+"TIME_PERIOD";"Période temporelle";"2022";"2022";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"_Z";"Non applicable";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_2";"Recyclage organique";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_1";"Recyclage matière";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_3";"Valorisation énergétique avec récupération d’énergie";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_6";"Incinération sans récupération d’énergie";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_4";"Remblayage";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_8";"Mise en centre de tri";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"TM_7";"Mise en décharge";
+"TREATMENT_METHOD";"Mode de traitement des déchets";"_T";"Total";
+"TREATMENT_PLACE";"Lieu de traitement des déchets";"_Z";"Non applicable";
+"TREATMENT_PLACE";"Lieu de traitement des déchets";"P2";"Un lieu de traitement hors site ";
+"TREATMENT_PLACE";"Lieu de traitement des déchets";"P1";"Un lieu de traitement sur site";
+"TREATMENT_PLACE";"Lieu de traitement des déchets";"P5";"Plusieurs lieux de traitement";
+"TREATMENT_PLACE";"Lieu de traitement des déchets";"_T";"Total";
+"WASTE_MEASURE";"Mesure";"WM_1";"Nombre d'établissements";
+"WASTE_MEASURE";"Mesure";"WM_2";"Nombre d'établissements produisant ce déchet";
+"WASTE_MEASURE";"Mesure";"WM_4";"Quantité produite (en tonnes)";
+"WASTE_MEASURE";"Mesure";"WM_3";"Nombre d'établissements ayant une cantine";
+"WASTE_MEASURE";"Mesure";"WM_41";"% inévitable";
+"WASTE_MEASURE";"Mesure";"WM_44";"Quantité d'emballages (en tonnes)";
+"WASTE_MEASURE";"Mesure";"WM_42";"% trié";
+"WASTE_TYPE";"Type de déchets";"_Z";"Non applicable";
+"WASTE_TYPE";"Type de déchets";"WT_2";"Verre";
+"WASTE_TYPE";"Type de déchets";"WT_11";"Organiques";
+"WASTE_TYPE";"Type de déchets";"WT_7";"Caoutchouc";
+"WASTE_TYPE";"Type de déchets";"WT_12";"Déchets verts";
+"WASTE_TYPE";"Type de déchets";"WT_10";"Minéraux";
+"WASTE_TYPE";"Type de déchets";"WT_6";"Textile et cuir";
+"WASTE_TYPE";"Type de déchets";"WT_15";"Déchets alimentaires";
+"WASTE_TYPE";"Type de déchets";"WT_5";"Papiers et cartons";
+"WASTE_TYPE";"Type de déchets";"WT_14";"Déchets d’activité";
+"WASTE_TYPE";"Type de déchets";"WT_4";"Plastique";
+"WASTE_TYPE";"Type de déchets";"WT_8";"Bois";
+"WASTE_TYPE";"Type de déchets";"WT_1";"Déchets en mélange";
+"WASTE_TYPE";"Type de déchets";"WT_9";"Équipements hors d'usage";
+"WASTE_TYPE";"Type de déchets";"WT_3";"Métaux";
+GEO_OBJECT;Niveau géographique;FRANCE;France;
+GEO_OBJECT;Niveau géographique;REG;Région;
+GEO_OBJECT;Niveau géographique;OTHER;Autre type de territoires;
+"GEO";"Géographie";"F";"France";"FRANCE"
+"GEO";"Géographie";"NE";"Nord et Est";"OTHER"
+"GEO";"Géographie";"11";"Île-de-France";"REG"
+"GEO";"Géographie";"SO";"Sud-Ouest";"OTHER"
+"GEO";"Géographie";"SE";"Sud-Est";"OTHER"
+"GEO";"Géographie";"O";"Ouest";"OTHER"

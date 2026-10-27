@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6a9e70c287fd111bdb6a229d",
+  "title": "Emplois de la filière bois",
+  "page": "https://www.data.gouv.fr/datasets/emplois-de-la-filiere-bois",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nLa filière forêt-bois est appelée à jouer un grand rôle dans la transition écologique, et son renforcement est souhaitable afin de permettre de gérer les forêts durablement et développer le rôle du bois notamment comme matériel de construction, sans devoir faire appel à des importations croissantes. L'indicateur représente l'ensemble des emplois de la filière depuis l'amont jusqu'à l'aval. \n\nSource des données : INSEE",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/emplois-de-la-filiere-bois/20260914-092403/description-des-champs.csv",
+  "last_modified": "2026-09-14T09:24:03.465000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "emploi",
+  "news": []
+}

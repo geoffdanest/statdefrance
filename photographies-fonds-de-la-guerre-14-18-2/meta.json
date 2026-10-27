@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "5af120fca3a7295e54c41a1c",
+  "title": "Photographies : Fonds de la guerre 14-18",
+  "page": "https://www.data.gouv.fr/datasets/photographies-fonds-de-la-guerre-14-18-2",
+  "organization": "Ministère de la Culture",
+  "description": "Photographies concernant la première guerre mondiale (18 982 notices textes et images). \n\nCes photographies ont été réalisées à des fins de propagande et de documentation par les services français --notamment la Section photographique et cinématographique des armées à partir de 1917-- ou par les services alliés (Portugal, Italie). Elles montrent l’effort de guerre, les dégâts causés par les combats aux monuments historiques, l'évacuation des œuvres d'art, la situation à l’arrière du front (vie des civils, camps d’internement, de prisonniers, hôpitaux ou des militaires -théâtre aux armées ) en France au Maroc, au Cameroun (anciennes colonies allemandes)mais aussi le front Italien, Roumain, ou les Dardanelles, en Grèce...",
+  "resource_title": "fonds-de-la-guerre-14-18-extrait-de-la-base-memoire.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/photographies-fonds-de-la-guerre-14-18-2/20250827-122030/fonds-de-la-guerre-14-18-extrait-de-la-base-memoire.csv",
+  "last_modified": "2025-08-27T12:20:31.786000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "guerre",
+  "query": "guerre",
+  "news": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : au moins un mort et dix blessés dans des attaques russes sur Kiev",
+      "link": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-au-moins-un-mort-et-dix-blesses-dans-des-attaques-russes-sur-kiev_6799896_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Moscou écarte toute trêve générale, un pétrolier russe en route vers New York",
+      "link": "https://www.20minutes.fr/monde/ukraine/4257666-20261026-guerre-ukraine-moscou-ecarte-toute-treve-generale-petrolier-russe-route-vers-new-york?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Une nappe de pétrole grossit au large des Émirats",
+      "link": "https://www.20minutes.fr/monde/4257807-20261026-guerre-moyen-orient-nappe-petrole-grossit-large-emirats?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

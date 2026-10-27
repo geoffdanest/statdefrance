@@ -1,0 +1,52 @@
+type_nuance;bloc;libelle_nuance;signification;commentaires
+individuelle;EXG;EXG;Extrême gauche;"Candidats investis ou soutenus par des partis d'extrême-gauche notamment Lutte ouvrière; le nouveau Parti Anticapitaliste; Parti ouvrier indépendant etc."
+individuelle;EXG;FI;La France insoumise;Candidats investis par La France insoumise
+individuelle;GAU;COM;Parti communiste français;Candidats investis par le Parti communiste Français
+individuelle;GAU;SOC;Parti socialiste;Candidats investis par le Parti socialiste
+individuelle;GAU;GEN;Génération.s;Candidats investis par Génération.s
+individuelle;GAU;PLP;Place Publique;Candidats investis par Place Publique
+individuelle;GAU;RDG;Parti radical de gauche;Candidats investis par le Parti radical de gauche
+individuelle;GAU;VEC;Les Écologistes;Candidats investis par Les Écologistes
+individuelle;GAU;DVG;Divers gauche;Autres candidats de sensibilité de gauche y compris les candidats dissidents
+individuelle;DIV;ECO;Ecologiste;Autres candidats de sensibilité écologiste
+individuelle;DIV;REG;Régionalistes;Candidats régionalistes indépendantistes et autonomistes
+individuelle;DIV;ANM;Animaliste;Candidats investis par le Parti animaliste et autre mouvance de la cause animale
+individuelle;DIV;DIV;Divers;Candidats inclassables
+individuelle;CENT;REN;Renaissance;Candidats investis par Renaissance
+individuelle;CENT;MDM;Modem;Candidats investis par le Mouvement démocrate
+individuelle;CENT;HOR;Horizons;Candidats investis par Horizons
+individuelle;CENT;PR;Parti Radical;Candidats investis par le Parti Radical
+individuelle;CENT;DVC;Divers centre;Autres candidats de sensibilité du centre y compris les candidats dissidents
+individuelle;CENT;UDI;Union des Démocrates et Indépendants;Candidats investis par l'Union des démocrates et indépendants
+individuelle;DTE;LR;Les Républicains;Candidats investis par Les Républicains
+individuelle;DTE;DVD;Divers droite;Autres candidats de sensibilité de droite y compris les candidats dissidents
+individuelle;DTE;DSV;Droite souverainiste;Candidats investis par un parti de sensibilité souverainiste (Debout la France etc.)
+individuelle;EXD;UDR;Union des droites pour la République;Candidats investis par l'Union des droites pour la République
+individuelle;EXD;RN;Rassemblement National;Candidats investis par le Rassemblement national
+individuelle;EXD;REC;Reconquête;Candidats investis par Reconquête !
+individuelle;EXD;EXD;Extrême droite;"Candidats investis ou soutenus par d'autres partis d'extrême-droite notamment Les Patriotes; Comités Jeanne; Mouvement National Républicain; Les identitaires; Ligue du Sud; Parti de la France; Souveraineté Identité et Libertés (SIEL); Front des patriotes républicains; etc."
+liste;EXG;LEXG;Extrême gauche;Listes investies ou soutenues par des partis d'extrême-gauche notamment Lutte ouvrière le Nouveau Parti Anticapitaliste Parti ouvrier indépendant Listes soutenues sans être investies par un parti d'extrême gauche qui dispose d'une nuance de liste Autres listes de sensibilité d'extrême gauche dont listes dissidentes ou répondant aux autres configurations présentées au point n° 3 de la partie 3.2 de la présente circulaire
+liste;EXG;LFI;La France insoumise;Listes investies par La France insoumise
+liste;GAU;LCOM;Parti communiste français;Listes investies par le Parti communiste Français
+liste;GAU;LSOC;Parti socialiste;Listes investies par le Parti socialiste
+liste;GAU;LVEC;Les Écologistes;Listes investies par Les Écologistes
+liste;GAU;LUG;Union de la gauche;Listes investies ou soutenues par des partis du bloc de gauche dont au moins deux des partis suivants Parti communiste Français Parti socialiste Les Écologistes
+liste;GAU;LDVG;Divers gauche;Listes investies ou soutenues par une formation de sensibilité de gauche qui ne dispose pas d'une nuance propre de liste Génération s Place Publique Parti radical de gauche Nouvelle Donne Allons enfants Volt Equinoxe Debout L'Après etc Listes soutenues sans être investies par un parti de gauche qui dispose d'une nuance de liste Autres listes de sensibilité de gauche dont listes dissidentes ou répondant aux autres configurations présentées au point n° 3 de la partie 3.2 de la présente circulaire
+liste;DIV;LECO;Ecologiste;Listes investies ou soutenues par un ou plusieurs partis ou mouvances écologistes (hors Les Ecologistes)
+liste;DIV;LREG;Régionalistes;Listes régionalistes indépendantistes et autonomistes
+liste;DIV;LDIV;Divers;Listes inclassables listes investies ou soutenues par un parti religieux ou socioprofessionnel Parti animaliste Parti pirate etc
+liste;CENT;LREN;Renaissance;Listes investies par Renaissance
+liste;CENT;LMDM;Modem;Listes investies par le Mouvement démocrate
+liste;CENT;LHOR;Horizons;Listes investies par Horizons
+liste;CENT;LUDI;Union des Démocrates et Indépendants;Listes investies par l'Union des démocrates et indépendants
+liste;CENT;LUC;Union du centre;Listes investies ou soutenues par des partis du bloc du centre dont au moins deux des partis suivants Renaissance Modem Horizons Union des démocrates et indépendants
+liste;CENT;LDVC;Divers centre;Listes investies ou soutenues par une formation de sensibilité du centre qui ne dispose pas d'une nuance propre de liste Parti radical Alliance centriste etc
+liste;DTE;LLR;Les Républicains;Listes investies par Les Républicains
+liste;DTE;LUD;Union de la droite;Listes investies par des partis du bloc de droite dont Les Républicains
+liste;DTE;LDVD;Divers droite;"Listes investies ou soutenues par une formation de sensibilité de droite qui ne dispose pas d'une nuance propre de liste (Le mouvement de la ruralité etc) Listes soutenues sans être investies par un parti de droite qui dispose d'une nuance de liste;"
+liste;DTE;LDSV;Droite souverainiste;Listes investies par un parti de sensibilité souverainiste (Debout la France Alliance royale etc)
+liste;EXD;LUDR;Union des droites pour la République;Listes investies par l'Union des droites pour la République
+liste;EXD;LRN;Rassemblement National;Listes investies par le Rassemblement national
+liste;EXD;LREC;Reconquête;Listes présentées par Reconquête !
+liste;EXD;LUXD;Union de l'extrême droite;Listes investies ou soutenues par des partis du bloc d'extrême-droite dont au moins deux des partis suivants Rassemblement national Reconquête ! et Union des droites pour la République
+liste;EXD;LEXD;Extrême droite;"Listes investies ou soutenues par une formation de sensibilité d'extrême-droite qui ne dispose pas d'une nuance propre de liste (Les Patriotes Comités Jeanne Mouvement National Républicain Ligue du Sud etc) Listes soutenues sans être investies par un parti d'extrême-droite qui dispose d'une nuance de liste;"

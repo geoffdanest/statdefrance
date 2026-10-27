@@ -1,0 +1,17 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:ira-virologie-renal",
+  "title": "IRA National - Virologie - RENAL",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/ira-virologie-renal/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de taux de positivité en laboratoire d'hôpital sont issus du réseau RENAL et du CNR des virus respiratoires. Ces données sont mises à disposition à des fins d'information publique et de transparence. Tout utilisation à des fins de recherche ou de publication doit être soumise à validation préalable par le CNR-VIR. Contact : grippe@pasteur.fr / GHE.GRIPPE-FRANCE-SUD@chu-lyon.fr La liste des laboratoires hospitaliers participant au réseau RENAL : CHU de Caen Normandie - Hôpital Côte de Nacre CHU Dijon Bourgogne - Hôpital François Mitterrand (ex-Bocage) CHU de Besançon - Hôpital Saint-Jacques CHRU de Brest - Hôpital de la Cavale Blanche CHU de Rennes - Hôpital Pontchaillou CHRU de Tours - Hôpital Bretonneau CHU de Nantes - Hôpital Hôtel-Dieu CHU Angers CHU d'Orléans - Hôpital de La Source CHU de Reims CHRU de Nancy - Hôpital de Brabois CHU de Lille - Centre de Biologie Pathologie (Institut de Microbiologie) Faculté Louis Pasteur de Strasbourg Institut de Virologie de Strasbourg (Faculté de Médecine, Université de Strasbourg) HIA - Hôpital d'Instruction des Armées Bégin Hôpital Necker-Enfants Malades (AP-HP) Hôpital Robert Debré (AP-HP) Hôpital Ambroise-Paré Hôpital Avicenne Hôpital Bichat (AP-HP) Hôpital Pitié-Salpêtrière (AP-HP) Hôpital Saint-Antoine (AP-HP) Hôpital Saint-Louis (AP-HP) Hôpital Cochin – Port-Royal (AP-HP) Hôpital Henri Mondor Hôpital européen Geoges Pompidou (AP-HP) Hôpital Paul Brousse - Paris Saclay (AP-HP) CH de Versailles – Hôpital André Mign",
+  "resource_title": "IRA National - Virologie - RENAL",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/ira-virologie-renal/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-21T12:43:51+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "grippe",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

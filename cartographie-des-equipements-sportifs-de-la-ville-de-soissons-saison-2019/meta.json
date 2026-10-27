@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "68596b22a8dc2619bf944a29",
+  "title": "Cartographie des équipements sportifs de la Ville de Soissons – saison 2019",
+  "page": "https://www.data.gouv.fr/datasets/cartographie-des-equipements-sportifs-de-la-ville-de-soissons-saison-2019",
+  "organization": "Ville de Soissons",
+  "description": "Ce jeu de données recense les équipements sportifs de la Ville de Soissons pour la saison 2019. Il fournit des informations sur l’adresse, le quartier, les disciplines sportives pratiquées ainsi que les clubs utilisant chaque équipement, avec leurs jours et horaires d’occupation.\n",
+  "resource_title": "saison-sportive-2019.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/cartographie-des-equipements-sportifs-de-la-ville-de-soissons-saison-2019/20250623-145634/saison-sportive-2019.csv",
+  "last_modified": "2025-06-23T14:56:35.051000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "équipements sportifs",
+  "news": []
+}

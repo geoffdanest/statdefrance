@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_IPC_PM",
+  "title": "Prix moyens de vente de détail",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPC_PM",
+  "organization": "Insee",
+  "description": "Les prix moyens de vente de détail sont calculés à partir des relevés de prix collectés dans le cadre du calcul de l'indice des prix à la consommation (IPC). Il s'agit d'une autre façon de se figurer l'inflation sur un produit précis.\nIl s'agit d'une moyenne pondérée par le poids de l'agglomération dans laquelle le prix a été collecté. Au sein d'une agglomération les relevés sont équipondérés.\nPour que ce prix moyens ait un sens économique, les produits doivent être homogènes sur le territoire et dans le temps.",
+  "resource_title": "DS_IPC_PM",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_IPC_PM/DS_IPC_PM_CSV_FR",
+  "last_modified": "2026-10-15T08:45:48.013938457",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 20720,
+  "origin": "theme",
+  "label": "Économie",
+  "query": "Économie",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

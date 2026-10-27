@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6a2834b0766abb84c9d475d4",
+  "title": "Tarifs postaux Entreprises et Collectivites 2026",
+  "page": "https://www.data.gouv.fr/datasets/tarifs-postaux-entreprises-et-collectivites-2026",
+  "organization": "La Poste",
+  "description": "« Le service universel postal concourt à la cohésion sociale et au développement équilibré du territoire. Il est assuré dans le respect des principes d'égalité, de continuité et d'adaptabilité en recherchant la meilleure efficacité économique et sociale. Il garantit à tous les usagers, de manière permanente et sur l'ensemble du territoire national, des services postaux répondant à des normes de qualité déterminées. Ces services sont offerts à des prix abordables pour tous les utilisateurs.\n\nIl comprend des offres de services nationaux et transfrontières d'envois postaux d'un poids inférieur ou égal à 2 kilogrammes, de colis postaux jusqu'à 20 kilogrammes, d'envois recommandés et d'envois à valeur déclarée.\n\nLes services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf circonstances exceptionnelles.»\n\n« La Poste est le prestataire du service universel postal. Elle assure ce service dans les conditions fixées par l’article R.1-1-10 du Code des postes et télécommunications électroniques. La Poste établit et tient à jour le catalogue des prestations relevant du service universel et du secteur réservé ainsi que des tarifs en vigueur (…). L’Autorité de régulation des communications électroniques et des postes dispose d’un délai d’un mois suivant la réception du document pour émettre son avis.»",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.laposte.fr/data-fair/api/v1/datasets/tarifs-postaux-entreprises-et-collectivites-2026/convert",
+  "last_modified": "2026-06-09T15:34:10+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Économie",
+  "query": "entreprises",
+  "news": []
+}

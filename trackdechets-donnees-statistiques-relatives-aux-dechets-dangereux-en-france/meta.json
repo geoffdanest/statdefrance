@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "649af611eaa8b9950ea5b3e8",
+  "title": "Trackdéchets - Données statistiques relatives aux déchets dangereux en France",
+  "page": "https://www.data.gouv.fr/datasets/trackdechets-donnees-statistiques-relatives-aux-dechets-dangereux-en-france",
+  "organization": "Trackdéchets",
+  "description": "![Logo Trackdéchets](https://static.data.gouv.fr/resources/statistiques-publiques-de-trackdechets/20230627-144557/trackdechets-logo-ok-vecto.png)\nL'application Trackdéchets est utilisée en France pour tracer plusieurs types de déchets :\n\n- déchets dangereux et/ou contenant des Polluants Organiques Persistants (POP) ;\n- déchets contenant de l'amiante ;\n- déchets de fluides frigorigènes ;\n- déchets d'activités de soins à risques infectieux (DASRI) ;\n- véhicules hors d'usage.\n\nLes déchets doivent être tracés depuis le producteur/détenteur jusqu'au traitement final. Les déchets qui vont d'une installation en métropole, à destination de l'étranger (ou l'inverse) ne sont pas tracés par Trackdéchets. Un bordereau de suivi de déchet (BSD) est créé pour chaque déchet et chaque mouvement. Les nombreuses informations qu'il contient alimentent ces statistiques. \n\nDepuis le 1er janvier 2022, l'utilisation de Trackdéchets est obligatoire pour les déchets dangereux et/ou contenant des POP et les déchets d'amiante. Cependant, 2022 est une année de transition qui comprenait une période de tolérance jusqu'au 1er juillet (usage du format papier possible durant cette période). Nous utilisons donc les seules données qui ont fait l'objet d'une dématérialisation via Trackdéchets.\n\nPour en savoir plus, [rendez-vous dans la FAQ](https://faq.trackdechets.fr/informations-generiques/les-fondamentaux/quest-ce-que-trackdechets).\n\n# Les Données\n\n⌛️ **Mise à Jour du 08/03/2024** : Correction d'une erreur en",
+  "resource_title": " Statistiques hebdomadaires des Bordereaux de Suivi de Déchets Dangereux",
+  "resource_url": "https://static.data.gouv.fr/resources/trackdechets-donnees-statistiques-relatives-aux-dechets-dangereux-en-france/20261026-080015/bsdd-statistiques-hebdomadaires.csv",
+  "last_modified": "2026-10-26T08:00:16.355000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

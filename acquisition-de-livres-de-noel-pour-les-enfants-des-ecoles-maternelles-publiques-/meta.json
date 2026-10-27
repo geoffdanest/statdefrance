@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6a8c50e89cd3c72a08931d48",
+  "title": "Acquisition de livres de Noël pour les enfants des écoles maternelles publiques et privées de la ville de Brignoles - Année 2026",
+  "page": "https://www.data.gouv.fr/datasets/acquisition-de-livres-de-noel-pour-les-enfants-des-ecoles-maternelles-publiques-et-privees-de-la-ville-de-brignoles-annee-2026",
+  "organization": "Commune de Brignoles",
+  "description": "La consultation porte sur l’achat de livres ludiques et didactiques de noël pour les enfants des écoles\nmaternelles publiques et privées du territoire.\nLes livres seront commandés au plus tard mi-novembre 2026 et devront être reçus dans les écoles pour le 1er\nDécembre 2026 au plus tard.\n",
+  "resource_title": "Avis-Attrib-MAPA-34-2026-.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/acquisition-de-livres-de-noel-pour-les-enfants-des-ecoles-maternelles-publiques-et-privees-de-la-ville-de-brignoles-annee-2026/20260824-141049/avis-attrib-mapa-34-2026-.csv",
+  "last_modified": "2026-08-24T14:10:49.682000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "école",
+  "news": []
+}

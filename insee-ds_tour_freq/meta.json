@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_TOUR_FREQ",
+  "title": "Fréquentation des hébergements touristiques ",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TOUR_FREQ",
+  "organization": "Insee",
+  "description": "Données portant sur la fréquentation des hébergements touristiques selon le nombre de nuitées, d’arrivées et les taux d’occupation pour les hôtels, campings et autres hébergements touristiques. Les indicateurs disponibles varient selon la fréquence (annuelle, trimestrielle ou mensuelle).\nCe jeu de données contient des données à forte valeur «flux touristiques en Europe» désignées par Eurostat (HVD).",
+  "resource_title": "DS_TOUR_FREQ",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_TOUR_FREQ/DS_TOUR_FREQ_CSV_FR",
+  "last_modified": "2026-10-13T17:49:41.304764454",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 191526,
+  "origin": "theme",
+  "label": "Récents",
+  "query": "Récents",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "667e956b62c5ede7aea57935",
+  "title": "Gisement de déchets ménagers et assimilés (DMA) en Bretagne",
+  "page": "https://www.data.gouv.fr/datasets/gisement-de-dechets-menagers-et-assimiles-dma-en-bretagne",
+  "organization": "Observatoire de l'environnement en Bretagne",
+  "description": "Tonnage collecté et ratio de production de déchets ménagers et assimilés (DMA) de 2010 à 2020, par les collectivités bretonnes compétentes pour la collecte des déchets.\n\n**Sources :** base de données nationale Sinoe®.\n\n**Aller plus loin :** consulter la méthodologie et les sources détaillées dans la datavisualisation <a href=\"https://bretagne-environnement.fr/tableau-de-bord/la-production-de-dechets-menagers-et-assimiles-dma-en-bretagne\" target=\"_blank\">\"Déchets ménagers et assimilés : évolution du gisement et du traitement depuis 2010 en Bretagne\"</a> réalisée par l'OEB. ",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.bretagne-environnement.fr/data-fair/api/v1/datasets/gisement-de-dechets-menagers-et-assimiles-dma-en-bretagne/raw",
+  "last_modified": "2026-01-29T20:34:25+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

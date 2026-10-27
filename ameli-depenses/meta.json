@@ -1,0 +1,17 @@
+{
+  "source": "ameli",
+  "dataset_id": "ameli:depenses",
+  "title": "Pathologies : dépenses remboursées affectées à chaque pathologie",
+  "page": "https://data.ameli.fr/explore/dataset/depenses/",
+  "organization": "Assurance Maladie",
+  "description": "Ce jeu de données est une des sources de datavisualisations disponibles sur le site Data pathologies . Informations générales : Les données présentent des informations sur les dépenses remboursées par l'ensemble des régimes d'assurance maladie et affectées à chaque pathologie, traitement chronique ou épisode de soins. Ces dépenses sont réparties entre : les soins de ville (dont soins de médecins, soins infirmiers ou de kinésithérapie, médicament, biologie, transports, etc.) ; les hospitalisations dans des établissements de santé publics ou privés ; les prestations en espèces (dont indemnités journalières). Les pathologies, traitements chroniques et épisodes de soins sont regroupés dans les catégories suivantes : maladies cardioneurovasculaires ; traitements du risque vasculaire (hors pathologies) ; diabète ; cancers ; pathologies psychiatriques ; traitements psychotropes (hors pathologies) ; maladies neurologiques ; maladies respiratoires chroniques (hors mucoviscidose) ; maladies inflammatoires ou rares ou infection VIH ; insuffisance rénale chronique terminale ; maladies du foie ou du pancréas (hors mucoviscidose) ; affections de longue durée (dont 31 et 32) pour d'autres causes ; hospitalisation pour Covid-19 (à partir de 2020) ; maternité (avec ou sans pathologies) ; traitement antalgique ou anti-inflammatoire (hors pathologies, traitements, maternité ou hospitalisations) ; hospitalisations hors pathologies repérées (avec ou sans pathologies, traitements ou maternité). Le",
+  "resource_title": "Pathologies : dépenses remboursées affectées à chaque pathologie",
+  "resource_url": "https://data.ameli.fr/api/explore/v2.1/catalog/datasets/depenses/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-06T10:50:12.831000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "médicaments",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

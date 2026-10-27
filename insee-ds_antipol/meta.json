@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_ANTIPOL",
+  "title": "Enquête annuelle sur les investissements pour protéger l'environnement (Antipol)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ANTIPOL",
+  "organization": "Insee",
+  "description": "Les montants sont détaillés par domaines environnementaux (eau, déchet, énergie, protection du climat, protection des sols, etc.) et déclinées par secteur d'activité, tranches d'effectifs et région d'implantation de l'établissement. Tous les trois ans, des données sur les montants des dépenses courantes (coûts d'entretien des installations pour la protection de l'environnement, gestion des déchets, management environnemental) sont également disponibles. \n\nLe champ de l’enquête regroupe les établissements industriels de 20 salariés ou plus.",
+  "resource_title": "DS_ANTIPOL",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_ANTIPOL/DS_ANTIPOL_2024_CSV_FR",
+  "last_modified": "2026-09-03T17:00:04.110233113",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 1357,
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "Énergie",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

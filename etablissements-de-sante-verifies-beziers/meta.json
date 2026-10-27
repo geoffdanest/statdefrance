@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6aba32e9fe937575a896c111",
+  "title": "Etablissements de santé vérifiés - Béziers",
+  "page": "https://www.data.gouv.fr/datasets/etablissements-de-sante-verifies-beziers",
+  "organization": "Communauté d'Agglomération Béziers Méditerranée",
+  "description": "Ce jeu de données référence l'ensemble des établissements de santé validés et vérifiés sur la commune de Béziers. Il comporte des informations sur le domaine médical exercé et l'adresse de localisation. \n\nIl est disponible aux formats CSV et Shapefile, projeté en Lambert 93 (EPSG : 2154).\n",
+  "resource_title": "Etablissements de santé Béziers (CSV)",
+  "resource_url": "https://static.data.gouv.fr/resources/etablissements-de-sante-verifies-beziers/20260928-092706/etablissements-de-sante-beziers.csv",
+  "last_modified": "2026-09-28T09:27:06.369000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

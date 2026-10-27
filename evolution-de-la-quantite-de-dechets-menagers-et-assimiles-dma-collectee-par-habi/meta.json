@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6adf596f59999423721744c5",
+  "title": "Evolution de la quantité de déchets ménagers et assimilés (DMA) collectée par habitant  (base 100 en 2010)",
+  "page": "https://www.data.gouv.fr/datasets/evolution-de-la-quantite-de-dechets-menagers-et-assimiles-dma-collectee-par-habitant-base-100-en-2010",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nCet indicateur mesure la variation relative de la quantité de déchets ménagers et assimilés (DMA) produits par habitant sur un territoire donné, en prenant comme référence l'année 2010 (base 100). Il permet d'évaluer l'évolution de la production de DMA par habitant, indépendamment des variations démographiques.\n\nLes déchets ménagers et assimilés (DMA) incluent :\n* Déchets ménagers : Tous les déchets (dangereux ou non) dont le producteur est un ménage, collectés par le Service Public de Gestion des Déchets (SPGD).\n* Déchets assimilés : Déchets collectés par le SPGD dont le producteur n'est pas un ménage (ex. : artisans, commerçants, administrations), mais qui sont gérés dans les mêmes conditions que les déchets ménagers.   \n* Déblais et gravats reçus en déchèteries\n\nEn revanche, ils excluent les déchets des espaces verts publics, de voirie et des marchés non collectés par le SPGD (sauf pour les DMA au sens réglementaire). \n\nLe suivi de la valorisation matière, comprenant les déchets réutilisés et recyclés permet de répondre à l'objectif 4°bis de l'article L541-1 du code de l'environnement : \" Augmenter la quantité de déchets ménagers et assimilés faisant l'objet d'une préparation en vue de la réutilisation ou d'un recyclage en orientant vers ces filières 55 % en 2025, 60 % en 2030 et 65 % en 2035 de ces déchets mesurés en masse\".\n\nT",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/evolution-de-la-quantite-de-dechets-menagers-et-assimiles-dma-collectee-par-habitant-base-100-en-2010/20261026-143035/description-des-champs.csv",
+  "last_modified": "2026-10-26T14:30:35.769000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

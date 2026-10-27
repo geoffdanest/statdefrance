@@ -1,0 +1,17 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:ira-cepidc",
+  "title": "IRA National - Décès certifiés électroniquement",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/ira-cepidc/",
+  "organization": "Santé publique France",
+  "description": "Le CépiDc (Centre d'épidémiologie sur les causes médicales de décès) est une unité de service de l'Inserm qui produit la statistique officielle des causes médicales de décès en France, en recensant et en analysant les données des volets médicaux des certificats électroniques de décès remplis par les médecins. Concernant les infections respiratoires aiguës, le CépiDc recense les décès certifiés électroniquement, avec mention de \"Grippe\" ou de \"COVID-19\". L'indicateur présenté, en %, correspond au ratio entre le nombre de décès certifiés avec mention de la maladie concernée, et le nombre total de décès, pour la semaine ciblée.",
+  "resource_title": "IRA National - Décès certifiés électroniquement",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/ira-cepidc/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-21T12:45:22+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "grippe",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_IPC_IND_CAT",
+  "title": "Indice des prix à la consommation - indices catégoriels",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPC_IND_CAT",
+  "organization": "Insee",
+  "description": "L'indice des prix à la consommation (IPC) est l'instrument de mesure de l'inflation. Une de ses déclinaisons s'intéresse aux ménages du premier quintile de la distribution des niveaux de vie, c'est à dire aux 20% des ménages ayant les plus bas \"niveau de vie\".\nCet indice est publié chaque mois au Journal Officiel, et intervient dans le processus de revalorisation du SMIC.\nLes autres indices par catégorie de ménages sont diffusés en moyenne annuelle et permettent d'estimer l'inflation d'une population particulière en prenant en compte sa structure de consommation déterminée via l'enquête Budget de famille.",
+  "resource_title": "DS_IPC_IND_CAT",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_IPC_IND_CAT/DS_IPC_IND_CAT_CSV_FR",
+  "last_modified": "2026-10-15T08:45:48.138081467",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 684,
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "Territoires",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

@@ -1,0 +1,33 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:resultats-elections-ce",
+  "title": "Résultats des élections au Comité d'Entreprise",
+  "page": "https://ressources.data.sncf.com/explore/dataset/resultats-elections-ce/",
+  "organization": "SNCF",
+  "description": "Résultats des élections des membres du Comité d’Entreprise depuis 1996.",
+  "resource_title": "Résultats des élections au Comité d'Entreprise",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/resultats-elections-ce/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2022-12-01T13:18:58+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "élections",
+  "query": "élections",
+  "news": [
+    {
+      "title": "Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Image d'une explosion atomique, brouille avec l'Etat-major... Benyamin Nétanyahou accusé par ses opposants de jouer un jeu dangereux avec l'Iran à la veille des élections",
+      "link": "https://www.franceinfo.fr/monde/israel/image-d-une-explosion-atomique-brouille-avec-l-etat-major-benyamin-netanyahou-accuse-par-ses-opposants-de-jouer-un-jeu-dangereux-avec-l-iran-a-la-veille-des-elections_8254246.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
+      "link": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

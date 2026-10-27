@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "685bbeaf4aca1245439634b1",
+  "title": "Prénoms des enfants nés à Soissons",
+  "page": "https://www.data.gouv.fr/datasets/prenoms-des-enfants-nes-a-soissons",
+  "organization": "Ville de Soissons",
+  "description": "Ce jeu de données recense les prénoms des enfants nés à Soissons entre 2009 et 2019. Pour chaque prénom, on trouve le nombre d’occurrences par année de naissance, offrant un aperçu des tendances démographiques locales.\n",
+  "resource_title": "liste-des-prenoms.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/prenoms-des-enfants-nes-a-soissons/20250625-091736/liste-des-prenoms.csv",
+  "last_modified": "2025-06-25T09:17:36.546000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "prénoms",
+  "news": []
+}

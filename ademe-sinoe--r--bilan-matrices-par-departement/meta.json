@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:sinoe-(r)-bilan-matrices-par-departement",
+  "title": "SINOE ® - Bilan des matrices des coûts par département",
+  "page": "https://data.ademe.fr/datasets/sinoe-(r)-bilan-matrices-par-departement",
+  "organization": "ADEME",
+  "description": "Ce jeu de données représente le suivi de l'avancement de la saisie et de la validation des matrices des coûts par acteur SINOE.",
+  "resource_title": "SINOE ® - Bilan des matrices des coûts par département",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/sinoe-(r)-bilan-matrices-par-departement/lines?format=csv&size=10000",
+  "last_modified": "2026-10-26T07:30:16.084Z",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

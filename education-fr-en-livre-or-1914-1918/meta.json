@@ -1,0 +1,33 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-livre-or-1914-1918",
+  "title": "Première Guerre Mondiale 1914-1918 \"Livre d’or des personnels de l’instruction publique et des Beaux-arts\"",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-livre-or-1914-1918/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "En septembre 1914, vingt-cinq mille membres de l’enseignement public sont mobilisés dans l’armée française. Pour leur rendre hommage, le ministre de l’Instruction publique et des Beaux-Arts, Albert Sarraut, décide, par circulaire du 12 septembre 1914, l’ouverture d’un « Livre d’or de l’Université » composé des listes de « ceux qui seront tombés, morts ou blessés, sur le champ de bataille ». De toute la France affluent alors, dès 1914 et jusqu’en 1920, des listes adressées au ministère par les personnels de l’administration centrale, les académies et plus rarement les autorités militaires ou les familles des victimes. 17144 fiches sont ainsi constituées, recensant les personnels de l’enseignement primaire, secondaire, supérieur et les membres de l’administration centrale ayant été déclarés blessés, morts ou portés disparus au cours de cette période. C’est à partir de ces fiches, conservées désormais aux Archives nationales et ne prétendant pas à l’exhaustivité, que cette base a été construite par la mission des archives et du patrimoine culturel du ministère",
+  "resource_title": "Première Guerre Mondiale 1914-1918 \"Livre d’or des personnels de l’instruction publique et des Beaux-arts\"",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-livre-or-1914-1918/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-01-29T18:29:22.567000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "guerre",
+  "query": "guerre",
+  "news": [
+    {
+      "title": "EN DIRECT, guerre en Ukraine : au moins un mort et dix blessés dans des attaques russes sur Kiev",
+      "link": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-au-moins-un-mort-et-dix-blesses-dans-des-attaques-russes-sur-kiev_6799896_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Moscou écarte toute trêve générale, un pétrolier russe en route vers New York",
+      "link": "https://www.20minutes.fr/monde/ukraine/4257666-20261026-guerre-ukraine-moscou-ecarte-toute-treve-generale-petrolier-russe-route-vers-new-york?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Une nappe de pétrole grossit au large des Émirats",
+      "link": "https://www.20minutes.fr/monde/4257807-20261026-guerre-moyen-orient-nappe-petrole-grossit-large-emirats?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

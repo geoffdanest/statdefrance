@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_DERA_PRIVE_SERIES_LONGUES",
+  "title": "Séries longues de salaires dans le secteur privé",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_SERIES_LONGUES",
+  "organization": "Insee",
+  "description": "Les séries longues de salaires sont ventilées par sexe, secteur d'activité, catégorie socioprofessionnelle, tranche d'âge et temps de travail. En plus de la moyenne, plusieurs statistiques sur la distribution des salaires sont disponibles.  Les salaires peuvent être exprimés en euros constants, en indice base 100 en 1996 ou en évolution en euros constants par rapport à l'année précédente. \nChamp : France depuis 2000, France métropolitaine jusqu'en 1999, salariés du privé, y compris alternants, stagiaires et bénéficiaires de contrats aidés ; hors salariés de l'agriculture et salariés des particuliers-employeurs.\nCes données peuvent également être consultées dans l'outil de datavisualisation sur les salaires",
+  "resource_title": "DS_DERA_PRIVE_SERIES_LONGUES",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_DERA_PRIVE_SERIES_LONGUES/DS_DERA_PRIVE_SERIES_LONGUES_CSV_FR",
+  "last_modified": "2025-12-04T15:00:42.842844933",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 14768,
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "Agriculture",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

@@ -1,0 +1,17 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-formations_diplomes",
+  "title": "Codification des diplômes et certifications préparés par la voie de l’apprentissage",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-formations_diplomes/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Cette codification permet de répertorier et d’organiser les formations et les diplômes dans des nomenclatures pour faciliter leur traitement informatique. Enrichie et mise à jour par le ministère chargé de l’éducation nationale, elle est mise à disposition pour répondre aux besoins d’autres acteurs de l’éducation. Cette codification concerne l’ensemble des diplômes technologiques et professionnels des ministères chargés de l’éducation nationale et de l’agriculture. Y sont ajoutés, en tant que de besoin et à la demande des centres de formation par l’apprentissage, les autres diplômes et titres inscrits au répertoire national des certifications professionnelles (RNCP), dès lors qu’ils sont préparés par la voie de l’apprentissage. Dans le premier cas, les mises à jour sont effectuées dès parution des arrêtés ministériels par les services compétents des deux ministères. Dans le second cas, elles sont effectuées périodiquement après confirmation du renouvellement de l’inscription de la certification au RNCP (renouvellement d’une procédure d’homologation ou d’habilitation pour les diplômes inscrits de droit au RNCP comme les diplômes d’ingénieurs ou les licences et les masters des universités, ou renouvellement à échéance de l’arrêté d’inscription pour toutes les certifications inscrites à la demande). La nomenclature est utilisée pour la gestion et le suivi statistique des formations en établissement dans le second degré et pour l’enquête statistique Système d’information sur la f",
+  "resource_title": "Codification des diplômes et certifications préparés par la voie de l’apprentissage",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-formations_diplomes/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-26T06:00:04.663000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "baccalauréat",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

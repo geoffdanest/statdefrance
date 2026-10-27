@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_DERA_PRIVE_ANNUEL",
+  "title": "Salaires dans le secteur privé par catégorie socioprofessionnelle détaillée",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_ANNUEL",
+  "organization": "Insee",
+  "description": "Les salaires nets en équivalent temps plein (EQTP) sont ventilées par catégorie socioprofessionnelle détaillée, sexe, secteur d'activité, tranche d'âge, temps de travail et taille d'entreprise. Les effectifs mesurés en EQTP sont également disponibles pour chacune des catégories.\nChamp : France, salariés du privé, y compris alternants, stagiaires et bénéficiaires de contrats aidés, hors salariés de l’agriculture et des particuliers employeurs.\nCertaines professions peuvent être exercées à la fois en tant que salariés du privé ou que salariés du public (par exemple médecin) ou encore en tant que non-salariés (par exemple avocat) ; pour ces professions, seuls les salariés exerçant dans le privé ont été pris en compte. Les professions majoritairement exercées dans le public (comme professeurs des écoles) ont par ailleurs été exclues du champ.\nCes données peuvent également être consultées dans l'outil de datavisualisation sur les salaires.",
+  "resource_title": "DS_DERA_PRIVE_ANNUEL",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_DERA_PRIVE_ANNUEL/DS_DERA_PRIVE_ANNUEL_2024_CSV_FR",
+  "last_modified": "2025-12-04T15:00:42.841023996",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 33486,
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "Éducation",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

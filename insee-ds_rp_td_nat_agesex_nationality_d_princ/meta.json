@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC",
+  "title": "Population détaillée par sexe, âge et nationalité actuelle (48 regroupements) - Données détaillées (ex NAT1 détaillé)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC",
+  "organization": "Insee",
+  "description": "Les données détaillent la population par sexe, âge et nationalité actuelle (48 regroupements) pour des territoires dont la population est supérieure ou égale à 500 000 habitants. Elles sont fournies à différents niveaux géographiques (commune, arrondissement municipal, arrondissement, département, région, établissement public de coopération intercommunal, unité urbaine 2020, aire d'attraction des villes 2020, bassin de vie 2022, zone d'emploi 2020, France).",
+  "resource_title": "DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC/DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC_2023_CSV_FR",
+  "last_modified": "2026-10-20T17:47:25.083994766",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 130086,
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "Emploi",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "67cad6cecc9d655511810ad9",
+  "title": "Nombre de places de stationnement vélo ",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-places-de-stationnement-velo",
+  "organization": "Ecolab",
+  "description": "L’indicateur représente le nombre de places de stationnement vélo disponibles sur le territoire (tous types d’accroche confondus)",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-places-de-stationnement-velo/20260325-020506/description-des-champs.csv",
+  "last_modified": "2026-03-25T02:05:06.961000+00:00",
+  "license": "odc-odbl",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "vélo",
+  "news": []
+}

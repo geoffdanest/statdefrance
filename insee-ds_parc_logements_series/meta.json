@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_PARC_LOGEMENTS_SERIES",
+  "title": "Le parc des logements - séries longues",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_PARC_LOGEMENTS_SERIES",
+  "organization": "Insee",
+  "description": "Données sur le parc des logements ordinaires en fonction de la catégorie de logement (résidence principale, résidence secondaire ou logement occasionnel, logement vacant), le type d'habitat (collectif, individuel) et le statut d'occupation.",
+  "resource_title": "DS_PARC_LOGEMENTS_SERIES",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_PARC_LOGEMENTS_SERIES/DS_PARC_LOGEMENTS_SERIES_CSV_FR",
+  "last_modified": "2026-09-30T17:00:02.032066566",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 1440,
+  "origin": "theme",
+  "label": "Logement",
+  "query": "Logement",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

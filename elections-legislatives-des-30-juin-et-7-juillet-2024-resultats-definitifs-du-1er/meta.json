@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6682d0c255dcda5df20b1d90",
+  "title": "Élections législatives des 30 juin et 7 juillet 2024 - Résultats définitifs du 1er tour ",
+  "page": "https://www.data.gouv.fr/datasets/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-1er-tour",
+  "organization": "Ministère de l'intérieur",
+  "description": "7 fichiers sont disponibles sous format .csv et .xlsx : résultats à l'échelle France entière, régions, départements, circonscriptions législatives, cantons, communes et bureaux de vote.\n\nCes résultats tiennent compte des rectifications opérées par les commissions locales de recensement. Ils sont publiés sous réserve des recours éventuels. ",
+  "resource_title": "resultats-definitifs-par-cantons.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/elections-legislatives-des-30-juin-et-7-juillet-2024-resultats-definitifs-du-1er-tour/20240710-171425/resultats-definitifs-par-cantons.csv",
+  "last_modified": "2024-07-10T17:14:29.011000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "élections",
+  "query": "élections",
+  "news": [
+    {
+      "title": "Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Image d'une explosion atomique, brouille avec l'Etat-major... Benyamin Nétanyahou accusé par ses opposants de jouer un jeu dangereux avec l'Iran à la veille des élections",
+      "link": "https://www.franceinfo.fr/monde/israel/image-d-une-explosion-atomique-brouille-avec-l-etat-major-benyamin-netanyahou-accuse-par-ses-opposants-de-jouer-un-jeu-dangereux-avec-l-iran-a-la-veille-des-elections_8254246.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Donald Trump dénonce des élections \"truquées\" au Brésil après la défaite de Flavio Bolsonaro",
+      "link": "https://www.franceinfo.fr/monde/bresil/donald-trump-denonce-des-elections-truquees-au-bresil-apres-la-defaite-de-flavio-bolsonaro_8254870.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

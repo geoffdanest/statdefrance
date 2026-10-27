@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_CNT_CSI",
+  "title": "Comptes de secteurs institutionnels",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_CSI",
+  "organization": "Insee",
+  "description": "Le tableau économique d'ensemble (TEE), synthétise l'ensemble des opérations relatives aux secteurs institutionnels (entreprises, administrations publiques, ménages, etc.) et permet de décrire séquentiellement la production, la valeur ajoutée, l'excédent d'exploitation et le revenu mixte, le revenu disponible, l'épargne, la capacité ou le besoin de financement et la formation du patrimoine.\n\nCe jeu de données contient des données exclusivement en valeur (prix courant), et sont corrigées des variations saisonnières (voire corrigées également des jours ouvrés pour certaines séries où la correction prend du sens).\n\nLes comptes trimestriels sont calés sur les comptes annuels et suivent les concepts et méthodes des comptes nationaux en base 2020 (première publication fin mai 2024).",
+  "resource_title": "DS_CNT_CSI",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_CNT_CSI/DS_CNT_CSI_CSV_FR",
+  "last_modified": "2026-10-19T10:43:04.041320424",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 100088,
+  "origin": "theme",
+  "label": "Économie",
+  "query": "Économie",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

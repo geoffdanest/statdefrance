@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "656ee6f82817364fb7a9fead",
+  "title": "Jeux Olympiques et Paralympiques 2024 : expositions sur le sport à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/jeux-olympiques-et-paralympiques-2024-expositions-sur-le-sport-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "En 2024, la France accueille le plus grand événement sportif international, les Jeux Olympiques et Paralympiques, un accueil qui s’inscrit dans une longue chronologie. En effet, dès 1900, Paris recevait la deuxième édition des Jeux des temps modernes.\nEn 1924, la France recevait à Chamonix les premiers Jeux Olympiques d’hiver, tandis que quelques mois plus tard Paris organisait les Jeux Olympiques d’été. En 1968, Grenoble était la ville hôte des Jeux Olympiques d’hiver, avant Albertville en 1992. En marge de l’édition des Jeux 2024, la Ville d’Antibes dresse un état, progressivement mis à jour, de toutes les expositions sur la thématique du sport que vous retrouverez sur le territoire d’ici les Jeux Olympiques et Paralympiques. Au programme, Histoire, Mémoire, Défense, Citoyenneté, Archives et de nombreuses autres thématiques.",
+  "resource_title": "antibes-expos-jo.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/en-attendant-les-jeux-olympiques-et-paralympiques-2024-expositions-sur-le-sport-a-antibes-juan-les-pins/20240623-080535/antibes-expos-jo.csv",
+  "last_modified": "2024-06-23T08:05:36.760000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}

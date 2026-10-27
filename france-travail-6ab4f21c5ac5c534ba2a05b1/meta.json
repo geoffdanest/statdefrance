@@ -1,0 +1,17 @@
+{
+  "source": "france-travail",
+  "dataset_id": "6ab4f21c5ac5c534ba2a05b1",
+  "title": "Référentiel des Comités Locaux Pour l'Emploi",
+  "page": "https://www.data.gouv.fr/datasets/referentiel-des-comites-locaux-pour-lemploi",
+  "organization": "France Travail",
+  "description": "Correspondance entre le code commune Insee et le code / libellé du Comité Local pour l'Emploi (CLPE).\n\nLe référentiel est mis à jour 1 à 2 fois par an en cas d'ajustement des compétences territoriales des CLPE et pour se conformer aux évolution du Code Officiel Géographique.\\\nLe fichier est en format CSV encodé en UTF8.\n\nUn CLPE peut être constitué de communes appartenant à des départements différents.\n",
+  "resource_title": "Référentiel des Comités Locaux Pour l'Emploi",
+  "resource_url": "https://static.data.gouv.fr/resources/referentiel-des-comites-locaux-pour-lemploi/20260924-094918/referentielclpe-datagouv.csv",
+  "last_modified": "2026-09-24T11:50:37.155000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "",
+  "news": [],
+  "lecture": "CSV d'origine (séparateur à vérifier)."
+}

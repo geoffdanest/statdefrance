@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:part-enr-intensite-ges-conso-tr",
+  "title": "Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel",
+  "page": "https://odre.opendatasoft.com/explore/dataset/part-enr-intensite-ges-conso-tr/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel Ce jeu de données horaires, proche du temps réel et actualisé chaque heure, présente : L’intensité en émissions directes de gaz à effet de serre de l’électricité consommée en France (en prenant en compte les échanges avec l’étranger) ; La part de l’électricité renouvelable dans la consommation d’électricité en France (en prenant en compte les échanges avec l’étranger). L’intensité en émissions directes de gaz à effet de serre de l’électricité consommée correspond à la quantité d’émissions liée à la consommation d’une unité d’électricité ; elle s’exprime en grammes d’équivalent-CO₂ par kilowattheure (gCO ₂ éq/kWh). La part de l’électricité renouvelable dans la consommation d’électricité correspond au pourcentage de l’électricité issue de sources renouvelables (solaire, éolien, hydroélectricité…) dans le mix de consommation ; elle s’exprime en % de la consommation totale. Périmètre géographique : les deux indicateurs se rapportent à la consommation d’électricité en France métropolitaine continentale (hors Corse). Cadre légal : article 20 bis de la directive européenne RED III ( lien ), en cours de transposition dans la loi nationale. La méthodologie détaillée de ce jeu de données est disponible en PDF : RTE_Methodologie_FR_Part_enr_intensite_GES_conso_v1_pdf [ENGLISH] Share of Renewable Electricity and GHG Emission Intensity of the Electricity Consumed in France in Real Time This ho",
+  "resource_title": "Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/part-enr-intensite-ges-conso-tr/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-27T00:01:00+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "consommation électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

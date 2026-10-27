@@ -1,0 +1,17 @@
+{
+  "source": "ameli",
+  "dataset_id": "ameli:patientele",
+  "title": "Professionnels de santé libéraux : patientèle par territoire (département, région)",
+  "page": "https://data.ameli.fr/explore/dataset/patientele/",
+  "organization": "Assurance Maladie",
+  "description": "Ce jeu de données est une des sources de datavisualisations disponibles sur le site Data professionnels de santé libéraux . Informations générales : Les professions de santé libérales disponibles dans ce jeu de données sont : les médecins (avec plus d’une vingtaine de spécialités médicales) ; les chirurgiens-dentistes (dont les spécialistes d'orthopédie dento-faciale – ODF) ; les sages-femmes ; les auxiliaires médicaux avec cinq professions : infirmiers, masseur-kinésithérapeutes, orthophonistes, orthoptistes, pédicures-podologues . Il s'agit de professionnels de santé actifs au 31 décembre de l’année concernée et : exerçant leur activité en libéral ; en France métropolitaine, Guadeloupe, Guyane, La Réunion, Martinique et Mayotte ; ayant perçu au moins 1 euro d’honoraires ; qu’ils soient conventionnés avec l’Assurance Maladie ou non conventionnés (lorsqu’ils génèrent une prescription remboursée par l’Assurance Maladie) ; les professionnels en cumul emploi-retraite sont décomptés dans les effectifs dès lors qu’ils remplissent les conditions précédentes. Ce jeu de données présente des informations sur la patientèle des professionnels de santé libéraux : nombre de patients uniques (file active) ; nombre de patients « médecin traitant » (uniquement pour les médecins généralistes et les pédiatres ). Les données sont issues du système national des données de santé (SNDS). Pour plus d'informations (source, champ, définitions des modalités), consulter la page Méthode du site. Secret ",
+  "resource_title": "Professionnels de santé libéraux : patientèle par territoire (département, région)",
+  "resource_url": "https://data.ameli.fr/api/explore/v2.1/catalog/datasets/patientele/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-12T10:05:58.904000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "professionnels de santé",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

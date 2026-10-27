@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SRCV_PMS",
+  "title": "Privations matérielles et sociales",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_PMS",
+  "organization": "Insee",
+  "description": "Données annuelles sur la privation matérielle et sociale. L'indicateur européen de privation matérielle et sociale mesure la part de la population se trouvant dans l’incapacité de couvrir les dépenses liées à au moins cinq éléments de la vie courante sur les 13 considérés comme souhaitables, voire nécessaires, pour avoir un niveau de vie acceptable. Il est décliné selon l'âge, le sexe, le niveau de vie du ménage, la composition de la famille, le diplôme, la catégorie socioprofessionnelle, la situation vis-à-vis de l'emploi, le statut d'occupation du logement, l'indicateur de limitation d'activité générale et la note donnée à l'état de santé en général.\nLes données annuelles sur la privation matérielle et sociale sont incluses dans les jeux de données à forte valeur désignées par Eurostat (HVD).",
+  "resource_title": "DS_SRCV_PMS",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SRCV_PMS/DS_SRCV_PMS_2025_CSV_FR",
+  "last_modified": "2026-09-29T14:00:38.299099813",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 9240,
+  "origin": "theme",
+  "label": "Santé",
+  "query": "Santé",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}
