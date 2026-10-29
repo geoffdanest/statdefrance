@@ -13,5 +13,8 @@
   "hook": "n’ont aucun habitant : des villages détruits à Verdun en 1916.",
   "calc": "Fichier table Siren/Insee des communes (DGCL), 34 935 communes, colonne pmun_2024 (population municipale 2024, espaces retirés). pmun_2024 = 0 : 6 communes, toutes en Meuse (dep_com 55) : Beaumont-en-Verdunois, Bezonvaux, Cumières-le-Mort-Homme, Fleury-devant-Douaumont, Haumont-près-Samogneux, Louvemont-Côte-du-Poivre. Suivante : Rochefourchat (26), 1 habitant.",
   "caption": "Six communes françaises n’ont aucun habitant. Et c’est voulu.\n\nSur les 34 935 communes recensées en 2024, six affichent une population de zéro. Toutes sont dans la Meuse : ce sont des villages détruits pendant la bataille de Verdun en 1916, jamais reconstruits, mais conservés comme communes « mortes pour la France ». Chacune garde un maire, nommé par le préfet. La plus petite commune habitée, Rochefourchat (Drôme), compte un seul habitant.\n\nSource : Direction générale des collectivités locales, « Table de correspondance entre n° Siren et code Insee des communes », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/table-de-correspondance-entre-ndeg-siren-et-code-insee-des-communes\n\n#statdefrance #opendata #territoires #communes #verdun #histoire",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18092321981232682",
+  "ig_permalink": "https://www.instagram.com/p/DfEiT2Lm_Q7/",
+  "published_at": "2026-10-29T09:04:39.778797+01:00"
 }
