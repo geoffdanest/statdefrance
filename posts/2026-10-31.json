@@ -13,5 +13,8 @@
   "hook": "pour rénover l’habitat privé sont en cours, dans 99 départements.",
   "calc": "Fichier Anah (mis à jour le 17/10/2026), 4 880 opérations. En cours au 25/10/2026 : datedebut <= 2026-10-25 et dateexpiration >= 2026-10-25 → 1 124 opérations, 99 départements distincts. Dont 600 OPAH (tous types) et 369 PIG. 1er département : Essonne (47).",
   "caption": "Plus de 1 100 chantiers de rénovation de l’habitat privé pilotés en même temps.\n\nFin octobre 2026, 1 124 opérations programmées de l’Anah sont en cours, dans 99 départements. Ce sont des dispositifs locaux (OPAH, programmes d’intérêt général…) montés avec les collectivités pour aider les propriétaires modestes à rénover leur logement : isolation, adaptation au vieillissement, lutte contre l’habitat indigne. L’Essonne en compte le plus (47).\n\nSource : Agence nationale de l’habitat, « Liste des opérations programmées de l'Anah (en cours et terminées) », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/liste-des-operations-programmees-de-lanah-en-cours-et-terminees\n\n#statdefrance #opendata #logement #renovation #habitat #anah",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18138561706731256",
+  "ig_permalink": "https://www.instagram.com/p/DfJru0pgMkI/",
+  "published_at": "2026-10-31T09:03:11.128713+01:00"
 }
