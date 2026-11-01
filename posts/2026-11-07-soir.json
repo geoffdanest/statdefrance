@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-07",
+  "slot": "soir",
+  "theme": "Énergie",
+  "palette": "papier",
+  "template": "compare",
+  "num": "N° 043",
+  "source": "RTE via ODRÉ, consommation 2026",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/conso_brute_corrigee_client_direct/",
+  "dataset_id": "odre:conso_brute_corrigee_client_direct",
+  "title": "En janvier, la France consomme 55 % d’électricité de plus qu’en août.",
+  "rows": [
+    {
+      "name": "Janvier 2026",
+      "value": 50.2,
+      "highlight": true
+    },
+    {
+      "name": "Avril 2026",
+      "value": 33.7
+    },
+    {
+      "name": "Août 2026",
+      "value": 32.3
+    }
+  ],
+  "dot_unit": "TWh",
+  "per_dot": 2.5,
+  "calc": "conso_brute_corrigee_client_direct, conso_brute_mwh : 2026-01 50 219 362 ; 2026-04 33 707 175 ; 2026-08 32 318 775 MWh → 50,2 / 33,7 / 32,3 TWh. Janvier / août = 1,554.",
+  "caption": "En janvier 2026, la France a consommé 50 TWh d’électricité, contre 32 TWh en août.\n\nSoit 55 % de plus en plein hiver qu’en plein été, d’après RTE. Avec l’arrivée du froid, la courbe repart à la hausse. Ces chiffres sont ceux de la consommation brute en France métropolitaine, pertes du réseau comprises.\n\nSource : ODRÉ (RTE, GRTgaz, Enedis…), « Consommation mensuelle brute corrigée et des clients RPT »\nhttps://odre.opendatasoft.com/explore/dataset/conso_brute_corrigee_client_direct/\n\n#statdefrance #opendata #electricite #energie #hiver #chauffage",
+  "status": "draft"
+}

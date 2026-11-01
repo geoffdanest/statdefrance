@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-04",
+  "slot": "soir",
+  "theme": "Énergie",
+  "palette": "papier",
+  "template": "grille",
+  "num": "N° 037",
+  "source": "RTE via ODRÉ, éCO2mix sept.-oct. 2026",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/eco2mix-regional-tr/",
+  "dataset_id": "odre:eco2mix-regional-tr",
+  "pct": 5,
+  "label": "de l’électricité consommée en Île-de-France est produite sur place.",
+  "calc": "eco2mix-regional-tr, du 2026-09-01 au 2026-10-27 (5 472 pas de 15 min par région, complet) : somme de la production (thermique + nucléaire + éolien + solaire + hydraulique + bioénergies, valeurs négatives ramenées à 0) / somme de la consommation. Île-de-France : 1 655 246 / 36 056 498 = 4,6 %. Centre-Val de Loire 377 %, Normandie 329 %.",
+  "caption": "L’Île-de-France ne produit qu’à peine 5 % de l’électricité qu’elle consomme.\n\nEntre le 1er septembre et le 27 octobre 2026, la région a produit 4,6 % de ce qu’elle a consommé, d’après les données temps réel de RTE. Le reste vient d’ailleurs par le réseau. À l’inverse, le Centre-Val de Loire et la Normandie produisent plus de trois fois ce qu’ils consomment.\n\nSource : ODRÉ (RTE, GRTgaz, Enedis…), « Données éCO2mix régionales temps réel »\nhttps://odre.opendatasoft.com/explore/dataset/eco2mix-regional-tr/\n\n#statdefrance #opendata #electricite #energie #iledefrance #nucleaire",
+  "status": "draft"
+}

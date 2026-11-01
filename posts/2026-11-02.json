@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-02",
+  "slot": "matin",
+  "theme": "Éducation",
+  "palette": "nuit",
+  "template": "grille",
+  "num": "N° 032",
+  "source": "Éducation nationale, personnels 2025",
+  "source_url": "https://data.education.gouv.fr/explore/dataset/fr-en-indicateurs_personnels_etablissements2d/",
+  "dataset_id": "education:fr-en-indicateurs_personnels_etablissements2d",
+  "pct": 50,
+  "label": "des profs de lycée public ont passé la cinquantaine (rentrée 2025).",
+  "calc": "Rentrée 2025, secteur Public, établissements hors collèges (nature_de_l_etablissement ne contenant pas « Coll », 2 475 lycées avec âges renseignés) : somme etp_d_enseignants_de_50_ans_ou_plus = 89 323 / somme etp_enseignants_hommes_et_femmes = 178 635 → 50,0 %. Rentrée 2024 : 48,9 %. Moins de 35 ans en 2025 : 13,6 %.",
+  "caption": "Dans les lycées publics, un prof sur deux a passé la cinquantaine.\n\nÀ la rentrée 2025, 50 % des enseignants des lycées publics (en équivalent temps plein) avaient 50 ans ou plus, contre 48,9 % un an plus tôt. Les moins de 35 ans ne pèsent que 13,6 %. Un chiffre à garder en tête alors que les lycées retrouvent les cours après les vacances de la Toussaint, sur fond de mobilisation lycéenne et de promesses de créations de postes.\n\nSource : Ministère de l'Éducation nationale, « Les personnels dans les établissements du second degré »\nhttps://data.education.gouv.fr/explore/dataset/fr-en-indicateurs_personnels_etablissements2d/\n\n#statdefrance #opendata #education #lycee #enseignants #profs",
+  "status": "draft"
+}

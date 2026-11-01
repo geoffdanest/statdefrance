@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06",
+  "slot": "matin",
+  "theme": "Transports",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "N° 040",
+  "source": "SNCF, ponctualité Transilien 2026",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/ponctualite-mensuelle-transilien/",
+  "dataset_id": "sncf:ponctualite-mensuelle-transilien",
+  "title": "Sur le RER D, plus d’un voyageur sur six arrive en retard.",
+  "rows": [
+    {
+      "name": "RER D",
+      "value": 17.6,
+      "highlight": true
+    },
+    {
+      "name": "RER B",
+      "value": 14.2
+    },
+    {
+      "name": "RER A",
+      "value": 11.7
+    },
+    {
+      "name": "Ligne H",
+      "value": 5.6
+    }
+  ],
+  "dot_unit": "% de voyageurs en retard",
+  "per_dot": 1,
+  "calc": "ponctualite-mensuelle-transilien, mois 2026-01 à 2026-09 (9 mois), moyenne mensuelle de taux_de_ponctualite puis 100 − moyenne : RER D 82,36 → 17,6 ; RER B 85,81 → 14,2 ; RER A 88,28 → 11,7 ; ligne H (Paris Nord Ouest) 94,36 → 5,6.",
+  "caption": "Sur le RER D, 17,6 % des voyageurs sont arrivés en retard en 2026.\n\nC’est la ligne la moins ponctuelle d’Île-de-France sur les neuf premiers mois de l’année (moyenne des taux mensuels). Est compté en retard un voyageur qui arrive plus de 5 minutes après l’heure prévue. Sur la ligne H, au nord-ouest de Paris, ce n’est qu’un voyageur sur 18.\n\nSource : SNCF, « Régularité mensuelle Transilien »\nhttps://ressources.data.sncf.com/explore/dataset/ponctualite-mensuelle-transilien/\n\n#statdefrance #opendata #rer #transilien #transports #iledefrance",
+  "status": "draft"
+}
