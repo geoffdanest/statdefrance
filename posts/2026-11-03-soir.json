@@ -13,5 +13,5 @@
   "label": "des créations, janvier-septembre 2026",
   "calc": "DS_SIDE_CREA_ENT_SERIES, GEO = F, ACTIVITY = _T, FREQ = M, SEASONAL_ADJUST = N (brut), somme des mois 2026-01 à 2026-09 : LEGAL_FORM MICRO 653 316 / _T 971 803 → 67,2 %. Année 2025 : 758 542 / 1 165 795 = 65,1 % ; 2016 : 47,3 %.",
   "caption": "Deux entreprises sur trois créées en France sont des micro-entreprises.\n\nDe janvier à septembre 2026, 971 803 entreprises ont été créées, dont 653 316 sous le régime du micro-entrepreneur, soit 67,2 %. Cette part ne cesse de grimper : 47 % en 2016, 61 % en 2020, 65 % en 2025. Le nombre total de créations a lui aussi presque doublé en dix ans.\n\nSource : Insee, « Créations d’entreprises - séries longues »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SIDE_CREA_ENT_SERIES\n\n#statdefrance #opendata #entreprise #microentreprise #economie #entrepreneuriat",
-  "status": "draft"
+  "status": "validated"
 }

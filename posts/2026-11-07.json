@@ -13,5 +13,5 @@
   "hook": "recensés dans le Livre d’or de l’enseignement public, 1914-1918.",
   "calc": "fr-en-livre-or-1914-1918 (17 144 fiches) : type_de_fiche contenant « Tués », « Morts » ou « Fusillé » → 7 246 fiches (Tués à l'ennemi 5 902 ; Morts des suites de leurs blessures 1 339 ; variantes 5). Quelques doublons possibles (6 paires nom + prénom + poste identiques). Niveau : primaire 6 273 (86,6 %), secondaire 685, supérieur 279, administration centrale 9.",
   "caption": "7 246 fiches de morts dans le Livre d’or de l’enseignement public.\n\nEn 1914, le ministère de l’Instruction publique ouvre un « Livre d’or » pour recenser ses personnels tués ou blessés à la guerre. Les archives comptent 7 246 fiches de « tués à l’ennemi » ou « morts des suites de leurs blessures » (à quelques doublons près). Près de 9 sur 10 venaient de l’enseignement primaire : instituteurs et élèves des écoles normales. Une pensée pour eux à l’approche du 11-Novembre.\n\nSource : Ministère de l'Éducation nationale, « Première Guerre Mondiale 1914-1918 \"Livre d’or des personnels de l’instruction publique et des Beaux-arts\" »\nhttps://data.education.gouv.fr/explore/dataset/fr-en-livre-or-1914-1918/\n\n#statdefrance #opendata #histoire #11novembre #14_18 #enseignants #memoire",
-  "status": "draft"
+  "status": "validated"
 }
