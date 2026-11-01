@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "602e74912f4f8f3583868fb6",
+  "title": "Prénoms des nouveaux nés de Neuville-Saint-Rémy",
+  "page": "https://www.data.gouv.fr/datasets/prenoms-des-nouveaux-nes-de-neuville-saint-remy",
+  "organization": "Commune de Neuville-Saint-Rémy",
+  "description": "Liste des prénoms des nouveaux-nés déclarés à l’état civil de la ville de Neuville-Saint-Rémy. Les prénoms listés correspondent au premier prénom donné dans chaque acte de naissance de 1983 à 2016. \n\n",
+  "resource_title": "Prénoms des nouveaux nés - Neuville Saint Rémy",
+  "resource_url": "https://static.data.gouv.fr/resources/prenoms-des-nouveaux-nes-5/20210218-150813/jeux-de-donnees-6-prenoms.csv",
+  "last_modified": "2023-12-14T15:00:14.325000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "prénoms",
+  "news": []
+}

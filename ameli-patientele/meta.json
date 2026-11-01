@@ -1,0 +1,33 @@
+{
+  "source": "ameli",
+  "dataset_id": "ameli:patientele",
+  "title": "Professionnels de santé libéraux : patientèle par territoire (département, région)",
+  "page": "https://data.ameli.fr/explore/dataset/patientele/",
+  "organization": "Assurance Maladie",
+  "description": "Ce jeu de données est une des sources de datavisualisations disponibles sur le site Data professionnels de santé libéraux . Données labellisées : L’Autorité de statistique publique ( ASP ) reconnaît la qualité de « statistiques publiques d'intérêt général » de ce jeu de données. L’objectif est d’attester, non pas tant de la qualité technique des statistiques considérées que de l’existence, pour ces dernières, de critères d’impartialité, d’objectivité, de pertinence et d’accessibilité. Pour plus d'informations, consulter la page Labellisation de séries statistiques dans la rubrique Études et données du site de l' Assurance Maladie . Informations générales : Les professions de santé libérales disponibles dans ce jeu de données sont : les médecins (avec plus d’une vingtaine de spécialités médicales) ; les chirurgiens-dentistes (dont les spécialistes d'orthopédie dento-faciale – ODF) ; les sages-femmes ; les auxiliaires médicaux avec cinq professions : infirmiers, masseur-kinésithérapeutes, orthophonistes, orthoptistes, pédicures-podologues . Il s'agit de professionnels de santé actifs au 31 décembre de l’année concernée et : exerçant leur activité en libéral ; en France métropolitaine, Guadeloupe, Guyane, La Réunion, Martinique et Mayotte ; ayant perçu au moins 1 euro d’honoraires ; qu’ils soient conventionnés avec l’Assurance Maladie ou non conventionnés (lorsqu’ils génèrent une prescription remboursée par l’Assurance Maladie) ; les professionnels en cumul emploi-retraite sont ",
+  "resource_title": "Professionnels de santé libéraux : patientèle par territoire (département, région)",
+  "resource_url": "https://data.ameli.fr/api/explore/v2.1/catalog/datasets/patientele/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-28T16:37:53.338000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

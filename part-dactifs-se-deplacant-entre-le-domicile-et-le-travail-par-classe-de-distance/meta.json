@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6911cf9038274b95041c6a63",
+  "title": "Part d'actifs se déplaçant entre le domicile et le travail par classe de distance et mode de transport",
+  "page": "https://www.data.gouv.fr/datasets/part-dactifs-se-deplacant-entre-le-domicile-et-le-travail-par-classe-de-distance-et-mode-de-transport",
+  "organization": "Ecolab",
+  "description": "L'indicateur représente la part d'actifs se déplaçant du lieu de résidence au lieu de travail, décrite selon le mode de transport principal (marche, vélo, transports en commun, deux-roues motorisé, voiture, pas de transport) et la classe de distance moyenne (moins de 2km, 2 à moins de 5km, 5 à moins de 10km, 10 à moins de 20km, 20 à moins de 50km, 50km ou plus).",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/part-dactifs-se-deplacant-entre-le-domicile-et-le-travail-par-classe-de-distance-et-mode-de-transport/20260325-015609/description-des-champs.csv",
+  "last_modified": "2026-03-25T01:56:09.701000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "classe",
+  "query": "classe",
+  "news": [
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Avec huit bateaux au départ de la Route du Rhum, la classe reine des Ultim fait le pari de l'ouverture",
+      "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/avec-huit-bateaux-au-depart-de-la-route-du-rhum-la-classe-reine-des-ultim-fait-le-pari-de-l-ouverture_8221357.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN DIRECT Colère sociale : Emmanuel Macron espère un « retour en classe », de nouvelles mobilisations citoyennes attendues dès lundi...",
+      "link": "https://www.20minutes.fr/societe/4259308-20261101-mobilisation-sociale-appel-blocage-lycees-lundi?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

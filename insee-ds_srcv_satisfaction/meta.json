@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SRCV_SATISFACTION",
+  "title": "Conditions de vie : niveau de satisfaction",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_SATISFACTION",
+  "organization": "Insee",
+  "description": "Données annuelles sur la satisfaction subjective des personnes. Sur une échelle allant de 0 (pas du tout satisfait) à 10 (entièrement satisfait), la satisfaction est évaluée dans trois domaines : la vie en général, les relations sociales, le travail. Ces indicateurs sont notamment déclinés selon le sexe, l'âge, le niveau de vie du ménage, le diplôme, la profession et catégorie socio-professionnelle (PCS), la situation vis-à-vis de l'emploi, la nationalité, la composition de la famille, le statut d'occupation du logement, l'indicateur de limitation d'activité générale, la note donnée à l'état de santé en général et le nombre de difficultés matérielles rencontrées dans le ménage.",
+  "resource_title": "DS_SRCV_SATISFACTION",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SRCV_SATISFACTION/DS_SRCV_SATISFACTION_2025_CSV_FR",
+  "last_modified": "2026-09-29T14:00:38.029328094",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 8520,
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Deux hommes mis en examen et écroués après l'incendie d'un immeuble à Clermont-Ferrand ayant tué quatre personnes",
+      "link": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il y avait de l'eau absolument partout\" : à Honfleur, des immeubles menacés d'effondrement et 41 personnes évacuées après l'explosion d'une canalisation",
+      "link": "https://www.franceinfo.fr/france/normandie/calvados/il-y-avait-de-l-eau-absolument-partout-a-honfleur-des-immeubles-menaces-d-effondrement-et-41-personnes-evacuees-apres-l-explosion-d-une-canalisation_8262800.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

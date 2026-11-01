@@ -1,0 +1,245 @@
+"COD_VAR";"LIB_VAR";"COD_MOD";"LIB_MOD";"GEO_OBJECT"
+"AGE";"Âge";"Y_LT15";"Moins de 15 ans";
+"AGE";"Âge";"Y25T54";"De 25 à 54 ans";
+"AGE";"Âge";"Y15T24";"De 15 à 24 ans";
+"AGE";"Âge";"Y_GE55";"55 ans ou plus";
+"AGE";"Âge";"_T";"Total";
+"FREQ";"Fréquence";"A";"Annuel";
+"NATIONALITY";"Nationalité";"12";"Algérie";
+"NATIONALITY";"Nationalité";"144";"Sri Lanka";
+"NATIONALITY";"Nationalité";"24";"Angola";
+"NATIONALITY";"Nationalité";"392";"Japon";
+"NATIONALITY";"Nationalité";"422";"Liban";
+"NATIONALITY";"Nationalité";"480";"Ile Maurice";
+"NATIONALITY";"Nationalité";"586";"Pakistan";
+"NATIONALITY";"Nationalité";"724";"Espagne";
+"NATIONALITY";"Nationalité";"116";"Cambodge";
+"NATIONALITY";"Nationalité";"120";"Cameroon";
+"NATIONALITY";"Nationalité";"380";"Italie";
+"NATIONALITY";"Nationalité";"450";"Madagascar";
+"NATIONALITY";"Nationalité";"620";"Portugal";
+"NATIONALITY";"Nationalité";"642";"Roumanie";
+"NATIONALITY";"Nationalité";"792";"Turquie";
+"NATIONALITY";"Nationalité";"UE27_OTH";"Autres pays de l'Union européenne";
+"NATIONALITY";"Nationalité";"170";"Colombie";
+"NATIONALITY";"Nationalité";"178";"Congo";
+"NATIONALITY";"Nationalité";"324";"Guinée";
+"NATIONALITY";"Nationalité";"356";"Inde";
+"NATIONALITY";"Nationalité";"36_9";"Australie-Océanie";
+"NATIONALITY";"Nationalité";"384";"Côte d'Ivoire";
+"NATIONALITY";"Nationalité";"528";"Pays-Bas";
+"NATIONALITY";"Nationalité";"643";"Russie";
+"NATIONALITY";"Nationalité";"688";"Serbie";
+"NATIONALITY";"Nationalité";"756";"Suisse";
+"NATIONALITY";"Nationalité";"788";"Tunisie";
+"NATIONALITY";"Nationalité";"826";"Royaume-Uni";
+"NATIONALITY";"Nationalité";"840";"Etats-Unis d'Amérique";
+"NATIONALITY";"Nationalité";"AME_OTH";"Autres pays d'Amérique";
+"NATIONALITY";"Nationalité";"EUR_OTH";"Autres pays d’Europe";
+"NATIONALITY";"Nationalité";"124";"Canada";
+"NATIONALITY";"Nationalité";"156";"Chine";
+"NATIONALITY";"Nationalité";"174";"Comorres";
+"NATIONALITY";"Nationalité";"276";"Allemagne";
+"NATIONALITY";"Nationalité";"332";"Haïti";
+"NATIONALITY";"Nationalité";"466";"Mali";
+"NATIONALITY";"Nationalité";"478";"Mauritanie";
+"NATIONALITY";"Nationalité";"504";"Maroc";
+"NATIONALITY";"Nationalité";"56";"Belgique";
+"NATIONALITY";"Nationalité";"616";"Pologne";
+"NATIONALITY";"Nationalité";"686";"Sénégal";
+"NATIONALITY";"Nationalité";"704";"Viet Nam";
+"NATIONALITY";"Nationalité";"76";"Brésil";
+"NATIONALITY";"Nationalité";"AFR_OTH";"Autres pays d'Afrique";
+"NATIONALITY";"Nationalité";"ASIA_OTH";"Autres pays d’Asie";
+"NATIONALITY";"Nationalité";"250";"France";
+"NATIONALITY";"Nationalité";"_T";"Total";
+"NATIONALITY_TYPE";"Nationalité (type)";"250_N";"Français par acquisition";
+"NATIONALITY_TYPE";"Nationalité (type)";"250_B";"Français de naissance";
+"NATIONALITY_TYPE";"Nationalité (type)";"100";"Etranger";
+"NATIONALITY_TYPE";"Nationalité (type)";"_T";"Total";
+"OBS_STATUS";"Statut de l'observation";"A";"Normale";
+"RP_MEASURE";"Mesure du recensement ";"POP";"Population";
+"SEX";"Sexe";"M";"Homme";
+"SEX";"Sexe";"F";"Femme";
+"SEX";"Sexe";"_T";"Total";
+"TIME_PERIOD";"Période temporelle";"2023";"2023";
+GEO_OBJECT;Niveau géographique;FRANCE;France;
+GEO_OBJECT;Niveau géographique;REG;Région;
+GEO_OBJECT;Niveau géographique;DEP;Département;
+GEO_OBJECT;Niveau géographique;COM;Commune;
+GEO_OBJECT;Niveau géographique;EPCI;Etablissement public de coopération intercommunal;
+GEO_OBJECT;Niveau géographique;ARR;Arrondissement;
+GEO_OBJECT;Niveau géographique;AAV2020;Aire d'attraction des villes 2020;
+GEO_OBJECT;Niveau géographique;UU2020;Unité urbaine 2020;
+GEO_OBJECT;Niveau géographique;ZE2020;Zones d'emploi 2020;
+GEO_OBJECT;Niveau géographique;BV2022;Bassin de vie 2022;
+"GEO";"Géographie";"53";"Bretagne";"REG"
+"GEO";"Géographie";"00756";"Douai-Lens";"UU2020"
+"GEO";"Géographie";"1101";"Cergy-Vexin";"ZE2020"
+"GEO";"Géographie";"1104";"Évry-Courcouronnes";"ZE2020"
+"GEO";"Géographie";"1114";"Seine-Yvelinoise";"ZE2020"
+"GEO";"Géographie";"3216";"Lille";"ZE2020"
+"GEO";"Géographie";"7505";"Bordeaux";"ZE2020"
+"GEO";"Géographie";"7620";"Perpignan";"ZE2020"
+"GEO";"Géographie";"8428";"Saint-Étienne";"ZE2020"
+"GEO";"Géographie";"014";"Grenoble";"AAV2020"
+"GEO";"Géographie";"019";"Tours";"AAV2020"
+"GEO";"Géographie";"353";"Rennes";"ARR"
+"GEO";"Géographie";"678";"Strasbourg";"ARR"
+"GEO";"Géographie";"751";"Paris";"ARR"
+"GEO";"Géographie";"763";"Rouen";"ARR"
+"GEO";"Géographie";"783";"Saint-Germain-en-Laye";"ARR"
+"GEO";"Géographie";"913";"Palaiseau";"ARR"
+"GEO";"Géographie";"922";"Nanterre";"ARR"
+"GEO";"Géographie";"67482";"Strasbourg";"BV2022"
+"GEO";"Géographie";"13055";"Marseille";"COM"
+"GEO";"Géographie";"06";"Alpes-Maritimes";"DEP"
+"GEO";"Géographie";"14";"Calvados";"DEP"
+"GEO";"Géographie";"21";"Côte-d'Or";"DEP"
+"GEO";"Géographie";"22";"Côtes-d'Armor";"DEP"
+"GEO";"Géographie";"26";"Drôme";"DEP"
+"GEO";"Géographie";"30";"Gard";"DEP"
+"GEO";"Géographie";"56";"Morbihan";"DEP"
+"GEO";"Géographie";"69";"Rhône";"DEP"
+"GEO";"Géographie";"75";"Paris";"DEP"
+"GEO";"Géographie";"83";"Var";"DEP"
+"GEO";"Géographie";"92";"Hauts-de-Seine";"DEP"
+"GEO";"Géographie";"93";"Seine-Saint-Denis";"DEP"
+"GEO";"Géographie";"94";"Val-de-Marne";"DEP"
+"GEO";"Géographie";"95";"Val-d'Oise";"DEP"
+"GEO";"Géographie";"200054781";"Métropole du Grand Paris";"EPCI"
+"GEO";"Géographie";"200093201";"Métropole Européenne de Lille";"EPCI"
+"GEO";"Géographie";"244400404";"Nantes Métropole";"EPCI"
+"GEO";"Géographie";"27";"Bourgogne-Franche-Comté";"REG"
+"GEO";"Géographie";"28";"Normandie";"REG"
+"GEO";"Géographie";"44";"Grand Est";"REG"
+"GEO";"Géographie";"75";"Nouvelle-Aquitaine";"REG"
+"GEO";"Géographie";"93";"Provence-Alpes-Côte d'Azur";"REG"
+"GEO";"Géographie";"00758";"Toulouse";"UU2020"
+"GEO";"Géographie";"00760";"Lyon";"UU2020"
+"GEO";"Géographie";"06701";"Nice";"UU2020"
+"GEO";"Géographie";"33701";"Bordeaux";"UU2020"
+"GEO";"Géographie";"1113";"Saclay";"ZE2020"
+"GEO";"Géographie";"2804";"Caen";"ZE2020"
+"GEO";"Géographie";"2815";"Rouen";"ZE2020"
+"GEO";"Géographie";"4412";"Nancy";"ZE2020"
+"GEO";"Géographie";"8409";"Grenoble";"ZE2020"
+"GEO";"Géographie";"002";"Lyon";"AAV2020"
+"GEO";"Géographie";"004";"Lille (partie française)";"AAV2020"
+"GEO";"Géographie";"012";"Montpellier";"AAV2020"
+"GEO";"Géographie";"017";"Nice";"AAV2020"
+"GEO";"Géographie";"020";"Nancy";"AAV2020"
+"GEO";"Géographie";"061";"Grasse";"ARR"
+"GEO";"Géographie";"313";"Toulouse";"ARR"
+"GEO";"Géographie";"343";"Montpellier";"ARR"
+"GEO";"Géographie";"381";"Grenoble";"ARR"
+"GEO";"Géographie";"442";"Nantes";"ARR"
+"GEO";"Géographie";"595";"Lille";"ARR"
+"GEO";"Géographie";"691";"Lyon";"ARR"
+"GEO";"Géographie";"932";"Le Raincy";"ARR"
+"GEO";"Géographie";"942";"Nogent-sur-Marne";"ARR"
+"GEO";"Géographie";"13055";"Marseille";"BV2022"
+"GEO";"Géographie";"33063";"Bordeaux";"BV2022"
+"GEO";"Géographie";"34172";"Montpellier";"BV2022"
+"GEO";"Géographie";"76540";"Rouen";"BV2022"
+"GEO";"Géographie";"83137";"Toulon";"BV2022"
+"GEO";"Géographie";"02";"Aisne";"DEP"
+"GEO";"Géographie";"17";"Charente-Maritime";"DEP"
+"GEO";"Géographie";"27";"Eure";"DEP"
+"GEO";"Géographie";"31";"Haute-Garonne";"DEP"
+"GEO";"Géographie";"44";"Loire-Atlantique";"DEP"
+"GEO";"Géographie";"49";"Maine-et-Loire";"DEP"
+"GEO";"Géographie";"63";"Puy-de-Dôme";"DEP"
+"GEO";"Géographie";"68";"Haut-Rhin";"DEP"
+"GEO";"Géographie";"78";"Yvelines";"DEP"
+"GEO";"Géographie";"91";"Essonne";"DEP"
+"GEO";"Géographie";"200023414";"Métropole Rouen Normandie";"EPCI"
+"GEO";"Géographie";"200030195";"Métropole Nice Côte d'Azur";"EPCI"
+"GEO";"Géographie";"243400017";"Montpellier Méditerranée Métropole";"EPCI"
+"GEO";"Géographie";"24";"Centre-Val de Loire";"REG"
+"GEO";"Géographie";"76";"Occitanie";"REG"
+"GEO";"Géographie";"00757";"Toulon";"UU2020"
+"GEO";"Géographie";"00759";"Marseille-Aix-en-Provence";"UU2020"
+"GEO";"Géographie";"1112";"Roissy";"ZE2020"
+"GEO";"Géographie";"1115";"Versailles-Saint-Quentin";"ZE2020"
+"GEO";"Géographie";"4423";"Strasbourg";"ZE2020"
+"GEO";"Géographie";"5216";"Nantes";"ZE2020"
+"GEO";"Géographie";"7625";"Toulouse";"ZE2020"
+"GEO";"Géographie";"9312";"Marseille";"ZE2020"
+"GEO";"Géographie";"9315";"Nice";"ZE2020"
+"GEO";"Géographie";"003";"Marseille - Aix-en-Provence";"AAV2020"
+"GEO";"Géographie";"005";"Toulouse";"AAV2020"
+"GEO";"Géographie";"008";"Nantes";"AAV2020"
+"GEO";"Géographie";"018";"Toulon";"AAV2020"
+"GEO";"Géographie";"022";"Clermont-Ferrand";"AAV2020"
+"GEO";"Géographie";"023";"Saint-Étienne";"AAV2020"
+"GEO";"Géographie";"133";"Marseille";"ARR"
+"GEO";"Géographie";"332";"Bordeaux";"ARR"
+"GEO";"Géographie";"832";"Toulon";"ARR"
+"GEO";"Géographie";"912";"Évry";"ARR"
+"GEO";"Géographie";"943";"L'Haÿ-les-Roses";"ARR"
+"GEO";"Géographie";"31555";"Toulouse";"BV2022"
+"GEO";"Géographie";"44109";"Nantes";"BV2022"
+"GEO";"Géographie";"59350";"Lille";"BV2022"
+"GEO";"Géographie";"69123";"Lyon";"COM"
+"GEO";"Géographie";"75056";"Paris";"COM"
+"GEO";"Géographie";"13";"Bouches-du-Rhône";"DEP"
+"GEO";"Géographie";"29";"Finistère";"DEP"
+"GEO";"Géographie";"33";"Gironde";"DEP"
+"GEO";"Géographie";"37";"Indre-et-Loire";"DEP"
+"GEO";"Géographie";"38";"Isère";"DEP"
+"GEO";"Géographie";"42";"Loire";"DEP"
+"GEO";"Géographie";"45";"Loiret";"DEP"
+"GEO";"Géographie";"57";"Moselle";"DEP"
+"GEO";"Géographie";"59";"Nord";"DEP"
+"GEO";"Géographie";"60";"Oise";"DEP"
+"GEO";"Géographie";"67";"Bas-Rhin";"DEP"
+"GEO";"Géographie";"71";"Saône-et-Loire";"DEP"
+"GEO";"Géographie";"74";"Haute-Savoie";"DEP"
+"GEO";"Géographie";"77";"Seine-et-Marne";"DEP"
+"GEO";"Géographie";"84";"Vaucluse";"DEP"
+"GEO";"Géographie";"85";"Vendée";"DEP"
+"GEO";"Géographie";"200046977";"Métropole de Lyon";"EPCI"
+"GEO";"Géographie";"243100518";"Toulouse Métropole";"EPCI"
+"GEO";"Géographie";"243300316";"Bordeaux Métropole";"EPCI"
+"GEO";"Géographie";"246700488";"Eurométropole de Strasbourg";"EPCI"
+"GEO";"Géographie";"FM";"France métropolitaine";"FRANCE"
+"GEO";"Géographie";"04";"La Réunion";"REG"
+"GEO";"Géographie";"32";"Hauts-de-France";"REG"
+"GEO";"Géographie";"52";"Pays de la Loire";"REG"
+"GEO";"Géographie";"84";"Auvergne-Rhône-Alpes";"REG"
+"GEO";"Géographie";"00851";"Paris";"UU2020"
+"GEO";"Géographie";"44701";"Nantes";"UU2020"
+"GEO";"Géographie";"59702";"Lille (partie française)";"UU2020"
+"GEO";"Géographie";"1109";"Paris";"ZE2020"
+"GEO";"Géographie";"2413";"Tours";"ZE2020"
+"GEO";"Géographie";"5315";"Rennes";"ZE2020"
+"GEO";"Géographie";"7616";"Montpellier";"ZE2020"
+"GEO";"Géographie";"8421";"Lyon";"ZE2020"
+"GEO";"Géographie";"9318";"Toulon";"ZE2020"
+"GEO";"Géographie";"001";"Paris";"AAV2020"
+"GEO";"Géographie";"006";"Bordeaux";"AAV2020"
+"GEO";"Géographie";"010";"Strasbourg (partie française)";"AAV2020"
+"GEO";"Géographie";"013";"Rennes";"AAV2020"
+"GEO";"Géographie";"015";"Rouen";"AAV2020"
+"GEO";"Géographie";"062";"Nice";"ARR"
+"GEO";"Géographie";"302";"Nîmes";"ARR"
+"GEO";"Géographie";"06088";"Nice";"BV2022"
+"GEO";"Géographie";"69123";"Lyon";"BV2022"
+"GEO";"Géographie";"75056";"Paris";"BV2022"
+"GEO";"Géographie";"31555";"Toulouse";"COM"
+"GEO";"Géographie";"01";"Ain";"DEP"
+"GEO";"Géographie";"25";"Doubs";"DEP"
+"GEO";"Géographie";"34";"Hérault";"DEP"
+"GEO";"Géographie";"35";"Ille-et-Vilaine";"DEP"
+"GEO";"Géographie";"51";"Marne";"DEP"
+"GEO";"Géographie";"54";"Meurthe-et-Moselle";"DEP"
+"GEO";"Géographie";"62";"Pas-de-Calais";"DEP"
+"GEO";"Géographie";"64";"Pyrénées-Atlantiques";"DEP"
+"GEO";"Géographie";"72";"Sarthe";"DEP"
+"GEO";"Géographie";"76";"Seine-Maritime";"DEP"
+"GEO";"Géographie";"80";"Somme";"DEP"
+"GEO";"Géographie";"974";"La Réunion";"DEP"
+"GEO";"Géographie";"200054807";"Métropole d'Aix-Marseille-Provence";"EPCI"
+"GEO";"Géographie";"F";"France";"FRANCE"
+"GEO";"Géographie";"11";"Île-de-France";"REG"

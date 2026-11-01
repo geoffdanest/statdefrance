@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:cns_financement",
+  "title": "Les comptes de la santé - Répartition par financeur",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/cns_financement/",
+  "organization": "DREES",
+  "description": "Ce jeu de données est issu de l' édition 2026 du panorama des dépenses de santé présentant les résultats des comptes de la santé. Les comptes de la santé retracent et analysent de façon détaillée la dépense courante de santé au sens international (DCSi) en France et les financements correspondants, qu’ils relèvent de l’Assurance maladie, de l’État, des collectivités locales, des organismes complémentaires, des entreprises ou directement des ménages. Élaborés par la Drees, les comptes de la santé constituent l’un des comptes thématiques des comptes nationaux de l’Insee, dont ils adoptent la méthodologie. Ils servent également de base à l’élaboration des comptes de la santé présentés dans les instances internationales (système SHA de l’OCDE, d’Eurostat et de l’OMS) et permettent ainsi d’établir des comparaisons internationales sur des bases fiables et harmonisées. Ces données sont exprimées en valeurs monétaires (en euros), et sont organisées en postes de dépenses. Précisions méthodologiques Ce jeu de données fournit une répartition des financements des postes de la DCSi entre la Sécurité sociale, les administrations publiques centrales et locales, les organismes complémentaires, les entreprises et le paiement direct des ménages (reste à charge). Cependant, les postes suivants ne contiennent pas de détails concernant les montants des organismes complémentaires et le reste à charge des ménages : - les soins de sages-femmes en centre de santé et libéral ; - les soins dentaires en",
+  "resource_title": "Les comptes de la santé - Répartition par financeur",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/cns_financement/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-01T15:42:55.670000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

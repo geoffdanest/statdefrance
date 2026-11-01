@@ -1,0 +1,28 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-evaluations_nationales_6eme_departement",
+  "title": "Résultats aux évaluations nationales de début de sixième par département",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-evaluations_nationales_6eme_departement/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Ce jeu de données contient les scores moyens et les écarts types, ainsi que les répartitions dans les groupes des élèves de sixième aux évaluations nationales de français et de mathématiques. Les statistiques sont issues des données consolidées. Les données sont présentées par département et au niveau national. Cette évaluation se déroule en septembre chaque année pour tous les élèves de sixième des établissements publics et privés sous contrat. La date d'évaluation est indiquée comme étant le 15 septembre de chaque année, elle varie de quelques jours d'un établissement à l'autre et d'une année à l'autre. Depuis 2020, les académies de Caen et de Rouen constituent l’académie de Normandie. Les données sont présentées selon ce découpage afin d’en faciliter la lecture. Pour en savoir plus : Marie-Ange Ballereau, Caren Chaaya, Sandrine Maury, Virginie Sathicq, 2025, \"Évaluation exhaustive de début de sixième 2024 : des performances en légère hausse depuis 2017, y compris en REP+\", Note d'Information, n° 25-22, DEPP",
+  "resource_title": "Résultats aux évaluations nationales de début de sixième par département",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-evaluations_nationales_6eme_departement/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-06-12T14:13:34.980000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "balle",
+  "query": "balle",
+  "news": [
+    {
+      "title": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
+      "link": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Bouches-du-Rhône : Un homme interpellé après qu’un pompier a été « très grièvement blessé par balle »",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4259355-20261101-bouches-rhone-pompier-blesse-balle-lors-intervention-raid-place?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

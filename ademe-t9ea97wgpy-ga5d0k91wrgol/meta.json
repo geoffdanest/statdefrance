@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:t9ea97wgpy-ga5d0k91wrgol",
+  "title": "Liste des voitures particulières électriques éligibles au programme de leasing social 2026",
+  "page": "https://data.ademe.fr/datasets/t9ea97wgpy-ga5d0k91wrgol",
+  "organization": "ADEME",
+  "description": "Afin d’accélérer la transition écologique des véhicules, le Gouvernement met en place un programme d'aide au leasing de voitures électriques pour permettre aux ménages les plus modestes, dépendants d’un véhicule pour leur activité professionnelle, de passer à une mobilité décarbonée. L'éligibilité des véhicules à cette aide est soumise au respect de plusieurs critères. La présente publication recense les types-variantes-versions (TVV) éligibles au dispositif de leasing social 2026 (programme PRO-INNO-86, arrêté du 20 juin 2026) et constitue la référence officielle pour l’identification des véhicules pouvant bénéficier de cette aide. Cette liste est mise à disposition afin de faciliter les démarches des acteurs concernés et de garantir une information transparente sur les véhicules éligibles. Le montant de l’aide de leasing social est conditionné par des critères de production européenne de tout ou partie du véhicule. Ces critères de production européenne discriminent les véhicules selon leur type variante version (TVV). Le respect ou non des critères de production européenne est indiqué dans le jeu de données. L’ensemble des conditions et critères à respecter pour bénéficier du leasing social 2026 est disponible sur le site dédié à [l’Appel à Manifestation d’Intérêt (AMI) Loueurs](https://www.innoverpourlatransitionecologique.fr/fr/challenges/leasing-social-2026). Les utilisateurs sont invités à s’y référer pour obtenir le détail des règles d’éligibilité applicables au dispos",
+  "resource_title": "Liste des voitures particulières électriques éligibles au programme de leasing social 2026",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/t9ea97wgpy-ga5d0k91wrgol/lines?format=csv&size=10000",
+  "last_modified": "2026-07-17T12:30:14.120Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "manifestation",
+  "query": "manifestation",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

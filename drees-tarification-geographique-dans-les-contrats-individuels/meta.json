@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:tarification-geographique-dans-les-contrats-individuels",
+  "title": "Datastory OC - 2.3 Part des bénéficiaires d'un contrat individuel dont la tarification dépend du lieu de résidence",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/tarification-geographique-dans-les-contrats-individuels/",
+  "organization": "DREES",
+  "description": "Ce jeu de données sert à construire les graphique de la data story \"Enquête OC\" accessible en suivant ce lien : Datastory OC Il est extrait du jeu de données complet de l'\"enquête OC\" accessible sur la plateforme data.drees en suivant ce lien : Enquête auprès des organismes offrant des couvertures complémentaires santé (Enquête OC) depuis 2019 — DATA.DREES",
+  "resource_title": "Datastory OC - 2.3 Part des bénéficiaires d'un contrat individuel dont la tarification dépend du lieu de résidence",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/tarification-geographique-dans-les-contrats-individuels/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-09-24T14:37:21.291000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "résidence",
+  "query": "résidence",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des avocats dénoncent l'utilisation d'assignations à résidence pour empêcher certains militants de manifester le 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-avocats-denoncent-l-utilisation-d-assignations-a-residence-pour-empecher-certains-militants-de-manifester-le-24-octobre_8262932.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Colère sociale : Des avocats dénoncent des assignations à résidence pour empêcher de manifester",
+      "link": "https://www.20minutes.fr/societe/4259349-20261101-colere-sociale-avocats-denoncent-assignations-residence-empecher-manifester?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

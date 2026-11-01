@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:cancer-incidence-et-mortalite-estimees-departement",
+  "title": "Cancer : Incidence et mortalité estimées (Département)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/cancer-incidence-et-mortalite-estimees-departement/",
+  "organization": "Santé publique France",
+  "description": "Les taux d'incidence des cancers (2007-2016) et les taux de mortalité par cancer (2007-2014) standardisés sur la structure d'âge de la population mondiale, par département et par sexe ont été produits pour une étude combinant diverses sources de données, et publiée en 2019. Les taux sont exprimés pour 100 000 personnes-années. Les taux d'incidence ont été estimés à partir des données médico-administratives du Programme de médicalisation des systèmes d'information (PMSI) et des Affections longue durée (ALD) auxquelles Santé publique France accède dans le SNDS, et des données des registres de cancers du réseau Francim. Les données de mortalité sont issues du CépiDC (Inserm). Les indicateurs sont rapportés à la population française fournie par l'Insee au début de chaque année via les Estimations localisées de population (ELP, 2007 à 2017). Les taux sont assortis d'un intervalle de confiance. Précisions : Les indicateurs présentés portent sur 23 localisations cancéreuses et sur l'ensemble \"Tous cancers\", qui correspond à l'ensemble des cancers (hémopathies malignes incluses), hormis les cancers de la peau autres que les mélanomes. Les indicateurs d'incidence ne sont présentés que pour les localisations ayant une méthode de prédiction valide. Aucune méthode n’a pu être validée au niveau départemental pour estimer l’incidence des cancers du larynx, des mélanomes, des myélomes multiples et des leucémies aiguës myéloïdes. Une méthode était validée uniquement chez les hommes pour les ",
+  "resource_title": "Cancer : Incidence et mortalité estimées (Département)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/cancer-incidence-et-mortalite-estimees-departement/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-02-18T10:43:09+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "hommes",
+  "query": "hommes",
+  "news": [
+    {
+      "title": "Deux hommes mis en examen et écroués après l'incendie d'un immeuble à Clermont-Ferrand ayant tué quatre personnes",
+      "link": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Lio, chanteuse : « J’ai été soumise aux hommes, ce qui ne m’a pas empêchée de tourner les talons »",
+      "link": "https://www.lemonde.fr/culture/article/2026/11/01/lio-chanteuse-j-ai-ete-soumise-aux-hommes-ce-qui-ne-m-a-pas-empechee-de-tourner-les-talons_6804019_3246.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

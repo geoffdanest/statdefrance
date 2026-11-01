@@ -1,0 +1,33 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-dix-plus-hautes-remunerations",
+  "title": "Dix plus hautes rémunérations",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-dix-plus-hautes-remunerations/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Fichier des 10 plus hautes rémunérations du département ministériel Prévu par l'article 37 de la loi n°2019-828 du 6 août 2019 sur la transformation de la fonction publique : \"Les départements ministériels, les régions, les départements, les collectivités territoriales de plus de 80 000 habitants, les établissements publics de coopération intercommunale à fiscalité propre de plus de 80 000 habitants et les établissements publics hospitaliers dotés d'un budget de plus de 200 millions d'euros publient chaque année, sur leur site internet, la somme des dix rémunérations les plus élevées des agents relevant de leur périmètre, en précisant également le nombre de femmes et d'hommes figurant parmi ces dix rémunérations les plus élevées.\"",
+  "resource_title": "Dix plus hautes rémunérations",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-dix-plus-hautes-remunerations/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-07T14:30:51.605000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

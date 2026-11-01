@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6448e3fce7e52e625ad9ced5",
+  "title": "Traces du sport à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/traces-du-sport-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "Le présent jeu initie un répertoire des traces matérielles du sport à Antibes Juan-les-Pins, en dehors des installations sportives elles-mêmes. Il n'a pas la prétention d'être exhaustif à ce jour mais sera complété au fur et à mesure des découvertes.\n\nPour la réutilisation du présent jeu, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l'information sous la forme suivante : « Source : Ville d’Antibes, disponible sur data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour] ». Merci.",
+  "resource_title": "antibes-traces-sport.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/traces-du-sport-a-antibes-juan-les-pins/20240426-094436/antibes-traces-sport.csv",
+  "last_modified": "2024-04-26T09:44:38.263000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}

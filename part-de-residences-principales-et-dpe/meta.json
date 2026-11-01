@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "67cad6f31b824c076b3a4b7a",
+  "title": "Part de résidences principales et DPE\n",
+  "page": "https://www.data.gouv.fr/datasets/part-de-residences-principales-et-dpe",
+  "organization": "Ecolab",
+  "description": "Part de résidences principales avec leurs DPE et des caractéristiques du parc ou des ménages\n(doubles croisements)",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/part-de-residences-principales-et-dpe/20260325-020500/description-des-champs.csv",
+  "last_modified": "2026-03-25T02:05:00.941000+00:00",
+  "license": "notspecified",
+  "origin": "actu",
+  "label": "résidence",
+  "query": "résidence",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des avocats dénoncent l'utilisation d'assignations à résidence pour empêcher certains militants de manifester le 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-avocats-denoncent-l-utilisation-d-assignations-a-residence-pour-empecher-certains-militants-de-manifester-le-24-octobre_8262932.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Colère sociale : Des avocats dénoncent des assignations à résidence pour empêcher de manifester",
+      "link": "https://www.20minutes.fr/societe/4259349-20261101-colere-sociale-avocats-denoncent-assignations-residence-empecher-manifester?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

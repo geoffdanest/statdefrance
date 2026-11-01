@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "63994ae99eefb363aec8cd1d",
+  "title": "Pièces de théâtre écrites par des femmes, et représentées à Paris entre 1809 et 1906",
+  "page": "https://www.data.gouv.fr/datasets/pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-entre-1809-et-1906",
+  "organization": "Ministère de la Culture",
+  "description": "Les [Archives nationales](https://www.archives-nationales.culture.gouv.fr) conservent une magnifique collection de plus de 30 000 manuscrits de pièces de théâtre soumises au bureau de la censure théâtrale au XIXe siècle. La plupart de ces œuvres n’ont jamais été publiées. Les inventaires et bases de données internes, fruits notamment des travaux en partie publiés d’Odile Krakovitch, sont désormais accessibles en ligne sur le portail documentaire de l’institution.  \n\n\nLe jeu de données mis à disposition est constitué des 322 pièces de théâtre et opéra écrites ou composées par des femmes (141 autrices et compositrices), représentées dans les théâtres parisiens entre 1809 et 1906. Les notices des pièces de théâtre comportent les informations suivantes :\n\n  * le titre de la pièce ;  \n\n  * le genre théâtral ;  \n\n  * la forme ;  \n\n  * la date de la première représentation ;  \n\n  * le théâtre où a eu lieu la première représentation (Paris) ;\n  * la mention d'une édition de la pièce ;  \n\n  * l'existence éventuelle d'une version numérisée accessible en ligne (Wikisource, Gallica, Archive.org ou Google Book) ;  \n\n  * l'autrice (avec alignements Wikidata, Wikipédia et BNF) ;  \n\n  * les autres auteurs éventuels ;  \n\n  * l'URL de la notice descriptive dans l'inventaire des Archives nationales.\n\n\n\nCertaines pièces figurent à plusieurs reprises dans le jeu de données : elles ont plusieurs autrices, voire elles ont été autorisées et jouées à des dates différentes dans plusieurs théâtres. \n\nÀ",
+  "resource_title": "pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-1809-1906.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-entre-1809-et-1906/20250827-133215/pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-1809-1906.csv",
+  "last_modified": "2025-08-27T13:32:15.885000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

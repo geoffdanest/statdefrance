@@ -1,0 +1,834 @@
+﻿sous_chapitre;theme;indicateur;type;reg;date_lib;valeur;unite;categorie;date
+EMS;COVID-19;Nombre;Effectif;99;2023-S05;0;Nombre;Tous âges;2023-01-30
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S05;0;Nombre;Tous âges;2023-01-30
+EMS;COVID-19;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;COVID-19;Nombre;Effectif;99;2023-S07;1;Nombre;Tous âges;2023-02-13
+EMS;VRS;Nombre;Effectif;99;2023-S07;0;Nombre;Tous âges;2023-02-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S07;0;Nombre;Tous âges;2023-02-13
+EMS;COVID-19;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;VRS;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;IRA;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;COVID-19;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S11;0;Nombre;Tous âges;2023-03-13
+EMS;VRS;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;COVID-19;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;VRS;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;VRS;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;IRA;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;Grippe;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;VRS;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;COVID-19;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;IRA;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;Grippe;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;VRS;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;Grippe;Nombre;Effectif;99;2023-S19;1;Nombre;Tous âges;2023-05-08
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S19;0;Nombre;Tous âges;2023-05-08
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S19;0;Nombre;Tous âges;2023-05-08
+EMS;IRA;Nombre;Effectif;99;2023-S20;1;Nombre;Tous âges;2023-05-15
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S20;0;Nombre;Tous âges;2023-05-15
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S20;0;Nombre;Tous âges;2023-05-15
+EMS;IRA;Nombre;Effectif;99;2023-S40;242;Nombre;Tous âges;2023-10-02
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S40;9;Nombre;Tous âges;2023-10-02
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S40;24;Nombre;Tous âges;2023-10-02
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S40;6;Nombre;Tous âges;2023-10-02
+EMS;IRA;Nombre;Effectif;99;2023-S41;213;Nombre;Tous âges;2023-10-09
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S41;11;Nombre;Tous âges;2023-10-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S41;5;Nombre;Tous âges;2023-10-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S42;7;Nombre;Tous âges;2023-10-16
+EMS;IRA;Nombre;Effectif;99;2023-S43;188;Nombre;Tous âges;2023-10-23
+EMS;COVID-19;Nombre;Effectif;99;2023-S43;151;Nombre;Tous âges;2023-10-23
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S43;9;Nombre;Tous âges;2023-10-23
+EMS;IRA;Nombre;Effectif;99;2023-S46;191;Nombre;Tous âges;2023-11-13
+EMS;Grippe;Nombre;Effectif;99;2023-S46;3;Nombre;Tous âges;2023-11-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S46;19;Nombre;Tous âges;2023-11-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S46;10;Nombre;Tous âges;2023-11-13
+EMS;IRA;Nombre;Effectif;99;2023-S47;251;Nombre;Tous âges;2023-11-20
+EMS;COVID-19;Nombre;Effectif;99;2023-S47;200;Nombre;Tous âges;2023-11-20
+EMS;Grippe;Nombre;Effectif;99;2023-S48;2;Nombre;Tous âges;2023-11-27
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S48;9;Nombre;Tous âges;2023-11-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S48;33;Nombre;Tous âges;2023-11-27
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S49;12;Nombre;Tous âges;2023-12-04
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S49;33;Nombre;Tous âges;2023-12-04
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S49;33;Nombre;Tous âges;2023-12-04
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S50;37;Nombre;Tous âges;2023-12-11
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S50;31;Nombre;Tous âges;2023-12-11
+EMS;Grippe;Nombre;Effectif;99;2023-S51;6;Nombre;Tous âges;2023-12-18
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S51;6;Nombre;Tous âges;2023-12-18
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S51;18;Nombre;Tous âges;2023-12-18
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S52;22;Nombre;Tous âges;2023-12-25
+EMS;IRA;Nombre;Effectif;99;2024-S01;134;Nombre;Tous âges;2024-01-01
+EMS;Grippe;Nombre;Effectif;99;2024-S01;25;Nombre;Tous âges;2024-01-01
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S01;17;Nombre;Tous âges;2024-01-01
+EMS;VRS;Nombre;Effectif;99;2024-S02;7;Nombre;Tous âges;2024-01-08
+EMS;COVID-19;Nombre;Effectif;99;2024-S03;37;Nombre;Tous âges;2024-01-15
+EMS;Grippe;Nombre;Effectif;99;2024-S04;76;Nombre;Tous âges;2024-01-22
+EMS;VRS;Nombre;Effectif;99;2024-S04;3;Nombre;Tous âges;2024-01-22
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S04;10;Nombre;Tous âges;2024-01-22
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S05;11;Nombre;Tous âges;2024-01-29
+EMS;COVID-19;Nombre;Effectif;99;2024-S06;27;Nombre;Tous âges;2024-02-05
+EMS;VRS;Nombre;Effectif;99;2024-S06;5;Nombre;Tous âges;2024-02-05
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S06;7;Nombre;Tous âges;2024-02-05
+EMS;Grippe;Nombre;Effectif;99;2024-S07;41;Nombre;Tous âges;2024-02-12
+EMS;Grippe;Nombre;Effectif;99;2024-S08;20;Nombre;Tous âges;2024-02-19
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S08;10;Nombre;Tous âges;2024-02-19
+EMS;IRA;Nombre;Effectif;99;2024-S10;47;Nombre;Tous âges;2024-03-04
+EMS;COVID-19;Nombre;Effectif;99;2024-S10;2;Nombre;Tous âges;2024-03-04
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S10;14;Nombre;Tous âges;2024-03-04
+EMS;IRA;Nombre;Effectif;99;2024-S11;34;Nombre;Tous âges;2024-03-11
+EMS;VRS;Nombre;Effectif;99;2024-S11;0;Nombre;Tous âges;2024-03-11
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S11;1;Nombre;Tous âges;2024-03-11
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S11;2;Nombre;Tous âges;2024-03-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S12;9;Nombre;Tous âges;2024-03-18
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S12;4;Nombre;Tous âges;2024-03-18
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S12;3;Nombre;Tous âges;2024-03-18
+EMS;COVID-19;Nombre;Effectif;99;2024-S13;9;Nombre;Tous âges;2024-03-25
+EMS;VRS;Nombre;Effectif;99;2024-S13;0;Nombre;Tous âges;2024-03-25
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S13;1;Nombre;Tous âges;2024-03-25
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S14;3;Nombre;Tous âges;2024-04-01
+EMS;VRS;Nombre;Effectif;99;2024-S15;0;Nombre;Tous âges;2024-04-08
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S15;3;Nombre;Tous âges;2024-04-08
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S15;1;Nombre;Tous âges;2024-04-08
+EMS;IRA;Nombre;Effectif;99;2024-S16;35;Nombre;Tous âges;2024-04-15
+EMS;COVID-19;Nombre;Effectif;99;2024-S16;18;Nombre;Tous âges;2024-04-15
+EMS;Grippe;Nombre;Effectif;99;2024-S16;0;Nombre;Tous âges;2024-04-15
+EMS;VRS;Nombre;Effectif;99;2024-S16;1;Nombre;Tous âges;2024-04-15
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S16;15;Nombre;Tous âges;2024-04-15
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S16;1;Nombre;Tous âges;2024-04-15
+EMS;IRA;Nombre;Effectif;99;2024-S17;36;Nombre;Tous âges;2024-04-22
+EMS;COVID-19;Nombre;Effectif;99;2024-S17;19;Nombre;Tous âges;2024-04-22
+EMS;VRS;Nombre;Effectif;99;2024-S17;1;Nombre;Tous âges;2024-04-22
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S17;11;Nombre;Tous âges;2024-04-22
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S17;1;Nombre;Tous âges;2024-04-22
+EMS;COVID-19;Nombre;Effectif;99;2024-S18;15;Nombre;Tous âges;2024-04-29
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S18;13;Nombre;Tous âges;2024-04-29
+EMS;IRA;Nombre;Effectif;99;2024-S19;34;Nombre;Tous âges;2024-05-06
+EMS;COVID-19;Nombre;Effectif;99;2024-S19;21;Nombre;Tous âges;2024-05-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S19;6;Nombre;Tous âges;2024-05-06
+EMS;IRA;Nombre;Effectif;99;2024-S20;39;Nombre;Tous âges;2024-05-13
+EMS;IRA;Nombre;Effectif;99;2024-S40;306;Nombre;Tous âges;2024-09-30
+EMS;Grippe;Nombre;Effectif;99;2024-S40;4;Nombre;Tous âges;2024-09-30
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S40;13;Nombre;Tous âges;2024-09-30
+EMS;Grippe;Nombre;Effectif;99;2024-S41;3;Nombre;Tous âges;2024-10-07
+EMS;VRS;Nombre;Effectif;99;2024-S41;0;Nombre;Tous âges;2024-10-07
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S41;13;Nombre;Tous âges;2024-10-07
+EMS;IRA;Nombre;Effectif;99;2024-S42;153;Nombre;Tous âges;2024-10-14
+EMS;VRS;Nombre;Effectif;99;2024-S42;1;Nombre;Tous âges;2024-10-14
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S42;18;Nombre;Tous âges;2024-10-14
+EMS;VRS;Nombre;Effectif;99;2024-S43;0;Nombre;Tous âges;2024-10-21
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S43;7;Nombre;Tous âges;2024-10-21
+EMS;Grippe;Nombre;Effectif;99;2024-S44;0;Nombre;Tous âges;2024-10-28
+EMS;VRS;Nombre;Effectif;99;2024-S44;0;Nombre;Tous âges;2024-10-28
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S44;7;Nombre;Tous âges;2024-10-28
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S44;4;Nombre;Tous âges;2024-10-28
+EMS;IRA;Nombre;Effectif;99;2024-S45;58;Nombre;Tous âges;2024-11-04
+EMS;COVID-19;Nombre;Effectif;99;2024-S45;32;Nombre;Tous âges;2024-11-04
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S45;4;Nombre;Tous âges;2024-11-04
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S45;7;Nombre;Tous âges;2024-11-04
+EMS;IRA;Nombre;Effectif;99;2024-S46;48;Nombre;Tous âges;2024-11-11
+EMS;COVID-19;Nombre;Effectif;99;2024-S46;23;Nombre;Tous âges;2024-11-11
+EMS;IRA;Nombre;Effectif;99;2024-S47;76;Nombre;Tous âges;2024-11-18
+EMS;VRS;Nombre;Effectif;99;2024-S47;5;Nombre;Tous âges;2024-11-18
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S47;8;Nombre;Tous âges;2024-11-18
+EMS;COVID-19;Nombre;Effectif;99;2024-S48;40;Nombre;Tous âges;2024-11-25
+EMS;Grippe;Nombre;Effectif;99;2024-S48;8;Nombre;Tous âges;2024-11-25
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S48;14;Nombre;Tous âges;2024-11-25
+EMS;VRS;Nombre;Effectif;99;2024-S49;6;Nombre;Tous âges;2024-12-02
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S49;24;Nombre;Tous âges;2024-12-02
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S50;18;Nombre;Tous âges;2024-12-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S51;45;Nombre;Tous âges;2024-12-16
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S52;90;Nombre;Tous âges;2024-12-23
+EMS;IRA;Nombre;Effectif;99;2025-S01;422;Nombre;Tous âges;2024-12-30
+EMS;COVID-19;Nombre;Effectif;99;2025-S01;20;Nombre;Tous âges;2024-12-30
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S01;25;Nombre;Tous âges;2024-12-30
+EMS;COVID-19;Nombre;Effectif;99;2025-S02;13;Nombre;Tous âges;2025-01-06
+EMS;Grippe;Nombre;Effectif;99;2025-S02;133;Nombre;Tous âges;2025-01-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S02;55;Nombre;Tous âges;2025-01-06
+EMS;COVID-19;Nombre;Effectif;99;2025-S03;11;Nombre;Tous âges;2025-01-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S03;56;Nombre;Tous âges;2025-01-13
+EMS;Grippe;Nombre;Effectif;99;2025-S04;132;Nombre;Tous âges;2025-01-20
+EMS;VRS;Nombre;Effectif;99;2025-S04;15;Nombre;Tous âges;2025-01-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S04;15;Nombre;Tous âges;2025-01-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S04;38;Nombre;Tous âges;2025-01-20
+EMS;COVID-19;Nombre;Effectif;99;2025-S05;6;Nombre;Tous âges;2025-01-27
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S05;5;Nombre;Tous âges;2025-01-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S05;6;Nombre;Tous âges;2025-01-27
+EMS;Grippe;Nombre;Effectif;99;2025-S06;94;Nombre;Tous âges;2025-02-03
+EMS;VRS;Nombre;Effectif;99;2025-S06;5;Nombre;Tous âges;2025-02-03
+EMS;COVID-19;Nombre;Effectif;99;2025-S07;8;Nombre;Tous âges;2025-02-10
+EMS;VRS;Nombre;Effectif;99;2025-S07;6;Nombre;Tous âges;2025-02-10
+EMS;Grippe;Nombre;Effectif;99;2025-S08;48;Nombre;Tous âges;2025-02-17
+EMS;VRS;Nombre;Effectif;99;2025-S09;6;Nombre;Tous âges;2025-02-24
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S09;6;Nombre;Tous âges;2025-02-24
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S09;3;Nombre;Tous âges;2025-02-24
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S09;13;Nombre;Tous âges;2025-02-24
+EMS;COVID-19;Nombre;Effectif;99;2025-S10;11;Nombre;Tous âges;2025-03-03
+EMS;VRS;Nombre;Effectif;99;2025-S10;7;Nombre;Tous âges;2025-03-03
+EMS;Grippe;Nombre;Effectif;99;2025-S11;11;Nombre;Tous âges;2025-03-10
+EMS;VRS;Nombre;Effectif;99;2025-S11;5;Nombre;Tous âges;2025-03-10
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S11;9;Nombre;Tous âges;2025-03-10
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S11;3;Nombre;Tous âges;2025-03-10
+EMS;Grippe;Nombre;Effectif;99;2025-S12;12;Nombre;Tous âges;2025-03-17
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S12;7;Nombre;Tous âges;2025-03-17
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S12;4;Nombre;Tous âges;2025-03-17
+EMS;COVID-19;Nombre;Effectif;99;2025-S13;12;Nombre;Tous âges;2025-03-24
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S13;10;Nombre;Tous âges;2025-03-24
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S13;1;Nombre;Tous âges;2025-03-24
+EMS;Grippe;Nombre;Effectif;99;2025-S14;11;Nombre;Tous âges;2025-03-31
+EMS;VRS;Nombre;Effectif;99;2025-S14;4;Nombre;Tous âges;2025-03-31
+EMS;COVID-19;Nombre;Effectif;99;2025-S15;20;Nombre;Tous âges;2025-04-07
+EMS;Grippe;Nombre;Effectif;99;2025-S16;2;Nombre;Tous âges;2025-04-14
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S16;5;Nombre;Tous âges;2025-04-14
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S16;3;Nombre;Tous âges;2025-04-14
+EMS;IRA;Nombre;Effectif;99;2025-S17;36;Nombre;Tous âges;2025-04-21
+EMS;COVID-19;Nombre;Effectif;99;2025-S17;23;Nombre;Tous âges;2025-04-21
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S17;2;Nombre;Tous âges;2025-04-21
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S18;3;Nombre;Tous âges;2025-04-28
+EMS;IRA;Nombre;Effectif;99;2025-S19;33;Nombre;Tous âges;2025-05-05
+EMS;COVID-19;Nombre;Effectif;99;2025-S19;24;Nombre;Tous âges;2025-05-05
+EMS;Grippe;Nombre;Effectif;99;2025-S20;0;Nombre;Tous âges;2025-05-12
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S20;1;Nombre;Tous âges;2025-05-12
+EMS;Grippe;Nombre;Effectif;99;2025-S40;5;Nombre;Tous âges;2025-09-29
+EMS;VRS;Nombre;Effectif;99;2025-S40;1;Nombre;Tous âges;2025-09-29
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S40;15;Nombre;Tous âges;2025-09-29
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S40;13;Nombre;Tous âges;2025-09-29
+EMS;IRA;Nombre;Effectif;99;2025-S41;213;Nombre;Tous âges;2025-10-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S41;11;Nombre;Tous âges;2025-10-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S42;7;Nombre;Tous âges;2025-10-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S42;10;Nombre;Tous âges;2025-10-13
+EMS;Grippe;Nombre;Effectif;99;2025-S43;6;Nombre;Tous âges;2025-10-20
+EMS;VRS;Nombre;Effectif;99;2025-S43;0;Nombre;Tous âges;2025-10-20
+EMS;COVID-19;Nombre;Effectif;99;2025-S44;50;Nombre;Tous âges;2025-10-27
+EMS;COVID-19;Nombre;Effectif;99;2025-S45;39;Nombre;Tous âges;2025-11-03
+EMS;VRS;Nombre;Effectif;99;2025-S45;1;Nombre;Tous âges;2025-11-03
+EMS;COVID-19;Nombre;Effectif;99;2025-S46;14;Nombre;Tous âges;2025-11-10
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S46;3;Nombre;Tous âges;2025-11-10
+EMS;COVID-19;Nombre;Effectif;99;2025-S47;23;Nombre;Tous âges;2025-11-17
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S47;1;Nombre;Tous âges;2025-11-17
+EMS;Grippe;Nombre;Effectif;99;2025-S48;31;Nombre;Tous âges;2025-11-24
+EMS;IRA;Nombre;Effectif;99;2025-S49;168;Nombre;Tous âges;2025-12-01
+EMS;COVID-19;Nombre;Effectif;99;2025-S49;32;Nombre;Tous âges;2025-12-01
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S49;20;Nombre;Tous âges;2025-12-01
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S49;7;Nombre;Tous âges;2025-12-01
+EMS;IRA;Nombre;Effectif;99;2025-S50;191;Nombre;Tous âges;2025-12-08
+EMS;COVID-19;Nombre;Effectif;99;2025-S50;27;Nombre;Tous âges;2025-12-08
+EMS;Grippe;Nombre;Effectif;99;2025-S50;78;Nombre;Tous âges;2025-12-08
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S50;18;Nombre;Tous âges;2025-12-08
+EMS;IRA;Nombre;Effectif;99;2025-S51;216;Nombre;Tous âges;2025-12-15
+EMS;Grippe;Nombre;Effectif;99;2025-S51;114;Nombre;Tous âges;2025-12-15
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S51;18;Nombre;Tous âges;2025-12-15
+EMS;IRA;Nombre;Effectif;99;2025-S52;258;Nombre;Tous âges;2025-12-22
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S52;14;Nombre;Tous âges;2025-12-22
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S52;64;Nombre;Tous âges;2025-12-22
+EMS;COVID-19;Nombre;Effectif;99;2026-S01;14;Nombre;Tous âges;2025-12-29
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S01;23;Nombre;Tous âges;2025-12-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S01;87;Nombre;Tous âges;2025-12-29
+EMS;VRS;Nombre;Effectif;99;2026-S02;25;Nombre;Tous âges;2026-01-05
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S02;19;Nombre;Tous âges;2026-01-05
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S02;17;Nombre;Tous âges;2026-01-05
+EMS;Grippe;Nombre;Effectif;99;2026-S03;84;Nombre;Tous âges;2026-01-12
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S03;10;Nombre;Tous âges;2026-01-12
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S03;20;Nombre;Tous âges;2026-01-12
+EMS;IRA;Nombre;Effectif;99;2026-S04;106;Nombre;Tous âges;2026-01-19
+EMS;VRS;Nombre;Effectif;99;2026-S04;16;Nombre;Tous âges;2026-01-19
+EMS;COVID-19;Nombre;Effectif;99;2026-S05;13;Nombre;Tous âges;2026-01-26
+EMS;Grippe;Nombre;Effectif;99;2026-S05;51;Nombre;Tous âges;2026-01-26
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S05;4;Nombre;Tous âges;2026-01-26
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S05;4;Nombre;Tous âges;2026-01-26
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S06;5;Nombre;Tous âges;2026-02-02
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S06;15;Nombre;Tous âges;2026-02-02
+EMS;IRA;Nombre;Effectif;99;2026-S07;50;Nombre;Tous âges;2026-02-09
+EMS;COVID-19;Nombre;Effectif;99;2026-S07;5;Nombre;Tous âges;2026-02-09
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S07;2;Nombre;Tous âges;2026-02-09
+EMS;Grippe;Nombre;Effectif;99;2026-S08;25;Nombre;Tous âges;2026-02-16
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S08;3;Nombre;Tous âges;2026-02-16
+EMS;VRS;Nombre;Effectif;99;2026-S09;8;Nombre;Tous âges;2026-02-23
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S09;3;Nombre;Tous âges;2026-02-23
+EMS;IRA;Nombre;Effectif;99;2026-S11;24;Nombre;Tous âges;2026-03-09
+EMS;Grippe;Nombre;Effectif;99;2026-S11;3;Nombre;Tous âges;2026-03-09
+EMS;VRS;Nombre;Effectif;99;2026-S11;3;Nombre;Tous âges;2026-03-09
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S11;9;Nombre;Tous âges;2026-03-09
+EMS;COVID-19;Nombre;Effectif;99;2026-S12;11;Nombre;Tous âges;2026-03-16
+EMS;VRS;Nombre;Effectif;99;2026-S12;1;Nombre;Tous âges;2026-03-16
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S12;8;Nombre;Tous âges;2026-03-16
+EMS;COVID-19;Nombre;Effectif;99;2026-S13;11;Nombre;Tous âges;2026-03-23
+EMS;Grippe;Nombre;Effectif;99;2026-S13;5;Nombre;Tous âges;2026-03-23
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S13;15;Nombre;Tous âges;2026-03-23
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S13;7;Nombre;Tous âges;2026-03-23
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S13;2;Nombre;Tous âges;2026-03-23
+EMS;IRA;Nombre;Effectif;99;2026-S14;52;Nombre;Tous âges;2026-03-30
+EMS;Grippe;Nombre;Effectif;99;2026-S14;3;Nombre;Tous âges;2026-03-30
+EMS;VRS;Nombre;Effectif;99;2026-S14;6;Nombre;Tous âges;2026-03-30
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S14;5;Nombre;Tous âges;2026-03-30
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S14;8;Nombre;Tous âges;2026-03-30
+EMS;COVID-19;Nombre;Effectif;99;2026-S15;6;Nombre;Tous âges;2026-04-06
+EMS;VRS;Nombre;Effectif;99;2026-S15;3;Nombre;Tous âges;2026-04-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S15;19;Nombre;Tous âges;2026-04-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S15;2;Nombre;Tous âges;2026-04-06
+EMS;COVID-19;Nombre;Effectif;99;2026-S16;2;Nombre;Tous âges;2026-04-13
+EMS;Grippe;Nombre;Effectif;99;2026-S16;2;Nombre;Tous âges;2026-04-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S16;4;Nombre;Tous âges;2026-04-13
+EMS;IRA;Nombre;Effectif;99;2026-S17;20;Nombre;Tous âges;2026-04-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S17;11;Nombre;Tous âges;2026-04-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S17;2;Nombre;Tous âges;2026-04-20
+EMS;IRA;Nombre;Effectif;99;2026-S18;27;Nombre;Tous âges;2026-04-27
+EMS;VRS;Nombre;Effectif;99;2026-S18;2;Nombre;Tous âges;2026-04-27
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S18;16;Nombre;Tous âges;2026-04-27
+EMS;Grippe;Nombre;Effectif;99;2026-S19;0;Nombre;Tous âges;2026-05-04
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S19;15;Nombre;Tous âges;2026-05-04
+EMS;VRS;Nombre;Effectif;99;2026-S20;1;Nombre;Tous âges;2026-05-11
+EMS;IRA;Nombre;Effectif;99;2026-S40;156;Nombre;Tous âges;2026-09-28
+EMS;VRS;Nombre;Effectif;99;2026-S40;1;Nombre;Tous âges;2026-09-28
+EMS;IRA;Nombre;Effectif;99;2026-S41;152;Nombre;Tous âges;2026-10-05
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S41;26;Nombre;Tous âges;2026-10-05
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S41;2;Nombre;Tous âges;2026-10-05
+EMS;Grippe;Nombre;Effectif;99;2026-S42;5;Nombre;Tous âges;2026-10-12
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S42;6;Nombre;Tous âges;2026-10-12
+EMS;VRS;Nombre;Effectif;99;2026-S43;0;Nombre;Tous âges;2026-10-19
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S43;4;Nombre;Tous âges;2026-10-19
+EMS;IRA;Nombre;Effectif;99;2023-S05;1;Nombre;Tous âges;2023-01-30
+EMS;Grippe;Nombre;Effectif;99;2023-S05;1;Nombre;Tous âges;2023-01-30
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S05;0;Nombre;Tous âges;2023-01-30
+EMS;VRS;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;Grippe;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;IRA;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;COVID-19;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;Grippe;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;Grippe;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;IRA;Nombre;Effectif;99;2023-S11;2;Nombre;Tous âges;2023-03-13
+EMS;COVID-19;Nombre;Effectif;99;2023-S11;1;Nombre;Tous âges;2023-03-13
+EMS;Grippe;Nombre;Effectif;99;2023-S11;1;Nombre;Tous âges;2023-03-13
+EMS;VRS;Nombre;Effectif;99;2023-S11;0;Nombre;Tous âges;2023-03-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S11;0;Nombre;Tous âges;2023-03-13
+EMS;IRA;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;IRA;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;Grippe;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;COVID-19;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;IRA;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;IRA;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;Grippe;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;IRA;Nombre;Effectif;99;2023-S19;2;Nombre;Tous âges;2023-05-08
+EMS;VRS;Nombre;Effectif;99;2023-S19;0;Nombre;Tous âges;2023-05-08
+EMS;COVID-19;Nombre;Effectif;99;2023-S40;203;Nombre;Tous âges;2023-10-02
+EMS;Grippe;Nombre;Effectif;99;2023-S40;0;Nombre;Tous âges;2023-10-02
+EMS;VRS;Nombre;Effectif;99;2023-S41;0;Nombre;Tous âges;2023-10-09
+EMS;IRA;Nombre;Effectif;99;2023-S42;187;Nombre;Tous âges;2023-10-16
+EMS;Grippe;Nombre;Effectif;99;2023-S42;2;Nombre;Tous âges;2023-10-16
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S42;8;Nombre;Tous âges;2023-10-16
+EMS;Grippe;Nombre;Effectif;99;2023-S43;2;Nombre;Tous âges;2023-10-23
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S43;20;Nombre;Tous âges;2023-10-23
+EMS;COVID-19;Nombre;Effectif;99;2023-S44;124;Nombre;Tous âges;2023-10-30
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S44;17;Nombre;Tous âges;2023-10-30
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S44;6;Nombre;Tous âges;2023-10-30
+EMS;IRA;Nombre;Effectif;99;2023-S45;157;Nombre;Tous âges;2023-11-06
+EMS;COVID-19;Nombre;Effectif;99;2023-S45;133;Nombre;Tous âges;2023-11-06
+EMS;Grippe;Nombre;Effectif;99;2023-S45;0;Nombre;Tous âges;2023-11-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S45;4;Nombre;Tous âges;2023-11-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S45;16;Nombre;Tous âges;2023-11-06
+EMS;VRS;Nombre;Effectif;99;2023-S46;0;Nombre;Tous âges;2023-11-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S46;9;Nombre;Tous âges;2023-11-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S47;3;Nombre;Tous âges;2023-11-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S47;21;Nombre;Tous âges;2023-11-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S47;23;Nombre;Tous âges;2023-11-20
+EMS;IRA;Nombre;Effectif;99;2023-S48;355;Nombre;Tous âges;2023-11-27
+EMS;VRS;Nombre;Effectif;99;2023-S48;2;Nombre;Tous âges;2023-11-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S48;48;Nombre;Tous âges;2023-11-27
+EMS;IRA;Nombre;Effectif;99;2023-S50;324;Nombre;Tous âges;2023-12-11
+EMS;VRS;Nombre;Effectif;99;2023-S50;4;Nombre;Tous âges;2023-12-11
+EMS;COVID-19;Nombre;Effectif;99;2023-S51;163;Nombre;Tous âges;2023-12-18
+EMS;COVID-19;Nombre;Effectif;99;2023-S52;124;Nombre;Tous âges;2023-12-25
+EMS;VRS;Nombre;Effectif;99;2023-S52;8;Nombre;Tous âges;2023-12-25
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S52;8;Nombre;Tous âges;2023-12-25
+EMS;COVID-19;Nombre;Effectif;99;2024-S01;66;Nombre;Tous âges;2024-01-01
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S01;12;Nombre;Tous âges;2024-01-01
+EMS;IRA;Nombre;Effectif;99;2024-S02;140;Nombre;Tous âges;2024-01-08
+EMS;COVID-19;Nombre;Effectif;99;2024-S02;48;Nombre;Tous âges;2024-01-08
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S02;11;Nombre;Tous âges;2024-01-08
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S02;11;Nombre;Tous âges;2024-01-08
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S02;19;Nombre;Tous âges;2024-01-08
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S03;13;Nombre;Tous âges;2024-01-15
+EMS;IRA;Nombre;Effectif;99;2024-S04;149;Nombre;Tous âges;2024-01-22
+EMS;COVID-19;Nombre;Effectif;99;2024-S04;28;Nombre;Tous âges;2024-01-22
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S04;12;Nombre;Tous âges;2024-01-22
+EMS;IRA;Nombre;Effectif;99;2024-S05;142;Nombre;Tous âges;2024-01-29
+EMS;COVID-19;Nombre;Effectif;99;2024-S05;22;Nombre;Tous âges;2024-01-29
+EMS;VRS;Nombre;Effectif;99;2024-S05;2;Nombre;Tous âges;2024-01-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S05;23;Nombre;Tous âges;2024-01-29
+EMS;IRA;Nombre;Effectif;99;2024-S06;124;Nombre;Tous âges;2024-02-05
+EMS;Grippe;Nombre;Effectif;99;2024-S06;64;Nombre;Tous âges;2024-02-05
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S06;8;Nombre;Tous âges;2024-02-05
+EMS;COVID-19;Nombre;Effectif;99;2024-S07;15;Nombre;Tous âges;2024-02-12
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S07;8;Nombre;Tous âges;2024-02-12
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S07;6;Nombre;Tous âges;2024-02-12
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S07;4;Nombre;Tous âges;2024-02-12
+EMS;VRS;Nombre;Effectif;99;2024-S08;0;Nombre;Tous âges;2024-02-19
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S08;5;Nombre;Tous âges;2024-02-19
+EMS;IRA;Nombre;Effectif;99;2024-S09;46;Nombre;Tous âges;2024-02-26
+EMS;COVID-19;Nombre;Effectif;99;2024-S09;8;Nombre;Tous âges;2024-02-26
+EMS;VRS;Nombre;Effectif;99;2024-S10;2;Nombre;Tous âges;2024-03-04
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S10;5;Nombre;Tous âges;2024-03-04
+EMS;COVID-19;Nombre;Effectif;99;2024-S11;10;Nombre;Tous âges;2024-03-11
+EMS;Grippe;Nombre;Effectif;99;2024-S12;7;Nombre;Tous âges;2024-03-18
+EMS;IRA;Nombre;Effectif;99;2024-S13;29;Nombre;Tous âges;2024-03-25
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S13;4;Nombre;Tous âges;2024-03-25
+EMS;IRA;Nombre;Effectif;99;2024-S14;43;Nombre;Tous âges;2024-04-01
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S14;16;Nombre;Tous âges;2024-04-01
+EMS;IRA;Nombre;Effectif;99;2024-S15;21;Nombre;Tous âges;2024-04-08
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S15;8;Nombre;Tous âges;2024-04-08
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S16;0;Nombre;Tous âges;2024-04-15
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S17;4;Nombre;Tous âges;2024-04-22
+EMS;Grippe;Nombre;Effectif;99;2024-S18;1;Nombre;Tous âges;2024-04-29
+EMS;VRS;Nombre;Effectif;99;2024-S18;0;Nombre;Tous âges;2024-04-29
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S18;5;Nombre;Tous âges;2024-04-29
+EMS;Grippe;Nombre;Effectif;99;2024-S20;0;Nombre;Tous âges;2024-05-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S20;8;Nombre;Tous âges;2024-05-13
+EMS;COVID-19;Nombre;Effectif;99;2024-S40;248;Nombre;Tous âges;2024-09-30
+EMS;VRS;Nombre;Effectif;99;2024-S40;0;Nombre;Tous âges;2024-09-30
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S40;17;Nombre;Tous âges;2024-09-30
+EMS;COVID-19;Nombre;Effectif;99;2024-S41;157;Nombre;Tous âges;2024-10-07
+EMS;Grippe;Nombre;Effectif;99;2024-S42;3;Nombre;Tous âges;2024-10-14
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S42;8;Nombre;Tous âges;2024-10-14
+EMS;COVID-19;Nombre;Effectif;99;2024-S43;59;Nombre;Tous âges;2024-10-21
+EMS;Grippe;Nombre;Effectif;99;2024-S43;3;Nombre;Tous âges;2024-10-21
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S43;11;Nombre;Tous âges;2024-10-21
+EMS;IRA;Nombre;Effectif;99;2024-S44;82;Nombre;Tous âges;2024-10-28
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S44;5;Nombre;Tous âges;2024-10-28
+EMS;Grippe;Nombre;Effectif;99;2024-S45;4;Nombre;Tous âges;2024-11-04
+EMS;VRS;Nombre;Effectif;99;2024-S45;2;Nombre;Tous âges;2024-11-04
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S45;9;Nombre;Tous âges;2024-11-04
+EMS;Grippe;Nombre;Effectif;99;2024-S46;1;Nombre;Tous âges;2024-11-11
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S46;7;Nombre;Tous âges;2024-11-11
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S46;3;Nombre;Tous âges;2024-11-11
+EMS;COVID-19;Nombre;Effectif;99;2024-S47;35;Nombre;Tous âges;2024-11-18
+EMS;Grippe;Nombre;Effectif;99;2024-S47;8;Nombre;Tous âges;2024-11-18
+EMS;VRS;Nombre;Effectif;99;2024-S48;2;Nombre;Tous âges;2024-11-25
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S48;8;Nombre;Tous âges;2024-11-25
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S48;7;Nombre;Tous âges;2024-11-25
+EMS;IRA;Nombre;Effectif;99;2024-S49;115;Nombre;Tous âges;2024-12-02
+EMS;COVID-19;Nombre;Effectif;99;2024-S49;30;Nombre;Tous âges;2024-12-02
+EMS;Grippe;Nombre;Effectif;99;2024-S49;33;Nombre;Tous âges;2024-12-02
+EMS;COVID-19;Nombre;Effectif;99;2024-S50;41;Nombre;Tous âges;2024-12-09
+EMS;Grippe;Nombre;Effectif;99;2024-S50;61;Nombre;Tous âges;2024-12-09
+EMS;VRS;Nombre;Effectif;99;2024-S50;11;Nombre;Tous âges;2024-12-09
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S50;13;Nombre;Tous âges;2024-12-09
+EMS;IRA;Nombre;Effectif;99;2024-S51;219;Nombre;Tous âges;2024-12-16
+EMS;COVID-19;Nombre;Effectif;99;2024-S51;41;Nombre;Tous âges;2024-12-16
+EMS;IRA;Nombre;Effectif;99;2024-S52;361;Nombre;Tous âges;2024-12-23
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S52;33;Nombre;Tous âges;2024-12-23
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S52;12;Nombre;Tous âges;2024-12-23
+EMS;Grippe;Nombre;Effectif;99;2025-S01;227;Nombre;Tous âges;2024-12-30
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S01;25;Nombre;Tous âges;2024-12-30
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S01;106;Nombre;Tous âges;2024-12-30
+EMS;IRA;Nombre;Effectif;99;2025-S02;272;Nombre;Tous âges;2025-01-06
+EMS;IRA;Nombre;Effectif;99;2025-S03;287;Nombre;Tous âges;2025-01-13
+EMS;Grippe;Nombre;Effectif;99;2025-S03;162;Nombre;Tous âges;2025-01-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S03;25;Nombre;Tous âges;2025-01-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S03;17;Nombre;Tous âges;2025-01-13
+EMS;IRA;Nombre;Effectif;99;2025-S04;215;Nombre;Tous âges;2025-01-20
+EMS;COVID-19;Nombre;Effectif;99;2025-S04;9;Nombre;Tous âges;2025-01-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S04;6;Nombre;Tous âges;2025-01-20
+EMS;IRA;Nombre;Effectif;99;2025-S05;151;Nombre;Tous âges;2025-01-27
+EMS;VRS;Nombre;Effectif;99;2025-S05;13;Nombre;Tous âges;2025-01-27
+EMS;IRA;Nombre;Effectif;99;2025-S06;159;Nombre;Tous âges;2025-02-03
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S06;10;Nombre;Tous âges;2025-02-03
+EMS;Grippe;Nombre;Effectif;99;2025-S07;90;Nombre;Tous âges;2025-02-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S07;12;Nombre;Tous âges;2025-02-10
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S07;4;Nombre;Tous âges;2025-02-10
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S07;12;Nombre;Tous âges;2025-02-10
+EMS;IRA;Nombre;Effectif;99;2025-S08;102;Nombre;Tous âges;2025-02-17
+EMS;COVID-19;Nombre;Effectif;99;2025-S08;16;Nombre;Tous âges;2025-02-17
+EMS;VRS;Nombre;Effectif;99;2025-S08;11;Nombre;Tous âges;2025-02-17
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S08;12;Nombre;Tous âges;2025-02-17
+EMS;COVID-19;Nombre;Effectif;99;2025-S09;16;Nombre;Tous âges;2025-02-24
+EMS;Grippe;Nombre;Effectif;99;2025-S09;25;Nombre;Tous âges;2025-02-24
+EMS;Grippe;Nombre;Effectif;99;2025-S10;32;Nombre;Tous âges;2025-03-03
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S10;7;Nombre;Tous âges;2025-03-03
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S10;0;Nombre;Tous âges;2025-03-03
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S10;8;Nombre;Tous âges;2025-03-03
+EMS;VRS;Nombre;Effectif;99;2025-S12;2;Nombre;Tous âges;2025-03-17
+EMS;IRA;Nombre;Effectif;99;2025-S13;45;Nombre;Tous âges;2025-03-24
+EMS;Grippe;Nombre;Effectif;99;2025-S13;14;Nombre;Tous âges;2025-03-24
+EMS;VRS;Nombre;Effectif;99;2025-S13;4;Nombre;Tous âges;2025-03-24
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S13;4;Nombre;Tous âges;2025-03-24
+EMS;IRA;Nombre;Effectif;99;2025-S14;59;Nombre;Tous âges;2025-03-31
+EMS;COVID-19;Nombre;Effectif;99;2025-S14;27;Nombre;Tous âges;2025-03-31
+EMS;IRA;Nombre;Effectif;99;2025-S15;45;Nombre;Tous âges;2025-04-07
+EMS;VRS;Nombre;Effectif;99;2025-S15;0;Nombre;Tous âges;2025-04-07
+EMS;VRS;Nombre;Effectif;99;2025-S16;1;Nombre;Tous âges;2025-04-14
+EMS;IRA;Nombre;Effectif;99;2025-S18;45;Nombre;Tous âges;2025-04-28
+EMS;COVID-19;Nombre;Effectif;99;2025-S18;24;Nombre;Tous âges;2025-04-28
+EMS;Grippe;Nombre;Effectif;99;2025-S18;2;Nombre;Tous âges;2025-04-28
+EMS;Grippe;Nombre;Effectif;99;2025-S19;3;Nombre;Tous âges;2025-05-05
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S19;3;Nombre;Tous âges;2025-05-05
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S19;0;Nombre;Tous âges;2025-05-05
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S19;3;Nombre;Tous âges;2025-05-05
+EMS;COVID-19;Nombre;Effectif;99;2025-S20;26;Nombre;Tous âges;2025-05-12
+EMS;COVID-19;Nombre;Effectif;99;2025-S40;213;Nombre;Tous âges;2025-09-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S40;31;Nombre;Tous âges;2025-09-29
+EMS;COVID-19;Nombre;Effectif;99;2025-S41;157;Nombre;Tous âges;2025-10-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S41;19;Nombre;Tous âges;2025-10-06
+EMS;COVID-19;Nombre;Effectif;99;2025-S42;126;Nombre;Tous âges;2025-10-13
+EMS;Grippe;Nombre;Effectif;99;2025-S42;3;Nombre;Tous âges;2025-10-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S42;8;Nombre;Tous âges;2025-10-13
+EMS;COVID-19;Nombre;Effectif;99;2025-S43;67;Nombre;Tous âges;2025-10-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S43;14;Nombre;Tous âges;2025-10-20
+EMS;IRA;Nombre;Effectif;99;2025-S44;76;Nombre;Tous âges;2025-10-27
+EMS;Grippe;Nombre;Effectif;99;2025-S44;3;Nombre;Tous âges;2025-10-27
+EMS;VRS;Nombre;Effectif;99;2025-S44;1;Nombre;Tous âges;2025-10-27
+EMS;Grippe;Nombre;Effectif;99;2025-S45;6;Nombre;Tous âges;2025-11-03
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S45;5;Nombre;Tous âges;2025-11-03
+EMS;IRA;Nombre;Effectif;99;2025-S46;35;Nombre;Tous âges;2025-11-10
+EMS;Grippe;Nombre;Effectif;99;2025-S46;5;Nombre;Tous âges;2025-11-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S46;3;Nombre;Tous âges;2025-11-10
+EMS;IRA;Nombre;Effectif;99;2025-S47;56;Nombre;Tous âges;2025-11-17
+EMS;Grippe;Nombre;Effectif;99;2025-S47;11;Nombre;Tous âges;2025-11-17
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S47;12;Nombre;Tous âges;2025-11-17
+EMS;IRA;Nombre;Effectif;99;2025-S48;109;Nombre;Tous âges;2025-11-24
+EMS;VRS;Nombre;Effectif;99;2025-S48;4;Nombre;Tous âges;2025-11-24
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S48;11;Nombre;Tous âges;2025-11-24
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S48;6;Nombre;Tous âges;2025-11-24
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S48;15;Nombre;Tous âges;2025-11-24
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S50;53;Nombre;Tous âges;2025-12-08
+EMS;VRS;Nombre;Effectif;99;2025-S51;13;Nombre;Tous âges;2025-12-15
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S51;7;Nombre;Tous âges;2025-12-15
+EMS;Grippe;Nombre;Effectif;99;2025-S52;140;Nombre;Tous âges;2025-12-22
+EMS;VRS;Nombre;Effectif;99;2025-S52;6;Nombre;Tous âges;2025-12-22
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S52;19;Nombre;Tous âges;2025-12-22
+EMS;IRA;Nombre;Effectif;99;2026-S01;364;Nombre;Tous âges;2025-12-29
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S01;20;Nombre;Tous âges;2025-12-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S02;43;Nombre;Tous âges;2026-01-05
+EMS;IRA;Nombre;Effectif;99;2026-S03;151;Nombre;Tous âges;2026-01-12
+EMS;COVID-19;Nombre;Effectif;99;2026-S03;10;Nombre;Tous âges;2026-01-12
+EMS;VRS;Nombre;Effectif;99;2026-S03;14;Nombre;Tous âges;2026-01-12
+EMS;COVID-19;Nombre;Effectif;99;2026-S04;5;Nombre;Tous âges;2026-01-19
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S04;5;Nombre;Tous âges;2026-01-19
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S04;17;Nombre;Tous âges;2026-01-19
+EMS;IRA;Nombre;Effectif;99;2026-S05;89;Nombre;Tous âges;2026-01-26
+EMS;VRS;Nombre;Effectif;99;2026-S05;5;Nombre;Tous âges;2026-01-26
+EMS;COVID-19;Nombre;Effectif;99;2026-S06;8;Nombre;Tous âges;2026-02-02
+EMS;VRS;Nombre;Effectif;99;2026-S06;10;Nombre;Tous âges;2026-02-02
+EMS;VRS;Nombre;Effectif;99;2026-S07;8;Nombre;Tous âges;2026-02-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S07;6;Nombre;Tous âges;2026-02-09
+EMS;COVID-19;Nombre;Effectif;99;2026-S08;7;Nombre;Tous âges;2026-02-16
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S08;1;Nombre;Tous âges;2026-02-16
+EMS;Grippe;Nombre;Effectif;99;2026-S09;12;Nombre;Tous âges;2026-02-23
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S09;2;Nombre;Tous âges;2026-02-23
+EMS;IRA;Nombre;Effectif;99;2026-S10;32;Nombre;Tous âges;2026-03-02
+EMS;VRS;Nombre;Effectif;99;2026-S10;7;Nombre;Tous âges;2026-03-02
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S10;3;Nombre;Tous âges;2026-03-02
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S11;2;Nombre;Tous âges;2026-03-09
+EMS;IRA;Nombre;Effectif;99;2026-S12;29;Nombre;Tous âges;2026-03-16
+EMS;IRA;Nombre;Effectif;99;2026-S13;44;Nombre;Tous âges;2026-03-23
+EMS;VRS;Nombre;Effectif;99;2026-S13;4;Nombre;Tous âges;2026-03-23
+EMS;Grippe;Nombre;Effectif;99;2026-S15;4;Nombre;Tous âges;2026-04-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S15;4;Nombre;Tous âges;2026-04-06
+EMS;IRA;Nombre;Effectif;99;2026-S16;31;Nombre;Tous âges;2026-04-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S16;20;Nombre;Tous âges;2026-04-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S16;2;Nombre;Tous âges;2026-04-13
+EMS;Grippe;Nombre;Effectif;99;2026-S18;0;Nombre;Tous âges;2026-04-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S18;4;Nombre;Tous âges;2026-04-27
+EMS;VRS;Nombre;Effectif;99;2026-S19;0;Nombre;Tous âges;2026-05-04
+EMS;COVID-19;Nombre;Effectif;99;2026-S20;0;Nombre;Tous âges;2026-05-11
+EMS;Grippe;Nombre;Effectif;99;2026-S20;0;Nombre;Tous âges;2026-05-11
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S20;1;Nombre;Tous âges;2026-05-11
+EMS;COVID-19;Nombre;Effectif;99;2026-S40;90;Nombre;Tous âges;2026-09-28
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S40;36;Nombre;Tous âges;2026-09-28
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S40;10;Nombre;Tous âges;2026-09-28
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S40;16;Nombre;Tous âges;2026-09-28
+EMS;COVID-19;Nombre;Effectif;99;2026-S41;104;Nombre;Tous âges;2026-10-05
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S41;16;Nombre;Tous âges;2026-10-05
+EMS;IRA;Nombre;Effectif;99;2026-S42;131;Nombre;Tous âges;2026-10-12
+EMS;COVID-19;Nombre;Effectif;99;2026-S42;97;Nombre;Tous âges;2026-10-12
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S42;11;Nombre;Tous âges;2026-10-12
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S43;8;Nombre;Tous âges;2026-10-19
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S43;10;Nombre;Tous âges;2026-10-19
+EMS;VRS;Nombre;Effectif;99;2023-S05;0;Nombre;Tous âges;2023-01-30
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S05;0;Nombre;Tous âges;2023-01-30
+EMS;IRA;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;Grippe;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S06;0;Nombre;Tous âges;2023-02-06
+EMS;IRA;Nombre;Effectif;99;2023-S07;1;Nombre;Tous âges;2023-02-13
+EMS;Grippe;Nombre;Effectif;99;2023-S07;0;Nombre;Tous âges;2023-02-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S07;0;Nombre;Tous âges;2023-02-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S07;0;Nombre;Tous âges;2023-02-13
+EMS;IRA;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;VRS;Nombre;Effectif;99;2023-S08;0;Nombre;Tous âges;2023-02-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S09;0;Nombre;Tous âges;2023-02-27
+EMS;VRS;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S10;0;Nombre;Tous âges;2023-03-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S11;0;Nombre;Tous âges;2023-03-13
+EMS;COVID-19;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;Grippe;Nombre;Effectif;99;2023-S12;0;Nombre;Tous âges;2023-03-20
+EMS;VRS;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S13;0;Nombre;Tous âges;2023-03-27
+EMS;IRA;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;Grippe;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S14;0;Nombre;Tous âges;2023-04-03
+EMS;COVID-19;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;Grippe;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S15;0;Nombre;Tous âges;2023-04-10
+EMS;COVID-19;Nombre;Effectif;99;2023-S16;0;Nombre;Tous âges;2023-04-17
+EMS;VRS;Nombre;Effectif;99;2023-S17;0;Nombre;Tous âges;2023-04-24
+EMS;COVID-19;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S18;0;Nombre;Tous âges;2023-05-01
+EMS;COVID-19;Nombre;Effectif;99;2023-S19;1;Nombre;Tous âges;2023-05-08
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S19;0;Nombre;Tous âges;2023-05-08
+EMS;COVID-19;Nombre;Effectif;99;2023-S20;1;Nombre;Tous âges;2023-05-15
+EMS;Grippe;Nombre;Effectif;99;2023-S20;0;Nombre;Tous âges;2023-05-15
+EMS;VRS;Nombre;Effectif;99;2023-S20;0;Nombre;Tous âges;2023-05-15
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S20;0;Nombre;Tous âges;2023-05-15
+EMS;VRS;Nombre;Effectif;99;2023-S40;0;Nombre;Tous âges;2023-10-02
+EMS;COVID-19;Nombre;Effectif;99;2023-S41;173;Nombre;Tous âges;2023-10-09
+EMS;Grippe;Nombre;Effectif;99;2023-S41;0;Nombre;Tous âges;2023-10-09
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S41;24;Nombre;Tous âges;2023-10-09
+EMS;COVID-19;Nombre;Effectif;99;2023-S42;150;Nombre;Tous âges;2023-10-16
+EMS;VRS;Nombre;Effectif;99;2023-S42;2;Nombre;Tous âges;2023-10-16
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2023-S42;18;Nombre;Tous âges;2023-10-16
+EMS;VRS;Nombre;Effectif;99;2023-S43;0;Nombre;Tous âges;2023-10-23
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S43;6;Nombre;Tous âges;2023-10-23
+EMS;IRA;Nombre;Effectif;99;2023-S44;155;Nombre;Tous âges;2023-10-30
+EMS;Grippe;Nombre;Effectif;99;2023-S44;0;Nombre;Tous âges;2023-10-30
+EMS;VRS;Nombre;Effectif;99;2023-S44;0;Nombre;Tous âges;2023-10-30
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S44;8;Nombre;Tous âges;2023-10-30
+EMS;VRS;Nombre;Effectif;99;2023-S45;0;Nombre;Tous âges;2023-11-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S45;4;Nombre;Tous âges;2023-11-06
+EMS;COVID-19;Nombre;Effectif;99;2023-S46;150;Nombre;Tous âges;2023-11-13
+EMS;Grippe;Nombre;Effectif;99;2023-S47;3;Nombre;Tous âges;2023-11-20
+EMS;VRS;Nombre;Effectif;99;2023-S47;1;Nombre;Tous âges;2023-11-20
+EMS;COVID-19;Nombre;Effectif;99;2023-S48;261;Nombre;Tous âges;2023-11-27
+EMS;IRA;Nombre;Effectif;99;2023-S49;375;Nombre;Tous âges;2023-12-04
+EMS;COVID-19;Nombre;Effectif;99;2023-S49;286;Nombre;Tous âges;2023-12-04
+EMS;Grippe;Nombre;Effectif;99;2023-S49;9;Nombre;Tous âges;2023-12-04
+EMS;VRS;Nombre;Effectif;99;2023-S49;2;Nombre;Tous âges;2023-12-04
+EMS;COVID-19;Nombre;Effectif;99;2023-S50;238;Nombre;Tous âges;2023-12-11
+EMS;Grippe;Nombre;Effectif;99;2023-S50;3;Nombre;Tous âges;2023-12-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2023-S50;11;Nombre;Tous âges;2023-12-11
+EMS;IRA;Nombre;Effectif;99;2023-S51;233;Nombre;Tous âges;2023-12-18
+EMS;VRS;Nombre;Effectif;99;2023-S51;8;Nombre;Tous âges;2023-12-18
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S51;32;Nombre;Tous âges;2023-12-18
+EMS;IRA;Nombre;Effectif;99;2023-S52;196;Nombre;Tous âges;2023-12-25
+EMS;Grippe;Nombre;Effectif;99;2023-S52;16;Nombre;Tous âges;2023-12-25
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2023-S52;18;Nombre;Tous âges;2023-12-25
+EMS;VRS;Nombre;Effectif;99;2024-S01;3;Nombre;Tous âges;2024-01-01
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S01;11;Nombre;Tous âges;2024-01-01
+EMS;Grippe;Nombre;Effectif;99;2024-S02;44;Nombre;Tous âges;2024-01-08
+EMS;IRA;Nombre;Effectif;99;2024-S03;151;Nombre;Tous âges;2024-01-15
+EMS;Grippe;Nombre;Effectif;99;2024-S03;63;Nombre;Tous âges;2024-01-15
+EMS;VRS;Nombre;Effectif;99;2024-S03;3;Nombre;Tous âges;2024-01-15
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S03;7;Nombre;Tous âges;2024-01-15
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S03;28;Nombre;Tous âges;2024-01-15
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S04;20;Nombre;Tous âges;2024-01-22
+EMS;Grippe;Nombre;Effectif;99;2024-S05;75;Nombre;Tous âges;2024-01-29
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S05;9;Nombre;Tous âges;2024-01-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S06;13;Nombre;Tous âges;2024-02-05
+EMS;IRA;Nombre;Effectif;99;2024-S07;74;Nombre;Tous âges;2024-02-12
+EMS;VRS;Nombre;Effectif;99;2024-S07;0;Nombre;Tous âges;2024-02-12
+EMS;IRA;Nombre;Effectif;99;2024-S08;55;Nombre;Tous âges;2024-02-19
+EMS;COVID-19;Nombre;Effectif;99;2024-S08;12;Nombre;Tous âges;2024-02-19
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S08;8;Nombre;Tous âges;2024-02-19
+EMS;Grippe;Nombre;Effectif;99;2024-S09;23;Nombre;Tous âges;2024-02-26
+EMS;VRS;Nombre;Effectif;99;2024-S09;2;Nombre;Tous âges;2024-02-26
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S09;8;Nombre;Tous âges;2024-02-26
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S09;3;Nombre;Tous âges;2024-02-26
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S09;2;Nombre;Tous âges;2024-02-26
+EMS;Grippe;Nombre;Effectif;99;2024-S10;20;Nombre;Tous âges;2024-03-04
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S10;4;Nombre;Tous âges;2024-03-04
+EMS;Grippe;Nombre;Effectif;99;2024-S11;13;Nombre;Tous âges;2024-03-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S11;8;Nombre;Tous âges;2024-03-11
+EMS;IRA;Nombre;Effectif;99;2024-S12;32;Nombre;Tous âges;2024-03-18
+EMS;COVID-19;Nombre;Effectif;99;2024-S12;8;Nombre;Tous âges;2024-03-18
+EMS;VRS;Nombre;Effectif;99;2024-S12;1;Nombre;Tous âges;2024-03-18
+EMS;Grippe;Nombre;Effectif;99;2024-S13;7;Nombre;Tous âges;2024-03-25
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S13;8;Nombre;Tous âges;2024-03-25
+EMS;COVID-19;Nombre;Effectif;99;2024-S14;18;Nombre;Tous âges;2024-04-01
+EMS;Grippe;Nombre;Effectif;99;2024-S14;6;Nombre;Tous âges;2024-04-01
+EMS;VRS;Nombre;Effectif;99;2024-S14;0;Nombre;Tous âges;2024-04-01
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S14;0;Nombre;Tous âges;2024-04-01
+EMS;COVID-19;Nombre;Effectif;99;2024-S15;8;Nombre;Tous âges;2024-04-08
+EMS;Grippe;Nombre;Effectif;99;2024-S15;1;Nombre;Tous âges;2024-04-08
+EMS;Grippe;Nombre;Effectif;99;2024-S17;0;Nombre;Tous âges;2024-04-22
+EMS;IRA;Nombre;Effectif;99;2024-S18;35;Nombre;Tous âges;2024-04-29
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S18;1;Nombre;Tous âges;2024-04-29
+EMS;Grippe;Nombre;Effectif;99;2024-S19;1;Nombre;Tous âges;2024-05-06
+EMS;VRS;Nombre;Effectif;99;2024-S19;0;Nombre;Tous âges;2024-05-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S19;1;Nombre;Tous âges;2024-05-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S19;5;Nombre;Tous âges;2024-05-06
+EMS;COVID-19;Nombre;Effectif;99;2024-S20;27;Nombre;Tous âges;2024-05-13
+EMS;VRS;Nombre;Effectif;99;2024-S20;1;Nombre;Tous âges;2024-05-13
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S20;1;Nombre;Tous âges;2024-05-13
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S20;2;Nombre;Tous âges;2024-05-13
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S40;24;Nombre;Tous âges;2024-09-30
+EMS;IRA;Nombre;Effectif;99;2024-S41;204;Nombre;Tous âges;2024-10-07
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S41;19;Nombre;Tous âges;2024-10-07
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S41;12;Nombre;Tous âges;2024-10-07
+EMS;COVID-19;Nombre;Effectif;99;2024-S42;112;Nombre;Tous âges;2024-10-14
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S42;11;Nombre;Tous âges;2024-10-14
+EMS;IRA;Nombre;Effectif;99;2024-S43;91;Nombre;Tous âges;2024-10-21
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S43;11;Nombre;Tous âges;2024-10-21
+EMS;COVID-19;Nombre;Effectif;99;2024-S44;66;Nombre;Tous âges;2024-10-28
+EMS;VRS;Nombre;Effectif;99;2024-S46;4;Nombre;Tous âges;2024-11-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S46;10;Nombre;Tous âges;2024-11-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S47;9;Nombre;Tous âges;2024-11-18
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S47;11;Nombre;Tous âges;2024-11-18
+EMS;IRA;Nombre;Effectif;99;2024-S48;79;Nombre;Tous âges;2024-11-25
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S49;13;Nombre;Tous âges;2024-12-02
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S49;9;Nombre;Tous âges;2024-12-02
+EMS;IRA;Nombre;Effectif;99;2024-S50;175;Nombre;Tous âges;2024-12-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2024-S50;31;Nombre;Tous âges;2024-12-09
+EMS;Grippe;Nombre;Effectif;99;2024-S51;91;Nombre;Tous âges;2024-12-16
+EMS;VRS;Nombre;Effectif;99;2024-S51;12;Nombre;Tous âges;2024-12-16
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2024-S51;18;Nombre;Tous âges;2024-12-16
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2024-S51;12;Nombre;Tous âges;2024-12-16
+EMS;COVID-19;Nombre;Effectif;99;2024-S52;23;Nombre;Tous âges;2024-12-23
+EMS;Grippe;Nombre;Effectif;99;2024-S52;182;Nombre;Tous âges;2024-12-23
+EMS;VRS;Nombre;Effectif;99;2024-S52;21;Nombre;Tous âges;2024-12-23
+EMS;VRS;Nombre;Effectif;99;2025-S01;19;Nombre;Tous âges;2024-12-30
+EMS;VRS;Nombre;Effectif;99;2025-S02;21;Nombre;Tous âges;2025-01-06
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S02;25;Nombre;Tous âges;2025-01-06
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S02;25;Nombre;Tous âges;2025-01-06
+EMS;VRS;Nombre;Effectif;99;2025-S03;16;Nombre;Tous âges;2025-01-13
+EMS;Grippe;Nombre;Effectif;99;2025-S05;92;Nombre;Tous âges;2025-01-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S05;29;Nombre;Tous âges;2025-01-27
+EMS;COVID-19;Nombre;Effectif;99;2025-S06;11;Nombre;Tous âges;2025-02-03
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S06;13;Nombre;Tous âges;2025-02-03
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S06;26;Nombre;Tous âges;2025-02-03
+EMS;IRA;Nombre;Effectif;99;2025-S07;132;Nombre;Tous âges;2025-02-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S08;9;Nombre;Tous âges;2025-02-17
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S08;6;Nombre;Tous âges;2025-02-17
+EMS;IRA;Nombre;Effectif;99;2025-S09;69;Nombre;Tous âges;2025-02-24
+EMS;IRA;Nombre;Effectif;99;2025-S10;65;Nombre;Tous âges;2025-03-03
+EMS;IRA;Nombre;Effectif;99;2025-S11;43;Nombre;Tous âges;2025-03-10
+EMS;COVID-19;Nombre;Effectif;99;2025-S11;10;Nombre;Tous âges;2025-03-10
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S11;5;Nombre;Tous âges;2025-03-10
+EMS;IRA;Nombre;Effectif;99;2025-S12;52;Nombre;Tous âges;2025-03-17
+EMS;COVID-19;Nombre;Effectif;99;2025-S12;17;Nombre;Tous âges;2025-03-17
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S12;10;Nombre;Tous âges;2025-03-17
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S14;6;Nombre;Tous âges;2025-03-31
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S14;8;Nombre;Tous âges;2025-03-31
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S14;3;Nombre;Tous âges;2025-03-31
+EMS;Grippe;Nombre;Effectif;99;2025-S15;5;Nombre;Tous âges;2025-04-07
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S15;8;Nombre;Tous âges;2025-04-07
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S15;7;Nombre;Tous âges;2025-04-07
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S15;5;Nombre;Tous âges;2025-04-07
+EMS;IRA;Nombre;Effectif;99;2025-S16;43;Nombre;Tous âges;2025-04-14
+EMS;COVID-19;Nombre;Effectif;99;2025-S16;24;Nombre;Tous âges;2025-04-14
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S16;8;Nombre;Tous âges;2025-04-14
+EMS;Grippe;Nombre;Effectif;99;2025-S17;4;Nombre;Tous âges;2025-04-21
+EMS;VRS;Nombre;Effectif;99;2025-S17;1;Nombre;Tous âges;2025-04-21
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S17;5;Nombre;Tous âges;2025-04-21
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S17;1;Nombre;Tous âges;2025-04-21
+EMS;VRS;Nombre;Effectif;99;2025-S18;0;Nombre;Tous âges;2025-04-28
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S18;12;Nombre;Tous âges;2025-04-28
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S18;4;Nombre;Tous âges;2025-04-28
+EMS;VRS;Nombre;Effectif;99;2025-S19;0;Nombre;Tous âges;2025-05-05
+EMS;IRA;Nombre;Effectif;99;2025-S20;34;Nombre;Tous âges;2025-05-12
+EMS;VRS;Nombre;Effectif;99;2025-S20;0;Nombre;Tous âges;2025-05-12
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S20;5;Nombre;Tous âges;2025-05-12
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S20;2;Nombre;Tous âges;2025-05-12
+EMS;IRA;Nombre;Effectif;99;2025-S40;278;Nombre;Tous âges;2025-09-29
+EMS;Grippe;Nombre;Effectif;99;2025-S41;4;Nombre;Tous âges;2025-10-06
+EMS;VRS;Nombre;Effectif;99;2025-S41;2;Nombre;Tous âges;2025-10-06
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S41;20;Nombre;Tous âges;2025-10-06
+EMS;IRA;Nombre;Effectif;99;2025-S42;154;Nombre;Tous âges;2025-10-13
+EMS;VRS;Nombre;Effectif;99;2025-S42;0;Nombre;Tous âges;2025-10-13
+EMS;IRA;Nombre;Effectif;99;2025-S43;102;Nombre;Tous âges;2025-10-20
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S43;3;Nombre;Tous âges;2025-10-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S43;12;Nombre;Tous âges;2025-10-20
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S44;6;Nombre;Tous âges;2025-10-27
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S44;6;Nombre;Tous âges;2025-10-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S44;10;Nombre;Tous âges;2025-10-27
+EMS;IRA;Nombre;Effectif;99;2025-S45;57;Nombre;Tous âges;2025-11-03
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S45;4;Nombre;Tous âges;2025-11-03
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S45;2;Nombre;Tous âges;2025-11-03
+EMS;VRS;Nombre;Effectif;99;2025-S46;2;Nombre;Tous âges;2025-11-10
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S46;8;Nombre;Tous âges;2025-11-10
+EMS;VRS;Nombre;Effectif;99;2025-S47;2;Nombre;Tous âges;2025-11-17
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2025-S47;7;Nombre;Tous âges;2025-11-17
+EMS;COVID-19;Nombre;Effectif;99;2025-S48;42;Nombre;Tous âges;2025-11-24
+EMS;Grippe;Nombre;Effectif;99;2025-S49;64;Nombre;Tous âges;2025-12-01
+EMS;VRS;Nombre;Effectif;99;2025-S49;10;Nombre;Tous âges;2025-12-01
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S49;35;Nombre;Tous âges;2025-12-01
+EMS;VRS;Nombre;Effectif;99;2025-S50;3;Nombre;Tous âges;2025-12-08
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2025-S50;12;Nombre;Tous âges;2025-12-08
+EMS;COVID-19;Nombre;Effectif;99;2025-S51;26;Nombre;Tous âges;2025-12-15
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2025-S51;38;Nombre;Tous âges;2025-12-15
+EMS;COVID-19;Nombre;Effectif;99;2025-S52;15;Nombre;Tous âges;2025-12-22
+EMS;Grippe;Nombre;Effectif;99;2026-S01;200;Nombre;Tous âges;2025-12-29
+EMS;VRS;Nombre;Effectif;99;2026-S01;20;Nombre;Tous âges;2025-12-29
+EMS;IRA;Nombre;Effectif;99;2026-S02;291;Nombre;Tous âges;2026-01-05
+EMS;COVID-19;Nombre;Effectif;99;2026-S02;18;Nombre;Tous âges;2026-01-05
+EMS;Grippe;Nombre;Effectif;99;2026-S02;169;Nombre;Tous âges;2026-01-05
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S03;13;Nombre;Tous âges;2026-01-12
+EMS;Grippe;Nombre;Effectif;99;2026-S04;57;Nombre;Tous âges;2026-01-19
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S04;6;Nombre;Tous âges;2026-01-19
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S05;12;Nombre;Tous âges;2026-01-26
+EMS;IRA;Nombre;Effectif;99;2026-S06;83;Nombre;Tous âges;2026-02-02
+EMS;Grippe;Nombre;Effectif;99;2026-S06;37;Nombre;Tous âges;2026-02-02
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S06;8;Nombre;Tous âges;2026-02-02
+EMS;Grippe;Nombre;Effectif;99;2026-S07;26;Nombre;Tous âges;2026-02-09
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S07;3;Nombre;Tous âges;2026-02-09
+EMS;IRA;Nombre;Effectif;99;2026-S08;46;Nombre;Tous âges;2026-02-16
+EMS;VRS;Nombre;Effectif;99;2026-S08;3;Nombre;Tous âges;2026-02-16
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S08;7;Nombre;Tous âges;2026-02-16
+EMS;IRA;Nombre;Effectif;99;2026-S09;36;Nombre;Tous âges;2026-02-23
+EMS;COVID-19;Nombre;Effectif;99;2026-S09;5;Nombre;Tous âges;2026-02-23
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S09;6;Nombre;Tous âges;2026-02-23
+EMS;COVID-19;Nombre;Effectif;99;2026-S10;4;Nombre;Tous âges;2026-03-02
+EMS;Grippe;Nombre;Effectif;99;2026-S10;6;Nombre;Tous âges;2026-03-02
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S10;10;Nombre;Tous âges;2026-03-02
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S10;2;Nombre;Tous âges;2026-03-02
+EMS;COVID-19;Nombre;Effectif;99;2026-S11;5;Nombre;Tous âges;2026-03-09
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S11;2;Nombre;Tous âges;2026-03-09
+EMS;Grippe;Nombre;Effectif;99;2026-S12;5;Nombre;Tous âges;2026-03-16
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S12;1;Nombre;Tous âges;2026-03-16
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S12;3;Nombre;Tous âges;2026-03-16
+EMS;COVID-19;Nombre;Effectif;99;2026-S14;9;Nombre;Tous âges;2026-03-30
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S14;21;Nombre;Tous âges;2026-03-30
+EMS;IRA;Nombre;Effectif;99;2026-S15;38;Nombre;Tous âges;2026-04-06
+EMS;VRS;Nombre;Effectif;99;2026-S16;1;Nombre;Tous âges;2026-04-13
+EMS;COVID-19;Nombre;Effectif;99;2026-S17;4;Nombre;Tous âges;2026-04-20
+EMS;Grippe;Nombre;Effectif;99;2026-S17;1;Nombre;Tous âges;2026-04-20
+EMS;VRS;Nombre;Effectif;99;2026-S17;2;Nombre;Tous âges;2026-04-20
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S17;0;Nombre;Tous âges;2026-04-20
+EMS;COVID-19;Nombre;Effectif;99;2026-S18;3;Nombre;Tous âges;2026-04-27
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S18;2;Nombre;Tous âges;2026-04-27
+EMS;IRA;Nombre;Effectif;99;2026-S19;20;Nombre;Tous âges;2026-05-04
+EMS;COVID-19;Nombre;Effectif;99;2026-S19;3;Nombre;Tous âges;2026-05-04
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S19;2;Nombre;Tous âges;2026-05-04
+EMS;Plusieurs étiologies;Nombre;Effectif;99;2026-S19;0;Nombre;Tous âges;2026-05-04
+EMS;IRA;Nombre;Effectif;99;2026-S20;13;Nombre;Tous âges;2026-05-11
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S20;9;Nombre;Tous âges;2026-05-11
+EMS;Non recherchée ou en cours;Nombre;Effectif;99;2026-S20;2;Nombre;Tous âges;2026-05-11
+EMS;Grippe;Nombre;Effectif;99;2026-S40;3;Nombre;Tous âges;2026-09-28
+EMS;Grippe;Nombre;Effectif;99;2026-S41;4;Nombre;Tous âges;2026-10-05
+EMS;VRS;Nombre;Effectif;99;2026-S41;0;Nombre;Tous âges;2026-10-05
+EMS;VRS;Nombre;Effectif;99;2026-S42;1;Nombre;Tous âges;2026-10-12
+EMS;Autre virus respiratoire/infection bactérienne;Nombre;Effectif;99;2026-S42;11;Nombre;Tous âges;2026-10-12
+EMS;IRA;Nombre;Effectif;99;2026-S43;69;Nombre;Tous âges;2026-10-19
+EMS;COVID-19;Nombre;Effectif;99;2026-S43;43;Nombre;Tous âges;2026-10-19
+EMS;Grippe;Nombre;Effectif;99;2026-S43;4;Nombre;Tous âges;2026-10-19

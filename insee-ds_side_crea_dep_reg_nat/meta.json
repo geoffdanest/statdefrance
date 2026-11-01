@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SIDE_CREA_DEP_REG_NAT",
+  "title": "Créations d'entreprises et d'établissements au niveau départemental, régional et national par secteur d'activité (A21) et forme légale",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SIDE_CREA_DEP_REG_NAT",
+  "organization": "Insee",
+  "description": "Les données sont détaillées selon le secteur d’activité (A21 hors agriculture) et la forme légale (Entreprise individuelle, SAS, SARL et autres).",
+  "resource_title": "DS_SIDE_CREA_DEP_REG_NAT",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SIDE_CREA_DEP_REG_NAT/DS_SIDE_CREA_DEP_REG_NAT_2025_CSV_FR",
+  "last_modified": "2026-08-05T13:46:31.889351547",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 302400,
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "Agriculture",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

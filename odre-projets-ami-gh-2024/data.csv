@@ -1,0 +1,25 @@
+﻿region;nom_du_departement;code_postal_commune;nom_de_la_commune;nom_du_projet;energie;typologie_de_projet;secteur_d_activite;code_region;id;coordonnees_du_projet;code_commune_insee;centroid_commune;centroid_reg
+Ile-de-France;Seine-et-Marne;77171;SOURDUN;Létang Biogaz;Biométhane;Projet industriel;Agriculteur;11;1.0;48.536421311, 3.363622323;77459;48.536421311, 3.363622323;48.709315386, 2.503402421
+Grand Est;Moselle;57500;ST AVOLD;ACRYLIGH;Gaz de récupération;Projet industriel;Industriel;44;8.0;49.128275201, 6.712179411;57606;49.128275201, 6.712179411;48.688975753, 5.613112442
+Bretagne;;;;Confidentiel;Confidentiel;Projet industriel;Confidentiel;53;19.0;48.177548361, -2.841502739;;;48.177548361, -2.841502739
+Nouvelle-Aquitaine;;;;Confidentiel;Non applicable;Démonstrateur;Confidentiel;75;20.0;45.206040691, 0.212717964;;;45.206040691, 0.212717964
+Provence-Alpes-Côte d'Azur;Alpes-Maritimes;06130;GRASSE;La décarbonation de l'industrie grassoise;Biométhane;Projet industriel;Industriel;93;24.0;43.655948259, 6.931948362;06069;43.655948259, 6.931948362;43.958800797, 6.061076362
+Hauts-de-France;;;;Confidentiel;Confidentiel;Confidentiel;Confidentiel;32;5.0;49.969594866, 2.771296616;;;49.969594866, 2.771296616
+Ile-de-France;;;;Confidentiel;Confidentiel;Projet industriel;Confidentiel;11;2.0;48.709315386, 2.503402421;;;48.709315386, 2.503402421
+Grand Est;;;;Confidentiel;Confidentiel;Projet industriel;Confidentiel;44;14.0;48.688975753, 5.613112442;;;48.688975753, 5.613112442
+Bretagne;Côtes-d'Armor;22600;LOUDEAC;GH - STEP de CALOUËT;Biométhane;Projet industriel;Urbain;53;18.0;48.17440042, -2.750533945;22136;48.17440042, -2.750533945;48.177548361, -2.841502739
+Grand Est;Marne;51110;BAZANCOURT;Gazhyvinas;Biométhane;Projet industriel;Industriel;44;10.0;49.370411523, 4.174387365;51043;49.370411523, 4.174387365;48.688975753, 5.613112442
+Auvergne-Rhône-Alpes;;;;Confidentiel;Confidentiel;Confidentiel;Confidentiel;84;21.0;45.51464199, 4.536119688;;;45.51464199, 4.536119688
+Pays de la Loire;Sarthe;72300;SABLE SUR SARTHE;Revamping STEP Sablé / STEP LDC Sablé;Biométhane;Projet industriel;Industriel;52;16.0;47.837811008, -0.355051255;72264;47.837811008, -0.355051255;47.478101941, -0.816798333
+Grand Est;Moselle;57500;ST AVOLD;ReSolute;Biométhane;Projet industriel;Industriel;44;9.0;49.128275201, 6.712179411;57606;49.128275201, 6.712179411;48.688975753, 5.613112442
+Grand Est;Haut-Rhin;68490;CHALAMPE;Confidentiel;Gaz de récupération;Projet industriel;Industriel;44;7.0;47.83242692, 7.548737732;68064;47.83242692, 7.548737732;48.688975753, 5.613112442
+Grand Est;Aube;10410;THENNELIERES;VALODIGH;Biométhane;Projet industriel;Agriculteur;44;11.0;48.289497155, 4.184784319;10375;48.289497155, 4.184784319;48.688975753, 5.613112442
+Bourgogne-Franche-Comté;Yonne;89000;AUXERRE;Prométhée I;Gaz bas-carbone;Projet industriel;Urbain;27;3.0;47.793807699, 3.581678197;89024;47.793807699, 3.581678197;47.23428117, 4.806857184
+Provence-Alpes-Côte d'Azur;Alpes-Maritimes;06000;NICE;Haliotis 2;Biométhane;Projet industriel;Urbain;93;23.0;43.712365361, 7.237936212;06088;43.712365361, 7.237936212;43.958800797, 6.061076362
+Hauts-de-France;;;;Confidentiel;Confidentiel;Confidentiel;Confidentiel;32;6.0;49.969594866, 2.771296616;;;49.969594866, 2.771296616
+Normandie;Manche;50400;GRANVILLE;PROJET LAVOISIER;Biométhane;Projet industriel;Urbain;28;4.0;48.836151043, -1.585478425;50218;48.836151043, -1.585478425;49.120034411, 0.110933495
+Provence-Alpes-Côte d'Azur;Alpes-Maritimes;06150;CANNES;Unité GHT Cannes Lérins;Biométhane;Projet industriel;Urbain;93;22.0;43.552044838, 7.004777803;06029;43.552044838, 7.004777803;43.958800797, 6.061076362
+Pays de la Loire;Loire-Atlantique;44550;MONTOIR DE BRETAGNE;GHAMa;Non applicable;Démonstrateur;Industriel;52;17.0;47.318995052, -2.145674114;44103;47.318995052, -2.145674114;47.478101941, -0.816798333
+Grand Est;Marne;51230;OGNES;GHmétha / GH DIG;Biométhane;Projet industriel;Agriculteur;44;12.0;48.695329346, 3.907852523;51412;48.695329346, 3.907852523;48.688975753, 5.613112442
+Grand Est;Ardennes;08360;HERPY L ARLESIENNE;Sud Ardennes GH;Biométhane;Projet industriel;Agriculteur;44;13.0;49.526423473, 4.188327343;08225;49.526423473, 4.188327343;48.688975753, 5.613112442
+Grand Est;;;;Confidentiel;Confidentiel;Confidentiel;Confidentiel;44;15.0;48.688975753, 5.613112442;;;48.688975753, 5.613112442

@@ -1,0 +1,33 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:assistance-psh-pmr",
+  "title": "Données du service d’Assistance Voyageur Handicapé en gare",
+  "page": "https://ressources.data.sncf.com/explore/dataset/assistance-psh-pmr/",
+  "organization": "SNCF",
+  "description": "Liste des informations de l’assistance aux personnes en situation de handicap et aux personnes à mobilité réduite dans les gares SNCF (horaires, lieu de rendez vous, ...) Les données affichées sont les suivantes : Id_Gare : Identifiant de la gare (jointure possible avec le référentiel des gares) Nom_Gare : Nom de la Gare typePriseEnCharge : Type de prise en charge, ex : « Réservé et Spontané », « Réservé », « Spontané » Date de création du service : Date de création du service d'assistance dans cette gare typeTarification : Type de tarification lieuRendezVousGare : Lieu du rendez-vous dans la gare lieuRendezVousTaxi : Lieu du rendez-vous pour le taxi premierAuDernierTrain : Service disponible du premier au dernier train (1 = OUI) Code_UIC : code segment UIC HORAIRES JOUR NOMINAL LUNDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL MARDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL MERCREDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL JEUDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL VENDREDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL SAMEDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL DIMANCHE : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22",
+  "resource_title": "Données du service d’Assistance Voyageur Handicapé en gare",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/assistance-psh-pmr/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-01T07:30:15+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Deux hommes mis en examen et écroués après l'incendie d'un immeuble à Clermont-Ferrand ayant tué quatre personnes",
+      "link": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il y avait de l'eau absolument partout\" : à Honfleur, des immeubles menacés d'effondrement et 41 personnes évacuées après l'explosion d'une canalisation",
+      "link": "https://www.franceinfo.fr/france/normandie/calvados/il-y-avait-de-l-eau-absolument-partout-a-honfleur-des-immeubles-menaces-d-effondrement-et-41-personnes-evacuees-apres-l-explosion-d-une-canalisation_8262800.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

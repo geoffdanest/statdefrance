@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:mpox-incidence-selon-l-age-region",
+  "title": "Mpox : Incidence selon l'âge (Région)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/mpox-incidence-selon-l-age-region/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la surveillance de la \"variole du singe\" (infection à virus Monkeypox) sont construits à partir des informations des déclarations obligatoires (DO) des « Orthopoxviroses dont la variole », transmises aux Agences régionales de santé (ARS), puis centralisées par Santé publique France. Ces déclarations obligatoires sont remplies par les cliniciens et/ou biologistes à partir d’un formulaire dédié. Les informations concernant certains cas déclarés, notamment au début de l’épidémie, peuvent être partielles car directement transmises par les laboratoires aux ARS. Les cas sont présentés par semaine de signalement. Les indicateurs sont mis à jour chaque semaine, et disponibles à partir du 16 mai 2022. Précisions : Un cas confirmé de variole du singe est une personne avec un résultat positif de qPCR ou RT-PCR spécifique du virus Monkeypox, ou un résultat positif en qPCR générique du genre Orthopoxvirus, associé ou non à un résultat de séquençage partiel spécifique du virus Monkeypox. Seuls les cas confirmés pour lesquels la région de résidence du patient (ou à défaut la région de signalement) sont répertoriés par région. Les personnes domiciliées à l’étranger ne sont pas comptabilisées dans les indicateurs déclinés au niveau régional. De ce fait la somme des cas comptabilisés au niveau régional peut être inférieure au nombre total de cas recensés en France. Le délai de déclaration des cas peut dépasser 15 jours dans certaines situations. Pour aller plus loin : Consul",
+  "resource_title": "Mpox : Incidence selon l'âge (Région)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/mpox-incidence-selon-l-age-region/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-28T11:11:50+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "résidence",
+  "query": "résidence",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des avocats dénoncent l'utilisation d'assignations à résidence pour empêcher certains militants de manifester le 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-avocats-denoncent-l-utilisation-d-assignations-a-residence-pour-empecher-certains-militants-de-manifester-le-24-octobre_8262932.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Colère sociale : Des avocats dénoncent des assignations à résidence pour empêcher de manifester",
+      "link": "https://www.20minutes.fr/societe/4259349-20261101-colere-sociale-avocats-denoncent-assignations-residence-empecher-manifester?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

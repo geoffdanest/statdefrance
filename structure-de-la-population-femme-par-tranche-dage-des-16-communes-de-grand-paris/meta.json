@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "64d23f4451ddaa601d152fca",
+  "title": "  Structure de la population femme par tranche d'âge des 16 communes de Grand Paris Sud Est Avenir : chiffres 2020",
+  "page": "https://www.data.gouv.fr/datasets/structure-de-la-population-femme-par-tranche-dage-des-16-communes-de-grand-paris-sud-est-avenir-chiffres-2020",
+  "organization": "Grand Paris Sud Est Avenir",
+  "description": "Ce jeu de données détaille la structure de la population femme par tranche d'âge, pour l'année 2020, dans chaque commune de GPSEA (Alfortville, Boissy-Saint-Léger, Bonneuil-sur-Marne, Chennevières-sur-Marne, Créteil, La Queue-en-Brie, Le Plessis-Trévise, Limeil-Brévannes, Mandres-les-Roses, Marolles-en-Brie, Noiseau, Ormesson-sur-Marne, Périgny-sur-Yerres, Santeny, Sucy-en-Brie et Villecresnes). Ces chiffres sont issus des données du recensement de la population locale de l'INSEE.\n\nSource : Évolution et structure de la population en 2020\nINSEE paru le : 27/06/2023",
+  "resource_title": "population-femme-annee-2020-struct-age-16-communes-gpsea-ed-insee-27-06-2023.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/structure-de-la-population-femme-par-tranche-dage-des-16-communes-de-grand-paris-sud-est-avenir-chiffres-2020/20230808-131304/population-femme-annee-2020-struct-age-16-communes-gpsea-ed-insee-27-06-2023.csv",
+  "last_modified": "2023-08-08T13:14:36.301000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

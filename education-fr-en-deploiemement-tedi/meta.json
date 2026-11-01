@@ -1,0 +1,33 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-deploiemement_tedi",
+  "title": "TED-i : déploiement des robots de télé-présence destinés aux élèves hospitalisés",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-deploiemement_tedi/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Cet actif a été lié à l'actif suivant : TED-i : déploiement des robots de télé-présence destinés aux élèves hospitalisés - Visualization Dans le cadre du programme Ted-i, le ministère de l’Éducation nationale permet à chaque enfant hospitalisé ou maintenu durablement à domicile du fait d’une maladie grave de disposer gratuitement d’un système de téléprésence piloté à distance depuis le lieu de soin ou de convalescence afin de lui permettre d’interagir avec sa classe. Ce jeu de données donne accès aux déploiements des robots de téléprésence dans les établissements scolaires. Plus d'informations sur education.gouv.fr",
+  "resource_title": "TED-i : déploiement des robots de télé-présence destinés aux élèves hospitalisés",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-deploiemement_tedi/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-01T07:00:11.540000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "classe",
+  "query": "classe",
+  "news": [
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Avec huit bateaux au départ de la Route du Rhum, la classe reine des Ultim fait le pari de l'ouverture",
+      "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/avec-huit-bateaux-au-depart-de-la-route-du-rhum-la-classe-reine-des-ultim-fait-le-pari-de-l-ouverture_8221357.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN DIRECT Colère sociale : Emmanuel Macron espère un « retour en classe », de nouvelles mobilisations citoyennes attendues dès lundi...",
+      "link": "https://www.20minutes.fr/societe/4259308-20261101-mobilisation-sociale-appel-blocage-lycees-lundi?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,33 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:projets-ami-gh-2024",
+  "title": "Projets de production de biométhane, gaz bas-carbone et gaz de récupération par Gazéification Hydrothermale en France",
+  "page": "https://odre.opendatasoft.com/explore/dataset/projets-ami-gh-2024/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données recense les premiers projets industriels et démonstrateurs potentiels de Gazéification Hydrothermale (GH) en France. Il a été constitué dans le cadre de l’Appel à Manifestation d’Intérêt GH (AMI GH) réalisé en 2024 par NaTran auprès de différents porteurs de projets. Cette liste sera mise à jour au fil du temps avec de nouveaux projets GH. Veuillez consulter la page de l’AMI GH sur le site web de NaTran, pour avoir plus d’information : lien",
+  "resource_title": "Projets de production de biométhane, gaz bas-carbone et gaz de récupération par Gazéification Hydrothermale en France",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/projets-ami-gh-2024/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-03-13T16:44:17+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "manifestation",
+  "query": "manifestation",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

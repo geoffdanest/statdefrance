@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:perinatalite-post-partum-departement",
+  "title": "Périnatalité : Post-partum (Département)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/perinatalite-post-partum-departement/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs relatifs au post-partum (jusqu'à 2 mois après l'accouchement), tels que la réalisation de l'entretien postnatal précoce (EPNP), constituent ce jeu de données. Les indicateurs issus du SNDS sont présentés selon le lieu de domicile des femmes. Les taux sont bruts. Les indicateurs sont mis à jour annuellement. Précisions : * Durée moyenne de séjour en suite de couche et selon le mode d'accouchement (césarienne ou voie basse) : issu du SNDS. Comprend le nombre de nuitées entre la date de l'acte d'accouchement et la date de sortie. * Recours à l'EPNP : issu du SNDS. Non calculé pour Mayotte. Parmi les femmes qui ont accouché dans une maternité et qui ont un numéro NIR_ANO_17 valide (codes retours = 0), avoir eu au moins une consultation d'EPNP entre la date d'accouchement et jusqu'à 8 mois après l'accouchement dans la table des prestations (ER_PRS_F -&gt; variable BSE_PRS_NAT = 1923 et variable PRS_ACT_CFT = 12 ou 14) ou dans les tables des actes et consultations externes (T_MCOaaFCSTC, T_MCOaaCSTC, T_MCOaaVALOACE -&gt; variable ACT_COD = 12 ou 14 et ACT_COD incluant le texte \"SP\"). Pour aller plus loin : Consulter le bulletin national et les bulletins régionaux de surveillance de la santé périnatale, période 2012-2024 : https://www.santepubliquefrance.fr/anomalies-congenitales/bulletin-national/sante-perinatale-et-petite-enfance-en-france-entre-2012-2024 Pour aller plus loin : Consulter le bulletin national et les bulletins régionaux de surveillance de la santé pé",
+  "resource_title": "Périnatalité : Post-partum (Département)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/perinatalite-post-partum-departement/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-20T18:32:20+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Marathon de New York : Sheila Chepkirui s'impose chez les femmes, Andreas Almgren vainqueur chez les hommes pour ses débuts sur cette distance",
+      "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-sheila-chepkirui-s-impose-chez-les-femmes-andreas-almgren-vainqueur-chez-les-hommes-pour-ses-debuts-sur-cette-distance_8263004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Une femme d’une force rare »… Nonna Silvi, influenceuse culinaire italienne, est morte à 85 ans",
+      "link": "https://www.20minutes.fr/arts-stars/people/4259340-20261101-femme-force-rare-nonna-silvi-influenceuse-culinaire-italienne-morte-85-ans?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

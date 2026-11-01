@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "60e479bb496aed4df9401685",
+  "title": "Appel à manifestation d'intérêt Avenir montagnes mobilités",
+  "page": "https://www.data.gouv.fr/datasets/appel-a-manifestation-dinteret-avenir-montagnes-mobilites",
+  "organization": "Agence nationale de la cohésion des territoires",
+  "description": "#### Présentation\nLe premier ministre a présenté le 27 mai 2021 le Plan avenir montagnes visant à soutenir et développer le tourisme durable en montagne. L’État accompagnera en ingénierie l'expérimentation et l'évaluation de solutions et de services de mobilités durables, innovants et de proximité en montagne par le lancement d'un appel à manifestation d'intérêt (AMI) porté par l'ANCT.\n\n#### Données\n- Liste des communes éligibles à l'AMI.\n- Liste des epci à fiscalité propre éligibles à l'AMI\n- Liste des lauréats 1ère et 2ème vague\n\nPour la description des champs, se référer au fichier de métadonnées présent en documentation ci-dessous.\n\n#### Lien externe\n- [Croisement avec d'autres dispositifs de l'ANCT (data.gouv)](https://www.data.gouv.fr/fr/datasets/croisement-des-dispositifs-de-politique-publique-de-lanct/)\n- [Présentation de l'AMI Avenir montagnes mobilités (ANCT)](https://agence-cohesion-territoires.gouv.fr/avenir-montagnes-mobilites-629)\n\n---\n**_Ouverture du fichier de données_**\n_Si vous utilisez le tableur Microsoft Excel, une opération particulière est nécessaire pour ouvrir le fichier de données :_\n_1. Créez un nouveau classeur Excel_\n_2. Cliquez sur l'onglet **Données** situé dans le ruban puis sur **A partir du texte**_\n_3. Choisissez l'emplacement du fichier csv et cliquez sur **Importer**_\n_4. Dans la fenêtre qui s'ouvre, choisissez l'option **Délimité** et dans Origine du fichier, choisissez **65001 : Unicode UTF8**. Cliquez sur **Suivant**_\n_5. Sélectionnez u",
+  "resource_title": "Suivi du périmètre (COG 2025)",
+  "resource_url": "https://static.data.gouv.fr/resources/appel-a-manifestation-dinteret-avenir-montagnes-mobilites/20250924-162024/liste-amm-grpt2025-20250924.csv",
+  "last_modified": "2025-09-24T16:20:24.653000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "manifestation",
+  "query": "manifestation",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:t2cfffdudd3m94nsj8tnn93e",
+  "title": "Barometre - Les élus et le changement climatique",
+  "page": "https://data.ademe.fr/datasets/t2cfffdudd3m94nsj8tnn93e",
+  "organization": "ADEME",
+  "description": "Depuis 2000, l’ADEME a initié un baromètre sur les **représentations sociales du changement climatique**. Cette enquête permet de dresser un tableau et de mesurer les évolutions de la place de l’environnement dans les préoccupations des Français, les représentations des causes et conséquences du changement climatique, l’opinion sur les solutions et mesures de politiques publiques ainsi que l’engagement individuel. L’enquête est administrée par sondage chaque année auprès d'un échantillon représentatif de la population française âgé de 15 ans et plus selon la méthode des quotas (sexe, âge, catégorie socioprofessionnelle, catégorie d’agglomération et de région de résidence). Depuis 2014, des sur-échantillons ou échantillons spécifiques sont interrogés en plus du grand public. La plupart des questions posées à l’échantillon représentatif de Français sont reprises pour permettre des comparaisons et des questions spécifiques à l’échantillon spécifique sont posées en complément. Les questionnaires de ces enquêtes sont conçus par l'ADEME avec l'aide d'un prestataire de service (RCB conseil, Daniel Boy). Les enquêtes sont ensuite techniquement mises en œuvre sur le terrain par un institut de sondage (Opinion Way). L'enquête annuelle se déroule en règle générale fin juin et début juillet. En 2024, le focus a été fait sur les élus locaux. Un échantillon de 500 élus, dont 423 maires ou adjoints au maire, 38 membres d’exécutifs intercommunaux et 39 membres d’exécutifs régionaux ou départ",
+  "resource_title": "Barometre - Les élus et le changement climatique",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/t2cfffdudd3m94nsj8tnn93e/lines?format=csv&size=10000",
+  "last_modified": "2026-10-08T12:41:01.453Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "résidence",
+  "query": "résidence",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des avocats dénoncent l'utilisation d'assignations à résidence pour empêcher certains militants de manifester le 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-avocats-denoncent-l-utilisation-d-assignations-a-residence-pour-empecher-certains-militants-de-manifester-le-24-octobre_8262932.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Colère sociale : Des avocats dénoncent des assignations à résidence pour empêcher de manifester",
+      "link": "https://www.20minutes.fr/societe/4259349-20261101-colere-sociale-avocats-denoncent-assignations-residence-empecher-manifester?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

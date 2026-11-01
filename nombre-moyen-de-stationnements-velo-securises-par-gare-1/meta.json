@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6acf81cf17a2cababf4d9a05",
+  "title": "Nombre moyen de stationnements vélo sécurisés par gare",
+  "page": "https://www.data.gouv.fr/datasets/nombre-moyen-de-stationnements-velo-securises-par-gare-1",
+  "organization": "Tableau de bord des mobilités durables",
+  "description": "#### Définition\r\n\r\nL’indicateur représente le nombre moyen de places de stationnement sécurisé pour vélo dans les gares d’un territoire.\r\n\r\nUnité : places sécurisées/gare (ou nombre de places sécurisées)\r\n\r\n#### Lecture\r\n\r\nEn 2025, les gares de France métropolitaine étaient équipées en moyenne de 18 places de stationnement sécurisé pour vélo.\r\n\r\n#### Métadonnées\r\n\r\n-   Fréquence de mise à jour : annuelle\r\n-   Année(s) disponible(s) : 2025\r\n-   Couverture géographique : France métropolitaine\r\n-   Maille minimale disponible : communale\r\n\r\n#### Attributs géographiques (disponibles sur la carte)\r\n\r\n-   Nom de la gare.\r\n-   Classification de la gare : gare d’intérêt national, gare d’intérêt régional, gare d’intérêt local.\r\n-   Places sécurisées.\r\n-   Gare selon l’objectif réglementaire : oui ou non.\r\n-   Places selon l’objectif réglementaire.\r\n-   Taux de réalisation de l’objectif réglementaire.\r\n\r\n#### Source(s) de données\r\n\r\n[SNCF Gares & Connexions - Stationnement vélo sécurisé en gare (12/2024)](https://data.sncf.com/explore/dataset/stationnement-securise-velo-en-gare-au-30-06-24/)\r\n\r\n[IDFM - Parking Vélos Île-de-France Mobilités (2025)](https://prim.iledefrance-mobilites.fr/fr/jeux-de-donnees/parking-velos-ile-de-france-mobilites)\r\n\r\n#### Méthodologie de construction\r\n\r\nLes places de stationnement sécurisé de la SNCF (`nombre_places_au_12_24`) et de IDFM (`num_docks_available`) sont concaténées.\r\n\r\nOn rapporte le nombre total de places sécurisées au nombre total de gares d’un",
+  "resource_title": "Description des champs - fichier géographique",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-moyen-de-stationnements-velo-securises-par-gare-1/20261014-160658/nb-places-velo-gares-description-champs-fichier-geo.csv",
+  "last_modified": "2026-10-14T16:06:58.873000+00:00",
+  "license": "odc-odbl",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "vélo",
+  "news": []
+}

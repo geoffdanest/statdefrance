@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6adffb69047a1040af6990ee",
+  "title": "Nombre de communes par potentiel d'émission de radon",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-communes-par-potentiel-demission-de-radon",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nLe potentiel d’émanation de radon par commune est un indicateur qui évalue la capacité des sols d’un territoire à émettre du radon, un gaz radioactif naturel inodore, incolore et inerte. Ce potentiel est déterminé en fonction de plusieurs facteurs :\n* La teneur en uranium et radium des roches du sous-sol, variable selon la nature géologique (ex. : granites, formations volcaniques).\n* Les caractéristiques du sol : porosité, présence de failles, cavités souterraines ou anciennes exploitations minières, qui peuvent faciliter la remontée du radon vers la surface.\n* Les conditions géologiques locales, comme la perméabilité des formations rocheuses, influençant la diffusion du gaz vers les bâtiments.\n  \nEn France, cet indicateur est classé en trois catégories (1, 2 ou 3) pour chaque commune, selon le niveau de risque estimé :\n* Catégorie 1 : Potentiel faible (formations géologiques pauvres en uranium).\n* Catégorie 2 : Potentiel moyen (formations à faible teneur en uranium, mais avec des facteurs géologiques favorisant le transfert du radon, comme des failles).\n* Catégorie 3 : Potentiel fort (formations riches en uranium, souvent associées à des massifs granitiques ou volcaniques).\n\nNous mesurons le nombre de communes d'un territoire donné par catégorie de potentiel d'émanation de radon.",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-communes-par-potentiel-demission-de-radon/20261027-105901/description-des-champs.csv",
+  "last_modified": "2026-10-27T10:59:02.021000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

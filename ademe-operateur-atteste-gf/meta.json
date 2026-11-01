@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:operateur-atteste-gf",
+  "title": "REP-GF - Liste des opérateurs attestés",
+  "page": "https://data.ademe.fr/datasets/operateur-atteste-gf",
+  "organization": "ADEME",
+  "description": "**La déclaration auprès de l'ADEME** L’arrêté du 20 décembre 2007 relatif à la déclaration annuelle des organismes agréés, des distributeurs de fluides frigorigènes et des producteurs de fluides frigorigènes et d'équipements contenant des fluides frigorigènes définit, pour chaque acteur (distributeurs, producteurs et organismes agréés), la nature et les modalités des déclarations à effectuer auprès de l’Agence De l’Environnement et de la Maîtrise de l’Énergie (ADEME). Des évolutions ont été apportées aux articles 543-75 à R. 543-123 du Code de l’environnement via le décret n°2011-396 du 13 avril 2011 relatif à des substances appauvrissant la couche d'ozone et à certains gaz à effet de serre fluorés, aux biocides et au contrôle des produits chimiques. Ce décret modifie le périmètre de la filière gaz fluorés suivie par l’ADEME : outre les fluides frigorigènes, les gaz fluorés utilisés dans les secteurs Protection incendie, Haute-tension et Solvants seront désormais analysés. L'Observatoire des gaz fluorés est géré dans la base SYDEREP, permettant aux professionnels la saisie directe de leurs données. Le but étant de contrôler les quantités de mise sur le marché, d'utilisation, de récupération et de destruction des différents types de gaz. À partir de l’analyse de ces données, l’ADEME publie un rapport annuel permettant le suivi de la filière des gaz fluorés en France. **Le jeu de données présenté** Le jeu de données présenté permet de vérifier la validité : d'un opérateur attes",
+  "resource_title": "REP-GF - Liste des opérateurs attestés",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/operateur-atteste-gf/lines?format=csv&size=10000",
+  "last_modified": "2026-11-01T04:00:13.380Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "incendie",
+  "query": "incendie",
+  "news": [
+    {
+      "title": "Deux hommes mis en examen et écroués après l'incendie d'un immeuble à Clermont-Ferrand ayant tué quatre personnes",
+      "link": "https://www.franceinfo.fr/faits-divers/deux-hommes-mis-en-examen-et-ecroues-apres-l-incendie-d-un-immeuble-a-clermont-ferrand-ayant-tue-quatre-personne_8263049.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Nous ne nous laisserons pas intimider\" : en Suisse, l'usine où sont fabriqués les LBD 40 détruite par un incendie vraisemblablement criminel",
+      "link": "https://www.franceinfo.fr/faits-divers/nous-ne-nous-laisserons-pas-intimider-en-suisse-un-batiment-du-fabricant-des-lbd-40-endommage-par-un-incendie-vraisemblablement-criminel_8262806.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Incendie de Crans-Montana : Un avocat des victimes demande une enquête sur les finances de la ville",
+      "link": "https://www.20minutes.fr/societe/4259339-20261101-incendie-crans-montana-avocat-victimes-demande-enquete-finances-ville?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

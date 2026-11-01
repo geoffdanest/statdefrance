@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:eco2mix-national-tr",
+  "title": "Données éCO2mix nationales temps réel",
+  "page": "https://odre.opendatasoft.com/explore/dataset/eco2mix-national-tr/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données, rafraîchi tous les quarts d'heure, présente des données \"temps réel\" issues de l'application éCO 2 mix. Elles proviennent des télémesures des ouvrages, complétées par des forfaits et estimations. Vous y trouverez au pas quart d'heure : La consommation réalisée. Les prévisions de consommation établies la veille (J-1) et celles réactualisées le jour même (J). La production selon les différentes filières composant le mix énergétique. La consommation des pompes dans les Stations de Transfert d'Energie par Pompage (STEP). Les échanges physiques aux frontières. Une estimation des émissions de carbone générées par la production d'électricité en France. Le découpage en filière et technologie du mix de production. Vous y trouverez au pas demi-heure : Les échanges commerciaux aux frontières. Les données du mois M sont remplacées par les données consolidées issues des comptage au cours des mois suivants. Ces données \"temps réel\" sont alors remplacées par des données \"consolidées\" issues des comptages, puis remplacées par des données \"définitives\" en milieu d'année A+1. Elles deviennent définitives lorsque tous les partenaires ont transmis et vérifié l'ensemble de leurs comptages. Vous les trouverez dans le jeu de données disponible à cette adresse : https://opendata.reseaux-energies.fr/explore/dataset/eco2mix-national-cons-def . Pour en savoir plus, n'hésitez pas à consulter le site éCO 2 mix à cette adresse : http://www.rte-france.com/fr/eco2mix/eco2mix . Ce jeu de d",
+  "resource_title": "Données éCO2mix nationales temps réel",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-tr/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-01-28T09:37:12+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "éCO2mix",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

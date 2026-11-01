@@ -1,0 +1,33 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-indice_eloignement_lycee_ap2020",
+  "title": "Indice d'éloignement des lycées",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-indice_eloignement_lycee_ap2020/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "L’éloignement des lycées peut être décrit statistiquement de manière continue à l’aide d’un indicateur synthétique qui tient compte, pour un établissement donné, de multiples dimensions : du lieu de résidence des élèves qu’il scolarise, de l’offre d’enseignement et des équipements alentour. L’indice d’« éloignement » permet de synthétiser en un indicateur la notion d’éloignement pour un établissement donné. Il permet : - de prendre en compte les différents aspects de la ruralité et de l’éloignement des établissements - de classer tous les établissements de manière continue, du moins « éloigné » au plus « éloigné » et de fournir ainsi une approche relative. Toutes les académies, mêmes les plus urbaines comme celles de l’Île-de-France, comptent des établissements relativement « éloignés » ; Intuitivement, une première possibilité pour décrire de manière continue le caractère rural d’un établissement consisterait à retenir, pour chaque lycée, la proportion de ses élèves qui résident dans une commune rurale. Cette proportion varie de 0 à 100 %. Elle présente cependant un double inconvénient. D’une part, elle ne distingue pas les différentes formes de ruralité, du rural éloigné très peu dense au rural périphérique peu dense. D’autre part, son caractère unidimensionnel occulte la variété des formes que peut prendre l’éloignement des établissements : un établissement peut se trouver dans une situation d’éloignement même en milieu urbain. Aussi, l’approche doit prendre en compte plus",
+  "resource_title": "Indice d'éloignement des lycées",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-indice_eloignement_lycee_ap2020/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-24T10:05:58.205000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "résidence",
+  "query": "résidence",
+  "news": [
+    {
+      "title": "\"Etre militante ne fait pas de moi une terroriste\" : à Belfort, une femme assignée à résidence avant la manifestation du 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/etre-militante-ne-fait-pas-de-moi-une-terroriste-a-belfort-une-femme-assignee-a-residence-avant-la-manifestation-du-31-octobre_8263073.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des avocats dénoncent l'utilisation d'assignations à résidence pour empêcher certains militants de manifester le 31 octobre",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-avocats-denoncent-l-utilisation-d-assignations-a-residence-pour-empecher-certains-militants-de-manifester-le-24-octobre_8262932.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Colère sociale : Des avocats dénoncent des assignations à résidence pour empêcher de manifester",
+      "link": "https://www.20minutes.fr/societe/4259349-20261101-colere-sociale-avocats-denoncent-assignations-residence-empecher-manifester?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

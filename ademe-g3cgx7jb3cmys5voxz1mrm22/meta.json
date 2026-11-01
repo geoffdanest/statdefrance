@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:g3cgx7jb3cmys5voxz1mrm22",
+  "title": "DPE Logements neufs  (depuis juillet 2021)",
+  "page": "https://data.ademe.fr/datasets/g3cgx7jb3cmys5voxz1mrm22",
+  "organization": "ADEME",
+  "description": "### Le Diagnostic de Performance Energétique (DPE) Le Diagnostic de Performance Energétique (DPE) renseigne sur la performance énergétique et environnementale d’un logement ou d’un bâtiment, en évaluant sa **consommation d’énergie** et son impact en matière d’**émissions de gaz à effet de serre**. Le contenu et les modalités d’établissement du DPE sont réglementés. Le DPE contient des informations sur les caractéristiques du bâtiment ou du logement (surface, orientation, murs, fenêtres, matériaux, etc.) ainsi que sur ses équipements (de chauffage, de production d’eau chaude sanitaire, de ventilation, etc.) Pour les logements, le DPE a fait l’objet d’une réforme entrée en vigueur le 1er juillet 2021. Son objectif est de fiabiliser le DPE afin d’en faire le dispositif central dans la réglementation liée à la rénovation énergétique. Les principales évolutions sont : * Généralisation de la méthode de calcul (3CL) à tous les logements * Passage de 3 à 5 usages énergétiques (ajout des consommations d’éclairage et d’auxiliaire) * Intégration d’un double-seuil prenant en compte les émissions de gaz à effet de serre dans l’étiquette DPE. ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2jK8JaUieA84hk2TJR3v%2Fuploads%2FgSaolsvN9LI2Z2KhgVn2%2FClasses%20DPE%20small.jpg?alt=media&amp;token=2b7c9286-a147-4b8d-aef8-008f8d15627b) ### La collecte des DPE par l’Ademe L’Ademe effectue la collecte des DPE depuis 2013 ([Décret no 2011-807 du 5 juillet 2011 relatif à la tra",
+  "resource_title": "DPE Logements neufs  (depuis juillet 2021)",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/g3cgx7jb3cmys5voxz1mrm22/lines?format=csv&size=10000",
+  "last_modified": "2026-10-28T22:15:59.017Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "classe",
+  "query": "classe",
+  "news": [
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Avec huit bateaux au départ de la Route du Rhum, la classe reine des Ultim fait le pari de l'ouverture",
+      "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/avec-huit-bateaux-au-depart-de-la-route-du-rhum-la-classe-reine-des-ultim-fait-le-pari-de-l-ouverture_8221357.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN DIRECT Colère sociale : Emmanuel Macron espère un « retour en classe », de nouvelles mobilisations citoyennes attendues dès lundi...",
+      "link": "https://www.20minutes.fr/societe/4259308-20261101-mobilisation-sociale-appel-blocage-lycees-lundi?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "63872f28a3c9175973e743a5",
+  "title": "Manifestations sportives à Antibes Juan-les-Pins",
+  "page": "https://www.data.gouv.fr/datasets/manifestations-sportives-a-antibes-juan-les-pins",
+  "organization": "Ville d'Antibes",
+  "description": "Cette liste recense les manifestations sportives organisées depuis 2019 au sein des équipements de la Ville d'Antibes, que les manifestations soient organisées par la Ville elle-même ou par des tiers (associations etc.). Pour la réutilisation du présent jeu de données, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l’information sous la forme suivante : « Source : Ville d’Antibes, disponible sur data.gouv.fr, mise à jour du [indiquer la dernière date de mise à jour] ». Merci.",
+  "resource_title": "antibes-animations-sportives.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/manifestations-sportives-a-antibes-juan-les-pins/20260728-095119/antibes-animations-sportives.csv",
+  "last_modified": "2026-07-28T09:51:19.749000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "manifestations",
+  "query": "manifestations",
+  "news": [
+    {
+      "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+      "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Manifestations du 31 octobre : enquête ouverte pour tentative d’homicide à la suite du jet d’un cocktail Molotov sur des gendarmes à Paris",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-enquete-ouverte-pour-tentative-d-homicide-a-la-suite-du-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris_6804476_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ]
+}

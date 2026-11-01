@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "698deca8e4bef71927b68225",
+  "title": "Certification des établissements de santé pour la qualité des soins (6ème cycle)",
+  "page": "https://www.data.gouv.fr/datasets/certification-des-etablissements-de-sante-pour-la-qualite-des-soins-6eme-cycle",
+  "organization": "Haute Autorité de santé",
+  "description": "En place depuis plus de 25 ans, [la certification](https://www.has-sante.fr/jcms/c_411173/fr/comprendre-la-certification-pour-la-qualite-des-soins) est une évaluation obligatoire et indépendante du niveau de qualité et de sécurité des soins dans les établissements de santé, publics et privés. Elle est réalisée tous les 4 ans par des professionnels de santé (des pairs) mandatés par la HAS : les experts-visiteurs. Les évaluations se fondent sur un [référentiel](https://www.has-sante.fr/upload/docs/application/pdf/2025-01/referentiel_certification_es_qualite_des_soins_version_2025.pdf) articulé autour de [12 objectifs](https://www.has-sante.fr/upload/docs/application/pdf/2025-01/affiche_objectifs_6e_cycle_avec_logo.pdf) déclinés en critères évalués par des méthodes proches du terrain. Leurs résultats permettent à la HAS de prononcer un niveau de certification des établissements de santé selon 4 niveaux :\n![entrez la description de l'image ici](https://www.has-sante.fr/upload/docs/image/jpeg/2020-11/haute_qualite_des_soins.jpg \"entrez le titre de l'image ici\") ![entrez la description de l'image ici](https://www.has-sante.fr/upload/docs/image/jpeg/2020-11/qualite_des_soins_confirme.jpg \"entrez le titre de l'image ici\")\n![entrez la description de l'image ici](https://www.has-sante.fr/upload/docs/image/jpeg/2020-11/qualite_des_soins_a_ameliorer.jpg \"entrez le titre de l'image ici\") ![entrez la description de l'image ici](https://www.has-sante.fr/upload/docs/image/jpeg/2020-11/qualit",
+  "resource_title": "resultat_objectif.csv",
+  "resource_url": "https://minio.data.has-sante.fr/etl-certification/data/prod/tables/resultat_objectif.csv",
+  "last_modified": "2026-10-29T23:25:33+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}
