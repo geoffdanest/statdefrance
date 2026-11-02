@@ -1,9 +1,10 @@
 """Publication quotidienne (GitHub Action, 9h et 18h heure de Paris).
 
 Deux créneaux par jour : posts/AAAA-MM-JJ.json (matin, 9h) et
-posts/AAAA-MM-JJ-soir.json (soir, 18h). Le passage à l'heure est déclenché par des
-tâches programmées Claude ; les horaires GitHub ci-dessous servent de secours (souvent en retard). Chaque passage publie les créneaux du jour
-dont l'heure est atteinte et pas encore publiés. Un post n'est publié que si son statut est
+posts/AAAA-MM-JJ-soir.json (soir, 18h). La publication est toujours lancée par les
+tâches programmées Claude (9h02 et 18h02), qui déclenchent ce workflow ; GitHub n'a
+aucun horaire propre. Chaque passage publie les créneaux du jour dont l'heure est
+atteinte et pas encore publiés, puis reposte chaque post en story (posts/…-story.jpg). Un post n'est publié que si son statut est
 « validated » (validé par toi dans Claude). Après publication : statut
 « published » + lien du post Instagram, enregistrés dans le JSON.
 
@@ -35,9 +36,10 @@ def graph(method, path, **params):
     return r.json()
 
 
-def publish(image_url, caption):
+def publish(image_url, caption=None, story=False):
     uid = os.environ["IG_USER_ID"]
-    container = graph("POST", f"{uid}/media", image_url=image_url, caption=caption)["id"]
+    params = dict(image_url=image_url, media_type="STORIES") if story else dict(image_url=image_url, caption=caption)
+    container = graph("POST", f"{uid}/media", **params)["id"]
     for _ in range(30):  # Instagram télécharge et traite l'image
         st = graph("GET", container, fields="status_code").get("status_code")
         if st == "FINISHED": break
@@ -74,7 +76,25 @@ def publish_slot(day, name, suffix, now, dry):
     post.update(status="published", ig_media_id=media, ig_permalink=link, published_at=now.isoformat())
     f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     log(f"[{name}] Publié : {link}")
-    return 0
+    return publish_story(f, post, name, repo, branch)
+
+
+def publish_story(f, post, name, repo, branch):
+    """Repost du post en story, juste après lui. Un échec ne touche pas au post déjà publié."""
+    story = f.with_name(f.stem + "-story.jpg")
+    try:
+        if not story.exists():
+            raise RuntimeError(f"visuel story manquant {story.name}")
+        media, _ = publish(f"https://raw.githubusercontent.com/{repo}/{branch}/posts/{story.name}", story=True)
+        post.update(story_status="published", ig_story_id=media)
+        log(f"[{name}] Story publiée.")
+        code = 0
+    except Exception as e:
+        post.update(story_status="failed")
+        log(f"[{name}] ERREUR story (le post, lui, est bien publié) : {e}")
+        code = 1
+    f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return code
 
 
 def main(args):

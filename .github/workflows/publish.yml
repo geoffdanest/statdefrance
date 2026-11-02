@@ -1,11 +1,7 @@
 name: Publication Instagram (9h et 18h)
+# Toujours lancée par les tâches programmées Claude (9h02 et 18h02, heure de Paris),
+# ou à la main depuis l'onglet Actions. Pas d'horaire GitHub : une seule source de déclenchement.
 on:
-  schedule:
-    # Secours : le déclenchement à l'heure vient des tâches programmées Claude (9h02 et 18h02).
-    - cron: "4 7 * * *"   # 9h à Paris en été
-    - cron: "4 8 * * *"   # 9h à Paris en hiver (le script ignore le passage trop tôt et ne publie jamais deux fois)
-    - cron: "4 16 * * *"  # 18h à Paris en été
-    - cron: "4 17 * * *"  # 18h à Paris en hiver
   workflow_dispatch:
     inputs:
       date: { description: "Date à publier (AAAA-MM-JJ), vide = aujourd'hui", required: false }
@@ -21,6 +17,18 @@ jobs:
       - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
+      - name: Préparer les visuels story du jour
+        # Instagram va chercher l'image en ligne : la story doit être poussée avant la publication.
+        run: |
+          DAY="${{ github.event.inputs.date }}"; DAY="${DAY:-$(TZ=Europe/Paris date +%F)}"
+          python -m render.story --missing posts/$DAY.json posts/$DAY-soir.json || true
+          if [ -n "$(git status --porcelain posts)" ]; then
+            git config user.name "statdefrance-bot"
+            git config user.email "statdefrance-bot@users.noreply.github.com"
+            git add posts && git commit -qm "Stories : $DAY"
+            for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+            sleep 20   # laisse le temps au lien raw.githubusercontent.com d'être servi
+          fi
       - name: Publier les posts validés du jour
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
