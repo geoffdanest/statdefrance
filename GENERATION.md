@@ -48,8 +48,13 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
   source : un titre sur la grippe peut donner un post Odissé, Ameli ou DREES ; une grève SNCF,
   un post SNCF ; une vague de froid, un post ODRÉ (éCO2mix)… Les placer de préférence le matin, en début de semaine. Le lien avec l'actu doit être évident pour un lecteur.
 - **Surprise** : le chiffre doit faire réagir (« ah bon ? ») tout en étant compréhensible en 3 secondes.
-- **Variété** : 3 posts maximum par thème ; utiliser au moins 3 gabarits différents dans la semaine.
+- **Variété** : 3 posts maximum par thème ; utiliser **les 10 gabarits** dans la semaine (chacun
+  au moins une fois, voir la table de la section 3) ; aucun gabarit plus de 2 fois.
   Le même jour, le matin et le soir : deux thèmes et deux gabarits différents.
+  Pour couvrir un gabarit qui manque, chercher une stat qui a vraiment la bonne forme (une
+  série pour `colonnes`, deux groupes pour `halteres`…), jamais tordre une stat pour la faire
+  entrer dans un gabarit. Si un gabarit reste sans stat adaptée, le dire à Geoffroy dans le
+  récapitulatif de la semaine.
 - **Fraîcheur** : préférer les données des 3 dernières années ; toujours dire l'année concernée.
 - **Prudence** : pas de stat qui stigmatise un groupe, pas de prise de position politique,
   pas de causalité inventée. En cas de doute sur la lecture d'une colonne, écarter le jeu.
