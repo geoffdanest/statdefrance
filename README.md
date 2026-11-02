@@ -47,4 +47,5 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 
 - Rien n'a été publié ? Vérifier le statut dans `posts/<date>.json` (`validated` attendu) et
   l'onglet *Actions* → « Publication Instagram ».
+- Story absente ? Le champ `story_status` du post dit `published` ou `failed` ; le post, lui, reste publié.
 - Republier un jour manqué : *Actions* → « Publication Instagram » → *Run workflow* avec la date.
