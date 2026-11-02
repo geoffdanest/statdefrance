@@ -32,5 +32,8 @@
   "per_dot": 500,
   "calc": "DS_DERA_PRIVE_ANNUEL, 2024, France, ACTIVITY/AGE/NUMBER_EMPL/SEX/WKTIME = _T, DERA_MEASURE = SALAIRE_NET_EQTP_MENSUEL_MOYENNE (euros) : PCS 231A (chefs de grande entreprise de 500 salariés et plus) 16 852,70 ; 376A (cadres des marchés financiers) 11 092,88 ; _T 2 732,61 ; 562B (coiffeurs salariés) 1 535,05. Ratio 231A/562B = 10,98.",
   "caption": "16 853 € net par mois : le salaire moyen d’un patron salarié de grande entreprise en 2024.\n\nC’est 11 fois ce que gagne en moyenne un coiffeur salarié (1 535 €) et six fois le salaire moyen du secteur privé (2 733 €). Ces montants sont des salaires nets mensuels en équivalent temps plein, calculés par l’Insee pour 2024 sur plus de 300 professions. Les chefs de grande entreprise visés ici dirigent des sociétés de 500 salariés et plus.\n\nSource : Insee, « Salaires dans le secteur privé par catégorie socioprofessionnelle détaillée »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_ANNUEL\n\n#statdefrance #opendata #salaires #emploi #travail #inegalites",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "17982776502136202",
+  "ig_permalink": "https://www.instagram.com/p/DfP4k09mD2K/",
+  "published_at": "2026-11-02T18:50:49.751230+01:00"
 }
