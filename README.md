@@ -10,7 +10,7 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 | Dimanche ~17h | GitHub (gratuit) | Lit les titres de l'actu, collecte des jeux jamais utilisés : 70 data.gouv, 20 Insee, ~45 portails thématiques — liés à l'actu en priorité |
 | Dimanche 18h | Claude (ton abonnement) | Choisit 14 stats (2 par jour), calcule, écrit, compose les visuels, te les présente dans une conversation |
 | Quand tu veux | Toi | Tu réponds dans la conversation : « OK pour tout sauf le 3, refais le 5 » |
-| Chaque jour 9h et 18h | Claude (tâches programmées), qui lancent la publication sur GitHub | Publie le post validé du créneau, puis le reposte en story. Pas validé = pas publié |
+| Chaque jour 9h et 18h | Claude (tâches programmées), qui lancent la publication sur GitHub | Publie le post validé du créneau. Pas validé = pas publié |
 
 ## Ce que contient le repo
 
@@ -22,9 +22,8 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 - `scripts/sources.py` — portails thématiques, tous gratuits et sans clé : Éducation nationale,
   ODRÉ (énergie, RTE éCO2mix), SNCF, Assurance Maladie, DREES, Santé publique France (Odissé),
   ADEME, et les jeux d'Agreste, France Travail, Banque de France et Hub'Eau publiés sur data.gouv.
-- `scripts/publish_daily.py` — publication Instagram des posts validés du jour (9h et 18h) et repost en story.
+- `scripts/publish_daily.py` — publication Instagram des posts validés du jour (9h et 18h).
   Lancé uniquement par les tâches programmées Claude (ou à la main : onglet *Actions* → *Run workflow*).
-- `render/story.py` — version story 1080×1920 de chaque post (`posts/…-story.jpg`), créée avant la publication
 - `GENERATION.md` — le cahier des charges que Claude suit chaque dimanche
 - `posts/` — deux fichiers par jour (`AAAA-MM-JJ.json` à 9h, `AAAA-MM-JJ-soir.json` à 18h, + `.jpg`), avec son statut
 - `examples/` — un post d'exemple par gabarit (10)
@@ -47,5 +46,4 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 
 - Rien n'a été publié ? Vérifier le statut dans `posts/<date>.json` (`validated` attendu) et
   l'onglet *Actions* → « Publication Instagram ».
-- Story absente ? Le champ `story_status` du post dit `published` ou `failed` ; le post, lui, reste publié.
 - Republier un jour manqué : *Actions* → « Publication Instagram » → *Run workflow* avec la date.
