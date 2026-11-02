@@ -14,7 +14,8 @@ et liées à l'actualité française. Tout est automatique, sauf **ta validation
 
 ## Ce que contient le repo
 
-- `render/` — les 4 gabarits (grille, carte, hémicycle, comparaison), palettes Papier / Nuit,
+- `render/` — les 10 gabarits (grille, carte, hémicycle, comparaison, colonnes, 1 sur N,
+  matrice, haltères, bulles, classement), palettes Papier / Nuit,
   grain, logo, contrôles de composition. `python -m render posts/*.json --planche`
 - `scripts/fetch_candidates.py` — collecte du dimanche (actu + data.gouv + Insee, sans doublon).
   L'Insee passe par son catalogue Melodi : gratuit, sans clé ni inscription.

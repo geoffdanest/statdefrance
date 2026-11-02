@@ -1,0 +1,32 @@
+{
+  "theme": "Économie",
+  "source": "Insee, prix moyens (sept. 2026)",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPC_PM",
+  "dataset_id": "insee:DS_IPC_PM",
+  "num": "N° 036",
+  "date": "2026-11-04",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres repris du post N° 036).\n\nSource : Insee, prix moyens (sept. 2026)\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPC_PM\n\n#statdefrance #opendata",
+  "status": "draft",
+  "palette": "nuit",
+  "template": "matrice",
+  "display": "2,34€",
+  "label": "le litre de gazole en septembre 2026 : +72 centimes en un an.",
+  "history": [
+    [
+      "sept. 2016",
+      "1,12 €"
+    ],
+    [
+      "sept. 2021",
+      "1,46 €"
+    ],
+    [
+      "sept. 2025",
+      "1,62 €"
+    ],
+    [
+      "sept. 2026",
+      "2,34 €"
+    ]
+  ]
+}

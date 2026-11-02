@@ -1,0 +1,39 @@
+{
+  "theme": "Éducation",
+  "source": "DEPP via Saintes Agglo, IPS 2024-25",
+  "source_url": "https://www.data.gouv.fr/datasets/indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-saintes-grandes-rives-lagglo",
+  "dataset_id": "69f9e8f7acdc2a1aecdddc02",
+  "num": "N° 031",
+  "date": "2026-11-01",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres repris du post N° 031).\n\nSource : DEPP via Saintes Agglo, IPS 2024-25\nhttps://www.data.gouv.fr/datasets/indice-de-position-sociale-des-ecoles-a-partir-de-2022-sur-le-territoire-de-saintes-grandes-rives-lagglo\n\n#statdefrance #opendata",
+  "status": "draft",
+  "palette": "papier",
+  "template": "halteres",
+  "title": "Écoles privées et publiques : l’écart social se creuse chaque année.",
+  "legend_a": "Public",
+  "legend_b": "Privé",
+  "scale": "IPS moyen des écoles",
+  "range": [
+    100,
+    125
+  ],
+  "step": 5,
+  "rows": [
+    {
+      "name": "2022-23",
+      "a": 102.9,
+      "b": 119.3
+    },
+    {
+      "name": "2023-24",
+      "a": 102.9,
+      "b": 120.3
+    },
+    {
+      "name": "2024-25",
+      "a": 103.1,
+      "b": 121.5,
+      "highlight": true
+    }
+  ]
+}

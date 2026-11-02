@@ -1,0 +1,46 @@
+{
+  "theme": "Transports",
+  "source": "SNCF, régularité TGV 2026",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-axes/",
+  "dataset_id": "sncf:regularite-mensuelle-tgv-axes",
+  "num": "N° 045",
+  "date": "2026-11-08",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres repris du post N° 045).\n\nSource : SNCF, régularité TGV 2026\nhttps://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-axes/\n\n#statdefrance #opendata",
+  "status": "draft",
+  "palette": "papier",
+  "template": "classement",
+  "title": "Les TGV vers l’Europe sont les moins ponctuels de la SNCF.",
+  "axis_label": "TGV à l’heure, moyenne janv.–sept. 2026",
+  "range": [
+    70,
+    90
+  ],
+  "value_suffix": " %",
+  "rows": [
+    {
+      "name": "Europe",
+      "value": 76.4,
+      "highlight": true
+    },
+    {
+      "name": "Nord",
+      "value": 81.6
+    },
+    {
+      "name": "Sud-Est",
+      "value": 83.0
+    },
+    {
+      "name": "Est",
+      "value": 83.2
+    },
+    {
+      "name": "OUIGO",
+      "value": 83.3
+    },
+    {
+      "name": "Atlantique",
+      "value": 86.5
+    }
+  ]
+}

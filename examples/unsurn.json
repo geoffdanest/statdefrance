@@ -1,0 +1,14 @@
+{
+  "theme": "Transports",
+  "source": "SNCF, ponctualité Transilien 2026",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/ponctualite-mensuelle-transilien/",
+  "dataset_id": "sncf:ponctualite-mensuelle-transilien",
+  "num": "N° 040",
+  "date": "2026-11-06",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres repris du post N° 040).\n\nSource : SNCF, ponctualité Transilien 2026\nhttps://ressources.data.sncf.com/explore/dataset/ponctualite-mensuelle-transilien/\n\n#statdefrance #opendata",
+  "status": "draft",
+  "palette": "papier",
+  "template": "unsurn",
+  "n": 6,
+  "label": "Sur le RER D, plus d’un voyageur sur six arrive en retard (janvier–septembre 2026)."
+}

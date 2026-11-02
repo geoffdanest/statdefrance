@@ -1,6 +1,6 @@
 """statdefrance — gabarits « Points ».
 
-Chaque gabarit reçoit un post (dict) et renvoie une image 1080×1350.
+Chaque gabarit (10 au total, voir TEMPLATES en bas de fichier) reçoit un post (dict) et renvoie une image 1080×1350.
 Toute erreur de composition lève LayoutError avec un message en français :
 le générateur doit alors raccourcir le texte, jamais réduire la typo.
 """
@@ -238,12 +238,242 @@ def compare(p):
     return s.image()
 
 
-TEMPLATES = {"grille": grille, "carte": carte, "hemicycle": hemicycle, "compare": compare}
+def fnum(v, dec=None):
+    """Nombre à la française avec un nombre de décimales fixe (dec=None : 1 si non entier)."""
+    v = float(v)
+    if dec is None:
+        dec = 0 if v.is_integer() else 1
+    s = f"{v:,.{dec}f}".replace(",", "X").replace(".", ",").replace("X", THIN)
+    return s
+
+
+def _line(s, x0, y0, x1, y1, w, fill):
+    s.d.line([(x0 * SS, y0 * SS), (x1 * SS, y1 * SS)], fill=fill, width=int(w * SS))
+
+
+def _rows(p, lo, hi):
+    rows = p["rows"]
+    if not lo <= len(rows) <= hi:
+        raise LayoutError(f"« rows » prend {lo} à {hi} lignes.")
+    return rows
+
+
+# ── 5. COLONNES : une évolution dans le temps, la dernière valeur en rouge ──
+def colonnes(p):
+    pts = p["series"]
+    if not 3 <= len(pts) <= 8:
+        raise LayoutError("« series » prend 3 à 8 points [année, valeur].")
+    vals = [float(v) for _, v in pts]
+    if min(vals) <= 0:
+        raise LayoutError("Les colonnes n’acceptent que des valeurs positives.")
+    per = p.get("per_dot") or _per_dot(max(vals), cap=14)
+    unit = p.get("dot_unit", "")
+    dec = p.get("decimals", 0 if all(v.is_integer() for v in vals) else 1)
+    suffix = p.get("value_suffix", "")
+    s = Post(p["palette"]); t = s.t
+    s.chrome(p, typo(f"1 point = {fmt(per)} {unit}".strip()))
+    ty = s.para((M, 196), p["title"], s.f("inter700", 58), t["ink"], 68, W - 2 * M, 3, "title")
+    base, r, g = 1110, 19, 46
+    colw = (W - 2 * M) / len(pts)
+    for i, ((yr, _), v) in enumerate(zip(pts, vals)):
+        cx = M + colw * (i + .5)
+        k = max(1, round(v / per))
+        col = t["acc"] if i == len(pts) - 1 else t["sec"]
+        for j in range(k):
+            s.dot(cx, base - r - j * g, r, col)
+        top = base - r - (k - 1) * g - r - 22
+        if top - 30 < ty + 20:
+            raise LayoutError("Les colonnes touchent le titre : raccourcir le titre ou fixer un « per_dot » plus grand.")
+        s.text((cx, top), typo(fnum(v, dec) + suffix), s.f("inter700", 30), t["ink"], "ms")
+        s.text((cx, base + 48), str(yr), s.f("mono400", 22), t["soft"], "ms")
+    return s.image()
+
+
+# ── 6. UN SUR N : une fréquence, lue comme un motif ─────────────────────────
+def unsurn(p):
+    nn = int(p["n"])
+    if not 2 <= nn <= 10:
+        raise LayoutError("« n » doit être entre 2 et 10 (« 1 sur n »).")
+    s = Post(p["palette"]); t = s.t; s.chrome(p)
+    s.text((M - 6, 400), f"1 sur {nn}", s.f("inter900", 210), t["ink"], "ls")
+    rows, r = 5, 38
+    g = (W - 2 * M - 2 * r) / (nn - 1)
+    rnd = random.Random(nn * 7 + len(p["label"]))   # motif stable pour un même post
+    for row in range(rows):
+        hit = rnd.randrange(nn)
+        for c in range(nn):
+            s.dot(M + r + c * g, 520 + row * 100, r, t["acc"] if c == hit else t["mute"])
+    y = s.para((M, 1060), p["label"], s.f("inter500", 36), t["ink"], 48, W - 2 * M, 3, "label")
+    s.check_bottom(y - 48, "« label »")
+    return s.image()
+
+
+# ── 7. MATRICE : le chiffre lui-même dessiné en points ──────────────────────
+GLYPHS = {
+    "0": ["01110", "10001", "10011", "10101", "11001", "10001", "01110"],
+    "1": ["00100", "01100", "00100", "00100", "00100", "00100", "01110"],
+    "2": ["01110", "10001", "00001", "00010", "00100", "01000", "11111"],
+    "3": ["11110", "00001", "00001", "01110", "00001", "00001", "11110"],
+    "4": ["00010", "00110", "01010", "10010", "11111", "00010", "00010"],
+    "5": ["11111", "10000", "11110", "00001", "00001", "10001", "01110"],
+    "6": ["00110", "01000", "10000", "11110", "10001", "10001", "01110"],
+    "7": ["11111", "00001", "00010", "00100", "01000", "01000", "01000"],
+    "8": ["01110", "10001", "10001", "01110", "10001", "10001", "01110"],
+    "9": ["01110", "10001", "10001", "01111", "00001", "00010", "01100"],
+    ",": ["00", "00", "00", "00", "00", "01", "10"],
+    "€": ["00110", "01001", "11100", "01000", "11100", "01001", "00110"],
+    "%": ["11001", "11010", "00010", "00100", "01000", "01011", "10011"],
+    "×": ["00000", "10001", "01010", "00100", "01010", "10001", "00000"],
+    "+": ["00000", "00100", "00100", "11111", "00100", "00100", "00000"],
+    "-": ["00000", "00000", "00000", "11111", "00000", "00000", "00000"],
+}
+
+
+def matrice(p):
+    disp = p["display"].replace(" ", "")
+    bad = [c for c in disp if c not in GLYPHS]
+    if bad:
+        raise LayoutError(f"« display » : caractères non dessinables {bad} (chiffres , € % × + - seulement).")
+    cols = []
+    for ch in disp:
+        gl = GLYPHS[ch]
+        cols += [[row[c] == "1" for row in gl] for c in range(len(gl[0]))]
+        cols += [[False] * 7] * (1 if ch == "," else 2)
+    cols = cols[:-2]
+    nc, nr = len(cols) + 2, 11
+    pitch = (W - 2 * M) / nc
+    if pitch < 26:
+        raise LayoutError("« display » trop long pour la matrice (6 caractères maximum environ).")
+    hist = p["history"]
+    if not 2 <= len(hist) <= 5:
+        raise LayoutError("« history » prend 2 à 5 points [libellé, valeur affichée].")
+    s = Post(p["palette"]); t = s.t; s.chrome(p)
+    r, y0 = pitch * 0.40, 230
+    for gx in range(nc):
+        for gy in range(nr):
+            c, rr = gx - 1, gy - 2
+            on = 0 <= c < len(cols) and 0 <= rr < 7 and cols[c][rr]
+            s.dot(M + pitch * (gx + .5), y0 + pitch * (gy + .5), r if on else r * 0.42, t["acc"] if on else t["mute"])
+    y = s.para((M, y0 + nr * pitch + 110), p["label"], s.f("inter700", 54), t["ink"], 64, W - 2 * M, 2, "label") + 110
+    cw = (W - 2 * M) / len(hist)
+    _line(s, M, y + 18, W - M, y + 18, 2, t["mute"])
+    for i, (lab, v) in enumerate(hist):
+        x, last = M + cw * i, i == len(hist) - 1
+        if s.tw(typo(v), s.f("inter700", 34)) > cw - 16:
+            raise LayoutError(f"Valeur d’historique trop large : « {v} ».")
+        s.dot(x + 9, y + 18, 9, t["acc"] if last else t["soft"])
+        s.text((x, y + 80), typo(v), s.f("inter700", 34), t["acc"] if last else t["ink"], "ls")
+        s.text((x, y + 116), typo(lab), s.f("mono400", 20), t["soft"], "ls")
+    s.check_bottom(y + 116, "L’historique")
+    return s.image()
+
+
+# ── 8. HALTÈRES : deux valeurs par ligne, l'écart devient visible ───────────
+def halteres(p):
+    rows = _rows(p, 2, 4)
+    lo, hi = p["range"]; step = p["step"]
+    if any(not lo <= v <= hi for r_ in rows for v in (r_["a"], r_["b"])):
+        raise LayoutError("Une valeur sort de « range » : élargir l’échelle.")
+    s = Post(p["palette"]); t = s.t; s.chrome(p, typo(p.get("scale", "")))
+    y = s.para((M, 196), p["title"], s.f("inter700", 58), t["ink"], 68, W - 2 * M, 3, "title") + 60
+    fl = s.f("inter500", 26); colA, colB = t["sec"], t["acc"]
+    s.dot(M + 12, y - 10, 12, colA); s.text((M + 34, y), typo(p["legend_a"]), fl, t["ink"], "ls")
+    xb = M + 34 + s.tw(typo(p["legend_a"]), fl) + 40
+    s.dot(xb + 12, y - 10, 12, colB); s.text((xb + 34, y), typo(p["legend_b"]), fl, t["ink"], "ls")
+    x0, x1 = M + 210, W - M - 130
+    X = lambda v: x0 + (v - lo) / (hi - lo) * (x1 - x0)
+    top, rowh = y + 90, 200
+    for tick in range(lo, hi + 1, step):
+        for k in range(int(len(rows) * rowh / 18)):
+            s.dot(X(tick), top + k * 18, 2, t["mute"])
+        s.text((X(tick), top + len(rows) * rowh + 34), fnum(tick), s.f("mono400", 20), t["soft"], "ms")
+    dec = p.get("decimals", 1)
+    for i, row in enumerate(rows):
+        cy = top + rowh * i + rowh / 2
+        if s.tw(typo(row["name"]), s.f("inter700", 28)) > 190:
+            raise LayoutError(f"Nom de ligne trop long : « {row['name']} ».")
+        s.text((M, cy + 10), typo(row["name"]), s.f("inter700", 28), t["ink"], "ls")
+        _line(s, X(row["a"]), cy, X(row["b"]), cy, 10, t["mute"])
+        s.dot(X(row["a"]), cy, 22, colA); s.dot(X(row["b"]), cy, 22, colB)
+        gap = row["b"] - row["a"]
+        s.text((W - M, cy + 10), typo(("+" if gap >= 0 else "−") + fnum(abs(gap), dec)), s.f("inter700", 30),
+               t["acc"] if row.get("highlight") else t["ink"], "rs")
+    s.check_bottom(top + len(rows) * rowh + 34, "Les haltères")
+    return s.image()
+
+
+# ── 9. BULLES : la surface du disque = la valeur ────────────────────────────
+def bulles(p):
+    items = p["rows"]
+    if not 2 <= len(items) <= 4:
+        raise LayoutError("Les bulles prennent 2 à 4 lignes.")
+    if not any(i.get("highlight") for i in items):
+        raise LayoutError("Marquer une ligne avec \"highlight\": true (en rouge).")
+    s = Post(p["palette"]); t = s.t; s.chrome(p, "surface = valeur")
+    s.para((M, 196), p["title"], s.f("inter700", 58), t["ink"], 68, W - 2 * M, 3, "title")
+    vmax = max(i["value"] for i in items); gap = 26
+    ratios = [math.sqrt(i["value"] / vmax) for i in items]
+    R = (W - 2 * M - gap * (len(items) - 1)) / (2 * sum(ratios))
+    if R > 300:
+        R = 300
+    base, x = 1010, M
+    unit = p.get("unit", "")
+    for it, k in zip(items, ratios):
+        r = R * k
+        s.dot(x + r, base - r, r, t["acc"] if it.get("highlight") else t["sec"])
+        s.text((x, base + 52), typo(f"{fnum(round(it['value']))} {unit}".strip()), s.f("inter700", 30), t["ink"], "ls")
+        y = s.para((x, base + 90), it["name"], s.f("inter500", 23), t["soft"], 30, max(2 * r, 170), 3, "name")
+        s.check_bottom(y - 30, "Les noms sous les bulles")
+        x += 2 * r + gap
+    return s.image()
+
+
+# ── 10. CLASSEMENT : un point par ligne sur une piste graduée ──────────────
+def classement(p):
+    rows = sorted(_rows(p, 3, 7), key=lambda r_: r_["value"])
+    lo, hi = p["range"]; step = p.get("step", 5)
+    if any(not lo <= r_["value"] <= hi for r_ in rows):
+        raise LayoutError("Une valeur sort de « range » : élargir l’échelle.")
+    if not any(r_.get("highlight") for r_ in rows):
+        raise LayoutError("Marquer une ligne avec \"highlight\": true (en rouge).")
+    suffix = p.get("value_suffix", "")
+    dec = p.get("decimals", 1)
+    s = Post(p["palette"]); t = s.t; s.chrome(p)
+    y = s.para((M, 196), p["title"], s.f("inter700", 58), t["ink"], 68, W - 2 * M, 3, "title") + 20
+    s.text((M, y + 30), typo(p["axis_label"]), s.f("mono400", 21), t["soft"], "ls")
+    x0, x1 = M + 250, W - M - 20
+    X = lambda v: x0 + (v - lo) / (hi - lo) * (x1 - x0)
+    top, rowh = y + 150, 118
+    for i, row in enumerate(rows):
+        cy, hl = top + i * rowh, row.get("highlight")
+        if s.tw(typo(row["name"]), s.f("inter700", 30)) > 230:
+            raise LayoutError(f"Nom de ligne trop long : « {row['name']} ».")
+        s.text((M, cy + 10), typo(row["name"]), s.f("inter700", 30), t["acc"] if hl else t["ink"], "ls")
+        for k in range(35):
+            s.dot(x0 + k * (x1 - x0) / 34, cy, 3, t["mute"])
+        s.dot(X(row["value"]), cy, 24 if hl else 18, t["acc"] if hl else t["sec"])
+        s.text((X(row["value"]), cy - 38), typo(fnum(row["value"], dec) + suffix), s.f("inter700", 24), t["ink"], "ms")
+    yb = top + len(rows) * rowh - 10
+    for tick in range(lo, hi + 1, step):
+        s.text((X(tick), yb), typo(fnum(tick) + suffix), s.f("mono400", 20), t["soft"], "ms")
+    s.check_bottom(yb, "Le classement")
+    return s.image()
+
+
+TEMPLATES = {"grille": grille, "carte": carte, "hemicycle": hemicycle, "compare": compare,
+             "colonnes": colonnes, "unsurn": unsurn, "matrice": matrice, "halteres": halteres,
+             "bulles": bulles, "classement": classement}
 REQUIRED = {
     "grille": ["pct", "label"],
     "carte": ["number", "unit", "hook"],
     "hemicycle": ["pct", "title", "label"],
     "compare": ["title", "rows"],
+    "colonnes": ["title", "series"],
+    "unsurn": ["n", "label"],
+    "matrice": ["display", "label", "history"],
+    "halteres": ["title", "legend_a", "legend_b", "rows", "range", "step"],
+    "bulles": ["title", "rows"],
+    "classement": ["title", "axis_label", "rows", "range"],
 }
 SOURCE_PREFIXES = tuple("https://" + d + "/" for d in (
     "www.data.gouv.fr", "catalogue-donnees.insee.fr", "data.education.gouv.fr", "odre.opendatasoft.com",

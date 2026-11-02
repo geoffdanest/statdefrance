@@ -64,6 +64,17 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
 | une part d'un tout « à la française » (vote, répartition) | `hemicycle` | `pct`, `title`, `label` (court) |
 | une quantité nationale, un total               | `carte`      | `number`, `unit`, `hook`                    |
 | une comparaison entre 2 à 5 éléments           | `compare`    | `title`, `rows` [{name, value, highlight}], `dot_unit` |
+| une évolution dans le temps (3 à 8 dates)      | `colonnes`   | `title`, `series` [[année, valeur]], option `per_dot`, `dot_unit`, `value_suffix`, `decimals` |
+| une fréquence « 1 sur N » (N de 2 à 10)        | `unsurn`     | `n`, `label`                                |
+| un prix ou un chiffre-choc court (≤ 6 signes), avec un historique | `matrice` | `display` (ex. « 2,34€ », chiffres , € % × + -), `label`, `history` [[libellé, valeur affichée]] (2 à 5) |
+| un écart entre deux groupes, sur 2 à 4 lignes  | `halteres`   | `title`, `legend_a`, `legend_b`, `rows` [{name, a, b, highlight}], `range` [min, max], `step`, option `scale` |
+| des ordres de grandeur très différents (×10, ×100), 2 à 4 éléments | `bulles` | `title`, `rows` [{name, value, highlight}], `unit` |
+| une valeur parmi d'autres, proches (3 à 7 lignes) | `classement` | `title`, `axis_label`, `rows` [{name, value, highlight}], `range` [min, max], option `step`, `value_suffix` |
+
+Choisir le gabarit selon la forme de la donnée, pas l'inverse. Les gabarits `colonnes`, `matrice`
+et `halteres` demandent une série : la chercher dans le jeu (années précédentes) quand elle existe.
+Dans `colonnes`, la dernière valeur est en rouge ; dans `halteres`, `a` est en bleu et `b` en rouge.
+Exemples complets dans `examples/`.
 
 - `palette` : alterner `papier` / `nuit` à chaque post, dans l'ordre de publication (lundi matin,
   lundi soir, mardi matin…), en continuant la série précédente (regarder le dernier post existant).

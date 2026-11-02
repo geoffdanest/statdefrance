@@ -1,0 +1,29 @@
+{
+  "theme": "Emploi",
+  "source": "Insee, salaires du privé 2024",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_ANNUEL",
+  "dataset_id": "insee:DS_DERA_PRIVE_ANNUEL",
+  "num": "N° 033",
+  "date": "2026-11-02",
+  "caption": "EXEMPLE DE MISE EN PAGE (chiffres repris du post N° 033).\n\nSource : Insee, salaires du privé 2024\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_ANNUEL\n\n#statdefrance #opendata",
+  "status": "draft",
+  "palette": "nuit",
+  "template": "bulles",
+  "unit": "€",
+  "title": "Un patron de grande entreprise gagne 11 fois le salaire d’un coiffeur.",
+  "rows": [
+    {
+      "name": "Chef de grande entreprise",
+      "value": 16852.7,
+      "highlight": true
+    },
+    {
+      "name": "Salaire moyen du privé",
+      "value": 2732.61
+    },
+    {
+      "name": "Coiffeur salarié",
+      "value": 1535.05
+    }
+  ]
+}
