@@ -12,5 +12,8 @@
   "label": "des habitants n’ont pas les moyens de chauffer assez leur logement (2025).",
   "calc": "DS_SRCV_PMS, GEO = FM (France métropolitaine), AGE = _T, toutes autres dimensions = _T/_Z, SRCV_MEASURE = DIF_TEMPERATURE (« ne pas pouvoir chauffer suffisamment son logement par manque de moyens financiers ») : 2020 6,7 ; 2021 6,0 ; 2022 10,2 ; 2023 11,7 ; 2024 11,5 ; 2025 11,4 (%). 1er quintile de niveau de vie 2025 : 22,5 %.",
   "caption": "11,4 % : la part de personnes qui ne peuvent pas chauffer suffisamment leur logement, faute d’argent.\n\nC’est ce que mesure l’enquête SRCV de l’Insee en 2025, en France métropolitaine. La proportion a bondi en 2022 et ne redescend pas : elle était de 6,7 % en 2020. Chez les 20 % les plus modestes, c’est plus d’une personne sur cinq (22,5 %). La trêve hivernale a commencé le 1er novembre, et avec elle la saison de chauffe.\n\nSource : Insee, « Privations matérielles et sociales »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_PMS\n\n#statdefrance #opendata #logement #chauffage #precarite #energie",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18123934607290508",
+  "ig_permalink": "https://www.instagram.com/p/DfRaIw2l-TO/",
+  "published_at": "2026-11-03T09:03:21.336842+01:00"
 }
