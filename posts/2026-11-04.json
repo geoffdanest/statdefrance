@@ -13,5 +13,8 @@
   "hook": "en septembre 2026 : 72 centimes de plus qu’un an plus tôt.",
   "calc": "DS_IPC_PM, FREQ = M, GEO = FM, PRODUCT_ITEM 3863 « Gazole (1 litre) », EUR : 2016-09 1,12 ; 2021-09 1,46 ; 2025-09 1,62 ; 2026-09 2,34 (+0,72 € soit +44 % en un an). Fioul (4037) : 1 126,96 en 2025-09 → 1 833,94 en 2026-09 (+63 %).",
   "caption": "2,34 € le litre de gazole en septembre 2026.\n\nC’est le prix moyen relevé par l’Insee en France métropolitaine. Un an plus tôt, le même litre coûtait 1,62 €, soit 72 centimes de moins (+44 %). La hausse a démarré en mars 2026. Le fioul, lui, a pris 63 % en un an, au moment où commence la saison de chauffe.\n\nSource : Insee, « Prix moyens de vente de détail »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPC_PM\n\n#statdefrance #opendata #carburant #gazole #prix #pouvoirdachat #inflation",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18119111690016581",
+  "ig_permalink": "https://www.instagram.com/p/DfT--g1l2On/",
+  "published_at": "2026-11-04T09:03:45.559509+01:00"
 }
