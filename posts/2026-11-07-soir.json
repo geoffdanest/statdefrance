@@ -28,5 +28,8 @@
   "per_dot": 2.5,
   "calc": "conso_brute_corrigee_client_direct, conso_brute_mwh : 2026-01 50 219 362 ; 2026-04 33 707 175 ; 2026-08 32 318 775 MWh → 50,2 / 33,7 / 32,3 TWh. Janvier / août = 1,554.",
   "caption": "En janvier 2026, la France a consommé 50 TWh d’électricité, contre 32 TWh en août.\n\nSoit 55 % de plus en plein hiver qu’en plein été, d’après RTE. Avec l’arrivée du froid, la courbe repart à la hausse. Ces chiffres sont ceux de la consommation brute en France métropolitaine, pertes du réseau comprises.\n\nSource : ODRÉ (RTE, GRTgaz, Enedis…), « Consommation mensuelle brute corrigée et des clients RPT »\nhttps://odre.opendatasoft.com/explore/dataset/conso_brute_corrigee_client_direct/\n\n#statdefrance #opendata #electricite #energie #hiver #chauffage",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18075170366503504",
+  "ig_permalink": "https://www.instagram.com/p/DfcrIHVF8tO/",
+  "published_at": "2026-11-07T18:03:28.661458+01:00"
 }
