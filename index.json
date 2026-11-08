@@ -1,0 +1,1063 @@
+{
+  "generated_at": "2026-11-08T19:48:40.070438+00:00",
+  "keywords": [
+    "affirme",
+    "milliers",
+    "personnes",
+    "examen",
+    "corps",
+    "chauffeur",
+    "homicide",
+    "involontaire",
+    "former",
+    "centaines",
+    "électricité",
+    "domicile"
+  ],
+  "by_source": {
+    "data.gouv": 32,
+    "insee": 20,
+    "education": 4,
+    "odre": 4,
+    "sncf": 4,
+    "ameli": 3,
+    "drees": 4,
+    "odisse": 4,
+    "ademe": 4,
+    "france-travail": 1
+  },
+  "actu_by_source": {
+    "data.gouv": 4,
+    "insee": 5,
+    "education": 1,
+    "odre": 1,
+    "sncf": 2,
+    "drees": 2,
+    "odisse": 3,
+    "ademe": 3
+  },
+  "headlines": [
+    {
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Accident mortel dans l'Ain :le chauffeur mis en examen pour \"homicide involontaire\", annonce le parquet",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"La seule option est un gouvernement de gauche avec nous\" : en Israël, les citoyens arabes espèrent être représentés dans le prochain gouvernement",
+      "link": "https://www.franceinfo.fr/monde/israel/reportage-la-seule-option-est-un-gouvernement-de-gauche-avec-nous-en-israel-les-citoyens-arabes-esperent-etre-representes-dans-le-prochain-gouvernement_8273099.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
+      "link": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
+      "link": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le ministre de l'Enseignement supérieur exclut tout semestre validé d'office pour les étudiants pendant la mobilisation sociale en cours",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-exclut-tout-semestre-valide-d-office-pour-les-etudiants-pendant-la-mobilisation-sociale-en-cours_8273630.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Sous la pluie, Lando Norris remporte le Grand Prix du Brésil, devant Max Verstappen et Isack Hadjar",
+      "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Dans la bande de Gaza, des dizaines de milliers de déplacés privés d'abri à cause de pluies diluviennes",
+      "link": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-des-milliers-de-deplaces-prives-d-abri-a-cause-d-importantes-intemperies_8273447.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+      "link": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump",
+      "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure",
+      "link": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Carlos Alcaraz remporte le Masters 1000 de Paris pour la première fois grâce à son succès contre Ben Shelton en finale",
+      "link": "https://www.franceinfo.fr/sports/tennis/masters-1000/carlos-alcaraz-remporte-le-masters-1000-de-paris-pour-la-premiere-fois-grace-a-son-succes-contre-ben-shelton-en-finale_8273420.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Un bâtiment d'Aramco à Riyad a été la cible d'une \"tentative\" d'attaque, affirme l'Arabie saoudite",
+      "link": "https://www.franceinfo.fr/monde/moyen-orient/un-batiment-d-aramco-a-riyad-a-ete-la-cible-d-une-tentative-d-attaque-affirme-l-arabie-saoudite_8273063.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic",
+      "link": "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le butin de braquages d'usines de métaux précieux à Besançon, d'une valeur estimée à six millions d'euros, a été retrouvé",
+      "link": "https://www.franceinfo.fr/faits-divers/le-butin-de-braquages-d-usines-de-metaux-precieux-a-besancon-d-une-valeur-estimee-a-six-millions-d-euros-a-ete-retrouve_8273639.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"On a l'impression d'une régression\" : pourquoi les principaux prix littéraires, Goncourt en tête, sont-ils tous revenus à des hommes ?",
+      "link": "https://www.franceinfo.fr/culture/livres/prix-litteraires/on-a-l-impression-d-une-regression-pourquoi-les-principaux-prix-litteraires-goncourt-en-tete-sont-ils-tous-revenus-a-des-hommes_8270558.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Route du Rhum : Tom Laperche, la consécration du premier de la classe",
+      "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-tom-laperche-la-consecration-du-premier-de-la-classe_8272541.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des locaux du Conseil départemental de la Charente incendiés à Angoulême, la piste criminelle privilégiée",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/des-locaux-du-conseil-departemental-de-la-charente-incendies-a-angouleme-la-piste-criminelle-privilegiee_8273189.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "K-pop, chansons d'amour et beatboxing : l'Eurovision lance sa première édition en Asie",
+      "link": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Accident mortel dans l'Ain : quelles sont les obligations des conducteurs et des passagers à bord des autocars ?",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Où en sont les négociations pour former un nouveau gouvernement en Israël, près de deux semaines après les élections législatives ?",
+      "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/ou-en-sont-les-negociations-pour-former-un-nouveau-gouvernement-en-israel-pres-de-deux-semaines-apres-les-elections-legislatives_8270858.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La mission d'Israël en Iran n'est \"pas terminée\", prévient le ministre de la Défense de l'Etat hébreu",
+      "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/la-mission-d-israel-en-iran-n-est-pas-terminee-previent-le-ministre-de-la-defense_8273243.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "La contestation contre les data centers monte en Europe",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Le ministre de la justice américain, Todd Blanche, prêt à défendre les membres de l’administration Trump visés par des enquêtes de la majorité démocrate au Congrès",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/le-ministre-de-la-justice-americain-todd-blanche-pret-a-defendre-les-membres-de-l-administration-trump-vises-par-des-enquetes-de-la-majorite-democrate-au-congres_6808449_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "L’affaire Michel Zecler, emblématique des violences policières, devant la justice",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/l-affaire-michel-zecler-emblematique-des-violences-policieres-devant-la-justice_6808454_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Immigration : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans‑papiers",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« Je ne sais pas qui je suis » : les séquelles d’une enfance à huis clos dans des communautés religieuses",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/je-ne-sais-pas-qui-je-suis-les-sequelles-d-une-enfance-a-huis-clos-dans-des-communautes-religieuses_6808441_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 7 et 8 novembre",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/08/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-7-et-8-novembre_6808453_4355770.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+      "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Carlos Alcaraz, vainqueur du Masters 1000 de Paris, trouve dans le plaisir de jouer la force de vaincre",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Israël : Gadi Eisenkot, officiellement chargé de former un nouveau gouvernement, invite le Likoud de Benyamin Nétanyahou à participer à une coalition",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "link": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "John Tolan, historien : « Une aversion irrationnelle et violente contre les juifs s’est développée dès le XIIᵉ siècle en Europe »",
+      "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/08/john-tolan-historien-une-aversion-irrationnelle-et-violente-contre-les-juifs-s-est-developpee-des-le-xii-siecle-en-europe_6808397_6038514.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« C’est vu comme se tirer une balle dans le pied » : en école d’ingénieurs, le dilemme de la visibilité des étudiants LGBT+",
+      "link": "https://www.lemonde.fr/campus/article/2026/11/08/c-est-vu-comme-se-tirer-une-balle-dans-le-pied-en-ecole-d-ingenieurs-le-dilemme-de-la-visibilite-des-etudiants-lgbt_6808406_4401467.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Affaire Michel Zecler : Mensonges et vidéosurveillance, quand les vidéos font tomber les faux PV policiers",
+      "link": "https://www.20minutes.fr/justice/4261045-20261108-affaire-michel-zecler-mensonges-videosurveillance-quand-videos-font-tomber-faux-pv-policiers?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Accident de car dans l’Ain : Le chauffeur mis en examen pour homicide involontaire",
+      "link": "https://www.20minutes.fr/societe/4261344-20261108-accident-car-ain-chauffeur-mis-examen-homicide-involontaire?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
+      "link": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Carlos Alcaraz a désormais tout gagné à Paris, Shelton n’a rien pu faire en finale",
+      "link": "https://www.20minutes.fr/sport/tennis/4261303-20261108-carlos-alcaraz-desormais-tout-gagne-paris-shelton-rien-pu-faire-finale?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Il n’y a pas mieux aujourd’hui »… Le « France Libre » aura bien des catapultes électromagnétiques, Paris garde le cap",
+      "link": "https://www.20minutes.fr/societe/4260907-20261108-mieux-aujourd-hui-france-libre-bien-catapultes-electromagnetiques-paris-garde-cap?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Fusillade en Pologne : Trois corps à son domicile, « fasciné par l’extrême droite »… Ce que l’on sait sur le tireur",
+      "link": "https://www.20minutes.fr/monde/pologne/4261256-20261108-fusillade-pologne-trois-corps-domicile-fascine-extreme-droite-sait-tireur?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "EN DIRECT Lens-OM : Après les 9 buts encaissés en C1, les Sang et Or doivent une revanche à leur public",
+      "link": "https://www.20minutes.fr/sport/football/4261272-20261108-direct-lens-om-apres-9-buts-encaisses-c1-sang-or-doivent-revanche-public?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Route du Rhum : Génie précoce et mentors XXL, qui est Tom Laperche, le vainqueur de l’édition 2026 ?",
+      "link": "https://www.20minutes.fr/sport/4261259-20261108-route-rhum-genie-precoce-mentors-xxl-tom-laperche-vainqueur-edition-2026?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "États-Unis : Trump veut un patron de MMA comme porte-parole de la Maison-Blanche",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4261229-20261108-trump-veut-patron-mma-comme-porte-parole-maison-blanche?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "EN IMAGES. C’est une bonne situation, ça, gagnant de « Star Academy » ?",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4260542-images-bonne-situation-ca-gagnant-star-academy?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Les contours de la France sont assez évidents »… Gaëlle Sutton cartographie les féminicides de 2026",
+      "link": "https://www.20minutes.fr/societe/4260885-20261108-contours-france-assez-evidents-gaelle-sutton-cartographie-feminicides-2026?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Mais pourquoi les médecins prescrivent-ils encore autant d’antibiotiques ?",
+      "link": "https://www.20minutes.fr/sante/4260271-20261105-pourquoi-medecins-prescrivent-encore-autant-antibiotiques?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Le Népal célèbre le festival Kukur Tihar, dédié aux chiens",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4261290-images-nepal-celebre-festival-kukur-tihar-dedie-chiens?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "XV de France-Fidji : Ces Bleus sont-ils capables de faire « quelque chose d’inimaginable » face à l’ogre sud-africain ?",
+      "link": "https://www.20minutes.fr/sport/rugby/4261230-20261108-xv-france-fidji-bleus-capables-faire-quelque-chose-inimaginable-face-ogre-sud-africain?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "D’Aulnay-sous-Bois à Dubaï, le rêve sucré de Tema’s cake, la reine du trompe-l’œil à petit prix",
+      "link": "https://www.20minutes.fr/tempo/4260416-20261108-aulnay-sous-bois-dubai-reve-sucre-tema-cake-reine-trompe-petit-prix?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images - Midterms : El-Sayed, Ossoff, Talarico… Ces étoiles montantes du parti démocrate américain",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4260275-images-midterms-al-sayed-ossoff-talarico-etoiles-montantes-parti-democrate-americain?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "datasets": [
+    {
+      "dataset_id": "5de8f397634f4164071119c5",
+      "title": "Fichier des personnes décédées",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "data.gouv",
+      "dir": "fichier-des-personnes-decedees"
+    },
+    {
+      "dataset_id": "6010206e7aa742eb447930f7",
+      "title": "Données relatives aux personnes vaccinées contre la Covid-19",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "data.gouv",
+      "dir": "donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1"
+    },
+    {
+      "dataset_id": "65c0e835c48bd8b0e5db9076",
+      "title": "Estimation des émissions individuelles de gaz à effet de serre lors des déplacements domicile-travail",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "actu",
+      "label": "domicile",
+      "source": "data.gouv",
+      "dir": "estimation-des-emissions-individuelles-de-gaz-a-effet-de-serre-lors-des-deplacem"
+    },
+    {
+      "dataset_id": "67f988e452c2d892939efe6d",
+      "title": "Part des flux domicile-travail",
+      "organization": "Ecolab",
+      "origin": "actu",
+      "label": "domicile",
+      "source": "data.gouv",
+      "dir": "part-des-flux-domicile-travail"
+    },
+    {
+      "dataset_id": "698deca8e4bef71927b68225",
+      "title": "Certification des établissements de santé pour la qualité des soins (6ème cycle)",
+      "organization": "Haute Autorité de santé",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "data.gouv",
+      "dir": "certification-des-etablissements-de-sante-pour-la-qualite-des-soins-6eme-cycle"
+    },
+    {
+      "dataset_id": "6aba32e9fe937575a896c111",
+      "title": "Etablissements de santé vérifiés - Béziers",
+      "organization": "Communauté d'Agglomération Béziers Méditerranée",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "data.gouv",
+      "dir": "etablissements-de-sante-verifies-beziers"
+    },
+    {
+      "dataset_id": "635a0251e708959bd890f68e",
+      "title": "Emploi : Actifs des secteurs culturels par département",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "emploi-actifs-des-secteurs-culturels-par-departement"
+    },
+    {
+      "dataset_id": "6a9e70c287fd111bdb6a229d",
+      "title": "Emplois de la filière bois",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "emplois-de-la-filiere-bois"
+    },
+    {
+      "dataset_id": "6a8c50e89cd3c72a08931d48",
+      "title": "Acquisition de livres de Noël pour les enfants des écoles maternelles publiques et privées de la ville de Brignoles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "acquisition-de-livres-de-noel-pour-les-enfants-des-ecoles-maternelles-publiques-"
+    },
+    {
+      "dataset_id": "6a8c4cfcec97decdc46f7175",
+      "title": "Spectacles de Noël pour les écoles maternelles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "spectacles-de-noel-pour-les-ecoles-maternelles-annee-2026"
+    },
+    {
+      "dataset_id": "67cad6ef9c8ad4fe75b8b7de",
+      "title": "Part de la surface agricole en agriculture biologique dans la surface agricole utile",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "data.gouv",
+      "dir": "part-de-la-surface-agricole-en-agriculture-biologique-dans-la-surface-agricole-u"
+    },
+    {
+      "dataset_id": "5ef45f5720c559a4e8950d2d",
+      "title": "Médiations culturelles des musées de la Ville d'Antibes",
+      "organization": "Ville d'Antibes",
+      "origin": "theme",
+      "label": "Culture",
+      "source": "data.gouv",
+      "dir": "mediations-culturelles-des-musees-de-la-ville-dantibes"
+    },
+    {
+      "dataset_id": "6564969d3579e21795ebd378",
+      "title": "Communes et inventaire SRU",
+      "organization": "Ministère de la Transition écologique",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "communes-et-inventaire-sru"
+    },
+    {
+      "dataset_id": "6ae4c74abf2e3da280520ea0",
+      "title": "Nombre de communes desservies par un réseau de chaleur",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "nombre-de-communes-desservies-par-un-reseau-de-chaleur"
+    },
+    {
+      "dataset_id": "6adffb69047a1040af6990ee",
+      "title": "Nombre de communes par potentiel d'émission de radon",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "nombre-de-communes-par-potentiel-demission-de-radon"
+    },
+    {
+      "dataset_id": "577225c888ee383112ab6512",
+      "title": "Inventaire national des matières et déchets radioactifs",
+      "organization": "Agence nationale pour la gestion des déchets radioactifs",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "inventaire-national-des-matieres-et-dechets-radioactifs"
+    },
+    {
+      "dataset_id": "667e961a6f66d474ddf55d32",
+      "title": "Collectivités exerçant la compétence collecte et/ou traitement de déchets en Bretagne",
+      "organization": "Observatoire de l'environnement en Bretagne",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "collectivites-exercant-la-competence-collecte-et-ou-traitement-de-dechets-en-bre"
+    },
+    {
+      "dataset_id": "6adf596f59999423721744c5",
+      "title": "Evolution de la quantité de déchets ménagers et assimilés (DMA) collectée par habitant  (base 100 en 2010)",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "evolution-de-la-quantite-de-dechets-menagers-et-assimiles-dma-collectee-par-habi"
+    },
+    {
+      "dataset_id": "69b989759cbf238599d4757a",
+      "title": "Taux de chômage (au sens du recensement)",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "taux-de-chomage-au-sens-du-recensement"
+    },
+    {
+      "dataset_id": "6751be987c09f4be821c6934",
+      "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2024",
+      "organization": "Ministère de la Transition écologique",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "data.gouv",
+      "dir": "carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024"
+    },
+    {
+      "dataset_id": "6965fd7bdd5d82d4c4664a66",
+      "title": "Production annuelle d’électricité par filière - Saint-Pierre-et-Miquelon",
+      "organization": "Electricité de France",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "data.gouv",
+      "dir": "production-annuelle-delectricite-par-filiere-saint-pierre-et-miquelon-1"
+    },
+    {
+      "dataset_id": "67cad6ce691ec92263232aa0",
+      "title": "Nombre d’exploitations agricoles",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "data.gouv",
+      "dir": "nombre-dexploitations-agricoles"
+    },
+    {
+      "dataset_id": "6350c887ecad6abcaa90f690",
+      "title": "Entreprises : évolution du chiffres d'affaires 2020 des salles de cinémas",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Culture",
+      "source": "data.gouv",
+      "dir": "entreprises-evolution-du-chiffres-daffaires-2020-des-salles-de-cinemas"
+    },
+    {
+      "dataset_id": "6acf81cf17a2cababf4d9a05",
+      "title": "Nombre moyen de stationnements vélo sécurisés par gare",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "data.gouv",
+      "dir": "nombre-moyen-de-stationnements-velo-securises-par-gare-1"
+    },
+    {
+      "dataset_id": "6aba3ca57d893e3869d17f62",
+      "title": "Itinéraires vélo du Parc national de Port-Cros",
+      "organization": "Parc national de Port-Cros",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "data.gouv",
+      "dir": "itineraires-velo-du-parc-national-de-port-cros"
+    },
+    {
+      "dataset_id": "6536661882301752417a278d",
+      "title": "Recensement de la population - Fichiers détail : Individus localisés au canton-ou-ville ",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-vi"
+    },
+    {
+      "dataset_id": "67fe0fe2423db9c4a05d8ced",
+      "title": "Données sur la localisation et l’accès de la population aux équipements",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "donnees-sur-la-localisation-et-lacces-de-la-population-aux-equipements"
+    },
+    {
+      "dataset_id": "5b7ffc618b4c4169d30727e0",
+      "title": "Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "data.gouv",
+      "dir": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret"
+    },
+    {
+      "dataset_id": "5bc5df57634f417a900a5ed0",
+      "title": "Annuaire des diagnostiqueurs immobiliers",
+      "organization": "Ministère de la Cohésion des territoires",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "data.gouv",
+      "dir": "annuaire-des-diagnostiqueurs-immobiliers"
+    },
+    {
+      "dataset_id": "6a2984c099d1cb741398dfce",
+      "title": "Extrait des coordonnées des étudiants boursiers pour les démarches proactives",
+      "organization": "Direction interministérielle du numérique",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "extrait-des-coordonnees-des-etudiants-boursiers-pour-les-demarches-proactives"
+    },
+    {
+      "dataset_id": "6834629c4aab22399dba4b3f",
+      "title": "Bibliothèque Départementale des Côtes d'Armor: identifiants des bibliothèques",
+      "organization": "Département des Côtes d'Armor",
+      "origin": "theme",
+      "label": "Culture",
+      "source": "data.gouv",
+      "dir": "bibliotheque-departementale-des-cotes-darmor-identifiants-des-bibliotheques-1"
+    },
+    {
+      "dataset_id": "61af30f22397a1134de82463",
+      "title": "Température de l’eau de mer à Antibes Juan-les-Pins",
+      "organization": "Ville d'Antibes",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "temperature-de-leau-de-mer-a-antibes-juan-les-pins"
+    },
+    {
+      "dataset_id": "insee:DS_SRCV_SATISFACTION",
+      "title": "Conditions de vie : niveau de satisfaction",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "insee",
+      "dir": "insee-ds_srcv_satisfaction"
+    },
+    {
+      "dataset_id": "insee:DS_TICE",
+      "title": "Les TIC et le commerce électronique dans les entreprises",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "insee",
+      "dir": "insee-ds_tice"
+    },
+    {
+      "dataset_id": "insee:DS_ELECTORAL",
+      "title": "Caractéristiques du corps électoral",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "corps",
+      "source": "insee",
+      "dir": "insee-ds_electoral"
+    },
+    {
+      "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC",
+      "title": "Logements dans les départements d'Outre-mer (DOM) - Principaux indicateurs (dossier complet)",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "insee",
+      "dir": "insee-ds_rp_logement_dom_princ"
+    },
+    {
+      "dataset_id": "insee:DS_TICM_EQUIPEMENT",
+      "title": "Équipement des ménages en internet ",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "domicile",
+      "source": "insee",
+      "dir": "insee-ds_ticm_equipement"
+    },
+    {
+      "dataset_id": "insee:DS_COMPTES_REGIONAUX",
+      "title": "Comptes régionaux annuels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "insee",
+      "dir": "insee-ds_comptes_regionaux"
+    },
+    {
+      "dataset_id": "insee:DS_CNT_OPERATIONS",
+      "title": "Opérations sur biens et services",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "insee",
+      "dir": "insee-ds_cnt_operations"
+    },
+    {
+      "dataset_id": "insee:DS_RP_TD_NAT_PCS_NATIONALITY_R_COMP",
+      "title": "Population de 15 ans ou plus détaillée par groupe socioprofessionnel et nationalité actuelle (13 regroupements) - Données détaillées (ex NAT3B)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "insee",
+      "dir": "insee-ds_rp_td_nat_pcs_nationality_r_comp"
+    },
+    {
+      "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC_IRIS",
+      "title": "Logements (spécificités des départements d'Outre-mer DOM) - Principaux indicateurs - Iris",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "insee",
+      "dir": "insee-ds_rp_logement_dom_princ_iris"
+    },
+    {
+      "dataset_id": "insee:DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+      "title": "Niveau de vie médian et taux de pauvreté par tranche d’âge, sexe et statut d'occupation du logement en 2023",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "insee",
+      "dir": "insee-ds_filosofi_sage_log_tp_nivvie"
+    },
+    {
+      "dataset_id": "insee:DS_ANTIPOL",
+      "title": "Enquête annuelle sur les investissements pour protéger l'environnement (Antipol)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "insee",
+      "dir": "insee-ds_antipol"
+    },
+    {
+      "dataset_id": "insee:DS_EACEI",
+      "title": "Enquête annuelle sur les consommations d'énergie dans l'industrie (EACEI)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "insee",
+      "dir": "insee-ds_eacei"
+    },
+    {
+      "dataset_id": "insee:DS_SIDE_CREA_DEP_REG_NAT",
+      "title": "Créations d'entreprises et d'établissements au niveau départemental, régional et national par secteur d'activité (A21) et forme légale",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "insee",
+      "dir": "insee-ds_side_crea_dep_reg_nat"
+    },
+    {
+      "dataset_id": "insee:DS_SIDE_EQDEMO_A10",
+      "title": "Équations démographiques des unités légales et des établissements (A10)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "insee",
+      "dir": "insee-ds_side_eqdemo_a10"
+    },
+    {
+      "dataset_id": "insee:DS_POPULATIONS_REFERENCE",
+      "title": "Populations de référence",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "insee",
+      "dir": "insee-ds_populations_reference"
+    },
+    {
+      "dataset_id": "insee:DS_RP_TD_NAT_AGESEX_NATIONALITY_D_PRINC",
+      "title": "Population détaillée par sexe, âge et nationalité actuelle (48 regroupements) - Données détaillées (ex NAT1 détaillé)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "insee",
+      "dir": "insee-ds_rp_td_nat_agesex_nationality_d_princ"
+    },
+    {
+      "dataset_id": "insee:DS_DECHET_SERVICES",
+      "title": "Enquête sur la production de déchets non dangereux dans les services en 2022",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "insee",
+      "dir": "insee-ds_dechet_services"
+    },
+    {
+      "dataset_id": "insee:DS_DECHET_COMMERCE",
+      "title": "Enquête sur la production de déchets non dangereux dans le commerce en 2022",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "insee",
+      "dir": "insee-ds_dechet_commerce"
+    },
+    {
+      "dataset_id": "insee:DS_IPC_IND_CAT",
+      "title": "Indice des prix à la consommation - indices catégoriels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "insee",
+      "dir": "insee-ds_ipc_ind_cat"
+    },
+    {
+      "dataset_id": "insee:DS_CNT_CSI",
+      "title": "Comptes de secteurs institutionnels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "insee",
+      "dir": "insee-ds_cnt_csi"
+    },
+    {
+      "dataset_id": "education:fr-en-calendrier-scolaire",
+      "title": "Le calendrier scolaire",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "actu",
+      "label": "examen",
+      "source": "education",
+      "dir": "education-fr-en-calendrier-scolaire"
+    },
+    {
+      "dataset_id": "education:fr-en-formations_diplomes",
+      "title": "Codification des diplômes et certifications préparés par la voie de l’apprentissage",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-formations-diplomes"
+    },
+    {
+      "dataset_id": "education:fr-en-sections-internationales",
+      "title": "Sections internationales et classes menant au baccalauréat français international (BFI) en France et dans les établissements français à l’étranger",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-sections-internationales"
+    },
+    {
+      "dataset_id": "education:fr-en-inserjeunes-lycee_pro-agri-formation-fine",
+      "title": "Inserjeunes Voie professionnelle scolaire agricole par établissement relevant du ministère de l'agriculture et formation fine",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-inserjeunes-lycee-pro-agri-formation-fine"
+    },
+    {
+      "dataset_id": "odre:part-enr-intensite-ges-conso-tr",
+      "title": "Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "odre",
+      "dir": "odre-part-enr-intensite-ges-conso-tr"
+    },
+    {
+      "dataset_id": "odre:equilibre-national-mensuel-rpt-injection-soutirage",
+      "title": "Equilibre national mensuel RPT injection = soutirage",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-equilibre-national-mensuel-rpt-injection-soutirage"
+    },
+    {
+      "dataset_id": "odre:fc-tc-nationaux-mensuels-eolien-solaire",
+      "title": "Facteurs de charge et taux de couverture nationaux mensuels éoliens et solaires",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-fc-tc-nationaux-mensuels-eolien-solaire"
+    },
+    {
+      "dataset_id": "odre:pic-journalier-consommation-brute",
+      "title": "Pic journalier de la consommation brute d'électricité",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-pic-journalier-consommation-brute"
+    },
+    {
+      "dataset_id": "sncf:assistance-psh-pmr",
+      "title": "Données du service d’Assistance Voyageur Handicapé en gare",
+      "organization": "SNCF",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "sncf",
+      "dir": "sncf-assistance-psh-pmr"
+    },
+    {
+      "dataset_id": "sncf:emission-co2-perimetre-complet",
+      "title": "Émissions de CO2e - périmètre complet",
+      "organization": "SNCF",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "sncf",
+      "dir": "sncf-emission-co2-perimetre-complet"
+    },
+    {
+      "dataset_id": "sncf:regularite-mensuelle-tgv-aqst",
+      "title": "Régularité mensuelle TGV par liaisons",
+      "organization": "SNCF",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "sncf",
+      "dir": "sncf-regularite-mensuelle-tgv-aqst"
+    },
+    {
+      "dataset_id": "sncf:reglarite-mensuelle-tgv-nationale",
+      "title": "Régularité mensuelle TGV globale",
+      "organization": "SNCF",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "sncf",
+      "dir": "sncf-reglarite-mensuelle-tgv-nationale"
+    },
+    {
+      "dataset_id": "ameli:patientele",
+      "title": "Professionnels de santé libéraux : patientèle par territoire (département, région)",
+      "organization": "Assurance Maladie",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "ameli",
+      "dir": "ameli-patientele"
+    },
+    {
+      "dataset_id": "ameli:referentiel-pathologies",
+      "title": "[Pour visualisation] Référentiel des pathologies",
+      "organization": "Assurance Maladie",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "ameli",
+      "dir": "ameli-referentiel-pathologies"
+    },
+    {
+      "dataset_id": "ameli:arrets-de-travail-par-secteur-d-activite-naf-1-et-naf-5",
+      "title": "Risques professionnels : arrêts de travail par secteur d’activité (NAF 1 et NAF 5)",
+      "organization": "Assurance Maladie",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "ameli",
+      "dir": "ameli-arrets-de-travail-par-secteur-d-activite-naf-1-et-naf-5"
+    },
+    {
+      "dataset_id": "drees:639_personnes-agees",
+      "title": "ISD - Personnes âgées",
+      "organization": "DREES",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "drees",
+      "dir": "drees-639-personnes-agees"
+    },
+    {
+      "dataset_id": "drees:drees_projections_infirmieres_2024",
+      "title": "Projections des effectifs d'infirmières à l'horizon 2050",
+      "organization": "DREES",
+      "origin": "actu",
+      "label": "examen",
+      "source": "drees",
+      "dir": "drees-drees-projections-infirmieres-2024"
+    },
+    {
+      "dataset_id": "drees:708_bases-statistiques-sae",
+      "title": "Bases statistiques SAE",
+      "organization": "DREES",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "drees",
+      "dir": "drees-708-bases-statistiques-sae"
+    },
+    {
+      "dataset_id": "drees:datastory-oc-9-4-duree-prise-en-charge-chambre",
+      "title": "Datastory OC - 3.3 Durée maximale de la prise en charge d'une chambre particulière à l'hôpital",
+      "organization": "DREES",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "drees",
+      "dir": "drees-datastory-oc-9-4-duree-prise-en-charge-chambre"
+    },
+    {
+      "dataset_id": "odisse:ira-esms",
+      "title": "IRA National - ESMS - Cas groupés d'IRA",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "odisse",
+      "dir": "odisse-ira-esms"
+    },
+    {
+      "dataset_id": "odisse:couvertures-vaccinales-issues-des-certificats-de-sante-du-24eme-mois-depuis-2004-france",
+      "title": "Couvertures vaccinales issues des certificats de santé du 24ème mois depuis 2004 (France)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "examen",
+      "source": "odisse",
+      "dir": "odisse-couvertures-vaccinales-issues-des-certificats-de-sante-du-24eme-mois-depu"
+    },
+    {
+      "dataset_id": "odisse:grippe-passages-urgences-et-actes-sos-medecin_reg",
+      "title": "Grippe : Passages aux urgences et Actes SOS Médecins (Région)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "domicile",
+      "source": "odisse",
+      "dir": "odisse-grippe-passages-urgences-et-actes-sos-medecin-reg"
+    },
+    {
+      "dataset_id": "odisse:ira-virologie-renal",
+      "title": "IRA National - Virologie - RENAL",
+      "organization": "Santé publique France",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "odisse",
+      "dir": "odisse-ira-virologie-renal"
+    },
+    {
+      "dataset_id": "ademe:macroeco-g5",
+      "title": "Macroéco G5. Emplois totaux : écarts S1 - TEND (milliers)",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "milliers",
+      "source": "ademe",
+      "dir": "ademe-macroeco-g5"
+    },
+    {
+      "dataset_id": "ademe:eo1n335dwa-ul7glxa7lm1ho",
+      "title": "Liste des entreprises RGE - New",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "former",
+      "source": "ademe",
+      "dir": "ademe-eo1n335dwa-ul7glxa7lm1ho"
+    },
+    {
+      "dataset_id": "ademe:jsfqxx8g98c9djitr7pes4xe",
+      "title": "Consommations d'électricité des usages français du numérique",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "ademe",
+      "dir": "ademe-jsfqxx8g98c9djitr7pes4xe"
+    },
+    {
+      "dataset_id": "ademe:fa5ss31vaw3ciucj0f1kbuq7",
+      "title": "Nomenclature des matrices",
+      "organization": "ADEME",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "ademe",
+      "dir": "ademe-fa5ss31vaw3ciucj0f1kbuq7"
+    },
+    {
+      "dataset_id": "6ab4f21c5ac5c534ba2a05b1",
+      "title": "Référentiel des Comités Locaux Pour l'Emploi",
+      "organization": "France Travail",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "france-travail",
+      "dir": "france-travail-6ab4f21c5ac5c534ba2a05b1"
+    }
+  ]
+}

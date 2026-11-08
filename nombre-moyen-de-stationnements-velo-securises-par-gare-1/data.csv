@@ -1,0 +1,9 @@
+champ,description
+annee,Année de la donnée géographique.
+nom_gare,Nombre de gares: Nom de la gare
+nb_places,Nombre de gares: Places sécurisées
+gare_lom,Nombre de gares: Gare sous objectif réglementaire
+objectif_lom,Nombre de gares: Nombre de places selon l'objectif réglementaire
+real_objectif_lom,Nombre de gares: Taux de réalisation selon l'objectif réglementaire
+interet_gare,Nombre de gares: Classification de la gare
+emplacement,Données géographiques au format WKT dans le référentiel spatial WGS 84 (EPSG:4326).

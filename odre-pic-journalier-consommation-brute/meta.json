@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:pic-journalier-consommation-brute",
+  "title": "Pic journalier de la consommation brute d'électricité",
+  "page": "https://odre.opendatasoft.com/explore/dataset/pic-journalier-consommation-brute/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Historique journalier de la puissance maximale (GW) nécessaire pour couvrir les pics de la consommation brute française. Cet historique est complété par les valeurs des températures de référence et moyenne.",
+  "resource_title": "Pic journalier de la consommation brute d'électricité",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/pic-journalier-consommation-brute/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-03T08:00:56+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "consommation électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

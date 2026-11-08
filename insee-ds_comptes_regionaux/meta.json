@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_COMPTES_REGIONAUX",
+  "title": "Comptes régionaux annuels",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_COMPTES_REGIONAUX",
+  "organization": "Insee",
+  "description": "Les comptes régionaux sont établis en base 2020 en cohérence avec les comptes nationaux et en conformité avec le Système Européen des Comptes 2010 (SEC2010).\n\nLes comptes régionaux diffusés sont cohérents avec les comptes nationaux annuels. Ils correspondent au champ de la comptabilité nationale et couvrent le territoire économique de la France, à savoir la France métropolitaine, les régions ultra-périphériques ou RUP (Guadeloupe incluant Saint-Martin, Martinique, Guyane, Réunion, Mayotte) ainsi que le territoire extrarégional français ou hors-territoire (cas des ambassades, bases militaires ou scientifiques, etc...).\n\nAu niveau régional, seuls les départements français d'outre-mer disposent d'un système complet et autonome de comptes. Ils sont établis par les services de l'Insee dans les DROM, selon une méthodologie qui leur est propre. Les indicateurs économiques régionaux des régions métropolitaines résultent d’une régionalisation des indicateurs métropolitains à partir de clés de répartition.\n\nProduits intérieurs bruts régionaux et valeurs ajoutées régionales en base 2020\n\nLes PIB et les valeurs ajoutées métropolitains de chaque branche sont égaux à la différence entre les totaux des comptes nationaux annuels (qui couvrent l’ensemble du territoire économique de la France, publiés en mai de l’année précédente) et les totaux correspondants des RUP ainsi que du « hors territoire » ; pour ce dernier, les totaux sont estimés à partir de données qui proviennent de la DGFiP.\n\nLe",
+  "resource_title": "DS_COMPTES_REGIONAUX",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_COMPTES_REGIONAUX/DS_COMPTES_REGIONAUX_CSV_FR",
+  "last_modified": "2026-10-01T18:38:11.352749903",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 196827,
+  "origin": "theme",
+  "label": "Santé",
+  "query": "Santé",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

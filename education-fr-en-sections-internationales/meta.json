@@ -1,0 +1,17 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-sections-internationales",
+  "title": "Sections internationales et classes menant au baccalauréat français international (BFI) en France et dans les établissements français à l’étranger",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-sections-internationales/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Cet actif a été lié à l'actif suivant : Sections internationales et classes menant au baccalauréat français international (BFI) en France et dans les établissements français à l’étranger - Visualization Liste des sections internationales dans les écoles, collèges et lycées Pour la rentrée scolaire 2020, les données sont issues de l'annexe de l'arrêté du 27 décembre 2019 modifiant l’arrêté du 30 mars 2012 modifié fixant la liste des sections internationales dans les écoles, collèges et lycées NOR : MENE1937682A",
+  "resource_title": "Sections internationales et classes menant au baccalauréat français international (BFI) en France et dans les établissements français à l’étranger",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-sections-internationales/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-09-30T13:44:56.767000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "baccalauréat",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

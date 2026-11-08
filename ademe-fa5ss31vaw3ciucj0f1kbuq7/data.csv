@@ -1,0 +1,423 @@
+﻿"colonne_ligne","code","libelle","date_debut","date_fin","code_pere","niveau","propriete","present_mec"
+"colonne","C0002","Flux de déchets","2007-10-01",,,0,,0
+"colonne","C0024","Ventilation collecte / traitement","2007-10-01",,"C0006",2,,0
+"colonne","C0025","Ventilation par mode de collecte","2007-10-01",,"C0006",2,"personnalisable",0
+"colonne","C0027","Emballages verre","2007-10-01",,"C0106",3,,1
+"colonne","C0029","Papiers","2007-10-01",,"C0106",3,,1
+"colonne","C0030","Emballages","2007-10-01",,"C0106",3,,1
+"colonne","C0031","Multimatériaux (papiers et emballages en mélange)","2007-10-01",,"C0106",3,,1
+"colonne","C0068","Collecte","2007-10-01",,"C0024",3,,1
+"colonne","C0069","Traitement","2007-10-01",,"C0024",3,"personnalisable",1
+"colonne","C0070","Porte-à-porte","2007-10-01",,"C0025",3,"personnalisable",1
+"colonne","C0072","Regroupement","2007-10-01",,"C0025",3,"personnalisable",1
+"colonne","C0087","Ventilation collecte / tri","2007-10-01",,"C0007",2,,0
+"colonne","C0088","Collecte","2007-10-01",,"C0087",3,"personnalisable",1
+"colonne","C0089","Tri","2007-10-01",,"C0087",3,"personnalisable",1
+"colonne","C0092","Ventilation collecte / traitement","2007-10-01",,"C0010",2,,0
+"colonne","C0093","Collecte","2007-10-01",,"C0092",3,"personnalisable",1
+"colonne","C0094","Traitement","2007-10-01",,"C0092",3,"personnalisable",1
+"colonne","C0105","Apport volontaire","2007-10-01",,"C0025",3,"personnalisable",1
+"colonne","C0106","Ventilation par flux de déchets","2007-10-01","2018-12-31","C0007",2,"personnalisable",0
+"colonne","C0107","Ventilation par mode de collecte","2007-10-01",,"C0007",2,"personnalisable",0
+"colonne","C0108","Apport volontaire","2007-10-01",,"C0107",3,"personnalisable",1
+"colonne","C0109","Regroupement","2007-10-01",,"C0107",3,"personnalisable",1
+"colonne","C0110","Porte-à-porte","2007-10-01",,"C0107",3,"personnalisable",1
+"colonne","C0118","Déchets en mélange","2007-10-01",,"C0014",2,"personnalisable",1
+"colonne","C0119","Cartons","2007-10-01",,"C0014",2,"personnalisable",1
+"colonne","C0120","Déchets organiques","2007-10-01",,"C0014",2,"personnalisable",1
+"colonne","C0121","Déchets agricoles","2007-10-01",,"C0014",2,"personnalisable",1
+"colonne","C0122","Déchets d'emballages et papier","2007-10-01",,"C0014",2,"personnalisable",1
+"colonne","C0126","Non fibreux (=corps creux)","2007-10-01",,"C0106",3,,1
+"colonne","C0127","Fibreux (=corps plats)","2007-10-01",,"C0106",3,,1
+"colonne","C0132","Ventilation par mode de collecte","2007-10-01","2010-12-07","C0010",2,"personnalisable",0
+"colonne","C0133","Apport volontaire","2007-10-01","2010-12-07","C0132",3,"personnalisable",1
+"colonne","C0134","A la demande","2007-10-01","2010-12-07","C0132",3,"personnalisable",1
+"colonne","C0135","Porte-à-porte","2007-10-01","2010-12-07","C0132",3,"personnalisable",1
+"colonne","C0136","Ventilation par flux de déchets","2007-10-01","2018-12-31","C0088",4,"personnalisable",0
+"colonne","C0137","Emballages verre","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0138","Papiers","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0139","Non fibreux (=corps creux)","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0140","Fibreux (=corps plats)","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0141","Emballages","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0142","Multimatériaux (papiers et emballages en mélange)","2007-10-01",,"C0136",5,"personnalisable",1
+"colonne","C0144","Porte-à-porte","2007-10-01",,"C0137",6,"personnalisable",1
+"colonne","C0145","Apport volontaire","2007-10-01",,"C0137",6,"personnalisable",1
+"colonne","C0146","Ventilation par mode de collecte","2007-10-01",,"C0068",4,"personnalisable",0
+"colonne","C0147","Porte-à-porte","2007-10-01",,"C0146",5,"personnalisable",1
+"colonne","C0148","Regroupement","2007-10-01",,"C0146",5,"personnalisable",1
+"colonne","C0149","Apport volontaire","2007-10-01",,"C0146",5,"personnalisable",1
+"colonne","C0154","Ventilation par mode de collecte","2007-10-01","2010-12-07","C0093",4,"personnalisable",0
+"colonne","C0008","Déchets verts","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0012","Déchets dangereux","2007-10-01",,"C0002",1,,1
+"colonne","C0011","Déchets des activités de soins","2007-10-01",,"C0002",1,,1
+"colonne","C0124","Déchets des collectivités","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0014","Déchets des professionnels","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0125","Déchets inertes","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0123","Gestion du passif","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0010","Encombrants","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0006","Ordures ménagères résiduelles","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0007","Papiers et emballages dont verre","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0155","Porte-à-porte","2007-10-01","2010-12-07","C0154",5,"personnalisable",1
+"colonne","C0156","Apport volontaire","2007-10-01","2010-12-07","C0154",5,"personnalisable",1
+"colonne","C0157","A la demande","2007-10-01","2010-12-07","C0154",5,"personnalisable",1
+"colonne","C0162","Regroupement","2007-10-01",,"C0137",6,"personnalisable",1
+"colonne","C0163","Porte-à-porte","2007-10-01",,"C0138",6,"personnalisable",1
+"colonne","C0164","Porte-à-porte","2007-10-01",,"C0142",6,"personnalisable",1
+"colonne","C0165","Regroupement","2007-10-01",,"C0142",6,"personnalisable",1
+"colonne","C0166","Apport volontaire","2007-10-01",,"C0142",6,"personnalisable",1
+"colonne","C0167","Porte-à-porte","2007-10-01",,"C0141",6,"personnalisable",1
+"colonne","C0168","Regroupement","2007-10-01",,"C0141",6,"personnalisable",1
+"colonne","C0169","Apport volontaire","2007-10-01",,"C0141",6,"personnalisable",1
+"colonne","C0170","Porte-à-porte","2007-10-01",,"C0140",6,"personnalisable",1
+"colonne","C0171","Regroupement","2007-10-01",,"C0140",6,"personnalisable",1
+"colonne","C0172","Apport volontaire","2007-10-01",,"C0140",6,"personnalisable",1
+"colonne","C0173","Porte-à-porte","2007-10-01",,"C0139",6,"personnalisable",1
+"colonne","C0174","Regroupement","2007-10-01",,"C0139",6,"personnalisable",1
+"colonne","C0175","Apport volontaire","2007-10-01",,"C0139",6,"personnalisable",1
+"colonne","C0176","Regroupement","2007-10-01",,"C0138",6,"personnalisable",1
+"colonne","C0177","Apport volontaire","2007-10-01",,"C0138",6,"personnalisable",1
+"colonne","C0180","Ventilation par mode de collecte","2007-10-08","2010-01-01","C0088",4,"personnalisable",0
+"colonne","C0181","Porte-à-porte","2007-10-08","2010-01-01","C0180",5,"personnalisable",1
+"colonne","C0182","Regroupement","2007-10-08","2010-01-01","C0180",5,"personnalisable",1
+"colonne","C0183","Apport volontaire","2007-10-08","2010-01-01","C0180",5,"personnalisable",1
+"colonne","C0184","Emballages verre","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0185","Papiers","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0186","Corps creux","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0187","Corps plats","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0188","Emballages","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0189","Multimatériaux (papiers et emballages en mélange)","2007-10-08","2010-01-01","C0181",6,"personnalisable",1
+"colonne","C0190","Emballages verre","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0191","Papiers","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0192","Corps creux","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0193","Corps plats","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0194","Emballages","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0195","Multimatériaux (papiers et emballages en mélange)","2007-10-08","2010-01-01","C0182",6,"personnalisable",1
+"colonne","C0196","Emballages verre","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0197","Papiers","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0198","Corps creux","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0199","Corps plats","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0200","Emballages","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0201","Multimatériaux (papiers et emballages en mélange)","2007-10-08","2010-01-01","C0183",6,"personnalisable",1
+"colonne","C0202","Ventilation par mode de collecte","2007-10-08",,"C0027",4,"personnalisable",0
+"colonne","C0203","Ventilation par mode de collecte","2007-10-08",,"C0029",4,"personnalisable",0
+"colonne","C0204","Ventilation par mode de collecte","2007-10-08",,"C0126",4,"personnalisable",0
+"colonne","C0205","Ventilation par mode de collecte","2007-10-08",,"C0127",4,"personnalisable",0
+"colonne","C0206","Ventilation par mode de collecte","2007-10-08",,"C0030",4,"personnalisable",0
+"colonne","C0207","Ventilation par mode de collecte","2007-10-08",,"C0031",4,"personnalisable",0
+"colonne","C0208","Porte-à-porte","2007-10-08",,"C0202",5,"personnalisable",1
+"colonne","C0209","Regroupement","2007-10-08",,"C0202",5,"personnalisable",1
+"colonne","C0210","Apport volontaire","2007-10-08",,"C0202",5,"personnalisable",1
+"colonne","C0211","Porte-à-porte","2007-10-08",,"C0203",5,"personnalisable",1
+"colonne","C0212","Regroupement","2007-10-08",,"C0203",5,"personnalisable",1
+"colonne","C0213","Apport volontaire","2007-10-08",,"C0203",5,"personnalisable",1
+"colonne","C0214","Porte-à-porte","2007-10-08",,"C0204",5,"personnalisable",1
+"colonne","C0215","Regroupement","2007-10-08",,"C0204",5,"personnalisable",1
+"colonne","C0216","Apport volontaire","2007-10-08",,"C0204",5,"personnalisable",1
+"colonne","C0217","Porte-à-porte","2007-10-08",,"C0205",5,"personnalisable",1
+"colonne","C0218","Regroupement","2007-10-08",,"C0205",5,"personnalisable",1
+"colonne","C0219","Apport volontaire","2007-10-08",,"C0205",5,"personnalisable",1
+"colonne","C0220","Porte-à-porte","2007-10-08",,"C0206",5,"personnalisable",1
+"colonne","C0221","Regroupement","2007-10-08",,"C0206",5,"personnalisable",1
+"colonne","C0222","Apport volontaire","2007-10-08",,"C0206",5,"personnalisable",1
+"colonne","C0223","Porte-à-porte","2007-10-08",,"C0207",5,"personnalisable",1
+"colonne","C0224","Regroupement","2007-10-08",,"C0207",5,"personnalisable",1
+"colonne","C0225","Apport volontaire","2007-10-08",,"C0207",5,"personnalisable",1
+"colonne","C0227","Ventilation par flux de déchets","2007-10-08","2010-01-01","C0109",4,"personnalisable",0
+"colonne","C0228","Ventilation par flux de déchets","2007-10-08","2010-01-01","C0108",4,"personnalisable",0
+"colonne","C0229","Ventilation par flux de déchets","2007-10-08","2010-01-01","C0110",4,"personnalisable",0
+"colonne","C0230","Emballages verre","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0231","Papiers","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0232","Corps creux","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0233","Corps plats","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0234","Emballages","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0235","Multimatériaux (papiers et emballages en mélange)","2007-10-08","2010-01-01","C0229",5,"personnalisable",1
+"colonne","C0236","Emballages verre","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0237","Papiers","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0238","Corps creux","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0239","Corps plats","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0240","Emballages","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0241","Multimatériaux (papiers et emballages en mélange)","2007-10-08","2010-01-01","C0227",5,"personnalisable",1
+"colonne","C0242","Emballages verre","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0243","Papiers","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0244","Corps creux","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0245","Corps plats","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0246","Emballages","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0247","Emballages et journaux magazines","2007-10-08","2010-01-01","C0228",5,"personnalisable",1
+"colonne","C0248","Déchets de nettoiement","2007-10-08",,"C0124",2,"personnalisable",1
+"colonne","C0249","Déchets en mélange","2007-10-08",,"C0124",2,"personnalisable",1
+"colonne","C0250","Déchets de marché","2007-10-08",,"C0124",2,"personnalisable",1
+"colonne","C0258","Déchets verts","2007-10-10",,"C0124",2,"personnalisable",1
+"colonne","C0266","Déchets en déchèterie","2007-11-16",,"C0014",2,"personnalisable",1
+"colonne","C0267","Déchets verts","2007-11-28",,"C0014",2,"personnalisable",1
+"colonne","C0269","Ventilation collecte / traitement","2008-01-08",,"C0013",2,,0
+"colonne","C0270","Collecte","2008-01-08",,"C0269",3,"personnalisable",1
+"colonne","C0271","Traitement","2008-01-08",,"C0269",3,"personnalisable",1
+"colonne","C0272","Ventilation gravats / hors gravats","2008-06-05","2018-12-31","C0013",2,,0
+"colonne","C0273","Gravats collectés en déchèterie","2008-06-05","2018-12-31","C0272",3,"personnalisable",1
+"colonne","C0274","Déchèteries hors gravats","2008-06-05","2018-12-31","C0272",3,"personnalisable",1
+"colonne","C0276","VHU","2008-06-12",,"C0275",2,,1
+"colonne","C0277","Gestion des dépôts sauvages","2008-06-12",,"C0275",2,,1
+"colonne","C0287","Ventilation collecte / tri","2011-01-01",,"C0286",2,,0
+"colonne","C0289","Tri","2011-01-01",,"C0287",3,"personnalisable",1
+"colonne","C0290","Ventilation par flux de déchets","2011-01-01",,"C0286",2,"personnalisable",0
+"colonne","C0292","Non fibreux (=corps creux)","2011-01-01","2018-12-31","C0290",3,,1
+"colonne","C0293","Fibreux (=corps plats)","2011-01-01","2018-12-31",,3,,1
+"colonne","C0299","Textiles","2014-04-01","2018-12-31","C0275",2,"personnalisable",1
+"colonne","C0300","Ventilation par mode de collecte","2013-07-04",,"C0286",2,"personnalisable",0
+"colonne","C0301","Porte-à-porte","2013-07-04",,"C0300",3,"personnalisable",1
+"colonne","C0302","Regroupement","2013-07-04",,"C0300",3,"personnalisable",1
+"colonne","C0303","Apport volontaire","2013-07-04",,"C0300",3,"personnalisable",1
+"colonne","C0304","Ventilation par mode de collecte","2013-07-04",,"C0291",4,"personnalisable",0
+"colonne","C0305","Ventilation par mode de collecte","2013-07-04",,"C0292",4,"personnalisable",0
+"colonne","C0306","Ventilation par mode de collecte","2013-07-04",,"C0293",4,"personnalisable",0
+"colonne","C0307","Ventilation par mode de collecte","2013-07-04",,"C0295",4,"personnalisable",0
+"colonne","C0308","Ventilation par mode de collecte","2013-07-04",,"C0294",4,"personnalisable",0
+"colonne","C0309","Porte-à-porte","2013-07-04",,"C0307",5,"personnalisable",1
+"colonne","C0310","Regroupement","2013-07-04",,"C0307",5,"personnalisable",1
+"colonne","C0311","Apport volontaire","2013-07-04",,"C0307",5,"personnalisable",1
+"colonne","C0312","Porte-à-porte","2013-07-04",,"C0308",5,"personnalisable",1
+"colonne","C0313","Regroupement","2013-07-04",,"C0308",5,"personnalisable",1
+"colonne","C0281","Ventilation par flux de déchets","2009-01-01","2010-12-07","C0009",2,"personnalisable",0
+"colonne","C0275","Autres services","2008-06-12",,"C0002",1,"personnalisable",1
+"colonne","C0278","Compostage individuel","2009-01-01","2010-03-01","C0002",1,,1
+"colonne","C0291","Papiers","2011-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0294","Emballages","2011-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0295","Multimatériaux (papiers et emballages en mélange)","2011-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0285","Emballages verre","2011-01-01",,"C0002",1,"personnalisable",1
+"colonne","C0286","Papiers et emballages hors verre","2011-01-01",,"C0002",1,"personnalisable",1
+"colonne","C0288","Collecte","2011-01-01",,"C0287",3,"personnalisable",1
+"colonne","C0314","Apport volontaire","2013-07-04",,"C0308",5,"personnalisable",1
+"colonne","C0315","Porte-à-porte","2013-07-04",,"C0306",5,"personnalisable",1
+"colonne","C0316","Regroupement","2013-07-04",,"C0306",5,"personnalisable",1
+"colonne","C0317","Apport volontaire","2013-07-04",,"C0306",5,"personnalisable",1
+"colonne","C0318","Porte-à-porte","2013-07-04",,"C0305",5,"personnalisable",1
+"colonne","C0319","Regroupement","2013-07-04",,"C0305",5,"personnalisable",1
+"colonne","C0320","Apport volontaire","2013-07-04",,"C0305",5,"personnalisable",1
+"colonne","C0321","Porte-à-porte","2013-07-04",,"C0304",5,"personnalisable",1
+"colonne","C0322","Regroupement","2013-07-04",,"C0304",5,"personnalisable",1
+"colonne","C0323","Apport volontaire","2013-07-04",,"C0304",5,"personnalisable",1
+"colonne","C0325","Ventilation collecte / traitement","2019-01-01",,"C0285",2,,0
+"colonne","C0326","Ventilation par mode de collecte","2019-01-01",,"C0285",2,"personnalisable",0
+"colonne","C0327","Collecte","2019-01-01",,"C0325",3,,1
+"colonne","C0328","Traitement","2019-01-01",,"C0325",3,"personnalisable",1
+"colonne","C0329","Ventilation par mode de collecte","2019-01-01",,"C0327",4,"personnalisable",0
+"colonne","C0330","Porte-à-porte","2019-01-01",,"C0329",5,"personnalisable",1
+"colonne","C0331","Regroupement","2019-01-01",,"C0329",5,"personnalisable",1
+"colonne","C0332","Apport volontaire","2019-01-01",,"C0329",5,"personnalisable",1
+"colonne","C0333","Porte-à-porte","2019-01-01",,"C0326",3,"personnalisable",1
+"colonne","C0334","Regroupement","2019-01-01",,"C0326",3,"personnalisable",1
+"colonne","C0335","Apport volontaire","2019-01-01",,"C0326",3,"personnalisable",1
+"colonne","C0340","Ventilation par mode de collecte","2019-01-01",,"C0336",4,"personnalisable",0
+"colonne","C0341","Porte-à-porte","2019-01-01",,"C0340",5,"personnalisable",1
+"colonne","C0342","Regroupement","2019-01-01",,"C0340",5,"personnalisable",1
+"colonne","C0343","Apport volontaire","2019-01-01",,"C0340",5,"personnalisable",1
+"colonne","C0344","Ventilation par mode de collecte","2019-01-01",,"C0337",4,"personnalisable",0
+"colonne","C0345","Porte-à-porte","2019-01-01",,"C0344",5,"personnalisable",1
+"colonne","C0346","Regroupement","2019-01-01",,"C0344",5,"personnalisable",1
+"colonne","C0347","Apport volontaire","2019-01-01",,"C0344",5,"personnalisable",1
+"colonne","C0348","Ventilation par mode de collecte","2019-01-01",,"C0338",4,"personnalisable",0
+"colonne","C0349","Porte-à-porte","2019-01-01",,"C0348",5,"personnalisable",1
+"colonne","C0350","Regroupement","2019-01-01",,"C0348",5,"personnalisable",1
+"colonne","C0351","Apport volontaire","2019-01-01",,"C0348",5,"personnalisable",1
+"colonne","C0352","Ventilation par mode de collecte","2019-01-01",,"C0339",4,"personnalisable",0
+"colonne","C0353","Porte-à-porte","2019-01-01",,"C0352",5,"personnalisable",1
+"colonne","C0354","Regroupement","2019-01-01",,"C0352",5,"personnalisable",1
+"colonne","C0355","Apport volontaire","2019-01-01",,"C0352",5,"personnalisable",1
+"colonne","C0375","Compostage autonome en établissement","2024-01-01","2024-12-31","C0372",2,"personnalisable",1
+"colonne","C0373","Compostage Individuel","2024-01-01","2024-12-31","C0372",2,"personnalisable",1
+"colonne","C0013","Déchets en déchèterie","2007-10-01",,"C0002",1,"personnalisable",1
+"colonne","C0372","Gestion de proximité","2024-01-01","2024-12-31","C0002",1,"personnalisable",1
+"colonne","C0324","Textiles","2019-01-01",,"C0002",1,"personnalisable",1
+"colonne","C0336","Briques-cartons-papiers","2019-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0337","Métaux-plastiques","2019-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0361","Cartons","2024-01-01",,"C0275",2,,1
+"colonne","C0338","Cartons-papiers","2019-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0339","Briques-métaux-plastiques","2019-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0374","Compostage Collectif","2024-01-01","2024-12-31","C0372",2,"personnalisable",1
+"colonne","C0388","Ventilation par mode de collecte","2025-01-01",,"C0387",4,"personnalisable",0
+"colonne","C0085","Ventilation collecte / traitement","2007-10-01",,"C0008",2,,0
+"colonne","C0009","Biodéchets des ménages","2007-10-01","2024-12-31","C0002",1,,1
+"colonne","C0387","Cartons bruns","2025-01-01",,"C0290",3,"personnalisable",1
+"colonne","C0090","Collecte","2007-10-01",,"C0085",3,"personnalisable",1
+"colonne","C0091","Traitement","2007-10-01",,"C0085",3,"personnalisable",1
+"colonne","C0401","Déchets alimentaires","2025-01-01",,"C0002",1,"personnalisable",1
+"colonne","C0113","Regroupement","2007-10-01","2009-12-07","C0111",3,"personnalisable",1
+"colonne","C0282","Déchets de cuisine","2009-01-01","2010-12-07","C0281",3,"personnalisable",1
+"colonne","C0283","Déchets en mélange","2009-01-01","2010-12-07","C0281",3,"personnalisable",1
+"colonne","C0153","Ventilation par mode de collecte","2007-10-01","2010-12-07","C0150",4,"personnalisable",0
+"colonne","C0161","Regroupement","2007-10-01","2010-12-07","C0158",5,"personnalisable",1
+"colonne","C0255","Porte-à-porte","2007-10-10","2010-12-07","C0153",5,"personnalisable",1
+"colonne","C0256","Regroupement","2007-10-10","2010-12-07","C0153",5,"personnalisable",1
+"colonne","C0257","Apport volontaire","2007-10-10","2010-12-07","C0153",5,"personnalisable",1
+"colonne","C0389","Porte-à-porte","2025-01-01",,"C0388",5,"personnalisable",1
+"colonne","C0390","Regroupement","2025-01-01",,"C0388",5,"personnalisable",1
+"colonne","C0391","Apport volontaire","2025-01-01",,"C0388",5,"personnalisable",1
+"colonne","C0116","Ventilation collecte / traitement","2007-10-01","2024-12-31","C0009",2,,0
+"colonne","C0117","Ventilation par mode de collecte","2007-10-01","2024-12-31","C0009",2,"personnalisable",0
+"colonne","C0150","Collecte","2007-10-01","2024-12-31","C0116",3,"personnalisable",1
+"colonne","C0251","Traitement","2007-10-10","2024-12-31","C0116",3,"personnalisable",1
+"colonne","C0252","Porte-à-porte","2007-10-10","2024-12-31","C0117",3,"personnalisable",1
+"colonne","C0253","Regroupement","2007-10-10","2024-12-31","C0117",3,"personnalisable",1
+"colonne","C0254","Apport volontaire","2007-10-10","2024-12-31","C0117",3,"personnalisable",1
+"colonne","C0392","Ventilation Collecte/GPROX","2025-01-01",,"C0008",2,,0
+"colonne","C0394","Gestion de proximité","2025-01-01",,"C0392",3,"personnalisable",1
+"colonne","C0393","Collecte","2025-01-01",,"C0392",3,,1
+"colonne","C0395","Ventilation par mode de collecte","2025-01-01",,"C0393",4,"personnalisable",0
+"colonne","C0398","Ventilation collecte/traitement","2025-01-01",,"C0393",4,,0
+"colonne","C0396","Porte-à-porte","2025-01-01",,"C0395",5,"personnalisable",1
+"colonne","C0397","Apport volontaire","2025-01-01",,"C0395",5,"personnalisable",1
+"colonne","C0399","Collecte","2025-01-01",,"C0398",5,"personnalisable",1
+"colonne","C0400","Traitement","2025-01-01",,"C0398",5,"personnalisable",1
+"colonne","C0111","Ventilation par mode de collecte","2007-10-01",,"C0008",2,"personnalisable",0
+"colonne","C0112","Apport volontaire","2007-10-01",,"C0111",3,"personnalisable",1
+"colonne","C0114","Porte-à-porte","2007-10-01",,"C0111",3,"personnalisable",1
+"colonne","C0158","Ventilation par mode de collecte","2007-10-01",,"C0090",4,"personnalisable",0
+"colonne","C0159","Apport volontaire","2007-10-01",,"C0158",5,"personnalisable",1
+"colonne","C0160","Porte-à-porte","2007-10-01",,"C0158",5,"personnalisable",1
+"colonne","C0402","Ventilation par mode de collecte","2025-01-01",,"C0401",2,"personnalisable",0
+"colonne","C0407","Ventilation collecte/traitement","2025-01-01",,"C0401",2,,0
+"colonne","C0415","Ventilation Collecte/GPROX","2025-01-01",,"C0401",2,,0
+"colonne","C0403","Porte-à-porte","2025-01-01",,"C0402",3,"personnalisable",1
+"colonne","C0404","Apport volontaire","2025-01-01",,"C0402",3,"personnalisable",1
+"colonne","C0405","Composteur grutable","2025-01-01",,"C0402",3,"personnalisable",1
+"colonne","C0406","Abris bac","2025-01-01",,"C0402",3,"personnalisable",1
+"colonne","C0408","Collecte","2025-01-01",,"C0407",3,,1
+"colonne","C0409","Traitement","2025-01-01",,"C0407",3,"personnalisable",1
+"colonne","C0417","Gestion de proximité","2025-01-01",,"C0415",3,"personnalisable",1
+"colonne","C0416","Collecte","2025-01-01",,"C0415",3,,1
+"colonne","C0410","Ventilation par mode de collecte","2025-01-01",,"C0408",4,"personnalisable",0
+"colonne","C0418","Ventilation par mode de collecte","2025-01-01",,"C0416",4,"personnalisable",0
+"colonne","C0423","Ventilation collecte/traitement","2025-01-01",,"C0416",4,,0
+"colonne","C0411","Porte-à-porte","2025-01-01",,"C0410",5,"personnalisable",1
+"colonne","C0412","Apport volontaire","2025-01-01",,"C0410",5,"personnalisable",1
+"colonne","C0413","Composteur grutable","2025-01-01",,"C0410",5,"personnalisable",1
+"colonne","C0414","Abris bac","2025-01-01",,"C0410",5,"personnalisable",1
+"colonne","C0419","Porte-à-porte","2025-01-01",,"C0418",5,"personnalisable",1
+"colonne","C0420","Apport volontaire","2025-01-01",,"C0418",5,"personnalisable",1
+"colonne","C0421","Composteur grutable","2025-01-01",,"C0418",5,"personnalisable",1
+"colonne","C0422","Abris bac","2025-01-01",,"C0418",5,"personnalisable",1
+"colonne","C0424","Collecte","2025-01-01",,"C0423",5,"personnalisable",1
+"colonne","C0425","Traitement","2025-01-01",,"C0423",5,"personnalisable",1
+"colonne","C0356","Ventilation par mode de gestion","2025-01-01",,"C0006",2,"personnalisable",0
+"colonne","C0357","Ventilation par mode de gestion","2025-01-01",,"C0007",2,"personnalisable",0
+"colonne","C0358","Ventilation par mode de gestion","2025-01-01",,"C0285",2,"personnalisable",0
+"colonne","C0359","Ventilation par mode de gestion","2025-01-01",,"C0286",2,"personnalisable",0
+"colonne","C0360","DEEE","2025-01-01",,"C0275",2,,1
+"colonne","C0362","Régie","2025-01-01",,"C0356",3,"personnalisable",1
+"colonne","C0363","Prestation","2025-01-01",,"C0356",3,"personnalisable",1
+"colonne","C0364","Régie","2025-01-01",,"C0357",3,"personnalisable",1
+"colonne","C0365","Prestation","2025-01-01",,"C0357",3,"personnalisable",1
+"colonne","C0366","Régie","2025-01-01",,"C0358",3,"personnalisable",1
+"colonne","C0367","Prestation","2025-01-01",,"C0358",3,"personnalisable",1
+"colonne","C0368","Régie","2025-01-01",,"C0359",3,"personnalisable",1
+"colonne","C0369","Prestation","2025-01-01",,"C0359",3,"personnalisable",1
+"colonne","C0426","Ventilation par mode de collecte","2025-01-01",,"C0288",4,"personnalisable",0
+"colonne","C0427","Porte-à-porte","2025-01-01",,"C0426",5,"personnalisable",1
+"colonne","C0428","Apport volontaire","2025-01-01",,"C0426",5,"personnalisable",1
+"colonne","C0376","Regroupement","2025-01-01",,"C0426",5,"personnalisable",1
+"colonne","C0429","Ventilation par mode de collecte","2025-01-01",,"C0010",2,"personnalisable",0
+"colonne","C0430","Porte-à-porte","2025-01-01",,"C0429",3,"personnalisable",1
+"colonne","C0431","Regroupement","2025-01-01",,"C0429",3,"personnalisable",1
+"colonne","C0432","Apport volontaire","2025-01-01",,"C0429",3,"personnalisable",1
+"ligne","C0001","Charges / Produits","2007-10-01",,,0,,
+"ligne","C0003","Charges","2007-10-01",,"C0001",1,,
+"ligne","C0015","Fonctionnelles","2007-10-01",,"C0003",2,,
+"ligne","C0004","Produits","2007-10-01",,"C0001",1,,
+"ligne","C0016","Techniques","2007-10-01",,"C0003",2,,
+"ligne","C0017","Industriels","2007-10-01",,"C0004",2,,
+"ligne","C0018","Soutiens","2007-10-01",,"C0004",2,,
+"ligne","C0019","Aides","2007-10-01",,"C0004",2,,
+"ligne","C0032","Charges de structure","2007-10-01",,"C0015",3,"regroupable",
+"ligne","C0033","Charges liées à l'intercommunalité de traitement","2007-10-01","2011-03-01","C0015",3,"regroupable",
+"ligne","C0034","Communication","2007-10-01",,"C0015",3,"regroupable",
+"ligne","C0036","Transfert / Transport","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0036_nv","Transfert / Transport non ventilés","2007-10-01",,"C0036",4,,
+"ligne","C0037","Traitement des déchets non dangereux","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0037_nv","Traitement des déchets non dangereux non ventilé","2007-10-01",,"C0037",4,,
+"ligne","C0038","Enlèvement et traitement des déchets dangereux","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0039","Autres charges","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0040","Ventes de produits et d'énergie","2007-10-01",,"C0017",3,"regroupable",
+"ligne","C0040_nv","Ventes de produits et d'énergie non ventilées","2007-10-01",,"C0040",4,,
+"ligne","C0041","Prestations à des tiers","2007-10-01",,"C0017",3,,
+"ligne","C0042","Autres produits","2007-10-01",,"C0017",3,"regroupable",
+"ligne","C0042_nv","Autres produits non ventilés","2007-10-01",,"C0042",4,,
+"ligne","C0043","Soutiens des éco-organismes","2007-10-01",,"C0018",3,"regroupable",
+"ligne","C0043_nv","Soutiens des éco-organismes non ventilés","2007-10-01",,"C0043",4,,
+"ligne","C0044","Reprises des subventions d'investissement","2007-10-01",,"C0019",3,"regroupable",
+"ligne","C0045","Subventions de fonctionnement","2007-10-01",,"C0019",3,"regroupable",
+"ligne","C0046","Aides à l'emploi","2007-10-01",,"C0019",3,"regroupable",
+"ligne","C0052","Conditionnement","2007-10-01","2010-12-07","C0037",4,,
+"ligne","C0053","Compostage","2007-10-01",,"C0037",4,,
+"ligne","C0053_nv","Compostage non ventilé","2007-10-01",,"C0053",5,,
+"ligne","C0054","Incinération","2007-10-01",,"C0037",4,,
+"ligne","C0054_nv","Incinération non ventilée","2007-10-01",,"C0054",5,,
+"ligne","C0055","Autre valorisation matière ou énergie","2007-10-01",,"C0037",4,,
+"ligne","C0055_nv","Autre valorisation matière ou énergie non ventilée","2007-10-01",,"C0055",5,,
+"ligne","C0056","Stockage de déchets non dangereux","2007-10-01",,"C0037",4,,
+"ligne","C0056_nv","Stockage de déchets non dangereux non ventilé","2007-10-01",,"C0056",5,,
+"ligne","C0057","Méthanisation","2007-10-01",,"C0037",4,,
+"ligne","C0057_nv","Méthanisation non ventilée","2007-10-01",,"C0057",5,,
+"ligne","C0060","Stabilisation de déchets organiques","2007-10-01","2011-03-01","C0037",4,,
+"ligne","C0065","Matériaux","2007-10-01",,"C0040",4,,
+"ligne","C0066","Compost","2007-10-01",,"C0040",4,,
+"ligne","C0067","Energie","2007-10-01",,"C0040",4,,
+"ligne","C0073","Valorisation matière","2007-10-01",,"C0055",5,,
+"ligne","C0074","Transfert","2007-10-01",,"C0036",4,,
+"ligne","C0075","Transport","2007-10-01",,"C0036",4,,
+"ligne","C0076","Valorisation énergie","2007-10-01",,"C0055",5,,
+"ligne","C0077","Stockage","2007-10-01",,"C0056",5,,
+"ligne","C0050","Pré-collecte","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0051","Collecte","2007-10-01",,"C0016",3,"regroupable",
+"ligne","C0078","Garanties financières","2007-10-01",,"C0056",5,,
+"ligne","C0095","Post exploitation","2007-10-01",,"C0056",5,,
+"ligne","C0096","Traitement des inertes","2007-10-01",,"C0037",4,,
+"ligne","C0096_nv","Traitement des inertes non ventilé","2007-10-01",,"C0096",5,,
+"ligne","C0097","Gestion des REFIOM","2007-10-01",,"C0054",5,,
+"ligne","C0098","Gestion des mâchefers","2007-10-01",,"C0054",5,,
+"ligne","C0099","Incinération","2007-10-01",,"C0054",5,,
+"ligne","C0021","Contribution des collectivités","2007-10-01",,"C0005",2,,
+"ligne","C0017_nv","Industriels non ventilés","2007-10-01","2024-12-31","C0017",3,"regroupable",
+"ligne","C0018_nv","Soutiens non ventilés","2007-10-01","2024-12-31","C0018",3,"regroupable",
+"ligne","C0019_nv","Aides non ventilées","2007-10-01","2024-12-31","C0019",3,"regroupable",
+"ligne","C0104","Tri","2007-10-01","2010-12-07","C0037",4,,
+"ligne","C0259","Communication","2007-11-07","2010-12-07","C0034",4,,
+"ligne","C0260","Prévention","2007-11-07","2010-03-01","C0034",4,,
+"ligne","C0261","TGAP stockage","2007-11-13",,"C0056",5,,
+"ligne","C0262","Regroupement / tri","2007-11-16",,"C0096",5,,
+"ligne","C0263","Plate forme de valorisation","2007-11-16",,"C0096",5,,
+"ligne","C0264","Stockage d'inertes","2007-11-16",,"C0096",5,,
+"ligne","C0265","Autres exutoires","2007-11-16",,"C0096",5,,
+"ligne","C0279","TGAP incinération","2009-02-18",,"C0054",5,,
+"ligne","C0280","Tri mécano-biologique","2009-02-18",,"C0037",4,,
+"ligne","C0284","Prévention","2010-03-01",,"C0016",3,,
+"ligne","C0296","Tri et conditionnement","2010-12-07",,"C0037",4,,
+"ligne","C0296_nv","Tri et conditionnement non ventilés","2010-12-07",,"C0296",5,,
+"ligne","C0297","Conditionnement","2010-12-07","2018-12-31","C0296",5,,
+"ligne","C0298","Tri","2010-12-07","2018-12-31","C0296",5,,
+"ligne","C0356","Soutien emballages","2019-01-01",,"C0043",4,,
+"ligne","C0357","Soutien papiers","2019-01-01",,"C0043",4,,
+"ligne","C0358","Soutien D3E","2019-01-01",,"C0043",4,,
+"ligne","C0359","Soutien DDS","2019-01-01",,"C0043",4,,
+"ligne","C0360","Soutien DEA","2019-01-01",,"C0043",4,,
+"ligne","C0361","Soutien TLC","2019-01-01",,"C0043",4,,
+"ligne","C0362","Autres soutiens","2019-01-01",,"C0043",4,,
+"ligne","C0363","CSR","2019-01-01",,"C0037",4,,
+"ligne","C0364","Tri hors traitement des refus","2019-01-01",,"C0296",5,,
+"ligne","C0365","Traitement des refus de tri","2019-01-01",,"C0296",5,,
+"ligne","C0366","Compostage hors traitement des refus","2019-01-01",,"C0053",5,,
+"ligne","C0367","Traitement des refus de compostage","2019-01-01",,"C0053",5,,
+"ligne","C0368","Méthanisation hors traitement des refus","2019-01-01",,"C0057",5,,
+"ligne","C0369","Traitement des refus de méthanisation","2019-01-01",,"C0057",5,,
+"ligne","C0370","Versements des exploitants","2019-01-01",,"C0042",4,,
+"ligne","C0371","Divers","2019-01-01",,"C0042",4,,
+"ligne","C0035","Collecte et pré-collecte","2007-10-01","2023-12-31","C0016",3,,
+"ligne","C0022","Frais de gestion pour le recouvrement des contributions","2007-10-01","2011-03-01","C0001",1,,
+"ligne","C0023","Montant de la TVA acquittée","2007-10-01",,"C0001",1,,
+"ligne","C0047","TEOM","2007-10-01",,"C0005",2,,
+"ligne","C0048","REOM","2007-10-01",,"C0005",2,,
+"ligne","C0049","Redevance spéciale & facturations usagers","2007-10-01",,"C0005",2,,
+"ligne","C0049_nv","Redevance spéciale & facturations usagers non ventilées","2007-10-01",,"C0049",3,,
+"ligne","C0101","Facturation à l'usager","2007-10-01",,"C0049",3,,
+"ligne","C0100","Redevance spéciale","2007-10-01",,"C0049",3,,
+"ligne","C0005","Financement déchets","2007-10-01",,"C0001",1,,
+"ligne","C0086","Report de l'année précédente ( + ou - )","2007-10-01","2011-03-01","C0001",1,,

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "667e961a6f66d474ddf55d32",
+  "title": "Collectivités exerçant la compétence collecte et/ou traitement de déchets en Bretagne",
+  "page": "https://www.data.gouv.fr/datasets/collectivites-exercant-la-competence-collecte-et-ou-traitement-de-dechets-en-bretagne",
+  "organization": "Observatoire de l'environnement en Bretagne",
+  "description": "Liste des collectivités bretonnes exerçant la compétence collecte et/ou traitement des déchets au 1er janvier 2026 (historique depuis 2012).\n\n**Notes :** La compétence de gestion des déchets ménagers et assimilés est confiée aux communes, qui peuvent transférer à un établissement public de coopération intercommunale (EPCI) ou à un syndicat mixte soit l'ensemble de la compétence, soit la partie de cette compétence comprenant le traitement, la mise en décharge des déchets ultimes ainsi que les opérations de transport, de tri ou de stockage qui s'y rapportent.\n\n**Sources :** OEB, Insee, DGCL, Banatic, Sinoe. 2026. \n\n**Aller plus loin :** consulter la méthodologie dans la datavisualisation <a href=\"https://bretagne-environnement.fr/tableau-de-bord/les-organisations-territoriales-de-collecte-et-de-traitement-des-dechets\" target=\"_blank\">\"Les organisations territoriales des acteurs des déchets en Bretagne\"</a> réalisée par l'OEB. ",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.bretagne-environnement.fr/data-fair/api/v1/datasets/collectivites-exercant-la-competence-collecte-etou-traitement-de-dechets-en-bretagne/raw",
+  "last_modified": "2026-04-09T10:24:56+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

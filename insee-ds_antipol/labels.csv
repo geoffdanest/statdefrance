@@ -1,0 +1,114 @@
+"COD_VAR";"LIB_VAR";"COD_MOD";"LIB_MOD";"GEO_OBJECT"
+"ACTIVITY";"Activité économique";"13";"Fabrication de textiles";
+"ACTIVITY";"Activité économique";"14";"Industrie de l'habillement";
+"ACTIVITY";"Activité économique";"15";"Industrie du cuir et de la chaussure";
+"ACTIVITY";"Activité économique";"16";"Travail du bois et fabrication d'articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie";
+"ACTIVITY";"Activité économique";"17";"Industrie du papier et du carton";
+"ACTIVITY";"Activité économique";"18";"Imprimerie et reproduction d'enregistrements";
+"ACTIVITY";"Activité économique";"19";"Cokéfaction et raffinage";
+"ACTIVITY";"Activité économique";"20";"Industrie chimique";
+"ACTIVITY";"Activité économique";"21";"Industrie pharmaceutique";
+"ACTIVITY";"Activité économique";"22";"Fabrication de produits en caoutchouc et en plastique";
+"ACTIVITY";"Activité économique";"23";"Fabrication d'autres produits minéraux non métalliques";
+"ACTIVITY";"Activité économique";"24";"Métallurgie";
+"ACTIVITY";"Activité économique";"25";"Fabrication de produits métalliques, à l'exception des machines et des équipements";
+"ACTIVITY";"Activité économique";"26";"Fabrication de produits informatiques, électroniques et optiques";
+"ACTIVITY";"Activité économique";"27";"Fabrication d'équipements électriques";
+"ACTIVITY";"Activité économique";"28";"Fabrication de machines et équipements n.c.a.";
+"ACTIVITY";"Activité économique";"29";"Industrie automobile";
+"ACTIVITY";"Activité économique";"30";"Fabrication d'autres matériels de transport";
+"ACTIVITY";"Activité économique";"31";"Fabrication de meubles";
+"ACTIVITY";"Activité économique";"32";"Autres industries manufacturières";
+"ACTIVITY";"Activité économique";"33";"Réparation et installation de machines et d'équipements";
+"ACTIVITY";"Activité économique";"35";"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné";
+"ACTIVITY";"Activité économique";"B";"Industries extractives";
+"ACTIVITY";"Activité économique";"C10T12";"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";
+"ACTIVITY";"Activité économique";"B_C_OTH_ANTIPOL";"Autres industries";
+"ACTIVITY";"Activité économique";"C16_17";"Industries du bois et papier";
+"ACTIVITY";"Activité économique";"C20_21";"Fabrication de produits chimiques, de produits pharmaceutiques de base et de préparations pharmaceutiques";
+"ACTIVITY";"Activité économique";"C24_25";"Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements";
+"ACTIVITY";"Activité économique";"_T";"Total";
+"COMPARE_TIME";"Indicateur de comparabilité aux années antérieures";"_Z";"Non applicable";
+"COMPARE_TIME";"Indicateur de comparabilité aux années antérieures";"0_2012";"Comparable aux années antérieures à 2012";
+"COMPARE_TIME";"Indicateur de comparabilité aux années antérieures";"1_2012T2020";"Comparable aux années postérieures à 2012 et antérieures à 2021";
+"COMPARE_TIME";"Indicateur de comparabilité aux années antérieures";"1_2021";"Comparable aux années postérieures à 2021";
+"CONF_STATUS";"Statut de confidentialité";"F";"Diffusable";
+"CONF_STATUS";"Statut de confidentialité";"C";"Confidentiel (secret statistique)";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"222";"Investissements spécifiques : Mesure et contrôle";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"223";"Investissements spécifiques : Valorisation (Recyclage, économie d’énergie et énergie renouvelable)";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"221";"Investissements spécifiques : Prétraitement, traitement et élimination";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"22";"Investissements spécifiques";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"21";"Investissements dans des technologies de production moins polluantes";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"224";"Investissements spécifiques : Prévention des pollutions";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"34";"Dépenses courantes : Autres";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"4";"Nombre d'établissements";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"1";"Total des études";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"33";"Dépenses courantes : Management environnemental";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"11";"Études réglementaires ";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"31";"Dépenses courantes : Fonctionnement et entretien des équipements entièrement dédiés à l’environnement";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"2";"Total des investissements";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"12";"Études en prévision d’un investissement";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"5";"Total des dépenses antipollution (investissement et études)";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"3";"Total des dépenses courantes";
+"ENVT_DEPINV";"Type de dépense pour l'environnement";"32";"Dépenses courantes : Dépenses de gestion des déchets et diverses taxes";
+"ENVT_DOMAIN";"Domaine d'environnement";"4";"Protection du climat";
+"ENVT_DOMAIN";"Domaine d'environnement";"6";"Bruit et vibrations";
+"ENVT_DOMAIN";"Domaine d'environnement";"2";"Déchets hors radioactifs";
+"ENVT_DOMAIN";"Domaine d'environnement";"1";"Eaux usées et gestion durable de l’eau";
+"ENVT_DOMAIN";"Domaine d'environnement";"5";"Captage et stockage du carbone";
+"ENVT_DOMAIN";"Domaine d'environnement";"3A";"Économie d’énergie";
+"ENVT_DOMAIN";"Domaine d'environnement";"3B";"Énergie renouvelable";
+"ENVT_DOMAIN";"Domaine d'environnement";"8";"Sites, paysages et biodiversité";
+"ENVT_DOMAIN";"Domaine d'environnement";"9";"Autres";
+"ENVT_DOMAIN";"Domaine d'environnement";"7";"Sols, eaux souterraines et de surface";
+"ENVT_DOMAIN";"Domaine d'environnement";"_T";"Total";
+"NB_EMPL";"Nombre d'employés";"E1000T1999";"De 1000 à 1999";
+"NB_EMPL";"Nombre d'employés";"E100T249";"De 100 à 249";
+"NB_EMPL";"Nombre d'employés";"E20T49";"De 20 à 49";
+"NB_EMPL";"Nombre d'employés";"E250T499";"De 250 à 499";
+"NB_EMPL";"Nombre d'employés";"E500T999";"De 500 à 999";
+"NB_EMPL";"Nombre d'employés";"E50T99";"De 50 à 99";
+"NB_EMPL";"Nombre d'employés";"EGE2000";"2000 ou plus";
+"NB_EMPL";"Nombre d'employés";"_T";"Total";
+"OBS_STATUS";"Statut de l'observation";"A";"Normale";
+"OBS_STATUS";"Statut de l'observation";"L";"Valeur manquante : les données existent mais ne sont pas collectées (non disponible : nd)";
+"OBS_STATUS";"Statut de l'observation";"M";"Valeur manquante : les données n’existent pas (sans objet : so)";
+"TIME_PERIOD";"Période temporelle";"2024";"2024";
+"TIME_PERIOD";"Période temporelle";"2007";"2007";
+"TIME_PERIOD";"Période temporelle";"2008";"2008";
+"TIME_PERIOD";"Période temporelle";"2009";"2009";
+"TIME_PERIOD";"Période temporelle";"2010";"2010";
+"TIME_PERIOD";"Période temporelle";"2011";"2011";
+"TIME_PERIOD";"Période temporelle";"2012";"2012";
+"TIME_PERIOD";"Période temporelle";"2013";"2013";
+"TIME_PERIOD";"Période temporelle";"2014";"2014";
+"TIME_PERIOD";"Période temporelle";"2015";"2015";
+"TIME_PERIOD";"Période temporelle";"2016";"2016";
+"TIME_PERIOD";"Période temporelle";"2017";"2017";
+"TIME_PERIOD";"Période temporelle";"2018";"2018";
+"TIME_PERIOD";"Période temporelle";"2019";"2019";
+"TIME_PERIOD";"Période temporelle";"2020";"2020";
+"TIME_PERIOD";"Période temporelle";"2021";"2021";
+"TIME_PERIOD";"Période temporelle";"2022";"2022";
+"TIME_PERIOD";"Période temporelle";"2023";"2023";
+"UNIT_MEASURE";"Unité de mesure";"EUR";"Euros";
+"UNIT_MEASURE";"Unité de mesure";"PN";"Nombre";
+"UNIT_MULT";"Quantité d'unités (en puissance de 10)";"6";"Millions";
+"UNIT_MULT";"Quantité d'unités (en puissance de 10)";"0";"Unités";
+GEO_OBJECT;Niveau géographique;FRANCE;France;
+GEO_OBJECT;Niveau géographique;REG;Région;
+GEO_OBJECT;Niveau géographique;OTHER;Autre type de territoires;
+"GEO";"Géographie";"F";"France";"FRANCE"
+"GEO";"Géographie";"11";"Île-de-France";"REG"
+"GEO";"Géographie";"24";"Centre-Val de Loire";"REG"
+"GEO";"Géographie";"27";"Bourgogne-Franche-Comté";"REG"
+"GEO";"Géographie";"28";"Normandie";"REG"
+"GEO";"Géographie";"32";"Hauts-de-France";"REG"
+"GEO";"Géographie";"44";"Grand Est";"REG"
+"GEO";"Géographie";"52";"Pays de la Loire";"REG"
+"GEO";"Géographie";"53";"Bretagne";"REG"
+"GEO";"Géographie";"75";"Nouvelle-Aquitaine";"REG"
+"GEO";"Géographie";"76";"Occitanie";"REG"
+"GEO";"Géographie";"84";"Auvergne-Rhône-Alpes";"REG"
+"GEO";"Géographie";"93_94";"Provence-Alpes-Côte d’Azur et Corse";"OTHER"
+"GEO";"Géographie";"DOM";"Départements d'Outre-mer";"OTHER"

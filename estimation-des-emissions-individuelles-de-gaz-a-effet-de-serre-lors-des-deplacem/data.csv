@@ -1,0 +1,47 @@
+Nom,Libellé,Longueur,Type
+LIEU_RESID,Lieu de résidence (commune ou arrondissement municipal),5,Texte
+LIEU_TRAV,Lieu de travail (commune ou arrondissement municipal ou commune frontalière à l'étranger),5,Texte
+IPONDI,Poids de l'individu,19,Numérique
+MODTRANS,Mode de transport principal le plus souvent utilisé pour aller travailler,1,Texte
+AGEREVQ,Âge quinquennal en années révolues,3,Texte
+CS1,Catégorie socioprofessionnelle en 8 postes,1,Texte
+DIPL,Diplôme le plus élevé,2,Texte
+EMPL,Condition d'emploi,2,Texte
+ILT,Indicateur du lieu de travail,1,Texte
+ILTUU,Indicateur urbain du lieu de travail,1,Texte
+IMMI,Situation quant à l'immigration,1,Texte
+INATC,Indicateur de nationalité condensé (Français/Étranger),1,Texte
+INEEM,Nombre d'élèves; étudiants ou stagiaires âgés de 14 ans ou plus du ménage,2,Texte
+INPOM,Nombre de personnes actives ayant un emploi du ménage,2,Texte
+MOCO,Mode de cohabitation,2,Texte
+NA5,Activité économique regroupée en 5 postes,2,Texte
+NPERR,Nombre de personnes du ménage (regroupé),1,Texte
+SEXE,Sexe,1,Texte
+STAT,Statut professionnel,2,Texte
+STOCD,Statut d'occupation détaillé du logement,2,Texte
+TP,Temps de travail,1,Texte
+TYPL,Type de logement,1,Texte
+TYPMR,Type de ménage regroupé (en 9 postes),2,Texte
+VOIT,Nombre de voitures du ménage,1,Texte
+DEP_RESID,Département du lieu de résidence,3,Texte
+REG_RESID,Région du lieu de résidence,2,Texte
+CATEAAV20_RESID,Catégorie de la commune de résidence dans le zonage en aires d'attraction des villes 2020,2,Texte
+TAAV2017_RESID,Tranche de taille de l'aire d'attraction des villes 2020 du lieu de résidence,1,Texte
+DENS7_2025_RESID,Degré de densité (7 postes) du lieu de résidence – grille communale de densité 2025,1,Texte
+EPCI_EPT_RESID,EPCI du lieu de résidence (détail EPT pour la Métropole du Grand Paris),8,Texte
+ZE2020_RESID,Zone d'emploi 2020 du lieu de résidence,4,Texte
+AAV20_RESID,Aire d'attraction des villes 2020 du lieu de résidence,3,Texte
+DEP_TRAV,Département du lieu de travail,3,Texte
+REG_TRAV,Région du lieu de travail,2,Texte
+CATEAAV20_TRAV,Catégorie de la commune de travail dans le zonage en aires d'attraction des villes 2020,2,Texte
+TAAV2017_TRAV,Tranche de taille de l'aire d'attraction des villes 2020 du lieu de travail,1,Texte
+DENS7_2025_TRAV,Degré de densité (7 postes) du lieu de travail – grille communale de densité 2025,1,Texte
+EPCI_EPT_TRAV,EPCI du lieu de travail (détail EPT pour la Métropole du Grand Paris),8,Texte
+ZE2020_TRAV,Zone d'emploi 2020 du lieu de travail,4,Texte
+AAV20_TRAV,Aire d'attraction des villes 2020 du lieu de travail,3,Texte
+DIST,Distance domicile-travail moyenne (en km),19,Numérique
+DUREE,Durée du trajet domicile-travail sans congestion (en minutes),19,Numérique
+CHAMP_CO2,Champ pour le calcul d'émissions de CO2 (vrai ou faux),5,True ou False
+DIST_HEBDO,Distance moyenne parcourue par personne et par semaine compte-tenu de la fréquence et des détours ou raccourcis (en km),19,Numérique
+CARBU_HEBDO,Carburant moyen consommé par personne et par semaine pour les déplacements domicile-travail en voiture (en litres),19,Numérique
+CO2_HEBDO,Émissions de CO2 moyennes par personne et par semaine pour les déplacements domicile-travail (en grammes d'équivalent CO2),19,Numérique

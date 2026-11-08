@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:fc-tc-nationaux-mensuels-eolien-solaire",
+  "title": "Facteurs de charge et taux de couverture nationaux mensuels éoliens et solaires",
+  "page": "https://odre.opendatasoft.com/explore/dataset/fc-tc-nationaux-mensuels-eolien-solaire/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Facteurs de charge (%) et taux de couverture (%) mensuels pour l'éolien et le solaire. Facteur de charge : rapport entre l'électricité effectivement produite par la filière et celle qu'elle aurait pu produire si elle avait fonctionné à sa puissance maximale théorique durant la même période Taux de couverture : part de la consommation couverte par la production de la filière Facteurs de charge/taux de couverture mensuel minimum/maximum : valeur minimale/maximale observée sur une moyenne de dix minutes durant le mois Méthodologie de calcul utilisé : Facteur de charge : On définit le facteur de charge instantané (en %) comme le rapport entre la puissance effective à un instant donné et la puissance maximale (ou puissance installée) en fin de mois. Pour chaque mois, on calcule les facteurs de charge correspondant à chaque point de puissance relevé (au pas demi-horaire). La colonne FC minimum mensuel (resp. FC moyen mensuel et FC maximum mensuel) correspond au minimum (resp. à la moyenne et au maximum) des facteurs de charge instantanés calculés par mois. Taux de couverture : De la même façon, on définit le taux de couverture instantané (en %) comme le rapport entre la puissance instantanée produite par les moyens de production de la filière et la puissance instantanée consommée en France au même instant. Pour chaque mois, on calcule les taux de couverture correspondant à chaque point de puissance relevé (au pas demi-horaire). La colonne TC minimum mensuel (resp. TC moyen mensuel ",
+  "resource_title": "Facteurs de charge et taux de couverture nationaux mensuels éoliens et solaires",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/fc-tc-nationaux-mensuels-eolien-solaire/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-03T09:09:12+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "consommation électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

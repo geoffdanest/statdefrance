@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6010206e7aa742eb447930f7",
+  "title": "Données relatives aux personnes vaccinées contre la Covid-19",
+  "page": "https://www.data.gouv.fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1",
+  "organization": "Santé publique France",
+  "description": "🆕**24/11/2022**\nPublication de nouveaux indicateurs à compter de ce jour :\n1. Couverture vaccinale du vaccin contre la COVID-19, personnes vaccinées avec trois doses de rappel (`n_3_rappel`, `couv_3_rappel`)\n2. Couverture vaccinale du vaccin contre la COVID-19, personnes vaccinées avec un rappel adapté aux variants Omicron (`n_rappel_biv`, `n_cum_rappel_biv`, `couv__rappel_biv`)  \n\nSanté publique France met à jour les référentiels géographiques et de population, utilisés pour la production et la diffusion des indicateurs de suivi de l’épidémie de COVID-19. Cette actualisation sera effective le **7 juillet 2022** . Elle est amenée à être renouvelée chaque année.\n\n**MAJ 01/07/2021**\nCes ressources ne sont actualisées que les **jours ouvrés**.\n\n### Vaccination contre la COVID-19 \n\nDès le lancement de la campagne de vaccination, les autorités sanitaires ont disposé d’informations permettant un suivi quotidien de l’avancée et du déploiement de la campagne sur le territoire. Celles-ci, recueillies auprès des établissements pour personnes âgées et des centres de vaccination, étaient transmises par les Agences régionales de santé. \n\nParallèlement, l’Assurance maladie a élaboré le système d’information Vaccin Covid (VAC-SI), qui est depuis pleinement opérationnel après un travail d’analyse de l’exhaustivité et de la complétude des données.\n\nLe système d’information Vaccin Covid est alimenté par les professionnels de santé réalisant les vaccinations. \n\nSur la base de l’exploitation de ",
+  "resource_title": "vacsi-tot-v-dep-2023-07-13-15h51.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/20230713-135138/vacsi-tot-v-dep-2023-07-13-15h51.csv",
+  "last_modified": "2023-07-13T15:51:38.382000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

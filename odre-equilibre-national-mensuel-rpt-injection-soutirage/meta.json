@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:equilibre-national-mensuel-rpt-injection-soutirage",
+  "title": "Equilibre national mensuel RPT injection = soutirage",
+  "page": "https://odre.opendatasoft.com/explore/dataset/equilibre-national-mensuel-rpt-injection-soutirage/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données présente les valeurs mensuelles suivantes : - Injections nettes sur le réseau RTE par filière - Les soutirages nets sur les réseaux de distribution - Les soutirages bruts des clients directs - L’énergie soutirée par le pompage - L’énergie soutirée par le stockage - Solde des échanges physiques - Les pertes sur le réseau de RTE (dépublié temporairement) Pour information, le champ \"pertes\" a été retiré et sera de nouveau disponible dès que possible. INJECTIONS SUR LE RESEAU RTE : La “production injectée” ou “injection” désigne l’énergie effectivement livrée par une centrale de production sur le réseau RPT ; elle est mesurée à la limite de propriété entre le producteur et, selon les cas, le gestionnaire de réseau de transport ou de distribution. INJECTIONS NETTES SUR LE RESEAU RTE : Injection, défalcation faite de la consommation des services auxiliaires. SOUTIRAGE DES RESEAUX DE DISTRIBUTION SUR LE RESEAU DE RTE : Le soutirage des réseaux de distribution sur le réseau de transport correspond à l’énergie nette livrée par le réseau de RTE aux gestionnaires de réseau de distribution, c’est à dire à l’énergie brute soutirée par ceux-ci diminuée, le cas échéant, de l’énergie refoulée. SOUTIRAGE DES CLIENTS DIRECTS SUR LE RESEAU DE RTE : Le soutirage des clients directs sur le réseau de transport désigne l’énergie livrée par le réseau de RTE à des clients consommateurs finals. ENERGIE SOUTIREE POUR LE POMPAGE : L’énergie soutirée pour le pompage est l’énergie prélev",
+  "resource_title": "Equilibre national mensuel RPT injection = soutirage",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/equilibre-national-mensuel-rpt-injection-soutirage/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-03T09:41:32+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "consommation électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

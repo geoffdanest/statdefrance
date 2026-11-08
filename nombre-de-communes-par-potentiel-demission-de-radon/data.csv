@@ -1,0 +1,12 @@
+Colonne,Description
+date_mesure,"Date de prise en compte de la mesure. Attention, en fonction des indicateurs et des sources, cette année peut représenter des mesures finalisées au 31 décembre de l'année précédente."
+geocode_commune,Code officiel géographique de l'INSEE de la commune
+libelle_commune,Libellé de la commune venant de l'INSEE
+geocode_epci,Code officiel géographique de l'INSEE de l'EPCI
+libelle_epci,Libellé de l'EPCI venant de l'INSEE
+geocode_departement,Code officiel géographique de l'INSEE du département
+libelle_departement,Libellé du département venant de l'INSEE
+geocode_region,Code officiel géographique de l'INSEE pour la région
+libelle_region,Libellé de la région venant de l'INSEE
+classe_potentiel_radon,"Classe de potentiel d'émanation de radon de la commune (1 : potentiel faible, 2 : potentiel faible avec facteurs géologiques aggravants, 3 : potentiel significatif), issue de la cartographie réglementaire établie par l'IRSN (désormais ASNR) en application de l'arrêté du 27 juin 2018 et diffusée par Géorisques."
+valeur,Valeur de l'indicateur en communes : Nombre de communes par potentiel d'émission de radon

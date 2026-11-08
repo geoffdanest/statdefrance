@@ -1,0 +1,55 @@
+Nom,Libellé,Longueur,Type,Ordre
+siren,Numéro Siren,9,Texte,1
+nic,Numéro interne de classement de l'établissement,5,Texte,2
+siret,Numéro Siret,14,Texte,3
+statutDiffusionEtablissement,Statut de diffusion de l’établissement,1,Liste de codes,4
+dateCreationEtablissement,Date de création de l’établissement,10,Date,5
+trancheEffectifsEtablissement,Tranche d’effectif salarié de l’établissement,2,Liste de codes,6
+anneeEffectifsEtablissement,Année de validité de la tranche d’effectif salarié de l’établissement,4,Date,7
+activitePrincipaleRegistreMetiersEtablissement,Activité exercée par l’artisan inscrit au registre des métiers,6,Liste de codes,8
+dateDernierTraitementEtablissement,Date du dernier traitement de l’établissement dans le répertoire Sirene,23,Date,9
+etablissementSiege,Qualité de siège ou non de l’établissement,5,Texte,10
+nombrePeriodesEtablissement,Nombre de périodes de l’établissement,2,Numérique,11
+complementAdresseEtablissement,Complément d’adresse,100,Texte,12
+numeroVoieEtablissement,Premier numéro de voie de l’établissement,9,Texte,13
+indiceRepetitionEtablissement,Indice de répétition du premier numéro dans la voie,4,Texte,14
+dernierNumeroVoieEtablissement,Dernier numéro de voie de l’établissement,9,Texte,15
+indiceRepetitionDernierNumeroVoieEtablissement,Indice de répétition du dernier numéro dans la voie,4,Texte,16
+typeVoieEtablissement,Type de voie,30,Texte,17
+libelleVoieEtablissement,Libellé de voie,100,Texte,18
+codePostalEtablissement,Code postal,9,Texte,19
+libelleCommuneEtablissement,Libellé de la commune,100,Texte,20
+libelleCommuneEtrangerEtablissement,Libellé de la commune pour un établissement situé à l’étranger,100,Texte,21
+distributionSpecialeEtablissement,Distribution spéciale de l’établissement,4,Texte,22
+codeCommuneEtablissement,Code commune de l’établissement,5,Liste de codes,23
+codeCedexEtablissement,Code cedex,4,Texte,24
+libelleCedexEtablissement,Libellé du code cedex,4,Texte,25
+codePaysEtrangerEtablissement,Code pays pour un établissement situé à l’étranger,5,Liste de codes,26
+libellePaysEtrangerEtablissement,Libellé du pays pour un établissement situé à l’étranger,100,Texte,27
+identifiantAdresseEtablissement,identifiant de l'adresse,15,Texte,28
+coordonneeLambertAbscisseEtablissement ,Abscisse des coordonnees Lambert de l'adresse,18,Texte,29
+coordonneeLambertOrdonneeEtablissement ,Ordonnée des coordonnees Lambert de l'adresse,18,Texte,30
+complementAdresse2Etablissement,Complément d’adresse secondaire,4,Texte,31
+numeroVoie2Etablissement,Numéro de la voie de l’adresse secondaire,4,Texte,32
+indiceRepetition2Etablissement,Indice de répétition dans la voie pour l’adresse secondaire,4,Texte,33
+typeVoie2Etablissement,Type de voie de l’adresse secondaire,4,Texte,34
+libelleVoie2Etablissement,Libellé de voie de l’adresse secondaire,4,Texte,35
+codePostal2Etablissement,Code postal de l’adresse secondaire,4,Texte,36
+libelleCommune2Etablissement,Libellé de la commune de l’adresse secondaire,null,Texte,37
+libelleCommuneEtranger2Etablissement,Libellé de la commune de l’adresse secondaire pour un établissement situé à l’étranger,null,Texte,38
+distributionSpeciale2Etablissement,Distribution spéciale de l’adresse secondaire de l’établissement,4,Texte,39
+codeCommune2Etablissement,Code commune de l’adresse secondaire,null,Texte,40
+codeCedex2Etablissement,Code cedex de l’adresse secondaire,4,Texte,41
+libelleCedex2Etablissement,Libellé du code cedex de l’adresse secondaire,4,Texte,42
+codePaysEtranger2Etablissement,Code pays de l’adresse secondaire pour un établissement situé à l’étranger,null,Texte,43
+libellePaysEtranger2Etablissement,Libellé du pays de l’adresse secondaire pour un établissement situé à l’étranger,null,Texte,44
+dateDebut,Date de début d'une période d'historique d'un établissement,10,Date,45
+etatAdministratifEtablissement,État administratif de l’établissement,1,Liste de codes,46
+enseigne1Etablissement,Première ligne d’enseigne de l’établissement,50,Texte,47
+enseigne2Etablissement,Deuxième ligne d’enseigne de l’établissement,50,Texte,48
+enseigne3Etablissement,Troisième ligne d’enseigne de l’établissement,50,Texte,49
+denominationUsuelleEtablissement,Dénomination usuelle de l’établissement,100,Texte,50
+activitePrincipaleEtablissement,Activité principale de l'établissement,6,Liste de codes,51
+nomenclatureActivitePrincipaleEtablissement,Nomenclature d’activité de la variable activitePrincipaleEtablissement,8,Liste de codes,52
+caractereEmployeurEtablissement,Caractère employeur de l’établissement,1,Liste de codes,53
+activitePrincipaleNAF25Etablissement,Activité principale de l'établissement en nomenclature NAF25,6,Liste de codes,54

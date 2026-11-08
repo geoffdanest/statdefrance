@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_TICM_EQUIPEMENT",
+  "title": "Équipement des ménages en internet ",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICM_EQUIPEMENT",
+  "organization": "Insee",
+  "description": "Données annuelles sur le taux d'équipement des ménages en Internet à domicile et également en haut débit fixe ou mobile, déclinées par sexe, âge et catégorie socio-professionnelle (PCS).",
+  "resource_title": "DS_TICM_EQUIPEMENT",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_TICM_EQUIPEMENT/DS_TICM_EQUIPEMENT_CSV_FR",
+  "last_modified": "2025-12-02T15:00:33.948988357",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 5474,
+  "origin": "actu",
+  "label": "domicile",
+  "query": "domicile",
+  "news": [
+    {
+      "title": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Fusillade en Pologne : Trois corps à son domicile, « fasciné par l’extrême droite »… Ce que l’on sait sur le tireur",
+      "link": "https://www.20minutes.fr/monde/pologne/4261256-20261108-fusillade-pologne-trois-corps-domicile-fascine-extreme-droite-sait-tireur?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

@@ -1,0 +1,33 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-calendrier-scolaire",
+  "title": "Le calendrier scolaire",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-calendrier-scolaire/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Le calendrier scolaire officiel, publié par le Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche Consulter l'espace \"Le calendrier scolaire\" http://www.education.gouv.fr/vacances. Le départ en vacances a lieu après la classe des jours indiqués. La reprise des cours s'effectue le matin des jours indiqués. Les enseignants appelés à participer aux opérations liées aux examens sont en service jusqu'à la date fixée pour la clôture des examens par la note de service établissant le calendrier de la session. Le calendrier scolaire restreint à la métropole est téléchargeable au format iCal en utilisant l'adresse suivante : https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-A-B-C-Corse.ics Des calendriers sont aussi disponibles par zones au format ics : zone A https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-A.ics zone B https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-B.ics zone C https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-C.ics Corse https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Corse.ics Guadeloupe https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Guadeloupe.ics Guyane https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Guyane.ics Martinique https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Martinique.ics Mayotte https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Mayotte.",
+  "resource_title": "Le calendrier scolaire",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-calendrier-scolaire/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-01T09:45:11.998000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "examen",
+  "query": "examen",
+  "news": [
+    {
+      "title": "Accident mortel dans l'Ain :le chauffeur mis en examen pour \"homicide involontaire\", annonce le parquet",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+      "link": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

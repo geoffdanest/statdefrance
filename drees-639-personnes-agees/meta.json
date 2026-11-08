@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:639_personnes-agees",
+  "title": "ISD - Personnes âgées",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/639_personnes-agees/",
+  "organization": "DREES",
+  "description": "Les indicateurs sociaux départementaux (ISD) constituent le socle commun d’un système d’information partagé entre échelons nationaux et départementaux dans les principaux domaines de l’action sociale départementale. La principale prestation départementale en faveur des personnes âgées est l’allocation personnalisée d’autonomie (APA). Elle est versée aux personnes âgées de 60 ans et plus évaluées en situation de perte d’autonomie, auxquelles une aide est reconnue nécessaire pour accomplir les actes essentiels de la vie. Vient ensuite l’aide sociale à l’hébergement (ASH), qui est une aide à l’accueil en établissement pour les personnes âgées dont les ressources et celles des obligés alimentaires sont insuffisantes, et qui peut faire l’objet d’un recours sur succession. Enfin, le Conseil départemental verse également des aides ménagères. Plus d'informations sur les ISD est disponible sur la page dédiée : https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/les-indicateurs-sociaux-departementaux Attention, informations importantes : A compter de mai 2026, le format de diffusion des ISD évolue : les fichiers Excel sont remplacés par des formats ouverts, aisément réutilisables et exploitables par un système de traitement automatisé. Les archives des fichiers Excel demeurent accessibles en pièce jointe ci dessous. Une documentation ainsi qu'un tutoriel de prise en main du tableau interactif accompagnent également cette diffusion. Pour tout question ou remarque sur la d",
+  "resource_title": "ISD - Personnes âgées",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/639_personnes-agees/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-06T09:05:15.922000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

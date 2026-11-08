@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:drees_projections_infirmieres_2024",
+  "title": "Projections des effectifs d'infirmières à l'horizon 2050",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/drees_projections_infirmieres_2024/",
+  "organization": "DREES",
+  "description": "À partir des caractéristiques et comportements observés au cours du passé, le modèle de projection de la DREES permet d’estimer le nombre d’infirmières en emploi chaque année de la période de projection, de 2022 à 2050, selon différentes hypothèses. Ces projections ne constituent pas des prévisions, mais le modèle permet d’étudier différents scénarios en fonction du nombre de diplômées annuel. Le scénario tendanciel s’appuie sur des hypothèses de comportements constants, à savoir que les comportements des infirmières observés dans un passé récent et les mesures de régulation des pouvoirs publics resteraient inchangés au cours de l’ensemble de la période de projection. Les autres scénarios, appelés variantes, diffèrent du scénario tendanciel par le nombre de diplômées annuel, qui dépend notamment du nombre de places de formation offertes et du taux de perte d’étudiantes en cours de formation (écart relatif entre le nombre d’étudiantes en dernière année de formation passant l’examen final et le nombre d’inscrites en première année trois ans plus tôt). Pour en savoir plus : Projections des effectifs d’infirmières à l'horizon 2050 | Direction de la recherche, des études, de l'évaluation et des statistiques",
+  "resource_title": "Projections des effectifs d'infirmières à l'horizon 2050",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/drees_projections_infirmieres_2024/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-01-06T14:56:47+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "examen",
+  "query": "examen",
+  "news": [
+    {
+      "title": "Accident mortel dans l'Ain :le chauffeur mis en examen pour \"homicide involontaire\", annonce le parquet",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+      "link": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_TICE",
+  "title": "Les TIC et le commerce électronique dans les entreprises",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICE",
+  "organization": "Insee",
+  "description": "L’enquête sur les TIC et le commerce électronique 2025 a été réalisée début 2025 auprès d’un échantillon d’environ 11 000 entreprises actives, occupant 10 personnes ou plus (salariés et non-salariés), implantées en France métropolitaine ou dans les départements d’outre-mer.\n\nCette enquête s’appuie depuis 2022 sur la définition économique instaurée par la loi de modernisation de l’économie (LME) et son décret d’application n° 2008-1354 du 18 décembre 2008. Les résultats de 2025 sont donc comparables avec ceux de 2022, 2023 et 2024 mais pas avec les millésimes précédents.\n\nL’enquête porte sur les secteurs d’activité suivants : industrie manufacturière, construction, commerce et réparation d’automobiles et de motocycles, transports et entreposage, hébergement et restauration, information et communication, activités immobilières, activités spécialisées, scientifiques et techniques, activités de services administratifs et de soutien (sections C à J, L, M, N et groupe 95.1 de la NAF rév. 2). L’échantillon est représentatif d’environ 194 000 entreprises.\n\nLes questions sur les taux d’équipement en TIC portent en général sur la situation au moment de l’enquête, c’est-à-dire au cours du premier trimestre 2025. Celles portant sur certaines pratiques, notamment le commerce électronique, se réfèrent à l’année précédant l’enquête (soit 2024 pour l’enquête 2025).\n\nDes enquêtes analogues ont été menées dans tous les pays européens en application du règlement communautaire n° 1006/2009 sur l",
+  "resource_title": "DS_TICE",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_TICE/DS_TICE_2025_CSV_FR",
+  "last_modified": "2026-08-31T16:20:44.429469861",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 9043,
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

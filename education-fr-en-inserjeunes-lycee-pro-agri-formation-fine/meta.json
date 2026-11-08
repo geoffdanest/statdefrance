@@ -1,0 +1,17 @@
+{
+  "source": "education",
+  "dataset_id": "education:fr-en-inserjeunes-lycee_pro-agri-formation-fine",
+  "title": "Inserjeunes Voie professionnelle scolaire agricole par établissement relevant du ministère de l'agriculture et formation fine",
+  "page": "https://data.education.gouv.fr/explore/dataset/fr-en-inserjeunes-lycee_pro-agri-formation-fine/",
+  "organization": "Ministère de l'Éducation nationale",
+  "description": "Ces données sont issues du système d'information DEPP/DARES InserJeunes et rendent compte du devenir des lycéens et étudiants inscrits en dernière année d'une formation en voie professionnelle de niveau 3 à 5 (CAPa, baccalauréat professionnel agricole, BTSA), dispensée dans un Etablissement Public Local d'Enseignement (EPLE) ou dans un lycée privé sous contrat, sous tutelle du ministère en charge de l'agriculture. Les indicateurs issus d'InserJeunes au niveau établissement par formations fines sont calculés pour deux millésimes cumulés : - les jeunes inscrits en N et N-1 pour le taux de poursuite d'études et le devenir des jeunes après la formation - les sortants d'études en N et N-1 pour les taux d'emploi à 6, 12, 18 et 24 mois après la sortie d'études Inserjeunes couvre l’ensemble de l’emploi salarié en France, à l’exception des emplois salariés relevant de particuliers employeurs. L’emploi non salarié ou à l’étranger n'est pas couvert. Pour les sortants 2022-2023, seule la situation à 6 et 12 mois est disponible à ce jour. La situation à 18 et 24 mois sera complétée ultérieurement. Pour les sortants 2023-2024, seule la situation à 6 et 12 mois est disponible à ce jour. La situation à 18 et 24 mois sera complétée ultérieurement. Pour en savoir plus : Antoine R. et Gauvin C., 2025, « Enseignement agricole : insertion des lycéens professionnels et étudiants de niveau CAPa à BTSA, six mois après leur sortie d’études en 2023 - 50 % sont en emploi salarié en janvier 2024 » , Not",
+  "resource_title": "Inserjeunes Voie professionnelle scolaire agricole par établissement relevant du ministère de l'agriculture et formation fine",
+  "resource_url": "https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-en-inserjeunes-lycee_pro-agri-formation-fine/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-20T08:42:15.876000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "baccalauréat",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

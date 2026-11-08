@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC",
+  "title": "Logements dans les départements d'Outre-mer (DOM) - Principaux indicateurs (dossier complet)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_RP_LOGEMENT_DOM_PRINC",
+  "organization": "Insee",
+  "description": "La feuille de logement dans les DOM varie de celle de métropole notamment pour le type de logement et les aspects de confort des résidences principales. Les données détaillent d'une part, les logements selon leur type (Maisons ou immeubles en dur ou en bois, etc.) et d'autre part, le confort des résidences principales selon la présence de l'électricité, de l'eau chaude, d'un chauffe-eau solaire, d'une pièce climatisée ou du tout-à-l'égout. Les données sont disponibles en historique.",
+  "resource_title": "DS_RP_LOGEMENT_DOM_PRINC",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_RP_LOGEMENT_DOM_PRINC/DS_RP_LOGEMENT_DOM_PRINC_2023_CSV_FR",
+  "last_modified": "2026-06-25T15:29:09.617508558",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 14292,
+  "origin": "actu",
+  "label": "électricité",
+  "query": "électricité",
+  "news": [
+    {
+      "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
+      "link": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Des centaines de milliers d’habitants privés d’électricité après des frappes russes",
+      "link": "https://www.20minutes.fr/monde/ukraine/4261273-20261108-guerre-ukraine-centaines-milliers-habitants-prives-electricite-apres-frappes-russes?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

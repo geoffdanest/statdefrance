@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:eo1n335dwa-ul7glxa7lm1ho",
+  "title": "Liste des entreprises RGE - New",
+  "page": "https://data.ademe.fr/datasets/eo1n335dwa-ul7glxa7lm1ho",
+  "organization": "ADEME",
+  "description": "L'ADEME et les pouvoirs publics accordent la mention \"Reconnu Garant de l'Environnement\" (RGE) à certains professionnels du secteur du bâtiment et des énergies renouvelables. Cette mention donne la possibilité aux entreprises de se former aux énergies renouvelables. Elle est aussi une reconnaissance de qualité et permet aux clients de ces entreprises d'obtenir les aides publiques allouées aux travaux de performance énergétique. En effet, RGE est une mention indispensable pour que les clients bénéficient des aides de l’État (MaPrimeRénov’, aides ANAH, ECO-Prêt à Taux Zéro, fiches CEE, Fonds chaleur de l’ADEME...) lors des travaux d’amélioration de la performance énergétique. La mention RGE est donnée aux entreprises à l'origine de travaux d'amélioration énergétique, d'installations d'équipements utilisant une source d'énergie renouvelable ou d'études concourant à la rénovation énergétique ou à l’installation d’énergies renouvelables. Ainsi, le jeu de données présenté ici est un recensement actualisé quotidiennement des entreprises RGE avec leur domaine de travaux. Pour plus d'informations sur les entreprises RGE, vous pouvez vous rendre sur https://france-renov.gouv.fr/",
+  "resource_title": "Liste des entreprises RGE - New",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/eo1n335dwa-ul7glxa7lm1ho/lines?format=csv&size=10000",
+  "last_modified": "2026-11-08T04:01:53.671Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "former",
+  "query": "former",
+  "news": [
+    {
+      "title": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
+      "link": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Où en sont les négociations pour former un nouveau gouvernement en Israël, près de deux semaines après les élections législatives ?",
+      "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/ou-en-sont-les-negociations-pour-former-un-nouveau-gouvernement-en-israel-pres-de-deux-semaines-apres-les-elections-legislatives_8270858.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Israël : Gadi Eisenkot, officiellement chargé de former un nouveau gouvernement, invite le Likoud de Benyamin Nétanyahou à participer à une coalition",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

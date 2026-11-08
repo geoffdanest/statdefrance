@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "65c0e835c48bd8b0e5db9076",
+  "title": "Estimation des émissions individuelles de gaz à effet de serre lors des déplacements domicile-travail",
+  "page": "https://www.data.gouv.fr/datasets/estimation-des-emissions-individuelles-de-gaz-a-effet-de-serre-lors-des-deplacements-domicile-travail",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "description": "Ce jeu de données est issu d'un travail d'étude associant l'Insee et le Service des Données et des Études Statistiques (SDES) du ministère de la Transition Écologique.\n\nPour déterminer les émissions de gaz à effet de serre (GES) des trajets domicile-travail, ce travail s'appuie sur l’exploitation complémentaire du recensement de la population, et en particulier les bases « Mobilités professionnelles des individus : déplacements commune de résidence / commune de travail », disponible sur Insee.fr. Cette source indique les lieux de résidence et de travail des personnes en emploi, leurs caractéristiques socio-démographiques, ainsi que le mode de transport principal qu’ils utilisent. Les résultats du recensement sont enrichis par plusieurs autres sources de données pour imputer les autres paramètres qui déterminent les émissions de GES :\n\n* le distancier Metric-OSRM produit par l’Insee fournit les distances domicile-travail ;\n\n* l’Enquête Mobilité des Personnes 2019 (EMP) fournit la fréquence des déplacements, les distances parcourues en tenant compte des détours et des raccourcis, le taux de remplissage des voitures, ainsi que les émissions unitaires de GES des transports en commun, c’est-à-dire émises au cours d’un trajet d’un kilomètre ;\n\n* la base empreinte de l’Ademe fournit les émissions unitaires des deux-roues motorisés ;\n\n* le répertoire statistique des véhicules routiers (RSVERO), en complément de l’EMP, permet d’imputer les émissions unitaires des voitures ;\n\n* les don",
+  "resource_title": "dessin_de_fichier_depl_dom_trav_co2_2022.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/estimation-des-emissions-individuelles-de-gaz-a-effet-de-serre-lors-des-deplacements-domicile-travail/20250919-075816/dessin-de-fichier-depl-dom-trav-co2-2022.csv",
+  "last_modified": "2025-09-19T07:58:16.596000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "domicile",
+  "query": "domicile",
+  "news": [
+    {
+      "title": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Fusillade en Pologne : Trois corps à son domicile, « fasciné par l’extrême droite »… Ce que l’on sait sur le tireur",
+      "link": "https://www.20minutes.fr/monde/pologne/4261256-20261108-fusillade-pologne-trois-corps-domicile-fascine-extreme-droite-sait-tireur?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

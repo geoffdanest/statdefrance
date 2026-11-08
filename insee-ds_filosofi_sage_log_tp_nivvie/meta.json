@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+  "title": "Niveau de vie médian et taux de pauvreté par tranche d’âge, sexe et statut d'occupation du logement en 2023",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+  "organization": "Insee",
+  "description": "Indicateurs du jeu de données :\n- Niveau de vie médian\n- Taux de pauvreté à 60 % du niveau de vie médian de la France métropolitaine\n\nZonages géographiques :\n- départements\n- régions\n- France métropolitaine\n\nVentilations par :\n- tranche d’âge\n- sexe\n- statut d'occupation du logement\n\nLes indicateurs sont calculés sur le champ des personnes appartenant à des ménages fiscaux dont le revenu disponible est positif ou nul. Les résultats couvrent la France métropolitaine et La Réunion. ",
+  "resource_title": "DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_FILOSOFI_SAGE_LOG_TP_NIVVIE/DS_FILOSOFI_SAGE_LOG_TP_NIVVIE_2023_CSV_FR",
+  "last_modified": "2026-08-06T13:33:40.740705975",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 2688,
+  "origin": "theme",
+  "label": "Logement",
+  "query": "Logement",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

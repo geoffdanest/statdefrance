@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "5ef45f5720c559a4e8950d2d",
+  "title": "Médiations culturelles des musées de la Ville d'Antibes",
+  "page": "https://www.data.gouv.fr/datasets/mediations-culturelles-des-musees-de-la-ville-dantibes",
+  "organization": "Ville d'Antibes",
+  "description": "Fréquentation des médiations culturelles du service des publics de la direction des musées de la Ville d'Antibes, depuis saison 2014-2015, par catégorie de public, en nombre d'animations et de personnes.\n\nPour la réutilisation du présent jeu de données, dont les conditions (licence ouverte / open licence 2.0) sont très souples, il est en revanche obligatoire de mentionner la paternité de l’information sous la forme suivante : « Source : Ville d’Antibes, disponible sur [data.gouv.fr](http://data.gouv.fr/), mise à jour du \\[indiquer la dernière date de mise à jour] ». Merci.\n",
+  "resource_title": "antibes-musees-mediation.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/mediations-culturelles-des-musees-de-la-ville-dantibes/20260209-080146/antibes-musees-mediation.csv",
+  "last_modified": "2026-02-09T08:01:47.499000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "musées",
+  "news": []
+}

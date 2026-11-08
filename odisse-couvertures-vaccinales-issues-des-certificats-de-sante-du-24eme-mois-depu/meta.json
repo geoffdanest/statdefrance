@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:couvertures-vaccinales-issues-des-certificats-de-sante-du-24eme-mois-depuis-2004-france",
+  "title": "Couvertures vaccinales issues des certificats de santé du 24ème mois depuis 2004 (France)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/couvertures-vaccinales-issues-des-certificats-de-sante-du-24eme-mois-depuis-2004-france/",
+  "organization": "Santé publique France",
+  "description": "La couverture vaccinale des enfants de 2 ans est suivie grâce aux certificats de santé du 24ᵉ mois, complété par les médecins lors de l’examen obligatoire du 24ème mois. Jusqu’en 2019, ces certificats étaient transmis par les services départementaux de protection maternelle et infantile (PMI) au ministère de la Santé, puis la partie concernant les vaccinations analysées par Santé publique France. Depuis 2020, la collecte des données a été simplifiée : seuls des données agrégées (nombre de certificats reçus et nombre d’enfants vaccinés) sont recueillies via une enquête auprès des conseils départementaux. Toutefois, la participation à cette enquête n’est pas exhaustive. Les certificats de santé sont complétés pour moins de 30% des naissances et certains départements ne transmettent pas leurs données. Les couvertures vaccinales sont considérées représentatives et donc calculées au niveau régional si les départements ayant transmis leurs données concernent au moins 70 % des enfants de 2 ans de la région. Ce jeu de données contient les couvertures vaccinales suivantes : diphtéries, tétanos, poliomyélite, coqueluche et Haemophilus influenzae b 3 doses (depuis 2004) ; pneumocoque 3 doses (depuis 2008) ; hépatite B 3 doses (depuis 2004) ; rougeole oreillons rubéole 1 dose (depuis 2004) et 2 doses (depuis 2008) et bcg (entre 2002 et 2006 au niveau national, et depuis 2006 pour les départements d’Ile-de-France et en Guyane, seuls départements où cette vaccination est recommandée à tous",
+  "resource_title": "Couvertures vaccinales issues des certificats de santé du 24ème mois depuis 2004 (France)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/couvertures-vaccinales-issues-des-certificats-de-sante-du-24eme-mois-depuis-2004-france/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-04-23T12:40:27+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "examen",
+  "query": "examen",
+  "news": [
+    {
+      "title": "Accident mortel dans l'Ain :le chauffeur mis en examen pour \"homicide involontaire\", annonce le parquet",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
+      "link": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

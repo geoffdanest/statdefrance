@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:ira-esms",
+  "title": "IRA National - ESMS - Cas groupés d'IRA",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/ira-esms/",
+  "organization": "Santé publique France",
+  "description": "Le portail de signalement des évènements sanitaires indésirables du ministère de la Santé et de la Prévention permet le recueil des données des établissements et services médico-sociaux (ESMS), concernant principalement la surveillance des infections, les risques sanitaires et la couverture vaccinale. Un cas d'IRA est défini comme tout personne chez qui a été constatée la survenue récente d'au moins un signe général évocateur d'infection (Fièvre, frissons, sueurs, arthralgies, myalgies, céphalées, fatigue) et d'au moins un signe fonctionnel ou physique d'atteinte respiratoire basse (Mal de gorge, rhinorrhée, toux, essoufflement, douleur thoracique, sifflement, signes ausculatatoires récents diffus ou en foyer) ou d'une infection respiratoire biologiquement confirmée. Un épisode de cas groupés d'IRA est défini comme la survenue d'au moins 3 cas d'IRA parmi les résidents, dans un délai de 4 jours. Ces déclarations sont en premier lieu réalisée pour des demandes interventionnelles auprès des ARS et CPIAS. Bien que leur objectif initial ne soit pas la surveillance épidémiologique, elles concernent les personnes âgées vivant en collectivité, personnes particulièrement sensibles aux infections respiratoires aiguës, et sont donc cruciales pour évaluer la situation globale de ces IRA.",
+  "resource_title": "IRA National - ESMS - Cas groupés d'IRA",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/ira-esms/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-04T13:58:00+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+      "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+      "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

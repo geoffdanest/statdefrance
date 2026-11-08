@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6350c887ecad6abcaa90f690",
+  "title": "Entreprises : évolution du chiffres d'affaires 2020 des salles de cinémas",
+  "page": "https://www.data.gouv.fr/datasets/entreprises-evolution-du-chiffres-daffaires-2020-des-salles-de-cinemas",
+  "organization": "Ministère de la Culture",
+  "description": "Mesure de l'écart de chiffre d'affaires en 2020 par rapport à 2019 réalisé par les entreprises monorégionales de projection cinématographique (code Naf 59.14Z), ayant leur siège dans la région où elles exercent leur activité et pérennes entre 2018 et 2020. À l'échelle de la France métropolitaine, hors Corse, l'écart est de -65 %.",
+  "resource_title": "impact-covid-salles-de-cinemas.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/entreprises-evolution-du-chiffres-daffaires-2020-des-salles-de-cinemas/20250827-133140/impact-covid-salles-de-cinemas.csv",
+  "last_modified": "2025-08-27T13:31:41.003000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "cinéma",
+  "news": []
+}

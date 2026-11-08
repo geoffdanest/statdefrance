@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:jsfqxx8g98c9djitr7pes4xe",
+  "title": "Consommations d'électricité des usages français du numérique",
+  "page": "https://data.ademe.fr/datasets/jsfqxx8g98c9djitr7pes4xe",
+  "organization": "ADEME",
+  "description": "",
+  "resource_title": "Consommations d'électricité des usages français du numérique",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/jsfqxx8g98c9djitr7pes4xe/lines?format=csv&size=10000",
+  "last_modified": "2026-10-14T13:38:27.648Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "électricité",
+  "query": "électricité",
+  "news": [
+    {
+      "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
+      "link": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Des centaines de milliers d’habitants privés d’électricité après des frappes russes",
+      "link": "https://www.20minutes.fr/monde/ukraine/4261273-20261108-guerre-ukraine-centaines-milliers-habitants-prives-electricite-apres-frappes-russes?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

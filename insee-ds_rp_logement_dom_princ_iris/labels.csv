@@ -1,0 +1,1085 @@
+"COD_VAR";"LIB_VAR";"COD_MOD";"LIB_MOD";"GEO_OBJECT"
+"AIRCOND";"Logement avec au moins une pièce climatisée";"0";"Non";
+"AIRCOND";"Logement avec au moins une pièce climatisée";"1";"Oui";
+"AIRCOND";"Logement avec au moins une pièce climatisée";"_T";"Total";
+"BAINWC";"Présence bain et WC dans le logement";"1";"Oui";
+"BAINWC";"Présence bain et WC dans le logement";"0";"Non";
+"BAINWC";"Présence bain et WC dans le logement";"_T";"Total";
+"ELEC";"Electricité dans le logement";"1";"Oui";
+"ELEC";"Electricité dans le logement";"0";"Non";
+"ELEC";"Electricité dans le logement";"_T";"Total";
+"FREQ";"Fréquence";"A";"Annuel";
+"LAB_IRIS";"Label qualité de l'Iris";"5";"Label de qualité 5";
+"LAB_IRIS";"Label qualité de l'Iris";"Z";"Label non calculé";
+"LAB_IRIS";"Label qualité de l'Iris";"2";"Label de qualité 2";
+"LAB_IRIS";"Label qualité de l'Iris";"1";"Label de qualité 1";
+"LAB_IRIS";"Label qualité de l'Iris";"3";"Label de qualité 3";
+"LAB_IRIS";"Label qualité de l'Iris";"4";"Label de qualité 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740101";"Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740701";"Le Port-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740706";"Le Port-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740707";"Le Port-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740902";"Saint-André-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741507";"Saint-Paul-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741512";"Saint-Paul-Grand Quartier 12";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741513";"Saint-Paul-Grand Quartier 13";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741602";"Saint-Pierre-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"ZZZZZZ";"ZZZZZZ";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712101";"Pointe-Noire";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722020";"Rivière-Pilote";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741108";"Saint-Denis-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741205";"Saint-Joseph-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741302";"Saint-Leu-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741904";"Sainte-Rose-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742103";"Salazie-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742206";"Le Tampon-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742301";"Les Trois-Bassins-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742401";"Cilaos";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740502";"Petite-île-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740801";"La Possession-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741001";"Saint-Benoît-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741514";"Saint-Paul-Grand Quartier 14";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741515";"Saint-Paul-Grand Quartier 15";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741701";"Saint-Philippe-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741805";"Sainte-Marie-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710201";"Anse-Bertrand";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710601";"Bouillante";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710901";"Gourbeyre";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711201";"Grand-Bourg";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711301";"Le Gosier";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720903";"Fort-de-France-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9723232";"Le Vauclin";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741002";"Saint-Benoît-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741109";"Saint-Denis-Grand Quartier 9";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741204";"Saint-Joseph-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741901";"Sainte-Rose-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742004";"Sainte-Suzanne-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742105";"Salazie-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742207";"Le Tampon-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730701";"Matoury";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9735301";"Maripasoula";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740802";"La Possession-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740805";"La Possession-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740907";"Saint-André-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740908";"Saint-André-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741403";"Saint-Louis-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741501";"Saint-Paul-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741510";"Saint-Paul-Grand Quartier 10";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741601";"Saint-Pierre-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741603";"Saint-Pierre-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741607";"Saint-Pierre-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741608";"Saint-Pierre-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741803";"Sainte-Marie-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741804";"Sainte-Marie-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710701";"Capesterre-Belle-Eau";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711401";"Goyave";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711801";"Petit-Bourg";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9713401";"Vieux-Habitants";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720905";"Fort-de-France-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720907";"Fort-de-France-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722727";"Sainte-Luce";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730501";"Macouria";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741102";"Saint-Denis-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741106";"Saint-Denis-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741111";"Saint-Denis-Grand Quartier 11";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741301";"Saint-Leu-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741304";"Saint-Leu-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741903";"Sainte-Rose-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742003";"Sainte-Suzanne-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742006";"Sainte-Suzanne-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742101";"Salazie-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742104";"Salazie-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742202";"Le Tampon-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9731101";"Saint-Laurent-du-Maroni";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740401";"L'Étang-Salé-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740405";"L'Étang-Salé-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740705";"Le Port-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740804";"La Possession-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741503";"Saint-Paul-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741504";"Saint-Paul-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710101";"Les Abymes";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722101";"Rivière-Salée";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722222";"Le Robert";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741104";"Saint-Denis-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741113";"Saint-Denis-Grand Quartier 13";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741202";"Saint-Joseph-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742002";"Sainte-Suzanne-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742208";"Le Tampon-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742210";"Le Tampon-Grand Quartier 10";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9735701";"Grand-Santi";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9736001";"Apatou";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740201";"Bras-Panon";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740301";"Entre-Deux";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740402";"L'Étang-Salé-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740702";"Le Port-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740703";"Le Port-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740704";"Le Port-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740806";"La Possession-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740807";"La Possession-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740906";"Saint-André-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741505";"Saint-Paul-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741506";"Saint-Paul-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741606";"Saint-Pierre-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741609";"Saint-Pierre-Grand Quartier 9";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741802";"Sainte-Marie-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710401";"Baillif";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710501";"Basse-Terre";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712501";"Saint-François";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712801";"Sainte-Anne";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720902";"Fort-de-France-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9721414";"Le Lorrain";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9721717";"Le Marin";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730401";"Kourou";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741103";"Saint-Denis-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741105";"Saint-Denis-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741110";"Saint-Denis-Grand Quartier 10";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741203";"Saint-Joseph-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741303";"Saint-Leu-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742001";"Sainte-Suzanne-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740403";"L'Étang-Salé-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740803";"La Possession-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740903";"Saint-André-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740904";"Saint-André-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740905";"Saint-André-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741404";"Saint-Louis-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741502";"Saint-Paul-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741508";"Saint-Paul-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741604";"Saint-Pierre-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741605";"Saint-Pierre-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741801";"Sainte-Marie-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741806";"Sainte-Marie-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711601";"Morne-à-l'Eau";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712401";"Saint-Claude";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712901";"Sainte-Rose";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9713201";"Trois-Rivières";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720707";"Ducos";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720901";"Fort-de-France-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720906";"Fort-de-France-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720909";"Fort-de-France-Grand Quartier 9";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9721001";"Le François";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722323";"Saint-Esprit";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722424";"Saint-Joseph";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741112";"Saint-Denis-Grand Quartier 12";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741201";"Saint-Joseph-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741401";"Saint-Louis-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741902";"Sainte-Rose-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742102";"Salazie-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742201";"Le Tampon-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742212";"Le Tampon-Grand Quartier 12";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9736201";"Papaichton";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740901";"Saint-André-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741405";"Saint-Louis-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741509";"Saint-Paul-Grand Quartier 9";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741511";"Saint-Paul-Grand Quartier 11";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741517";"Saint-Paul-Grand Quartier 17";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741610";"Saint-Pierre-Grand Quartier 10";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741702";"Saint-Philippe-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9710301";"Baie-Mahault";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711501";"Lamentin";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720904";"Fort-de-France-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9720908";"Fort-de-France-Grand Quartier 8";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9721313";"Le Lamentin";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722828";"Sainte-Marie";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9722901";"Schœlcher";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741101";"Saint-Denis-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741107";"Saint-Denis-Grand Quartier 7";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742203";"Le Tampon-Grand Quartier 3";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742204";"Le Tampon-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730601";"Mana";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730901";"Remire-Montjoly";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740102";"Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740404";"L'Étang-Salé-Grand Quartier 4";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9740501";"Petite-île-Grand Quartier 1";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741402";"Saint-Louis-Grand Quartier 2";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741516";"Saint-Paul-Grand Quartier 16";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741611";"Saint-Pierre-Grand Quartier 11";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711701";"Le Moule";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9711901";"Petit-Canal";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712001";"Pointe-à-Pitre";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9712201";"Port-Louis";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9721212";"Gros-Morne";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9723001";"La Trinité";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9730201";"Cayenne";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9741206";"Saint-Joseph-Grand Quartier 6";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742005";"Sainte-Suzanne-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742205";"Le Tampon-Grand Quartier 5";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742209";"Le Tampon-Grand Quartier 9";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742211";"Le Tampon-Grand Quartier 11";
+"LARGE_DISTRICT";"Libellé des grands quartiers";"9742302";"Les Trois-Bassins-Grand Quartier 2";
+"OBS_STATUS";"Statut de l'observation";"A";"Normale";
+"OCS";"Catégorie de logement";"DW_MAIN";"Résidences principales";
+"RP_MEASURE";"Mesure du recensement ";"DWELLINGS";"Logements";
+"SOBO";"Chauffe-eau solaire dans le logement";"0";"Non";
+"SOBO";"Chauffe-eau solaire dans le logement";"1";"Oui";
+"SOBO";"Chauffe-eau solaire dans le logement";"_T";"Total";
+"TDW";"Type de logement";"1_2_P";"Maisons ou immeubles en dur";
+"TDW";"Type de logement";"1_2_W";"Maisons ou immeubles en bois";
+"TDW";"Type de logement";"5";"Habitation de fortune";
+"TDW";"Type de logement";"7";"Cases traditionnelles";
+"TDW";"Type de logement";"_T";"Total";
+"TIME_PERIOD";"Période temporelle";"2023";"2023";
+"TRIRIS";"Regroupement de trois Iris";"971101";"971101";
+"TRIRIS";"Regroupement de trois Iris";"971191";"971191";
+"TRIRIS";"Regroupement de trois Iris";"971281";"971281";
+"TRIRIS";"Regroupement de trois Iris";"973061";"973061";
+"TRIRIS";"Regroupement de trois Iris";"974351";"974351";
+"TRIRIS";"Regroupement de trois Iris";"974421";"974421";
+"TRIRIS";"Regroupement de trois Iris";"974091";"974091";
+"TRIRIS";"Regroupement de trois Iris";"974031";"974031";
+"TRIRIS";"Regroupement de trois Iris";"974191";"974191";
+"TRIRIS";"Regroupement de trois Iris";"974241";"974241";
+"TRIRIS";"Regroupement de trois Iris";"974701";"974701";
+"TRIRIS";"Regroupement de trois Iris";"974731";"974731";
+"TRIRIS";"Regroupement de trois Iris";"ZZZZZZ";"ZZZZZZ";
+"TRIRIS";"Regroupement de trois Iris";"971011";"971011";
+"TRIRIS";"Regroupement de trois Iris";"971041";"971041";
+"TRIRIS";"Regroupement de trois Iris";"971061";"971061";
+"TRIRIS";"Regroupement de trois Iris";"971251";"971251";
+"TRIRIS";"Regroupement de trois Iris";"972051";"972051";
+"TRIRIS";"Regroupement de trois Iris";"972211";"972211";
+"TRIRIS";"Regroupement de trois Iris";"972231";"972231";
+"TRIRIS";"Regroupement de trois Iris";"973081";"973081";
+"TRIRIS";"Regroupement de trois Iris";"973151";"973151";
+"TRIRIS";"Regroupement de trois Iris";"974301";"974301";
+"TRIRIS";"Regroupement de trois Iris";"974401";"974401";
+"TRIRIS";"Regroupement de trois Iris";"974431";"974431";
+"TRIRIS";"Regroupement de trois Iris";"974481";"974481";
+"TRIRIS";"Regroupement de trois Iris";"974101";"974101";
+"TRIRIS";"Regroupement de trois Iris";"974011";"974011";
+"TRIRIS";"Regroupement de trois Iris";"974541";"974541";
+"TRIRIS";"Regroupement de trois Iris";"974561";"974561";
+"TRIRIS";"Regroupement de trois Iris";"974581";"974581";
+"TRIRIS";"Regroupement de trois Iris";"974281";"974281";
+"TRIRIS";"Regroupement de trois Iris";"974231";"974231";
+"TRIRIS";"Regroupement de trois Iris";"974291";"974291";
+"TRIRIS";"Regroupement de trois Iris";"974681";"974681";
+"TRIRIS";"Regroupement de trois Iris";"974781";"974781";
+"TRIRIS";"Regroupement de trois Iris";"971091";"971091";
+"TRIRIS";"Regroupement de trois Iris";"971151";"971151";
+"TRIRIS";"Regroupement de trois Iris";"971161";"971161";
+"TRIRIS";"Regroupement de trois Iris";"972071";"972071";
+"TRIRIS";"Regroupement de trois Iris";"972091";"972091";
+"TRIRIS";"Regroupement de trois Iris";"972141";"972141";
+"TRIRIS";"Regroupement de trois Iris";"974471";"974471";
+"TRIRIS";"Regroupement de trois Iris";"974181";"974181";
+"TRIRIS";"Regroupement de trois Iris";"974491";"974491";
+"TRIRIS";"Regroupement de trois Iris";"974221";"974221";
+"TRIRIS";"Regroupement de trois Iris";"974621";"974621";
+"TRIRIS";"Regroupement de trois Iris";"974751";"974751";
+"TRIRIS";"Regroupement de trois Iris";"974761";"974761";
+"TRIRIS";"Regroupement de trois Iris";"972081";"972081";
+"TRIRIS";"Regroupement de trois Iris";"972111";"972111";
+"TRIRIS";"Regroupement de trois Iris";"972171";"972171";
+"TRIRIS";"Regroupement de trois Iris";"973011";"973011";
+"TRIRIS";"Regroupement de trois Iris";"973021";"973021";
+"TRIRIS";"Regroupement de trois Iris";"973131";"973131";
+"TRIRIS";"Regroupement de trois Iris";"973091";"973091";
+"TRIRIS";"Regroupement de trois Iris";"973141";"973141";
+"TRIRIS";"Regroupement de trois Iris";"974381";"974381";
+"TRIRIS";"Regroupement de trois Iris";"974411";"974411";
+"TRIRIS";"Regroupement de trois Iris";"974451";"974451";
+"TRIRIS";"Regroupement de trois Iris";"974461";"974461";
+"TRIRIS";"Regroupement de trois Iris";"974141";"974141";
+"TRIRIS";"Regroupement de trois Iris";"974631";"974631";
+"TRIRIS";"Regroupement de trois Iris";"974691";"974691";
+"TRIRIS";"Regroupement de trois Iris";"974771";"974771";
+"TRIRIS";"Regroupement de trois Iris";"974791";"974791";
+"TRIRIS";"Regroupement de trois Iris";"971031";"971031";
+"TRIRIS";"Regroupement de trois Iris";"971051";"971051";
+"TRIRIS";"Regroupement de trois Iris";"971081";"971081";
+"TRIRIS";"Regroupement de trois Iris";"972011";"972011";
+"TRIRIS";"Regroupement de trois Iris";"972021";"972021";
+"TRIRIS";"Regroupement de trois Iris";"972161";"972161";
+"TRIRIS";"Regroupement de trois Iris";"972181";"972181";
+"TRIRIS";"Regroupement de trois Iris";"973031";"973031";
+"TRIRIS";"Regroupement de trois Iris";"974361";"974361";
+"TRIRIS";"Regroupement de trois Iris";"974331";"974331";
+"TRIRIS";"Regroupement de trois Iris";"974391";"974391";
+"TRIRIS";"Regroupement de trois Iris";"974121";"974121";
+"TRIRIS";"Regroupement de trois Iris";"974051";"974051";
+"TRIRIS";"Regroupement de trois Iris";"974511";"974511";
+"TRIRIS";"Regroupement de trois Iris";"974251";"974251";
+"TRIRIS";"Regroupement de trois Iris";"974271";"974271";
+"TRIRIS";"Regroupement de trois Iris";"974651";"974651";
+"TRIRIS";"Regroupement de trois Iris";"974721";"974721";
+"TRIRIS";"Regroupement de trois Iris";"974741";"974741";
+"TRIRIS";"Regroupement de trois Iris";"971021";"971021";
+"TRIRIS";"Regroupement de trois Iris";"971111";"971111";
+"TRIRIS";"Regroupement de trois Iris";"971141";"971141";
+"TRIRIS";"Regroupement de trois Iris";"971201";"971201";
+"TRIRIS";"Regroupement de trois Iris";"972201";"972201";
+"TRIRIS";"Regroupement de trois Iris";"973041";"973041";
+"TRIRIS";"Regroupement de trois Iris";"973051";"973051";
+"TRIRIS";"Regroupement de trois Iris";"973121";"973121";
+"TRIRIS";"Regroupement de trois Iris";"974341";"974341";
+"TRIRIS";"Regroupement de trois Iris";"974131";"974131";
+"TRIRIS";"Regroupement de trois Iris";"974061";"974061";
+"TRIRIS";"Regroupement de trois Iris";"974081";"974081";
+"TRIRIS";"Regroupement de trois Iris";"974151";"974151";
+"TRIRIS";"Regroupement de trois Iris";"974171";"974171";
+"TRIRIS";"Regroupement de trois Iris";"974161";"974161";
+"TRIRIS";"Regroupement de trois Iris";"974521";"974521";
+"TRIRIS";"Regroupement de trois Iris";"974531";"974531";
+"TRIRIS";"Regroupement de trois Iris";"974571";"974571";
+"TRIRIS";"Regroupement de trois Iris";"974261";"974261";
+"TRIRIS";"Regroupement de trois Iris";"974661";"974661";
+"TRIRIS";"Regroupement de trois Iris";"974711";"974711";
+"TRIRIS";"Regroupement de trois Iris";"974801";"974801";
+"TRIRIS";"Regroupement de trois Iris";"971071";"971071";
+"TRIRIS";"Regroupement de trois Iris";"971131";"971131";
+"TRIRIS";"Regroupement de trois Iris";"971181";"971181";
+"TRIRIS";"Regroupement de trois Iris";"971271";"971271";
+"TRIRIS";"Regroupement de trois Iris";"972031";"972031";
+"TRIRIS";"Regroupement de trois Iris";"972101";"972101";
+"TRIRIS";"Regroupement de trois Iris";"972131";"972131";
+"TRIRIS";"Regroupement de trois Iris";"972191";"972191";
+"TRIRIS";"Regroupement de trois Iris";"972221";"972221";
+"TRIRIS";"Regroupement de trois Iris";"972241";"972241";
+"TRIRIS";"Regroupement de trois Iris";"973111";"973111";
+"TRIRIS";"Regroupement de trois Iris";"974312";"974312";
+"TRIRIS";"Regroupement de trois Iris";"974371";"974371";
+"TRIRIS";"Regroupement de trois Iris";"974441";"974441";
+"TRIRIS";"Regroupement de trois Iris";"974041";"974041";
+"TRIRIS";"Regroupement de trois Iris";"974071";"974071";
+"TRIRIS";"Regroupement de trois Iris";"974501";"974501";
+"TRIRIS";"Regroupement de trois Iris";"974551";"974551";
+"TRIRIS";"Regroupement de trois Iris";"974591";"974591";
+"TRIRIS";"Regroupement de trois Iris";"974601";"974601";
+"TRIRIS";"Regroupement de trois Iris";"974201";"974201";
+"TRIRIS";"Regroupement de trois Iris";"974641";"974641";
+"TRIRIS";"Regroupement de trois Iris";"971121";"971121";
+"TRIRIS";"Regroupement de trois Iris";"971171";"971171";
+"TRIRIS";"Regroupement de trois Iris";"971211";"971211";
+"TRIRIS";"Regroupement de trois Iris";"971261";"971261";
+"TRIRIS";"Regroupement de trois Iris";"972061";"972061";
+"TRIRIS";"Regroupement de trois Iris";"972041";"972041";
+"TRIRIS";"Regroupement de trois Iris";"972121";"972121";
+"TRIRIS";"Regroupement de trois Iris";"972151";"972151";
+"TRIRIS";"Regroupement de trois Iris";"973071";"973071";
+"TRIRIS";"Regroupement de trois Iris";"973101";"973101";
+"TRIRIS";"Regroupement de trois Iris";"974111";"974111";
+"TRIRIS";"Regroupement de trois Iris";"974021";"974021";
+"TRIRIS";"Regroupement de trois Iris";"974611";"974611";
+"TRIRIS";"Regroupement de trois Iris";"974211";"974211";
+"TRIRIS";"Regroupement de trois Iris";"974671";"974671";
+"TYP_IRIS";"Type d'Iris";"Z";"Communes non découpées en Iris";
+"TYP_IRIS";"Type d'Iris";"D";"Iris divers";
+"TYP_IRIS";"Type d'Iris";"H";"Iris d'habitat";
+"TYP_IRIS";"Type d'Iris";"A";"Iris d'activité";
+"WSS";"Point d’eau potable à l’intérieur du logement";"1_3";"Aucun point d'eau ou eau froide seulement";
+"WSS";"Point d’eau potable à l’intérieur du logement";"2";"Eau froide et chaude";
+"WSS";"Point d’eau potable à l’intérieur du logement";"_T";"Total";
+"WW";"Evacuation des eaux usées du logement";"2";"Raccordement à une fosse septique";
+"WW";"Evacuation des eaux usées du logement";"0";"Evacuation des eaux usées à même le sol";
+"WW";"Evacuation des eaux usées du logement";"1";"Raccordement au réseau d'égouts";
+"WW";"Evacuation des eaux usées du logement";"3";"Raccordement à un puisard";
+"WW";"Evacuation des eaux usées du logement";"_T";"Total";
+GEO_OBJECT;Niveau géographique;COM;Commune;
+GEO_OBJECT;Niveau géographique;IRIS;IRIS;
+"GEO";"Géographie";"97108";"Capesterre-de-Marie-Galante";"COM"
+"GEO";"Géographie";"97110";"La Désirade";"COM"
+"GEO";"Géographie";"97131";"Terre-de-Haut";"COM"
+"GEO";"Géographie";"97205";"Case-Pilote";"COM"
+"GEO";"Géographie";"97211";"Grand'Rivière";"COM"
+"GEO";"Géographie";"97226";"Sainte-Anne";"COM"
+"GEO";"Géographie";"97313";"Montsinéry-Tonnegrande";"COM"
+"GEO";"Géographie";"971010109";"Morne Vergain-Raizet";"IRIS"
+"GEO";"Géographie";"971010115";"Chauvel-Dugazon";"IRIS"
+"GEO";"Géographie";"971070102";"Saint-Sauveur-L'Habituée";"IRIS"
+"GEO";"Géographie";"971090101";"Rivière Sens";"IRIS"
+"GEO";"Géographie";"971090103";"Champfleury-Palmiste";"IRIS"
+"GEO";"Géographie";"971120101";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971130103";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971150101";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971170106";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971180102";"Vernou-Lézarde";"IRIS"
+"GEO";"Géographie";"971190102";"Balin-Bazin";"IRIS"
+"GEO";"Géographie";"971200107";"Morne La Loge-Fond Laugier";"IRIS"
+"GEO";"Géographie";"971250104";"Pombiray-Dubédou";"IRIS"
+"GEO";"Géographie";"971280104";"Riche Plaine-Saint-Protais";"IRIS"
+"GEO";"Géographie";"971280105";"Les Grands Fonds";"IRIS"
+"GEO";"Géographie";"971290102";"La Boucan";"IRIS"
+"GEO";"Géographie";"971320103";"La Regrettée-Réduit";"IRIS"
+"GEO";"Géographie";"972070703";"Petite Cocotte-Durivage";"IRIS"
+"GEO";"Géographie";"972090102";"Terres Sainville";"IRIS"
+"GEO";"Géographie";"972090105";"Desclieux-Ravine Bouille-La Folie";"IRIS"
+"GEO";"Géographie";"972090204";"Clairière-Sainte-Catherine";"IRIS"
+"GEO";"Géographie";"972090301";"Dillon-Pointe des Grives";"IRIS"
+"GEO";"Géographie";"972090401";"Châteaubœuf-Morne Morissot";"IRIS"
+"GEO";"Géographie";"972090602";"Coridon";"IRIS"
+"GEO";"Géographie";"972090603";"Coridon-Redoute";"IRIS"
+"GEO";"Géographie";"972100105";"Manzo-Réunion-Morne Gamelle";"IRIS"
+"GEO";"Géographie";"972100107";"Dumaine-Bois Soldat-Beauregard";"IRIS"
+"GEO";"Géographie";"972210102";"Bourg-La Laugier";"IRIS"
+"GEO";"Géographie";"972222201";"Bourg";"IRIS"
+"GEO";"Géographie";"972222202";"Cité Lacroix-Pointe Lynch-Pointe Savane";"IRIS"
+"GEO";"Géographie";"972222205";"Augrain-Fond Brûlé-Berthou";"IRIS"
+"GEO";"Géographie";"972232306";"Bourg-La Ferme";"IRIS"
+"GEO";"Géographie";"972242403";"Choco-Rivière Blanche-Presqu'île";"IRIS"
+"GEO";"Géographie";"972282803";"Lassale-Rivière Canaris";"IRIS"
+"GEO";"Géographie";"972282806";"Fonds Saint-Jacques-Rodin";"IRIS"
+"GEO";"Géographie";"972290101";"Cité Saint-Georges-Batelière";"IRIS"
+"GEO";"Géographie";"972290106";"Bourg-Enclos";"IRIS"
+"GEO";"Géographie";"972300104";"Desmarinières Est-Beauséjour";"IRIS"
+"GEO";"Géographie";"973020105";"Thémire";"IRIS"
+"GEO";"Géographie";"973040109";"Cabalou";"IRIS"
+"GEO";"Géographie";"973070107";"Balata";"IRIS"
+"GEO";"Géographie";"973090102";"Les Âmes Claires";"IRIS"
+"GEO";"Géographie";"973090106";"Morne Coco-Bp134";"IRIS"
+"GEO";"Géographie";"973090108";"Mahury-Route des plages";"IRIS"
+"GEO";"Géographie";"973090110";"Parc Lindor";"IRIS"
+"GEO";"Géographie";"973110103";"Balate-Charbonnière";"IRIS"
+"GEO";"Géographie";"973600102";"Hors-Bourg";"IRIS"
+"GEO";"Géographie";"974030102";"Le Serre-La Mare-Grand Fond";"IRIS"
+"GEO";"Géographie";"974040301";"L'Étang-Salé Les Bains";"IRIS"
+"GEO";"Géographie";"974090103";"Pont Minot";"IRIS"
+"GEO";"Géographie";"974090602";"La Cressonnière Sud";"IRIS"
+"GEO";"Géographie";"974100204";"Forêt des Hauts de Cambourg";"IRIS"
+"GEO";"Géographie";"974110108";"Vauban-Bouvet";"IRIS"
+"GEO";"Géographie";"974110115";"La Providence-Jacques Cœur";"IRIS"
+"GEO";"Géographie";"974110116";"La Providence-ONF";"IRIS"
+"GEO";"Géographie";"974110402";"Saint-François Hauts";"IRIS"
+"GEO";"Géographie";"974110805";"L'Église-Moulin à Vent";"IRIS"
+"GEO";"Géographie";"974111001";"Grand Canal-Le Stade";"IRIS"
+"GEO";"Géographie";"974111003";"Bellevue-l'Église";"IRIS"
+"GEO";"Géographie";"974120101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974120103";"La Cayenne-Manapany";"IRIS"
+"GEO";"Géographie";"974120106";"Zone Forestière des Hauts de Saint-Joseph";"IRIS"
+"GEO";"Géographie";"974130302";"Le Portail-Maduran";"IRIS"
+"GEO";"Géographie";"974130303";"Le Piton Centre";"IRIS"
+"GEO";"Géographie";"974140101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974150202";"Le Stade-Cambaie";"IRIS"
+"GEO";"Géographie";"974150501";"Sans Souci";"IRIS"
+"GEO";"Géographie";"974151001";"Fleurimont Hauts-Grande Terre";"IRIS"
+"GEO";"Géographie";"974151602";"Forêt des Hauts de Tan Rouge";"IRIS"
+"GEO";"Géographie";"974160604";"Les Assises-Trois Mares";"IRIS"
+"GEO";"Géographie";"974160802";"Terre Sainte-Le Trou du Chat";"IRIS"
+"GEO";"Géographie";"974161101";"Montvert les Hauts";"IRIS"
+"GEO";"Géographie";"974180302";"La Ressource-Beaumont-Montée Sano";"IRIS"
+"GEO";"Géographie";"974180501";"La Rivière des Pluies";"IRIS"
+"GEO";"Géographie";"974190302";"Forêt des Hauts de Bois Blanc";"IRIS"
+"GEO";"Géographie";"974200101";"Centre Ville-Mairie";"IRIS"
+"GEO";"Géographie";"974200102";"Village Desprez-La Marine";"IRIS"
+"GEO";"Géographie";"974220801";"Le 17e Km";"IRIS"
+"GEO";"Géographie";"974221001";"Le Petit Tampon-Grand Tampon";"IRIS"
+"GEO";"Géographie";"974221204";"Zone Forestière de la Plaine des Cafres";"IRIS"
+"GEO";"Géographie";"974230102";"Écarts de Trois Bassins";"IRIS"
+"GEO";"Géographie";"97218";"Le Morne-Rouge";"COM"
+"GEO";"Géographie";"97234";"Bellefontaine";"COM"
+"GEO";"Géographie";"97361";"Awala-Yalimapo";"COM"
+"GEO";"Géographie";"97406";"La Plaine-des-Palmistes";"COM"
+"GEO";"Géographie";"971010102";"Dothemare-Boisripeaux";"IRIS"
+"GEO";"Géographie";"971010121";"Besson-Caraque";"IRIS"
+"GEO";"Géographie";"971030103";"Wonche";"IRIS"
+"GEO";"Géographie";"971050101";"Centre-Bourg";"IRIS"
+"GEO";"Géographie";"971060101";"Monchy-Matone-Thomas";"IRIS"
+"GEO";"Géographie";"971060102";"Bourg-Descoudes-Courbaril";"IRIS"
+"GEO";"Géographie";"971090102";"Blanchet-Le Bourg";"IRIS"
+"GEO";"Géographie";"971140102";"Sarcelle-Moreau-Christophe";"IRIS"
+"GEO";"Géographie";"971150105";"Pierrette";"IRIS"
+"GEO";"Géographie";"971160101";"Vieux Bourg";"IRIS"
+"GEO";"Géographie";"971170102";"Château Gaillard";"IRIS"
+"GEO";"Géographie";"971170103";"Baie Cocotier";"IRIS"
+"GEO";"Géographie";"971200104";"Centre Ville";"IRIS"
+"GEO";"Géographie";"971200105";"Mairie";"IRIS"
+"GEO";"Géographie";"971250103";"Bragelogne-Blonval";"IRIS"
+"GEO";"Géographie";"971280103";"Douville-Poirier de Gissac";"IRIS"
+"GEO";"Géographie";"971290105";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971340101";"Beausoleil-Cousinière";"IRIS"
+"GEO";"Géographie";"972070702";"La Marie";"IRIS"
+"GEO";"Géographie";"972090103";"Calvaire-Crozanville-Pavé-Desaix";"IRIS"
+"GEO";"Géographie";"972090108";"Eaux Découpées-T.S.F.-Canal Alaric";"IRIS"
+"GEO";"Géographie";"972090109";"Volga-Pointe des Carrières";"IRIS"
+"GEO";"Géographie";"972090501";"La Meynard-Jambette";"IRIS"
+"GEO";"Géographie";"972090701";"Trenelle";"IRIS"
+"GEO";"Géographie";"972090702";"Grosse Roche-Citron";"IRIS"
+"GEO";"Géographie";"972090803";"de Briand-Godissard";"IRIS"
+"GEO";"Géographie";"972121203";"Deux Terres-Croix Blanche-Croix Odillon";"IRIS"
+"GEO";"Géographie";"972131303";"Basse Gondeau-Californie-Zone Industrielle et Aéroport";"IRIS"
+"GEO";"Géographie";"972131304";"Morne Pavillon-Haute Gondeau";"IRIS"
+"GEO";"Géographie";"972141401";"Bourg-Quartier sous Bois";"IRIS"
+"GEO";"Géographie";"972171701";"Bourg-Mondésir";"IRIS"
+"GEO";"Géographie";"972202003";"La Régale-Desmartinières-La Renée";"IRIS"
+"GEO";"Géographie";"972242406";"L'Ermitage-Rivière l'Or";"IRIS"
+"GEO";"Géographie";"972272701";"Bourg";"IRIS"
+"GEO";"Géographie";"972290103";"Plateau Fofo-Fonds Nigaud-Madiana";"IRIS"
+"GEO";"Géographie";"973020110";"Montabo";"IRIS"
+"GEO";"Géographie";"973020119";"de Gaulle";"IRIS"
+"GEO";"Géographie";"973020123";"Troubiran";"IRIS"
+"GEO";"Géographie";"973050104";"Sainte-Agathe-Trois-Rois";"IRIS"
+"GEO";"Géographie";"973570101";"Bourg";"IRIS"
+"GEO";"Géographie";"974010201";"Le Tévelave";"IRIS"
+"GEO";"Géographie";"974020102";"La Rivière des Roches";"IRIS"
+"GEO";"Géographie";"974040101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974040201";"Les Canots";"IRIS"
+"GEO";"Géographie";"974070101";"Centre Ville Est";"IRIS"
+"GEO";"Géographie";"974070201";"Satec";"IRIS"
+"GEO";"Géographie";"974070703";"ZIC Port de la Pointe des Galets";"IRIS"
+"GEO";"Géographie";"974080302";"Lit de la Rivière des Galets";"IRIS"
+"GEO";"Géographie";"974080701";"Dos-d'Âne";"IRIS"
+"GEO";"Géographie";"974090105";"Chemin du Centre";"IRIS"
+"GEO";"Géographie";"974090301";"Champ Borne";"IRIS"
+"GEO";"Géographie";"974090401";"Rivière du Mat-Les Bas";"IRIS"
+"GEO";"Géographie";"974110107";"Le Butor-Champ Fleuri";"IRIS"
+"GEO";"Géographie";"974110112";"Le Jardin de l'État-Bertin";"IRIS"
+"GEO";"Géographie";"974110301";"Le Brûlé";"IRIS"
+"GEO";"Géographie";"974110302";"Forêt du Brûlé";"IRIS"
+"GEO";"Géographie";"974110403";"Forêt de Saint-François";"IRIS"
+"GEO";"Géographie";"974110503";"Le Bas des Rampes-La Chaumière";"IRIS"
+"GEO";"Géographie";"974110504";"C.E.S. Montgaillard";"IRIS"
+"GEO";"Géographie";"974110601";"Les Deux Canons-Finette";"IRIS"
+"GEO";"Géographie";"974110602";"Lory les Bas";"IRIS"
+"GEO";"Géographie";"974110606";"Clinique Sainte-Clotilde";"IRIS"
+"GEO";"Géographie";"974110803";"Les Ananas-Hauts du Moufia";"IRIS"
+"GEO";"Géographie";"974111203";"12e Km-Le Ruisseau Blanc";"IRIS"
+"GEO";"Géographie";"974120201";"Les Lianes";"IRIS"
+"GEO";"Géographie";"974120401";"Jean Petit";"IRIS"
+"GEO";"Géographie";"974120502";"Forêt des Hauts de Langevin";"IRIS"
+"GEO";"Géographie";"974130201";"La Chaloupe-Notre-Dame des Champs";"IRIS"
+"GEO";"Géographie";"974130203";"Forêt des Hauts de la Chaloupe";"IRIS"
+"GEO";"Géographie";"974140206";"La Rivière Est";"IRIS"
+"GEO";"Géographie";"974150502";"Forêt des Hauts de Sans Souci";"IRIS"
+"GEO";"Géographie";"974150601";"Le Bois de Nèfles-Mon Repos";"IRIS"
+"GEO";"Géographie";"974150901";"Le Bernica";"IRIS"
+"GEO";"Géographie";"974151101";"L'Éperon-Tamatave";"IRIS"
+"GEO";"Géographie";"974151103";"Villèle";"IRIS"
+"GEO";"Géographie";"974151203";"Saint-Gilles les Bains Centre";"IRIS"
+"GEO";"Géographie";"974151302";"La Saline-Trou d'Eau";"IRIS"
+"GEO";"Géographie";"974151402";"La Saline-La Montée Panon Sud";"IRIS"
+"GEO";"Géographie";"974151704";"Mafate-Roche Plate-Marla";"IRIS"
+"GEO";"Géographie";"974160401";"La Ligne Paradis";"IRIS"
+"GEO";"Géographie";"974160803";"L'Asile-ZAC Océan Indien";"IRIS"
+"GEO";"Géographie";"974161001";"Montvert les Bas";"IRIS"
+"GEO";"Géographie";"974170102";"Forêt des Hauts de Saint-Philippe";"IRIS"
+"GEO";"Géographie";"974170201";"Basse Vallée-Le Baril";"IRIS"
+"GEO";"Géographie";"974180502";"Plaine des Fougères-Moka";"IRIS"
+"GEO";"Géographie";"974190101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974190102";"Zone Forestière des Hauts de Sainte-Rose";"IRIS"
+"GEO";"Géographie";"974200302";"Forêt des Hauts de Sainte-Suzanne";"IRIS"
+"GEO";"Géographie";"974210201";"Grand Îlet";"IRIS"
+"GEO";"Géographie";"974220201";"Le Dassy";"IRIS"
+"GEO";"Géographie";"974220601";"Le Bras de Pontho";"IRIS"
+"GEO";"Géographie";"974221202";"Bois Court-Piton Hyacinthe";"IRIS"
+"GEO";"Géographie";"974240104";"Peter Both-Palmiste Rouge";"IRIS"
+"GEO";"Géographie";"97126";"Saint-Louis";"COM"
+"GEO";"Géographie";"97201";"L'Ajoupa-Bouillon";"COM"
+"GEO";"Géographie";"97203";"Basse-Pointe";"COM"
+"GEO";"Géographie";"97215";"Macouba";"COM"
+"GEO";"Géographie";"97301";"Régina";"COM"
+"GEO";"Géographie";"97303";"Iracoubo";"COM"
+"GEO";"Géographie";"97310";"Roura";"COM"
+"GEO";"Géographie";"971010103";"Providence-Salle d'Azile-Bazin-Nérée";"IRIS"
+"GEO";"Géographie";"971010114";"Fond Logier-Carénage-Blanchard";"IRIS"
+"GEO";"Géographie";"971030105";"Zone Industrielle de Jarry-La Jaille";"IRIS"
+"GEO";"Géographie";"971050102";"Préfecture-Carmel";"IRIS"
+"GEO";"Géographie";"971050104";"Mallian-Morne à Vache";"IRIS"
+"GEO";"Géographie";"971070103";"Moulin à Eaux-Routhiers-Concession";"IRIS"
+"GEO";"Géographie";"971070105";"Cambrefort-Moravie";"IRIS"
+"GEO";"Géographie";"971070106";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971150102";"Castel-Jaula";"IRIS"
+"GEO";"Géographie";"971160103";"Bosredon Lebraire Gensolin";"IRIS"
+"GEO";"Géographie";"971180101";"Duquerry-Grande Savanne";"IRIS"
+"GEO";"Géographie";"971190101";"Bourg";"IRIS"
+"GEO";"Géographie";"971200101";"Rivière Salée";"IRIS"
+"GEO";"Géographie";"971200102";"Lauricisque-Z.A. Bergevin-Hô Chi Minh";"IRIS"
+"GEO";"Géographie";"971250102";"Cayenne-Pointe des Châteaux";"IRIS"
+"GEO";"Géographie";"971340103";"Géry-Marigot";"IRIS"
+"GEO";"Géographie";"972070701";"Bourg";"IRIS"
+"GEO";"Géographie";"972090101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"972090503";"Moutte-La Ferme";"IRIS"
+"GEO";"Géographie";"972090902";"Ravine Vilaine-Plateau Tiberge";"IRIS"
+"GEO";"Géographie";"972100101";"Bourg-Presqu'île";"IRIS"
+"GEO";"Géographie";"972100102";"Pointe Couchée-Vapeur";"IRIS"
+"GEO";"Géographie";"972100103";"Bellevue-Chopotte-Bonnie";"IRIS"
+"GEO";"Géographie";"972131307";"Long Pré-Bélème-Chambord";"IRIS"
+"GEO";"Géographie";"972131311";"Grand Case-Pelletier-Plaisance";"IRIS"
+"GEO";"Géographie";"972202004";"Josseaud-Fonds Mulatres";"IRIS"
+"GEO";"Géographie";"972222207";"Duchêne-Hauteur Pontaléry";"IRIS"
+"GEO";"Géographie";"972290102";"Cité Ozanam";"IRIS"
+"GEO";"Géographie";"972323201";"Bourg";"IRIS"
+"GEO";"Géographie";"973020101";"Palmistes";"IRIS"
+"GEO";"Géographie";"973020108";"Eau Lisette";"IRIS"
+"GEO";"Géographie";"973020109";"Châtenay";"IRIS"
+"GEO";"Géographie";"973020120";"Galmot";"IRIS"
+"GEO";"Géographie";"973020126";"Mont Baduel Est";"IRIS"
+"GEO";"Géographie";"973040101";"Pariacabo";"IRIS"
+"GEO";"Géographie";"973040104";"Bois Chaudat";"IRIS"
+"GEO";"Géographie";"973040106";"L'Anse";"IRIS"
+"GEO";"Géographie";"973040107";"Monnerville";"IRIS"
+"GEO";"Géographie";"973060101";"Le Bourg";"IRIS"
+"GEO";"Géographie";"973070103";"Centre Bourg";"IRIS"
+"GEO";"Géographie";"973070104";"Sud Bourg";"IRIS"
+"GEO";"Géographie";"973110105";"Saint-Jean";"IRIS"
+"GEO";"Géographie";"973110108";"Fatima";"IRIS"
+"GEO";"Géographie";"974030101";"Bras Long-Ravine des Citrons";"IRIS"
+"GEO";"Géographie";"974050201";"Piton Goyaves";"IRIS"
+"GEO";"Géographie";"974070502";"ZUP III";"IRIS"
+"GEO";"Géographie";"974070504";"ZUP Cité du Stade";"IRIS"
+"GEO";"Géographie";"974070602";"Rivière des Galets-Village";"IRIS"
+"GEO";"Géographie";"974070701";"Zone Industrielle Numéro 1";"IRIS"
+"GEO";"Géographie";"974090101";"Pont Auguste";"IRIS"
+"GEO";"Géographie";"974090202";"Cambuston-Centre";"IRIS"
+"GEO";"Géographie";"974100101";"Centre Ville Rive Gauche";"IRIS"
+"GEO";"Géographie";"974100103";"Beaufond-Le Port";"IRIS"
+"GEO";"Géographie";"974100108";"Bourbier-l'Abondance";"IRIS"
+"GEO";"Géographie";"974110111";"Le Jardin de l'État-Joinville";"IRIS"
+"GEO";"Géographie";"974110201";"Mairie de Bellepierre-Les Saphirs";"IRIS"
+"GEO";"Géographie";"974110708";"Commune Prima";"IRIS"
+"GEO";"Géographie";"974110902";"Mairie et Hauts du Bois de Nèfles";"IRIS"
+"GEO";"Géographie";"974111201";"7e Km-La Vigie-Les Brises";"IRIS"
+"GEO";"Géographie";"974111202";"9e Km-Moulin Cader-Colorado";"IRIS"
+"GEO";"Géographie";"974111301";"Saint-Bernard";"IRIS"
+"GEO";"Géographie";"974111302";"La Montagne-Plaine d'Affouches";"IRIS"
+"GEO";"Géographie";"974120105";"Les Jacques-Jean Petit les Bas";"IRIS"
+"GEO";"Géographie";"974140102";"Centre Ville Ouest";"IRIS"
+"GEO";"Géographie";"974140107";"Le Bois de Nèfles";"IRIS"
+"GEO";"Géographie";"974140205";"Hauts de la Rivière";"IRIS"
+"GEO";"Géographie";"974140301";"Le Gol";"IRIS"
+"GEO";"Géographie";"974150201";"L'Étang";"IRIS"
+"GEO";"Géographie";"974150701";"Bellemène";"IRIS"
+"GEO";"Géographie";"974151002";"La Renaissance-Lycée Plateau Caillou";"IRIS"
+"GEO";"Géographie";"974151703";"Forêt des Hauts de la Petite France";"IRIS"
+"GEO";"Géographie";"974160402";"Zone Industrielle 2";"IRIS"
+"GEO";"Géographie";"974160502";"Bois d'Olives Ouest";"IRIS"
+"GEO";"Géographie";"974160601";"La Ravine des Cabris Centre";"IRIS"
+"GEO";"Géographie";"974160702";"La Concession-Condé";"IRIS"
+"GEO";"Géographie";"974160804";"Terre Rouge-Bassin Plat-Bassin Martin";"IRIS"
+"GEO";"Géographie";"974160805";"C.H.S.R.";"IRIS"
+"GEO";"Géographie";"974180103";"Ravine des Chèvres-La Convenance";"IRIS"
+"GEO";"Géographie";"974180303";"Plaine des Fougères-Beaumont";"IRIS"
+"GEO";"Géographie";"974180403";"Plaine des Fougères-L'Espérance";"IRIS"
+"GEO";"Géographie";"974200202";"Quartier Français-Communes Carron-Ango";"IRIS"
+"GEO";"Géographie";"974200401";"Bagatelle";"IRIS"
+"GEO";"Géographie";"974200501";"Les Jacques-Bel-Air";"IRIS"
+"GEO";"Géographie";"974210302";"Forêt de Bélouve";"IRIS"
+"GEO";"Géographie";"974220103";"La Chatoire-La Roseraie";"IRIS"
+"GEO";"Géographie";"974220106";"Le 11e Km-Couchant de la Ravine Blanche";"IRIS"
+"GEO";"Géographie";"974221201";"Les 19e et 23e Km";"IRIS"
+"GEO";"Géographie";"974221203";"Bourg Murat-Route Notre-Dame de la Paix";"IRIS"
+"GEO";"Géographie";"974221205";"Zone Forestière du Volcan";"IRIS"
+"GEO";"Géographie";"974230103";"Forêt des Hauts de Trois Bassins";"IRIS"
+"GEO";"Géographie";"97111";"Deshaies";"COM"
+"GEO";"Géographie";"97202";"Les Anses-d'Arlet";"COM"
+"GEO";"Géographie";"97231";"Les Trois-Îlets";"COM"
+"GEO";"Géographie";"971030104";"Belcourt-Destrellan";"IRIS"
+"GEO";"Géographie";"971030106";"Le Bourg-Trioncelle";"IRIS"
+"GEO";"Géographie";"971070107";"Sarlassone-Petit Pérou";"IRIS"
+"GEO";"Géographie";"971130106";"Mathurin-Poucet-Blanchard-Labrousse";"IRIS"
+"GEO";"Géographie";"971130107";"Mare Gaillard-Petit Havre";"IRIS"
+"GEO";"Géographie";"971140101";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971180106";"Arnouville-Vince";"IRIS"
+"GEO";"Géographie";"972070704";"Grande Savane-La Beauville-Bois Neuf";"IRIS"
+"GEO";"Géographie";"972090113";"Morne Vente-Morne Coco";"IRIS"
+"GEO";"Géographie";"972090202";"Bellevue";"IRIS"
+"GEO";"Géographie";"972090203";"Rive Droite-Cour Campêche";"IRIS"
+"GEO";"Géographie";"972100104";"Morne-Pitault-Morne Serpent-Belle Ame";"IRIS"
+"GEO";"Géographie";"972121204";"Morne des Olives-Lagrosillière-Calvaire";"IRIS"
+"GEO";"Géographie";"972131305";"Mahault-Acajou Nord et Sud";"IRIS"
+"GEO";"Géographie";"972131308";"Petit Morne-Morne Pitault-Rivière Caleçon";"IRIS"
+"GEO";"Géographie";"972202002";"Morne Roche-Préfontaine-Morne Honoré";"IRIS"
+"GEO";"Géographie";"972202005";"Beauregard-Lourdes-Saint-Vincent";"IRIS"
+"GEO";"Géographie";"972210101";"Petit Bourg-Courbaril-Fonds Masson";"IRIS"
+"GEO";"Géographie";"972232303";"Beauséjour-Grand Bassin-Valatte";"IRIS"
+"GEO";"Géographie";"972242404";"Chapelle-Morne des Olives-Durand";"IRIS"
+"GEO";"Géographie";"972272703";"Les Coteaux-Céron-Corps de Garde";"IRIS"
+"GEO";"Géographie";"972282804";"Eudorçait-Pérou";"IRIS"
+"GEO";"Géographie";"973020106";"Anatole";"IRIS"
+"GEO";"Géographie";"973020116";"La Madeleine";"IRIS"
+"GEO";"Géographie";"973020118";"Les Amandiers";"IRIS"
+"GEO";"Géographie";"973020121";"Cabassou";"IRIS"
+"GEO";"Géographie";"973020124";"Mont-Lucas Ouest";"IRIS"
+"GEO";"Géographie";"973020125";"Mont-Lucas Est";"IRIS"
+"GEO";"Géographie";"973020127";"Mont Baduel Ouest";"IRIS"
+"GEO";"Géographie";"973040108";"Savane";"IRIS"
+"GEO";"Géographie";"973050102";"Macouria Est";"IRIS"
+"GEO";"Géographie";"973060103";"Javouhey";"IRIS"
+"GEO";"Géographie";"973070105";"Stoupan";"IRIS"
+"GEO";"Géographie";"973110102";"Centre Ville";"IRIS"
+"GEO";"Géographie";"973110111";"Londres-Lac Bleu";"IRIS"
+"GEO";"Géographie";"973530101";"Centre-Bourg";"IRIS"
+"GEO";"Géographie";"973600101";"Bourg";"IRIS"
+"GEO";"Géographie";"974040401";"Le Maniron";"IRIS"
+"GEO";"Géographie";"974080101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974090201";"Cambuston-Petit Bazar";"IRIS"
+"GEO";"Géographie";"974090501";"Ravine Creuse";"IRIS"
+"GEO";"Géographie";"974100201";"Sainte-Anne-Petit Saint-Pierre";"IRIS"
+"GEO";"Géographie";"974110104";"Maréchal Leclerc-La Poste";"IRIS"
+"GEO";"Géographie";"974110109";"Bouvet-CGSS";"IRIS"
+"GEO";"Géographie";"974110701";"Église-Piscine du Chaudron";"IRIS"
+"GEO";"Géographie";"974110709";"Zone Industrielle du Chaudron";"IRIS"
+"GEO";"Géographie";"974120301";"La Plaine des Grègues";"IRIS"
+"GEO";"Géographie";"974130103";"Les Colimaçons-Bras Mouton-La Fontaine";"IRIS"
+"GEO";"Géographie";"974130304";"Le Piton Sud";"IRIS"
+"GEO";"Géographie";"974140103";"Centre Ville Est";"IRIS"
+"GEO";"Géographie";"974140108";"Le Bas de la Ville-Bel-Air";"IRIS"
+"GEO";"Géographie";"974140401";"Le Ouaki";"IRIS"
+"GEO";"Géographie";"974150602";"Bois de Nèfles-Saint-Paul Centre";"IRIS"
+"GEO";"Géographie";"974151701";"Le Guillaume Centre";"IRIS"
+"GEO";"Géographie";"974151702";"Le Guillaume-La Petite France";"IRIS"
+"GEO";"Géographie";"974160205";"Zones Industrielles 1 et 3";"IRIS"
+"GEO";"Géographie";"974160501";"Bois d'Olives Est";"IRIS"
+"GEO";"Géographie";"974161102";"Forêt des Hauts de Montvert";"IRIS"
+"GEO";"Géographie";"974170202";"Forêt des Hauts de Basse Vallée";"IRIS"
+"GEO";"Géographie";"974180102";"Centre Ville Est";"IRIS"
+"GEO";"Géographie";"974220204";"Les Trois Mares Nord";"IRIS"
+"GEO";"Géographie";"974220401";"Le 12e Km";"IRIS"
+"GEO";"Géographie";"974220501";"Terrain Fleuri-La Pointe";"IRIS"
+"GEO";"Géographie";"974220901";"Bras Creux";"IRIS"
+"GEO";"Géographie";"974230101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974240103";"Bras Sec";"IRIS"
+"GEO";"Géographie";"97216";"Le Marigot";"COM"
+"GEO";"Géographie";"97233";"Le Morne-Vert";"COM"
+"GEO";"Géographie";"97356";"Camopi";"COM"
+"GEO";"Géographie";"97358";"Saint-Élie";"COM"
+"GEO";"Géographie";"971010117";"Vieux Bourg";"IRIS"
+"GEO";"Géographie";"971010119";"Petit Pérou";"IRIS"
+"GEO";"Géographie";"971040103";"Saint-Robert";"IRIS"
+"GEO";"Géographie";"971060103";"Pigeon-Malendure-Caféière";"IRIS"
+"GEO";"Géographie";"971070101";"Bananier-Haute Plaine";"IRIS"
+"GEO";"Géographie";"971150104";"Grosse Montagne";"IRIS"
+"GEO";"Géographie";"971160102";"Perrin Belle Espérance";"IRIS"
+"GEO";"Géographie";"971160104";"Chazeau Saint-Cyr";"IRIS"
+"GEO";"Géographie";"971160105";"Lasserre Jabrun Blanchet";"IRIS"
+"GEO";"Géographie";"971170104";"Darmencourt-Champ Grille 1";"IRIS"
+"GEO";"Géographie";"971180105";"Bourg";"IRIS"
+"GEO";"Géographie";"971190103";"Les Mangles-Gros Cap";"IRIS"
+"GEO";"Géographie";"971200106";"Chemin Neuf-Carénage-Darboussier";"IRIS"
+"GEO";"Géographie";"971240101";"Ducharmoy-Montéran";"IRIS"
+"GEO";"Géographie";"971250101";"Bourg";"IRIS"
+"GEO";"Géographie";"971280106";"Fonds Thézan-Eucher-Belle Hôtesse";"IRIS"
+"GEO";"Géographie";"971290101";"Cadet";"IRIS"
+"GEO";"Géographie";"971340102";"Le Bourg";"IRIS"
+"GEO";"Géographie";"972090112";"Balata-Ravine Blanche-Colson";"IRIS"
+"GEO";"Géographie";"972131306";"Jeanne d'Arc-Palmiste";"IRIS"
+"GEO";"Géographie";"972171703";"Morne Gommier-La Berry-La Sulpice";"IRIS"
+"GEO";"Géographie";"972210103";"Médecin-Maupéou-Belvédère";"IRIS"
+"GEO";"Géographie";"972242405";"Morne Poirier-Bois du Parc";"IRIS"
+"GEO";"Géographie";"973020103";"Buzaret";"IRIS"
+"GEO";"Géographie";"973020107";"Mango";"IRIS"
+"GEO";"Géographie";"973020117";"Zone Collery";"IRIS"
+"GEO";"Géographie";"973040103";"Félix Éboué";"IRIS"
+"GEO";"Géographie";"973040105";"Eldo";"IRIS"
+"GEO";"Géographie";"973040110";"Village Saramaka";"IRIS"
+"GEO";"Géographie";"973070108";"Chaumière";"IRIS"
+"GEO";"Géographie";"973110110";"Aéroport";"IRIS"
+"GEO";"Géographie";"973530102";"Piste Agricole";"IRIS"
+"GEO";"Géographie";"974010102";"La Ville-Ravine Sèche";"IRIS"
+"GEO";"Géographie";"974030103";"Zone des Hauts de l'Entre Deux";"IRIS"
+"GEO";"Géographie";"974070102";"Centre Ville Ouest";"IRIS"
+"GEO";"Géographie";"974070301";"Sidr Basse";"IRIS"
+"GEO";"Géographie";"974070501";"ZUP Cité Maloya";"IRIS"
+"GEO";"Géographie";"974080102";"Le Camp Magloire";"IRIS"
+"GEO";"Géographie";"974080103";"La Ravine à Marquet";"IRIS"
+"GEO";"Géographie";"974080201";"ZAC Saint-Laurent";"IRIS"
+"GEO";"Géographie";"974080301";"La Rivière des Galets";"IRIS"
+"GEO";"Géographie";"974100106";"La Confiance-Chemin de Ceinture";"IRIS"
+"GEO";"Géographie";"974110105";"Maréchal Leclerc-Le Petit Marché";"IRIS"
+"GEO";"Géographie";"974110203";"CHD-IUFM";"IRIS"
+"GEO";"Géographie";"974110501";"Les Camélias";"IRIS"
+"GEO";"Géographie";"974110505";"La Médiathèque";"IRIS"
+"GEO";"Géographie";"974110605";"Les Tamarins-Lory les Hauts";"IRIS"
+"GEO";"Géographie";"974110705";"Eudoxie Nonge";"IRIS"
+"GEO";"Géographie";"974110801";"Les Olympiades-Georges Brassens";"IRIS"
+"GEO";"Géographie";"974110802";"Mairie-Pierre et Sable-Bancouliers";"IRIS"
+"GEO";"Géographie";"974110807";"Rectorat Université";"IRIS"
+"GEO";"Géographie";"974110901";"Bois de Nèfles-Finette";"IRIS"
+"GEO";"Géographie";"974111002";"Mairie de la Bretagne-Centre";"IRIS"
+"GEO";"Géographie";"974120104";"Le Goyave et Hauts";"IRIS"
+"GEO";"Géographie";"974130102";"L'Étang Saint-Leu";"IRIS"
+"GEO";"Géographie";"974140203";"Le Gol Les Hauts";"IRIS"
+"GEO";"Géographie";"974150101";"Gare Routière Saint-Charles";"IRIS"
+"GEO";"Géographie";"974150102";"Mairie-Hôpital Gabriel Martin";"IRIS"
+"GEO";"Géographie";"974150301";"Grande Fontaine-Le Tour des Roches";"IRIS"
+"GEO";"Géographie";"974150604";"Forêt des Hauts du Bois de Nèfles";"IRIS"
+"GEO";"Géographie";"974151003";"Plateau Caillou";"IRIS"
+"GEO";"Géographie";"974151201";"Boucan Canot-Grand Fond";"IRIS"
+"GEO";"Géographie";"974151401";"La Saline-L'Ermitage Les Hauts Nord";"IRIS"
+"GEO";"Géographie";"974151403";"Vue Belle et Hauts";"IRIS"
+"GEO";"Géographie";"974160102";"Centre Ville Ouest-La Poste-Le Marché";"IRIS"
+"GEO";"Géographie";"974160103";"ZAC Banck-La Charité";"IRIS"
+"GEO";"Géographie";"974160605";"Les Hauts de la Ravine des Cabris";"IRIS"
+"GEO";"Géographie";"974160901";"Grands Bois-Centre";"IRIS"
+"GEO";"Géographie";"974170101";"Centre-Mare Longue-Est";"IRIS"
+"GEO";"Géographie";"974180202";"Plaine des Fougères-Charpentier";"IRIS"
+"GEO";"Géographie";"974190301";"Bois Blanc";"IRIS"
+"GEO";"Géographie";"974190402";"Forêt des Hauts de la Rivière de l'Est";"IRIS"
+"GEO";"Géographie";"974210202";"Camp Pierrot-Morne de Fourche";"IRIS"
+"GEO";"Géographie";"974210401";"Mare à Vieille Place";"IRIS"
+"GEO";"Géographie";"974220102";"Centre Ville-Gendarmerie";"IRIS"
+"GEO";"Géographie";"974220105";"Le Lycée du Tampon 10e Km";"IRIS"
+"GEO";"Géographie";"974220701";"Le Pont d'Yves";"IRIS"
+"GEO";"Géographie";"97130";"Terre-de-Bas";"COM"
+"GEO";"Géographie";"97133";"Vieux-Fort";"COM"
+"GEO";"Géographie";"97225";"Saint-Pierre";"COM"
+"GEO";"Géographie";"971010105";"Grand Camp Nord";"IRIS"
+"GEO";"Géographie";"971010108";"Domaine public - Raizet quartier Les Seuils";"IRIS"
+"GEO";"Géographie";"971010112";"Sarazin-Papin B.-B. Sol.-Céligny-Bazin";"IRIS"
+"GEO";"Géographie";"971010116";"Boissard-Morne Flory";"IRIS"
+"GEO";"Géographie";"971010120";"Besson-Pages-Peinnel";"IRIS"
+"GEO";"Géographie";"971020101";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971030102";"Plaisance-Convenance";"IRIS"
+"GEO";"Géographie";"971050105";"Bologne-Rivière des Pères";"IRIS"
+"GEO";"Géographie";"971070104";"Sainte-Marie-Four à Chaux";"IRIS"
+"GEO";"Géographie";"971130104";"Dampierre-Saline-Pliane-Dunoyer";"IRIS"
+"GEO";"Géographie";"971160106";"Bourg Bonne Terre";"IRIS"
+"GEO";"Géographie";"971170108";"Zévallos-Gardel";"IRIS"
+"GEO";"Géographie";"971200103";"Henri IV-Cité Bergevin";"IRIS"
+"GEO";"Géographie";"971210101";"Mahault-Acomat";"IRIS"
+"GEO";"Géographie";"971210102";"Le Bourg-Les Plaines";"IRIS"
+"GEO";"Géographie";"972070705";"Bac-Fond d'Or-Fond Savane";"IRIS"
+"GEO";"Géographie";"972090115";"Cluny-Didier-Fond Lada";"IRIS"
+"GEO";"Géographie";"972090201";"Texaco-Pointe La Vierge";"IRIS"
+"GEO";"Géographie";"972090402";"ZAC Châteaubœuf-Bois Boyer";"IRIS"
+"GEO";"Géographie";"972100108";"Frégate-Dostaly-Perriolat";"IRIS"
+"GEO";"Géographie";"972121202";"Dumaine-Poirier-Tracée";"IRIS"
+"GEO";"Géographie";"972141403";"Morne Céron-Étoile-Carabin";"IRIS"
+"GEO";"Géographie";"972171702";"Pérou-Fonds Gens Libres-Cap Macré";"IRIS"
+"GEO";"Géographie";"972202001";"Bourg-Anse Figuier";"IRIS"
+"GEO";"Géographie";"972222204";"Vert Pré-L'Heureux-Galette";"IRIS"
+"GEO";"Géographie";"972232305";"Gueydon-Duchâtel-Thibault";"IRIS"
+"GEO";"Géographie";"972282807";"Reculée-Bezaudin";"IRIS"
+"GEO";"Géographie";"972300105";"Tartane";"IRIS"
+"GEO";"Géographie";"973050103";"Tonate-Savane Matiti";"IRIS"
+"GEO";"Géographie";"973070101";"Le Grand Larivot";"IRIS"
+"GEO";"Géographie";"973070106";"La Désirée-Rochambeau";"IRIS"
+"GEO";"Géographie";"973110106";"RN1-Les Sables Blancs";"IRIS"
+"GEO";"Géographie";"973110109";"Route de Mana";"IRIS"
+"GEO";"Géographie";"973620102";"Hors-Bourg";"IRIS"
+"GEO";"Géographie";"974010202";"Forêt des Hauts du Tévelave";"IRIS"
+"GEO";"Géographie";"974020101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974020104";"Les Bas de la Rivière du Mât";"IRIS"
+"GEO";"Géographie";"974040501";"Ravine Sèche";"IRIS"
+"GEO";"Géographie";"974050104";"Zone Forestière des Hauts";"IRIS"
+"GEO";"Géographie";"974070302";"Sidr Haute-Cité Ariste Bolon";"IRIS"
+"GEO";"Géographie";"974070401";"ZAC Cité Cœur Saignant";"IRIS"
+"GEO";"Géographie";"974100109";"Bourbier-Beauvallon";"IRIS"
+"GEO";"Géographie";"974100110";"Grand Étang-Takamaka-Bébour";"IRIS"
+"GEO";"Géographie";"974100202";"Sainte-Anne-Saint-François-Le Cap";"IRIS"
+"GEO";"Géographie";"974110110";"Saint-Jacques-Decaen";"IRIS"
+"GEO";"Géographie";"974110114";"Mazagran-Bois de Nèfles";"IRIS"
+"GEO";"Géographie";"974110604";"L'École d'Application Bossard";"IRIS"
+"GEO";"Géographie";"974110702";"Le Mail Ouest";"IRIS"
+"GEO";"Géographie";"974110703";"Le Mail Est";"IRIS"
+"GEO";"Géographie";"974110704";"Bas du Moufia";"IRIS"
+"GEO";"Géographie";"974110903";"Forêt du Bois de Nèfles";"IRIS"
+"GEO";"Géographie";"974120603";"Forêt des Hauts de Vincendo";"IRIS"
+"GEO";"Géographie";"974130401";"Le Plate";"IRIS"
+"GEO";"Géographie";"974140104";"Roche Maigre";"IRIS"
+"GEO";"Géographie";"974140106";"Les Cocos-La Palissade";"IRIS"
+"GEO";"Géographie";"974140201";"La Rivière Centre";"IRIS"
+"GEO";"Géographie";"974140501";"Les Makes-Village";"IRIS"
+"GEO";"Géographie";"974150401";"Bas de la Plaine";"IRIS"
+"GEO";"Géographie";"974150503";"Rivière des Galets-Canalisation";"IRIS"
+"GEO";"Géographie";"974150801";"Bois Rouge";"IRIS"
+"GEO";"Géographie";"974151204";"Saint-Gilles-L'Ermitage";"IRIS"
+"GEO";"Géographie";"974151301";"La Saline-L'Ermitage";"IRIS"
+"GEO";"Géographie";"974151501";"Le Barrage";"IRIS"
+"GEO";"Géographie";"974151503";"Forêt des Hauts de Saint-Cœur";"IRIS"
+"GEO";"Géographie";"974160201";"Sidr-Front de Mer";"IRIS"
+"GEO";"Géographie";"974160301";"Les Casernes-Joli Fond";"IRIS"
+"GEO";"Géographie";"974160701";"La Ligne des Bambous Centre";"IRIS"
+"GEO";"Géographie";"974160801";"Terre Sainte-La Mairie";"IRIS"
+"GEO";"Géographie";"974180402";"La Confiance-L'Espérance";"IRIS"
+"GEO";"Géographie";"974200201";"Quartier Français-Sainte-Vivienne";"IRIS"
+"GEO";"Géographie";"974210501";"Mare à Martin";"IRIS"
+"GEO";"Géographie";"974220101";"Centre Ville-Mairie";"IRIS"
+"GEO";"Géographie";"974220202";"Les 400-La Ravine des Cabris";"IRIS"
+"GEO";"Géographie";"974220203";"La Ravine des Cabris-L'Hermitage";"IRIS"
+"GEO";"Géographie";"974230201";"La Souris Blanche";"IRIS"
+"GEO";"Géographie";"97206";"Le Diamant";"COM"
+"GEO";"Géographie";"97219";"Le Prêcheur";"COM"
+"GEO";"Géographie";"971010101";"Belle Plaine-Pointe d'Or-Dothémare-Boisripeaux";"IRIS"
+"GEO";"Géographie";"971010106";"Grand Camp Sud-Est";"IRIS"
+"GEO";"Géographie";"971010107";"Cour Charneau-Raizet (Les Esses-Carbet)";"IRIS"
+"GEO";"Géographie";"971010111";"Bazin-Cocoyer-Jaspard";"IRIS"
+"GEO";"Géographie";"971040101";"Pères Blancs";"IRIS"
+"GEO";"Géographie";"971040102";"Le Bourg";"IRIS"
+"GEO";"Géographie";"971120102";"Trois Îlets-Cadet-Gagneron-Beauregard-Basses";"IRIS"
+"GEO";"Géographie";"971130102";"Montauban-Belle Plaine-Périnet";"IRIS"
+"GEO";"Géographie";"971130105";"Grand Bois-Port Blanc";"IRIS"
+"GEO";"Géographie";"971160107";"Bourg Marieulle";"IRIS"
+"GEO";"Géographie";"971170101";"Sainte-Marguerite-La Houssaie";"IRIS"
+"GEO";"Géographie";"971180104";"Bel-Air-Desrozières";"IRIS"
+"GEO";"Géographie";"971200108";"Mortenol";"IRIS"
+"GEO";"Géographie";"971210103";"Baillargent-Beausoleil";"IRIS"
+"GEO";"Géographie";"971220101";"Bourg";"IRIS"
+"GEO";"Géographie";"971290103";"Morne Rouge";"IRIS"
+"GEO";"Géographie";"971290104";"Viard";"IRIS"
+"GEO";"Géographie";"971290106";"Duzer";"IRIS"
+"GEO";"Géographie";"971320102";"Bourg-Chemin neuf";"IRIS"
+"GEO";"Géographie";"972090106";"Morne Vannier-Sainte-Thérèse";"IRIS"
+"GEO";"Géographie";"972090114";"Didier-Desrochers-Vieux Moulin";"IRIS"
+"GEO";"Géographie";"972090116";"Ermitage";"IRIS"
+"GEO";"Géographie";"972090303";"Dillon Nord";"IRIS"
+"GEO";"Géographie";"972090502";"La Meynard-Moutte";"IRIS"
+"GEO";"Géographie";"972090901";"Langellier-Ravine Vilaine";"IRIS"
+"GEO";"Géographie";"972121201";"Bourg-La Vierge";"IRIS"
+"GEO";"Géographie";"972131302";"Bourg";"IRIS"
+"GEO";"Géographie";"972141402";"Bon Repos-Morne Capot-Maxime";"IRIS"
+"GEO";"Géographie";"972210104";"Guinée Fleury-Desmarinières-La Thoraille";"IRIS"
+"GEO";"Géographie";"972222206";"Fond Nicolas-Chapelle Villarson";"IRIS"
+"GEO";"Géographie";"972232304";"L'Avenir-Petit Paradis-Morne Lavaleur";"IRIS"
+"GEO";"Géographie";"972272702";"Monésie-Lépinay-Trou au Diable";"IRIS"
+"GEO";"Géographie";"972282802";"Belle Étoile-Derrière Morne-Rodon";"IRIS"
+"GEO";"Géographie";"972290104";"Plateau Fofo Est-Sainte-Catherine";"IRIS"
+"GEO";"Géographie";"972290107";"Enclos-Fonds Duclos";"IRIS"
+"GEO";"Géographie";"972290108";"Terreville";"IRIS"
+"GEO";"Géographie";"972300102";"Petite Rivière Salée-Morne Poirier-Bellevue";"IRIS"
+"GEO";"Géographie";"972300103";"Bassignac Sud-Desforts-Fonds Galion";"IRIS"
+"GEO";"Géographie";"972323202";"Bellevue-Pointe Faula-Macabou";"IRIS"
+"GEO";"Géographie";"973020104";"Mirza";"IRIS"
+"GEO";"Géographie";"973020111";"Zéphir";"IRIS"
+"GEO";"Géographie";"973090107";"Attila Cabassou";"IRIS"
+"GEO";"Géographie";"973110101";"Quartier Officiel-Les Cultures";"IRIS"
+"GEO";"Géographie";"973530104";"Villages Amérindiens";"IRIS"
+"GEO";"Géographie";"974010101";"La Ville-Bois de Nèfles-Le Ruisseau";"IRIS"
+"GEO";"Géographie";"974020103";"Les Hauts de la Rivière du Mât";"IRIS"
+"GEO";"Géographie";"974020105";"Forêt des Hauts de Bras Panon";"IRIS"
+"GEO";"Géographie";"974050102";"La Ravine du Pont-Manapany les Hauts";"IRIS"
+"GEO";"Géographie";"974070503";"ZUP III-Square Jean XXIII";"IRIS"
+"GEO";"Géographie";"974070601";"Rivière des Galets-Cité Ravine à Marquet";"IRIS"
+"GEO";"Géographie";"974080304";"Mafate-Grand Place-Aurère-Îlets à Bourse et Malheur";"IRIS"
+"GEO";"Géographie";"974080601";"La Ravine à Malheur";"IRIS"
+"GEO";"Géographie";"974080602";"La Montagne-Secteur Possession";"IRIS"
+"GEO";"Géographie";"974090203";"Cambuston-L'Étang-Bois Rouge";"IRIS"
+"GEO";"Géographie";"974090801";"Bras des Chevrettes et Hauts";"IRIS"
+"GEO";"Géographie";"974100102";"Centre Ville-Rive Droite";"IRIS"
+"GEO";"Géographie";"974100107";"Bras Canot-Le Cratère";"IRIS"
+"GEO";"Géographie";"974110101";"La Petite Île-La Redoute";"IRIS"
+"GEO";"Géographie";"974110103";"Le Barachois-Gare Routière";"IRIS"
+"GEO";"Géographie";"974110106";"Maréchal Leclerc-Le Butor";"IRIS"
+"GEO";"Géographie";"974110113";"La Source-Ruisseau des Noirs";"IRIS"
+"GEO";"Géographie";"974110202";"Hauts de Bellepierre";"IRIS"
+"GEO";"Géographie";"974110502";"La Trinité-Château Morange";"IRIS"
+"GEO";"Géographie";"974110603";"La Mairie de Sainte-Clotilde";"IRIS"
+"GEO";"Géographie";"974110707";"Michel Debré-Mairie du Chaudron";"IRIS"
+"GEO";"Géographie";"974111004";"Forêt de la Bretagne";"IRIS"
+"GEO";"Géographie";"974111101";"Domenjod";"IRIS"
+"GEO";"Géographie";"974120601";"Vincendo-Centre-Littoral";"IRIS"
+"GEO";"Géographie";"974130202";"La Chaloupe-Saint-Christophe-Camélias";"IRIS"
+"GEO";"Géographie";"974130301";"Grand Fond-Stella";"IRIS"
+"GEO";"Géographie";"974140202";"Le Ruisseau-Terre Rouge";"IRIS"
+"GEO";"Géographie";"974140204";"Le Ruisseau";"IRIS"
+"GEO";"Géographie";"974140402";"Le Petit Serre-Îlet Furcy";"IRIS"
+"GEO";"Géographie";"974140502";"Zone Forestière des Hauts";"IRIS"
+"GEO";"Géographie";"974150402";"La Plaine-Bas de Mon Repos";"IRIS"
+"GEO";"Géographie";"974150603";"Le Ruisseau";"IRIS"
+"GEO";"Géographie";"974151502";"Saint-Cœur-Ravine Daniel";"IRIS"
+"GEO";"Géographie";"974151601";"Tan Rouge";"IRIS"
+"GEO";"Géographie";"974160101";"Centre Ville Est-La Mairie";"IRIS"
+"GEO";"Géographie";"974160302";"Basse Terre Centre et Hauts-Rn3";"IRIS"
+"GEO";"Géographie";"974160602";"La Ravine des Cabris Est";"IRIS"
+"GEO";"Géographie";"974160902";"Grands Bois-Les Hauts-Cafrine-Ravine des Cafres";"IRIS"
+"GEO";"Géographie";"974170103";"Le Volcan-Saint-Philippe";"IRIS"
+"GEO";"Géographie";"974180101";"Centre Ville Ouest";"IRIS"
+"GEO";"Géographie";"974180601";"Gillot-La Mare-Duparc";"IRIS"
+"GEO";"Géographie";"974190201";"Piton-Sainte-Rose";"IRIS"
+"GEO";"Géographie";"974190303";"Le Volcan-Sainte-Rose";"IRIS"
+"GEO";"Géographie";"974200301";"Deux Rives";"IRIS"
+"GEO";"Géographie";"974210301";"Hell Bourg";"IRIS"
+"GEO";"Géographie";"974210303";"Gros Morne-Enchaing";"IRIS"
+"GEO";"Géographie";"974220104";"Cité de la Sidr-Croisée des 400";"IRIS"
+"GEO";"Géographie";"974221101";"Bérive";"IRIS"
+"GEO";"Géographie";"97204";"Le Carbet";"COM"
+"GEO";"Géographie";"97208";"Fonds-Saint-Denis";"COM"
+"GEO";"Géographie";"97308";"Saint-Georges";"COM"
+"GEO";"Géographie";"97312";"Sinnamary";"COM"
+"GEO";"Géographie";"97314";"Ouanary";"COM"
+"GEO";"Géographie";"97352";"Saül";"COM"
+"GEO";"Géographie";"971010104";"Grand Camp Ouest";"IRIS"
+"GEO";"Géographie";"971010110";"Quatre Chemins-Tamarin-Pointe d'Or Est";"IRIS"
+"GEO";"Géographie";"971010113";"Caduc-Double-Chazeau-Beausoleil";"IRIS"
+"GEO";"Géographie";"971010118";"Anquetil-Dugazon";"IRIS"
+"GEO";"Géographie";"971010122";"Céligny-Bois de Rose-Caraque";"IRIS"
+"GEO";"Géographie";"971020102";"Pointe Grande Vigie-Portlands-Campêche-Beau Voisin";"IRIS"
+"GEO";"Géographie";"971030101";"Calvaire-Bragelogne";"IRIS"
+"GEO";"Géographie";"971050103";"Petit Paris-Desmarais";"IRIS"
+"GEO";"Géographie";"971130101";"Marina-Bas du Fort-Grand-Baie";"IRIS"
+"GEO";"Géographie";"971150103";"Boisbert-Pichon";"IRIS"
+"GEO";"Géographie";"971170105";"Champ Grille 2";"IRIS"
+"GEO";"Géographie";"971170107";"L'Autre Bord-Deprez";"IRIS"
+"GEO";"Géographie";"971180103";"Carrere-Montebello";"IRIS"
+"GEO";"Géographie";"971220102";"Saint-Pierre-Philipsbourg-Beauplan-Lalanne";"IRIS"
+"GEO";"Géographie";"971240102";"Morin-Gallard-Choisy";"IRIS"
+"GEO";"Géographie";"971240103";"Le Bourg-Matouba";"IRIS"
+"GEO";"Géographie";"971280101";"Bourg";"IRIS"
+"GEO";"Géographie";"971280102";"Ffrench-Gissac-Courcelles";"IRIS"
+"GEO";"Géographie";"971320101";"Grande Anse";"IRIS"
+"GEO";"Géographie";"972090104";"Haut du Port-Morne Pichevin-Bon Air";"IRIS"
+"GEO";"Géographie";"972090107";"Morne Calebasse-Renéville-Toquade";"IRIS"
+"GEO";"Géographie";"972090110";"Volga Sud";"IRIS"
+"GEO";"Géographie";"972090111";"Tivoli-Post-Colon";"IRIS"
+"GEO";"Géographie";"972090302";"Dillon Sud-Dallas";"IRIS"
+"GEO";"Géographie";"972090601";"Quartier Populo-Fantaisie";"IRIS"
+"GEO";"Géographie";"972090801";"Berge de Briand-La Carrière";"IRIS"
+"GEO";"Géographie";"972090802";"De Briand-Floréal";"IRIS"
+"GEO";"Géographie";"972100106";"Morne Acajou-La Guillot";"IRIS"
+"GEO";"Géographie";"972131301";"Four à Chaux";"IRIS"
+"GEO";"Géographie";"972131309";"Roches Carrées-Petite Rivière";"IRIS"
+"GEO";"Géographie";"972131310";"Place d'Armes";"IRIS"
+"GEO";"Géographie";"972222203";"Bois Neuf-Mansarde-Leconte";"IRIS"
+"GEO";"Géographie";"972242401";"Bourg-Belle Étoile-Long-Bois";"IRIS"
+"GEO";"Géographie";"972242402";"Rousseau-Bois-Neuf-Fonds Épingles";"IRIS"
+"GEO";"Géographie";"972282801";"Bourg";"IRIS"
+"GEO";"Géographie";"972282805";"Morne des Esses-Saint-Laurent-Saint-Aroman";"IRIS"
+"GEO";"Géographie";"972290105";"Ravine Touza";"IRIS"
+"GEO";"Géographie";"972290109";"Fond Lahaye";"IRIS"
+"GEO";"Géographie";"972300101";"Bourg-Brin d'Amour";"IRIS"
+"GEO";"Géographie";"972323203";"Grand Boucan-L'Union-La Plaine";"IRIS"
+"GEO";"Géographie";"973020102";"Leblond";"IRIS"
+"GEO";"Géographie";"973020115";"Bonhomme";"IRIS"
+"GEO";"Géographie";"973020122";"Bourda";"IRIS"
+"GEO";"Géographie";"973060104";"RN1 - Forêt";"IRIS"
+"GEO";"Géographie";"973070102";"Cogneau Est";"IRIS"
+"GEO";"Géographie";"973090101";"Montjoly-Plage";"IRIS"
+"GEO";"Géographie";"973090104";"Remire";"IRIS"
+"GEO";"Géographie";"973090109";"Moulin à Vent";"IRIS"
+"GEO";"Géographie";"973530103";"Forêt";"IRIS"
+"GEO";"Géographie";"973570102";"Hors-Bourg";"IRIS"
+"GEO";"Géographie";"973620101";"Bourg";"IRIS"
+"GEO";"Géographie";"974040102";"Centre Ville Est";"IRIS"
+"GEO";"Géographie";"974050101";"Centre Ville";"IRIS"
+"GEO";"Géographie";"974050103";"Manapany les Bas-Anse les Bas";"IRIS"
+"GEO";"Géographie";"974070402";"ZAC Cités Raymond Vergès et Léon de Lépervanche";"IRIS"
+"GEO";"Géographie";"974070702";"Zones Industrielles Numéro 2 et 3";"IRIS"
+"GEO";"Géographie";"974080303";"Mafate-La Nouvelle";"IRIS"
+"GEO";"Géographie";"974080401";"Sainte-Thérèse";"IRIS"
+"GEO";"Géographie";"974080501";"Pichette";"IRIS"
+"GEO";"Géographie";"974090102";"Centre Ville Mairie";"IRIS"
+"GEO";"Géographie";"974090104";"Centre Commercial-Lycée Sarda Garriga";"IRIS"
+"GEO";"Géographie";"974090601";"La Cressonnière Nord";"IRIS"
+"GEO";"Géographie";"974090701";"Mille Roches-Rivière du Mât les Hauts";"IRIS"
+"GEO";"Géographie";"974100104";"Beaufond Distillerie";"IRIS"
+"GEO";"Géographie";"974100105";"Bras Fusil";"IRIS"
+"GEO";"Géographie";"974100203";"Petit Saint-Pierre-Les Orangers-Hubert Delisle";"IRIS"
+"GEO";"Géographie";"974110102";"Le Bas de la Rivière";"IRIS"
+"GEO";"Géographie";"974110401";"Saint-François Bas";"IRIS"
+"GEO";"Géographie";"974110706";"Michel Debré-Damase Legros";"IRIS"
+"GEO";"Géographie";"974110804";"Moufia Est-Les Tulipiers";"IRIS"
+"GEO";"Géographie";"974110806";"DDASS-Foucherolles";"IRIS"
+"GEO";"Géographie";"974120102";"Le Butor-Le Stade";"IRIS"
+"GEO";"Géographie";"974120501";"Langevin";"IRIS"
+"GEO";"Géographie";"974120602";"Parc à Mouton";"IRIS"
+"GEO";"Géographie";"974130101";"Saint-Leu Ville";"IRIS"
+"GEO";"Géographie";"974130402";"Forêt des Hauts du Plate";"IRIS"
+"GEO";"Géographie";"974140105";"Le Pont Neuf";"IRIS"
+"GEO";"Géographie";"974150403";"Hauts de la Plaine";"IRIS"
+"GEO";"Géographie";"974150504";"Mafate-Les Orangers-Les Lataniers";"IRIS"
+"GEO";"Géographie";"974151102";"Saint-Gilles les Hauts Centre et Hauts";"IRIS"
+"GEO";"Géographie";"974151202";"Carosse-Ravine Saint-Gilles";"IRIS"
+"GEO";"Géographie";"974160202";"Sidr Est-La Cayenne";"IRIS"
+"GEO";"Géographie";"974160203";"Sidr Ouest-Ravine Blanche";"IRIS"
+"GEO";"Géographie";"974160204";"Pierrefonds";"IRIS"
+"GEO";"Géographie";"974160603";"La Ravine des Cabris Sud";"IRIS"
+"GEO";"Géographie";"974180201";"Terrain Élisa-Beaufond";"IRIS"
+"GEO";"Géographie";"974180301";"La Ressource-Bois Rouge";"IRIS"
+"GEO";"Géographie";"974180401";"La Grande Montée Centre";"IRIS"
+"GEO";"Géographie";"974190202";"Forêt des Hauts de Piton-Sainte-Rose";"IRIS"
+"GEO";"Géographie";"974190401";"La Rivière de l'Est";"IRIS"
+"GEO";"Géographie";"974200601";"La Renaissance";"IRIS"
+"GEO";"Géographie";"974210101";"Centre Salazie";"IRIS"
+"GEO";"Géographie";"974220107";"Le 11e Km";"IRIS"
+"GEO";"Géographie";"974220301";"Le 14e Km";"IRIS"
+"GEO";"Géographie";"974240101";"La Ville-Les Thermes";"IRIS"
+"GEO";"Géographie";"974240102";"La Ville-Mare Sèche";"IRIS"
+"GEO";"Géographie";"974240105";"Îlet à Cordes-Ouest Bras Rouge";"IRIS"

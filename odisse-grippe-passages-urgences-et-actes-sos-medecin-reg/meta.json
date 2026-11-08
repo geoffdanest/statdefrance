@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:grippe-passages-urgences-et-actes-sos-medecin_reg",
+  "title": "Grippe : Passages aux urgences et Actes SOS Médecins (Région)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/grippe-passages-urgences-et-actes-sos-medecin_reg/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la surveillance des passages aux urgences (données du réseau OSCOUR®) et des consultations SOS Médecins pour grippe/syndrome grippal sont issus du système de surveillance syndromique SurSaUD® (Surveillance Sanitaire des Urgences et des Décès). Les données du réseau OSCOUR® sont collectées à partir du format RPU (Résumé de passages aux urgences). Près de 700 structures d'urgences participent au réseau OSCOUR®, enregistrant 96% des passages aux urgences nationaux en 2024. Les données SOS Médecins sont issues des actes (visites à domicile, consultations) collectées par 62 associations SOS Médecins, enregistrant 95% des actes SOS Médecins. Le nombre de passages aux urgences pour grippe/syndrome grippal par classe d'âges et par zone géographique est rapporté au nombre total de passages aux urgences pour lesquels au moins un diagnostic médical est renseigné, pour la même classe d'âge et zone géographique. Le nombre d'hospitalisations après passage aux urgences pour grippe/syndrome grippal par classe d'âges et par zone géographique est rapporté au nombre total d'hospitalisations après un passage aux urgences pour lesquels au moins un diagnostic médical est renseigné, pour la même classe d'âge et zone géographique. Le nombre d'actes SOS Médecins pour grippe/syndrome grippal par classe d'âges et par zone géographique est rapporté au nombre total d'actes SOS Médecins pour lesquels au moins un diagnostic médical est renseigné, pour la même classe d'âge et zone géograp",
+  "resource_title": "Grippe : Passages aux urgences et Actes SOS Médecins (Région)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/grippe-passages-urgences-et-actes-sos-medecin_reg/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-04T14:01:11+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "domicile",
+  "query": "domicile",
+  "news": [
+    {
+      "title": "\"Un acte criminel\": le domicile d'un policier incendié en raison de sa profession selon le ministre de l'intérieur Laurent Nuñez",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/gers/auch/un-acte-criminel-le-domicile-d-un-policier-incendie-en-raison-de-sa-profession-selon-le-ministre-de-l-interieur-laurent-nunez-3446172.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "link": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Fusillade en Pologne : Trois corps à son domicile, « fasciné par l’extrême droite »… Ce que l’on sait sur le tireur",
+      "link": "https://www.20minutes.fr/monde/pologne/4261256-20261108-fusillade-pologne-trois-corps-domicile-fascine-extreme-droite-sait-tireur?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,165 @@
+"COD_VAR";"LIB_VAR";"COD_MOD";"LIB_MOD";"GEO_OBJECT"
+"ACTIVITY";"Activité économique";"K";"Activités financières et d'assurance";
+"ACTIVITY";"Activité économique";"M";"Activités spécialisées, scientifiques et techniques";
+"ACTIVITY";"Activité économique";"R";"Arts, spectacles et activités récréatives";
+"ACTIVITY";"Activité économique";"C";"Industrie manufacturière";
+"ACTIVITY";"Activité économique";"L";"Activités immobilières";
+"ACTIVITY";"Activité économique";"P";"Enseignement";
+"ACTIVITY";"Activité économique";"Q";"Santé humaine et action sociale";
+"ACTIVITY";"Activité économique";"F";"Construction";
+"ACTIVITY";"Activité économique";"B";"Industries extractives";
+"ACTIVITY";"Activité économique";"I";"Hébergement et restauration";
+"ACTIVITY";"Activité économique";"E";"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution";
+"ACTIVITY";"Activité économique";"H";"Transports et entreposage";
+"ACTIVITY";"Activité économique";"D";"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné";
+"ACTIVITY";"Activité économique";"G";"Commerce ; réparation d'automobiles et de motocycles";
+"ACTIVITY";"Activité économique";"S";"Autres activités de services";
+"ACTIVITY";"Activité économique";"J";"Information et communication";
+"ACTIVITY";"Activité économique";"N";"Activités de services administratifs et de soutien";
+"ACTIVITY";"Activité économique";"_T";"Total";
+"FREQ";"Fréquence";"A";"Annuel";
+"LEGAL_FORM";"Forme légale";"OTH_SIDE";"Autres sociétés";
+"LEGAL_FORM";"Forme légale";"57";"Société par actions simplifiée";
+"LEGAL_FORM";"Forme légale";"10";"Entrepreneur individuel";
+"LEGAL_FORM";"Forme légale";"54";"Société à responsabilité limitée (SARL)";
+"LEGAL_FORM";"Forme légale";"_T";"Total";
+"OBS_STATUS";"Statut de l'observation";"A";"Normale";
+"SIDE_MEASURE";"Mesure démographie entreprises et établissements";"BURE";"Nombre de nouvelles unités légales enregistrées";
+"SIDE_MEASURE";"Mesure démographie entreprises et établissements";"UNIT_LOC_BURE";"Nombre de nouveaux établissements enregistrés";
+"TIME_PERIOD";"Période temporelle";"2012";"2012";
+"TIME_PERIOD";"Période temporelle";"2013";"2013";
+"TIME_PERIOD";"Période temporelle";"2014";"2014";
+"TIME_PERIOD";"Période temporelle";"2015";"2015";
+"TIME_PERIOD";"Période temporelle";"2016";"2016";
+"TIME_PERIOD";"Période temporelle";"2017";"2017";
+"TIME_PERIOD";"Période temporelle";"2018";"2018";
+"TIME_PERIOD";"Période temporelle";"2019";"2019";
+"TIME_PERIOD";"Période temporelle";"2020";"2020";
+"TIME_PERIOD";"Période temporelle";"2021";"2021";
+"TIME_PERIOD";"Période temporelle";"2022";"2022";
+"TIME_PERIOD";"Période temporelle";"2023";"2023";
+"TIME_PERIOD";"Période temporelle";"2024";"2024";
+"TIME_PERIOD";"Période temporelle";"2025";"2025";
+GEO_OBJECT;Niveau géographique;FRANCE;France;
+GEO_OBJECT;Niveau géographique;REG;Région;
+GEO_OBJECT;Niveau géographique;DEP;Département;
+"GEO";"Géographie";"07";"Ardèche";"DEP"
+"GEO";"Géographie";"16";"Charente";"DEP"
+"GEO";"Géographie";"17";"Charente-Maritime";"DEP"
+"GEO";"Géographie";"2B";"Haute-Corse";"DEP"
+"GEO";"Géographie";"31";"Haute-Garonne";"DEP"
+"GEO";"Géographie";"44";"Loire-Atlantique";"DEP"
+"GEO";"Géographie";"48";"Lozère";"DEP"
+"GEO";"Géographie";"49";"Maine-et-Loire";"DEP"
+"GEO";"Géographie";"53";"Mayenne";"DEP"
+"GEO";"Géographie";"55";"Meuse";"DEP"
+"GEO";"Géographie";"63";"Puy-de-Dôme";"DEP"
+"GEO";"Géographie";"68";"Haut-Rhin";"DEP"
+"GEO";"Géographie";"976";"Mayotte";"DEP"
+"GEO";"Géographie";"24";"Centre-Val de Loire";"REG"
+"GEO";"Géographie";"75";"Nouvelle-Aquitaine";"REG"
+"GEO";"Géographie";"93";"Provence-Alpes-Côte d'Azur";"REG"
+"GEO";"Géographie";"94";"Corse";"REG"
+"GEO";"Géographie";"03";"Allier";"DEP"
+"GEO";"Géographie";"06";"Alpes-Maritimes";"DEP"
+"GEO";"Géographie";"10";"Aube";"DEP"
+"GEO";"Géographie";"39";"Jura";"DEP"
+"GEO";"Géographie";"43";"Haute-Loire";"DEP"
+"GEO";"Géographie";"69";"Rhône";"DEP"
+"GEO";"Géographie";"92";"Hauts-de-Seine";"DEP"
+"GEO";"Géographie";"95";"Val-d'Oise";"DEP"
+"GEO";"Géographie";"973";"Guyane";"DEP"
+"GEO";"Géographie";"02";"Martinique";"REG"
+"GEO";"Géographie";"27";"Bourgogne-Franche-Comté";"REG"
+"GEO";"Géographie";"28";"Normandie";"REG"
+"GEO";"Géographie";"02";"Aisne";"DEP"
+"GEO";"Géographie";"12";"Aveyron";"DEP"
+"GEO";"Géographie";"27";"Eure";"DEP"
+"GEO";"Géographie";"28";"Eure-et-Loir";"DEP"
+"GEO";"Géographie";"2A";"Corse-du-Sud";"DEP"
+"GEO";"Géographie";"40";"Landes";"DEP"
+"GEO";"Géographie";"47";"Lot-et-Garonne";"DEP"
+"GEO";"Géographie";"78";"Yvelines";"DEP"
+"GEO";"Géographie";"86";"Vienne";"DEP"
+"GEO";"Géographie";"90";"Territoire de Belfort";"DEP"
+"GEO";"Géographie";"91";"Essonne";"DEP"
+"GEO";"Géographie";"972";"Martinique";"DEP"
+"GEO";"Géographie";"03";"Guyane";"REG"
+"GEO";"Géographie";"06";"Mayotte";"REG"
+"GEO";"Géographie";"05";"Hautes-Alpes";"DEP"
+"GEO";"Géographie";"08";"Ardennes";"DEP"
+"GEO";"Géographie";"15";"Cantal";"DEP"
+"GEO";"Géographie";"33";"Gironde";"DEP"
+"GEO";"Géographie";"37";"Indre-et-Loire";"DEP"
+"GEO";"Géographie";"38";"Isère";"DEP"
+"GEO";"Géographie";"41";"Loir-et-Cher";"DEP"
+"GEO";"Géographie";"59";"Nord";"DEP"
+"GEO";"Géographie";"67";"Bas-Rhin";"DEP"
+"GEO";"Géographie";"71";"Saône-et-Loire";"DEP"
+"GEO";"Géographie";"74";"Haute-Savoie";"DEP"
+"GEO";"Géographie";"81";"Tarn";"DEP"
+"GEO";"Géographie";"84";"Vaucluse";"DEP"
+"GEO";"Géographie";"01";"Guadeloupe";"REG"
+"GEO";"Géographie";"32";"Hauts-de-France";"REG"
+"GEO";"Géographie";"76";"Occitanie";"REG"
+"GEO";"Géographie";"11";"Aude";"DEP"
+"GEO";"Géographie";"13";"Bouches-du-Rhône";"DEP"
+"GEO";"Géographie";"23";"Creuse";"DEP"
+"GEO";"Géographie";"29";"Finistère";"DEP"
+"GEO";"Géographie";"42";"Loire";"DEP"
+"GEO";"Géographie";"45";"Loiret";"DEP"
+"GEO";"Géographie";"57";"Moselle";"DEP"
+"GEO";"Géographie";"58";"Nièvre";"DEP"
+"GEO";"Géographie";"60";"Oise";"DEP"
+"GEO";"Géographie";"66";"Pyrénées-Orientales";"DEP"
+"GEO";"Géographie";"70";"Haute-Saône";"DEP"
+"GEO";"Géographie";"73";"Savoie";"DEP"
+"GEO";"Géographie";"77";"Seine-et-Marne";"DEP"
+"GEO";"Géographie";"85";"Vendée";"DEP"
+"GEO";"Géographie";"88";"Vosges";"DEP"
+"GEO";"Géographie";"04";"La Réunion";"REG"
+"GEO";"Géographie";"52";"Pays de la Loire";"REG"
+"GEO";"Géographie";"04";"Alpes-de-Haute-Provence";"DEP"
+"GEO";"Géographie";"18";"Cher";"DEP"
+"GEO";"Géographie";"25";"Doubs";"DEP"
+"GEO";"Géographie";"34";"Hérault";"DEP"
+"GEO";"Géographie";"35";"Ille-et-Vilaine";"DEP"
+"GEO";"Géographie";"36";"Indre";"DEP"
+"GEO";"Géographie";"46";"Lot";"DEP"
+"GEO";"Géographie";"50";"Manche";"DEP"
+"GEO";"Géographie";"51";"Marne";"DEP"
+"GEO";"Géographie";"52";"Haute-Marne";"DEP"
+"GEO";"Géographie";"54";"Meurthe-et-Moselle";"DEP"
+"GEO";"Géographie";"62";"Pas-de-Calais";"DEP"
+"GEO";"Géographie";"64";"Pyrénées-Atlantiques";"DEP"
+"GEO";"Géographie";"72";"Sarthe";"DEP"
+"GEO";"Géographie";"80";"Somme";"DEP"
+"GEO";"Géographie";"89";"Yonne";"DEP"
+"GEO";"Géographie";"971";"Guadeloupe";"DEP"
+"GEO";"Géographie";"F";"France";"FRANCE"
+"GEO";"Géographie";"11";"Île-de-France";"REG"
+"GEO";"Géographie";"01";"Ain";"DEP"
+"GEO";"Géographie";"32";"Gers";"DEP"
+"GEO";"Géographie";"65";"Hautes-Pyrénées";"DEP"
+"GEO";"Géographie";"76";"Seine-Maritime";"DEP"
+"GEO";"Géographie";"87";"Haute-Vienne";"DEP"
+"GEO";"Géographie";"974";"La Réunion";"DEP"
+"GEO";"Géographie";"84";"Auvergne-Rhône-Alpes";"REG"
+"GEO";"Géographie";"09";"Ariège";"DEP"
+"GEO";"Géographie";"14";"Calvados";"DEP"
+"GEO";"Géographie";"19";"Corrèze";"DEP"
+"GEO";"Géographie";"21";"Côte-d'Or";"DEP"
+"GEO";"Géographie";"22";"Côtes-d'Armor";"DEP"
+"GEO";"Géographie";"24";"Dordogne";"DEP"
+"GEO";"Géographie";"26";"Drôme";"DEP"
+"GEO";"Géographie";"30";"Gard";"DEP"
+"GEO";"Géographie";"56";"Morbihan";"DEP"
+"GEO";"Géographie";"61";"Orne";"DEP"
+"GEO";"Géographie";"75";"Paris";"DEP"
+"GEO";"Géographie";"79";"Deux-Sèvres";"DEP"
+"GEO";"Géographie";"82";"Tarn-et-Garonne";"DEP"
+"GEO";"Géographie";"83";"Var";"DEP"
+"GEO";"Géographie";"93";"Seine-Saint-Denis";"DEP"
+"GEO";"Géographie";"94";"Val-de-Marne";"DEP"
+"GEO";"Géographie";"44";"Grand Est";"REG"
+"GEO";"Géographie";"53";"Bretagne";"REG"

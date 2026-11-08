@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6564969d3579e21795ebd378",
+  "title": "Communes et inventaire SRU",
+  "page": "https://www.data.gouv.fr/datasets/communes-et-inventaire-sru",
+  "organization": "Ministère de la Transition écologique",
+  "description": "Adoptée le 13 décembre 2000, la loi relative à la solidarité et au renouvellement urbain (SRU) vise à récréer un équilibre social dans chaque territoire et à répondre à la pénurie de logements sociaux. Son article 55 oblige certaines communes à disposer d’un nombre minimum de logements sociaux, proportionnel à leur parc résidentiel.\nPlus d'informations à [ce lien](https://www.ecologie.gouv.fr/larticle-55-loi-solidarite-et-renouvellement-urbain-sru-mode-demploi).\nRéf. réglementaire : L. 302-5 du CCH et suivants.\nLes dispositions de l’article L302-5 du CCH s’appliquent aux communes dont la population est au moins égale à 3 500 habitants (1 500 habitants en Île-de-France) qui sont comprises, au sens du recensement de la population, dans une agglomération ou un EPCI de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants.\nCe jeu de données contient, pour les 2208 communes du périmètre SRU au 1er janvier 2026, la situation de la commune et le bilan annuel du nombre de logements sociaux - ou des logements assimilés, au 1er janvier 2025.\nLes données sont issues d’une enquête réalisée auprès des DDT(M) et DREAL/DEAL après des échanges, suivant le principe du contradictoire avec les communes.\nLes données portant sur l’année 2026 seront publiées au second semestre 2027.\n",
+  "resource_title": "donnees-sru-data-gouv-2026.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/communes-et-inventaire-sru/20260811-123753/donnees-sru-data-gouv-2026.csv",
+  "last_modified": "2026-08-11T12:37:53.751000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

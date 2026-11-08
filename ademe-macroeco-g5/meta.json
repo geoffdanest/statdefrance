@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:macroeco-g5",
+  "title": "Macroéco G5. Emplois totaux : écarts S1 - TEND (milliers)",
+  "page": "https://data.ademe.fr/datasets/macroeco-g5",
+  "organization": "ADEME",
+  "description": "en milliers",
+  "resource_title": "Macroéco G5. Emplois totaux : écarts S1 - TEND (milliers)",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/macroeco-g5/lines?format=csv&size=10000",
+  "last_modified": "2022-12-15T15:26:58.455Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "milliers",
+  "query": "milliers",
+  "news": [
+    {
+      "title": "Dans la bande de Gaza, des dizaines de milliers de déplacés privés d'abri à cause de pluies diluviennes",
+      "link": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-des-milliers-de-deplaces-prives-d-abri-a-cause-d-importantes-intemperies_8273447.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

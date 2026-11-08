@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "5b7ffc618b4c4169d30727e0",
+  "title": "Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)",
+  "page": "https://www.data.gouv.fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "description": "> **Attention** : depuis la fin du mois de mai, l'alimentation des données Sirene sur datagouv se fait directement par l'Insee. Les URL stables des fichiers n'ont pas changé, au contraire des URL directes vers les fichiers. Pour toute procédure d'automatisation, il faut utiliser les URL stables.\n\n<br />\n\n## Actualités\n\nNous vous informons que la mise à jour annuelle des données des tranches d’effectifs et des catégories d’entreprises est disponible dans l’API Sirene, et les fichiers stock depuis le 1er octobre 2026.\n\n**Effectifs des entreprises et des établissements** : Les variables trancheEffectifsEtablissement et trancheEffectifsUniteLegale sont mises à jour avec les valeurs au 31/12/2024. Les variables anneeEffectifsUniteLegale et anneeEffectifsEtablissement prennent alors la valeur 2024.\n\n**Catégorie d’entreprises** : La variable categorieEntreprise est mise à jour avec la valeur 2024, quand elle est connue. La variable anneeCategorieEntreprise prend alors la valeur 2024.\n\n<br />\n\n#### 🔔 NAF 2025 : adaptation de la diffusion des informations du répertoire Sirene au passage à la nouvelle nomenclature d’activité française :\n\nÀ compter du **1er janvier 2027**, les codes APE associés à la nomenclature d’activité française (NAF) évoluent pour toutes personnes physiques et morales inscrites au répertoire Sirene. Afin d’accompagner les utilisateurs dans ce changement, le futur code d'activité en nouvelle NAF (NAF2025) est diffusé par anticipation, **à titre informatif**, depuis",
+  "resource_title": "liste-csv-des-variables-du-dessin-du-fichier-stocketablissement-311.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/20260113-143513/stocketablissement-311-dessin-de-fichier.csv",
+  "last_modified": "2026-01-13T14:35:13.523000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Économie",
+  "query": "entreprises",
+  "news": []
+}
