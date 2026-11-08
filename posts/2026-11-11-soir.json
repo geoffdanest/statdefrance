@@ -1,0 +1,40 @@
+{
+  "theme": "Transports",
+  "template": "compare",
+  "source": "SNCF, Régularité TER (sept. 2025-août 2026)",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-ter/",
+  "dataset_id": "sncf:regularite-mensuelle-ter",
+  "title": "Sur Sud Azur, on annule plus de 5 fois plus de TER qu’en Bourgogne-Franche-Comté.",
+  "dot_unit": "% de trains annulés",
+  "per_dot": 0.5,
+  "rows": [
+    {
+      "name": "Sud Azur",
+      "value": 6.7,
+      "highlight": true
+    },
+    {
+      "name": "Occitanie",
+      "value": 4.7
+    },
+    {
+      "name": "Nouvelle-Aquitaine",
+      "value": 4.0
+    },
+    {
+      "name": "Grand Est",
+      "value": 3.1
+    },
+    {
+      "name": "Bourgogne-F.-C.",
+      "value": 1.2
+    }
+  ],
+  "calc": "Régularité TER, sept. 2025 à août 2026 : somme trains annulés / somme programmés par région. Sud Azur 4264/63857=6,68 % ; Occitanie 4,71 % ; Nouvelle-Aquitaine 4,00 % ; Grand Est 3,14 % ; BFC 1,24 % ; 6,68/1,24 = 5,4.",
+  "caption": "Plus de 6 TER sur 100 annulés sur la ligne Sud Azur.\n\nDe septembre 2025 à août 2026, 6,7 % des TER programmés ont été annulés sur le réseau Sud Azur, contre 1,2 % en Bourgogne-Franche-Comté. Les différences de réseau et de lignes jouent, bien sûr.\n\nSource : SNCF, « Régularité mensuelle TER »\nhttps://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-ter/\n\n#statdefrance #opendata #sncf #ter #transports #train",
+  "date": "2026-11-11",
+  "slot": "soir",
+  "num": "N° 051",
+  "palette": "papier",
+  "status": "draft"
+}

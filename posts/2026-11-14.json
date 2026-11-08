@@ -1,0 +1,17 @@
+{
+  "theme": "Culture",
+  "template": "carte",
+  "source": "Ministère de la Culture, Censure théâtrale",
+  "source_url": "https://www.data.gouv.fr/datasets/pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-entre-1809-et-1906",
+  "dataset_id": "63994ae99eefb363aec8cd1d",
+  "number": 322,
+  "unit": "pièces",
+  "hook": "écrites par des femmes et jouées à Paris entre 1809 et 1906.",
+  "calc": "Fichier des pièces écrites par des femmes, Archives nationales : 322 lignes, 140 autrices distinctes (colonne Autrice) ; George Sand en compte 21.",
+  "caption": "322 pièces écrites par des femmes en près d'un siècle de théâtre parisien.\n\nC'est le nombre de pièces et d'opéras signés par des femmes retrouvés dans les archives de la censure théâtrale, entre 1809 et 1906. On y croise 140 autrices, dont George Sand avec 21 pièces. Une histoire qui fait écho aux archives qui montent aujourd'hui sur scène.\n\nSource : Ministère de la Culture, « Pièces de théâtre écrites par des femmes, et représentées à Paris entre 1809 et 1906 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/pieces-de-theatre-ecrites-par-des-femmes-et-representees-a-paris-entre-1809-et-1906\n\n#statdefrance #opendata #theatre #femmes #histoire #culture",
+  "date": "2026-11-14",
+  "slot": "matin",
+  "num": "N° 056",
+  "palette": "nuit",
+  "status": "draft"
+}

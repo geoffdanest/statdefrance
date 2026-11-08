@@ -1,0 +1,17 @@
+{
+  "theme": "Éducation",
+  "template": "carte",
+  "source": "Éducation nationale, TED-i",
+  "source_url": "https://data.education.gouv.fr/explore/dataset/fr-en-deploiemement_tedi/",
+  "dataset_id": "education:fr-en-deploiemement_tedi",
+  "number": 4184,
+  "unit": "prêts",
+  "hook": "de robots depuis 2024, pour suivre la classe depuis l’hôpital.",
+  "calc": "TED-i, fr-en-deploiemement_tedi : 4 184 lignes de déploiement, debut_utilisation 2024 (989), 2025 (1816), 2026 (1379) ; 630 sans date de fin (en cours).",
+  "caption": "4 184 robots pour aller en classe depuis un lit d'hôpital.\n\nLe programme TED-i met à disposition des robots de téléprésence pour les élèves hospitalisés ou empêchés. Depuis 2024, 4 184 déploiements ont été enregistrés, dont 630 sont en cours. Les collèges en utilisent le plus. Alors que le retour en classe fait l'actualité, certains y retournent autrement.\n\nSource : Ministère de l'Éducation nationale, « TED-i : déploiement des robots de télé-présence destinés aux élèves hospitalisés »\nhttps://data.education.gouv.fr/explore/dataset/fr-en-deploiemement_tedi/\n\n#statdefrance #opendata #education #ecole #robots #hopital",
+  "date": "2026-11-15",
+  "slot": "matin",
+  "num": "N° 058",
+  "palette": "nuit",
+  "status": "draft"
+}

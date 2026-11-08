@@ -1,0 +1,34 @@
+{
+  "theme": "Emploi",
+  "template": "matrice",
+  "source": "Insee, Séries longues de salaires (2024)",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_SERIES_LONGUES",
+  "dataset_id": "insee:DS_DERA_PRIVE_SERIES_LONGUES",
+  "display": "2664€",
+  "label": "net par mois dans le privé en 2024 : +23 % seulement depuis 1980.",
+  "history": [
+    [
+      "1960",
+      "1 112 €"
+    ],
+    [
+      "1980",
+      "2 159 €"
+    ],
+    [
+      "2000",
+      "2 471 €"
+    ],
+    [
+      "2024",
+      "2 664 €"
+    ]
+  ],
+  "calc": "DS_DERA_PRIVE_SERIES_LONGUES, SALAIRE_NET_EQTP_MENSUEL_MOYEN_EUROS_CONSTANTS, tous secteurs, âges, sexes, CS et quantiles (_T), WKTIME=FT : 1960=1112, 1980=2159, 2000=2471, 2024=2664 ; 2664/2159 = +23,4 %.",
+  "caption": "En 44 ans, le salaire moyen n'a gagné que 23 % une fois l'inflation retirée.\n\nEn euros constants, le salaire net moyen d'un temps plein dans le privé atteint 2 664 € par mois en 2024, contre 2 159 € en 1980. Entre 1960 et 1980, il avait presque doublé. Depuis 2000, il n'a progressé que de 8 %.\n\nSource : Insee, « Séries longues de salaires dans le secteur privé »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PRIVE_SERIES_LONGUES\n\n#statdefrance #opendata #salaires #emploi #pouvoirdachat #insee",
+  "date": "2026-11-09",
+  "slot": "soir",
+  "num": "N° 047",
+  "palette": "papier",
+  "status": "draft"
+}

@@ -1,0 +1,16 @@
+{
+  "theme": "Logement",
+  "template": "unsurn",
+  "source": "Insee, Parc des logements 2026",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_PARC_LOGEMENTS_SERIES",
+  "dataset_id": "insee:DS_PARC_LOGEMENTS_SERIES",
+  "n": 10,
+  "label": "Près d’un logement sur dix en France métropolitaine est une résidence secondaire ou occasionnelle.",
+  "calc": "DS_PARC_LOGEMENTS_SERIES, GEO=FM, 2026 (provisoire) : DW_SEC_OCCAS 3 692 k / DW_TOT 37 611 k = 9,82 %.",
+  "caption": "Près d'un logement sur dix ne sert pas de domicile principal.\n\nEn 2026, la France métropolitaine compte 3,7 millions de résidences secondaires ou occasionnelles pour 37,6 millions de logements, soit 9,8 % (chiffres provisoires). Un chiffre stable depuis plusieurs années.\n\nSource : Insee, « Le parc des logements - séries longues »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_PARC_LOGEMENTS_SERIES\n\n#statdefrance #opendata #logement #immobilier #residencesecondaire #insee",
+  "date": "2026-11-14",
+  "slot": "soir",
+  "num": "N° 057",
+  "palette": "papier",
+  "status": "draft"
+}

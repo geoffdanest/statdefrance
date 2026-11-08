@@ -1,0 +1,16 @@
+{
+  "theme": "Santé",
+  "template": "grille",
+  "source": "Assurance Maladie, Honoraires 2025",
+  "source_url": "https://data.ameli.fr/explore/dataset/honoraires/",
+  "dataset_id": "ameli:honoraires",
+  "pct": 36,
+  "label": "des honoraires des chirurgiens libéraux sont des dépassements (2025).",
+  "calc": "Honoraires ameli, 2025, France (region 99, departement 999), Chirurgiens : dépassements 1 176 261 858 € ; honoraires sans dépassement 2 114 116 276 € ; 1176/(1176+2114) = 35,75 %.",
+  "caption": "Plus d'un euro sur trois payé à un chirurgien libéral est un dépassement.\n\nEn 2025, les chirurgiens libéraux ont perçu 3,3 milliards d'euros d'honoraires, dont 1,18 milliard de dépassements. Ces montants ne préjugent pas de ce que chaque patient paie au final, les complémentaires en remboursant une partie.\n\nSource : Assurance Maladie, « Professionnels de santé libéraux : montants des honoraires par territoire »\nhttps://data.ameli.fr/explore/dataset/honoraires/\n\n#statdefrance #opendata #sante #chirurgie #depassementshonoraires #ameli",
+  "date": "2026-11-13",
+  "slot": "soir",
+  "num": "N° 055",
+  "palette": "papier",
+  "status": "draft"
+}

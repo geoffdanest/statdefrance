@@ -1,0 +1,44 @@
+{
+  "theme": "Société",
+  "template": "classement",
+  "source": "Insee, SRCV Confiance 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_CONFIANCE",
+  "dataset_id": "insee:DS_SRCV_CONFIANCE",
+  "title": "Plus on est jeune, moins on fait confiance aux inconnus.",
+  "axis_label": "Confiance envers les inconnus, note sur 10 (2025)",
+  "range": [
+    3,
+    5
+  ],
+  "step": 1,
+  "rows": [
+    {
+      "name": "16-24 ans",
+      "value": 3.6,
+      "highlight": true
+    },
+    {
+      "name": "25-34 ans",
+      "value": 3.9
+    },
+    {
+      "name": "35-49 ans",
+      "value": 4.0
+    },
+    {
+      "name": "50-64 ans",
+      "value": 4.1
+    },
+    {
+      "name": "65-74 ans",
+      "value": 4.1
+    }
+  ],
+  "calc": "DS_SRCV_CONFIANCE, GEO=FM, 2025, SEX=_T, autres dimensions _T/_Z, par AGE : 16-24 3,6 ; 25-34 3,9 ; 35-49 4,0 ; 50-64 4,1 ; 65-74 4,1 ; 75+ 4,0 ; ensemble 4,0.",
+  "caption": "Les 16-24 ans sont ceux qui font le moins confiance aux autres.\n\nL'Insee demande chaque année de noter de 0 à 10 sa confiance envers les inconnus. En 2025, les 16-24 ans donnent 3,6, contre 4,1 entre 50 et 74 ans (France métropolitaine). Un chiffre intéressant alors que le mouvement lycéen occupe l'actualité.\n\nSource : Insee, « Conditions de vie : confiance envers les autres »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_CONFIANCE\n\n#statdefrance #opendata #jeunesse #confiance #societe #insee",
+  "date": "2026-11-11",
+  "slot": "matin",
+  "num": "N° 050",
+  "palette": "nuit",
+  "status": "draft"
+}

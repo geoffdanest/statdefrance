@@ -1,0 +1,17 @@
+{
+  "theme": "Santé",
+  "template": "hemicycle",
+  "source": "DREES, Comptes de la santé 2025",
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/cns_financement/",
+  "dataset_id": "drees:cns_financement",
+  "pct": 71,
+  "title": "Sur 100 € de dépenses de santé, la Sécu en finance 71.",
+  "label": "payés par la Sécurité sociale",
+  "calc": "Comptes de la santé, annee 2025, poste_niv 0 (dépense courante de santé au sens international, 353,19 Md€) ; financeur Sécurité sociale (f110) 249,22 Md€ = 70,6 %, ménages (f220) 34,10 Md€ = 9,7 %.",
+  "caption": "La Sécu paie plus de sept euros sur dix de nos dépenses de santé.\n\nEn 2025, sur 353 milliards d'euros de dépense courante de santé, la Sécurité sociale en finance 71 %, les complémentaires 12 % et les ménages 10 % directement. Une répartition à garder en tête dans les débats sur le budget de la santé.\n\nSource : DREES, « Les comptes de la santé - Répartition par financeur »\nhttps://data.drees.solidarites-sante.gouv.fr/explore/dataset/cns_financement/\n\n#statdefrance #opendata #sante #secu #depensesdesante #drees",
+  "date": "2026-11-12",
+  "slot": "matin",
+  "num": "N° 052",
+  "palette": "nuit",
+  "status": "draft"
+}

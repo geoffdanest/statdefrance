@@ -1,0 +1,39 @@
+{
+  "theme": "Démographie",
+  "template": "colonnes",
+  "source": "Insee, Naissances mensuelles 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_EC_NAIS",
+  "dataset_id": "insee:DS_EC_NAIS",
+  "per_dot": 50000,
+  "dot_unit": "naissances",
+  "title": "En huit ans, 125 000 naissances de moins par an en France.",
+  "series": [
+    [
+      2017,
+      769553
+    ],
+    [
+      2019,
+      753383
+    ],
+    [
+      2021,
+      742052
+    ],
+    [
+      2023,
+      677803
+    ],
+    [
+      2025,
+      643905
+    ]
+  ],
+  "calc": "DS_EC_NAIS, GEO=F, EC_MEASURE=LVB, annuel, années impaires (2025 définitif) : 2017 769 553 ; 2019 753 383 ; 2021 742 052 ; 2023 677 803 ; 2025 643 905 ; différence 2017-2025 125 648 (-16,3 %).",
+  "caption": "125 000 bébés de moins par an qu'en 2017.\n\nEn 2025, 643 905 naissances ont été enregistrées en France, contre 769 553 en 2017 : une baisse de 16 % en huit ans. La démographie française s'invite dans tous les débats à l'approche de la présidentielle.\n\nSource : Insee, « Naissances mensuelles »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_EC_NAIS\n\n#statdefrance #opendata #naissances #demographie #natalite #insee",
+  "date": "2026-11-13",
+  "slot": "matin",
+  "num": "N° 054",
+  "palette": "nuit",
+  "status": "draft"
+}

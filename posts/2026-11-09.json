@@ -1,0 +1,16 @@
+{
+  "theme": "Mobilité",
+  "template": "unsurn",
+  "source": "ADEME, Leasing social 2026",
+  "source_url": "https://data.ademe.fr/datasets/t9ea97wgpy-ga5d0k91wrgol",
+  "dataset_id": "ademe:t9ea97wgpy-ga5d0k91wrgol",
+  "n": 10,
+  "label": "Leasing social 2026 : à peine un modèle éligible sur dix a sa batterie fabriquée en Europe.",
+  "calc": "Fichier des 42 versions éligibles au leasing social 2026. Colonne « Site de fabrication et production batterie au sein de l'EEE » : 4 valeurs à 1, 38 à 0, soit 4/42 = 9,5 %.",
+  "caption": "Voitures électriques aidées : la batterie vient rarement d'Europe.\n\nSur les 42 versions de voitures électriques éligibles au leasing social 2026, seules 4 ont une batterie fabriquée dans l'Espace économique européen. Le moteur, lui, y est fabriqué pour 35 d'entre elles. Un chiffre à garder en tête alors que le prix des carburants revient dans l'actualité.\n\nSource : ADEME, « Liste des voitures particulières électriques éligibles au programme de leasing social 2026 »\nhttps://data.ademe.fr/datasets/t9ea97wgpy-ga5d0k91wrgol\n\n#statdefrance #opendata #voitureelectrique #leasingsocial #batterie #mobilite",
+  "date": "2026-11-09",
+  "slot": "matin",
+  "num": "N° 046",
+  "palette": "nuit",
+  "status": "draft"
+}

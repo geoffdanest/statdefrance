@@ -1,0 +1,37 @@
+{
+  "theme": "Environnement",
+  "template": "colonnes",
+  "source": "Trackdéchets, Statistiques 2025",
+  "source_url": "https://www.data.gouv.fr/datasets/trackdechets-donnees-statistiques-relatives-aux-dechets-dangereux-en-france",
+  "dataset_id": "649af611eaa8b9950ea5b3e8",
+  "title": "7,7 millions de tonnes de déchets suivis à la trace en 2025.",
+  "series": [
+    [
+      2022,
+      4.5
+    ],
+    [
+      2023,
+      6.7
+    ],
+    [
+      2024,
+      7.6
+    ],
+    [
+      2025,
+      7.7
+    ]
+  ],
+  "per_dot": 1,
+  "dot_unit": "M de tonnes",
+  "value_suffix": " Mt",
+  "decimals": 1,
+  "calc": "Trackdéchets, somme hebdomadaire de quantite_tracee par année (tonnes) : 2022 4 518 811 ; 2023 6 710 226 ; 2024 7 637 149 ; 2025 7 655 829.",
+  "caption": "Chaque année, des millions de tonnes de déchets dangereux passent sous surveillance.\n\nDepuis 2022, la plateforme Trackdéchets est obligatoire pour suivre les déchets dangereux et l'amiante du producteur jusqu'au traitement. 7,7 millions de tonnes y ont été tracées en 2025. La hausse depuis 2022 reflète surtout la montée en charge de l'obligation.\n\nSource : Trackdéchets, « Données statistiques relatives aux déchets dangereux en France », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/trackdechets-donnees-statistiques-relatives-aux-dechets-dangereux-en-france\n\n#statdefrance #opendata #dechets #environnement #amiante #recyclage",
+  "date": "2026-11-12",
+  "slot": "soir",
+  "num": "N° 053",
+  "palette": "papier",
+  "status": "draft"
+}

@@ -1,0 +1,31 @@
+{
+  "theme": "Santé",
+  "template": "bulles",
+  "source": "Assurance Maladie, Pathologies 2024",
+  "source_url": "https://data.ameli.fr/explore/dataset/depenses/",
+  "dataset_id": "ameli:depenses",
+  "title": "Une maternité : 22 fois plus de remboursements qu’un assuré sans pathologie.",
+  "unit": "€",
+  "rows": [
+    {
+      "name": "Maternité",
+      "value": 8593,
+      "highlight": true
+    },
+    {
+      "name": "Diabète",
+      "value": 2572
+    },
+    {
+      "name": "Aucune",
+      "value": 390
+    }
+  ],
+  "calc": "Dépenses ameli, 2024, Total des dépenses remboursées, montant_moy : Maternité (avec ou sans pathologies) 8593 € ; Diabète 2572 € ; Pas de pathologie repérée 390 € ; 8593/390 = 22,0.",
+  "caption": "Une naissance reste le plus gros poste de dépense par personne.\n\nEn 2024, l'Assurance maladie a remboursé en moyenne 8 593 € par femme prise en charge pour une maternité, 2 572 € par personne diabétique et 390 € pour un assuré sans pathologie repérée.\n\nSource : Assurance Maladie, « Pathologies : dépenses remboursées affectées à chaque pathologie »\nhttps://data.ameli.fr/explore/dataset/depenses/\n\n#statdefrance #opendata #sante #maternite #assurancemaladie #ameli",
+  "date": "2026-11-15",
+  "slot": "soir",
+  "num": "N° 059",
+  "palette": "papier",
+  "status": "draft"
+}

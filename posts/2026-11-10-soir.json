@@ -1,0 +1,31 @@
+{
+  "theme": "Énergie",
+  "template": "bulles",
+  "source": "RTE, éCO2mix (sept.-nov. 2026)",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/eco2mix-national-tr/",
+  "dataset_id": "odre:eco2mix-national-tr",
+  "title": "Cet automne, le nucléaire a produit près de 19 fois plus d’électricité que le gaz.",
+  "unit": "GW",
+  "rows": [
+    {
+      "name": "Nucléaire",
+      "value": 36.6
+    },
+    {
+      "name": "Éolien",
+      "value": 5.1
+    },
+    {
+      "name": "Gaz",
+      "value": 2.0,
+      "highlight": true
+    }
+  ],
+  "calc": "eCO2mix national temps réel, 2026-09-01 à 2026-11-02, moyenne des colonnes en MW : nucléaire 36 557, éolien 5 064, gaz 1 957 ; 36557/1957 = 18,7.",
+  "caption": "Le gaz ne représente qu'une petite part de notre électricité.\n\nEntre le 1er septembre et le 2 novembre 2026, la production nucléaire a atteint en moyenne 36,6 GW, contre 2 GW pour le gaz. Ce dernier reste un appoint, alors que le prix du gaz pour les ménages fait l'actualité : deux sujets distincts, chauffage et électricité.\n\nSource : ODRÉ, « Données éCO2mix nationales temps réel »\nhttps://odre.opendatasoft.com/explore/dataset/eco2mix-national-tr/\n\n#statdefrance #opendata #energie #electricite #nucleaire #gaz",
+  "date": "2026-11-10",
+  "slot": "soir",
+  "num": "N° 049",
+  "palette": "papier",
+  "status": "draft"
+}
