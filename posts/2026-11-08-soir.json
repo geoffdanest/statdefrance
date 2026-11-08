@@ -12,5 +12,8 @@
   "label": "des TGV internationaux de la SNCF arrivent en retard (2026).",
   "calc": "regularite-mensuelle-tgv-axes, axe « Europe », mois 2026-01 à 2026-09 : moyenne de regularite_composite = 76,4 % → 23,6 % hors délai. Autres axes 2026 : Atlantique 86,5 ; Est 83,2 ; Sud-Est 83,0 ; Nord 81,6 ; OUIGO 83,3. Europe 2025 : 81,1.",
   "caption": "Près d’un TGV international sur quatre est arrivé en retard en 2026.\n\nDe janvier à septembre, la régularité des TGV internationaux de la SNCF (vers l’Allemagne, la Suisse, l’Espagne, l’Italie) n’a été que de 76,4 % en moyenne mensuelle, contre 81 % en 2025. C’est le moins bon des axes TGV, loin derrière l’Atlantique (86,5 %). Thalys et Eurostar ne sont pas comptés. Un train est en retard au-delà de 5 à 15 minutes selon la durée du trajet.\n\nSource : SNCF, « Régularité mensuelle TGV par axe »\nhttps://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-axes/\n\n#statdefrance #opendata #tgv #sncf #train #transports",
-  "status": "validated"
+  "status": "published",
+  "ig_media_id": "18654224563031522",
+  "ig_permalink": "https://www.instagram.com/p/DffP2BemKtq/",
+  "published_at": "2026-11-08T18:02:47.943686+01:00"
 }
