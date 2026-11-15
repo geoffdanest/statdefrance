@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "slot": "soir",
+  "theme": "Santé",
+  "template": "bulles",
+  "source": "Assurance Maladie, patientèle 2025",
+  "source_url": "https://data.ameli.fr/explore/dataset/patientele/",
+  "dataset_id": "ameli:patientele",
+  "title": "En un an, un ophtalmo libéral voit trois fois plus de patients qu’un généraliste.",
+  "unit": "",
+  "rows": [
+    {
+      "name": "Psychiatre",
+      "value": 328
+    },
+    {
+      "name": "Généraliste",
+      "value": 1584
+    },
+    {
+      "name": "Ophtalmologue",
+      "value": 4707,
+      "highlight": true
+    }
+  ],
+  "calc": "patientele, annee=2025, libelle_region=FRANCE, patients_uniques_integer : Ophtalmologues 4 707 ; Ensemble des médecins généralistes 1 584 ; Psychiatres 328. 4 707 / 1 584 = 2,97.",
+  "caption": "4 707 patients par an pour un ophtalmologue libéral.\n\nEn 2025, un ophtalmologue libéral a vu en moyenne 4 707 patients différents dans l’année, contre 1 584 pour un médecin généraliste et 328 pour un psychiatre, dont les consultations sont plus longues et plus régulières. Ces écarts reflètent surtout la nature de chaque spécialité : examens rapides d’un côté, suivi au long cours de l’autre.\n\nSource : Assurance Maladie, « Professionnels de santé libéraux : patientèle par territoire »\nhttps://data.ameli.fr/explore/dataset/patientele/\n\n#statdefrance #opendata #sante #medecins #ophtalmologie #assurancemaladie",
+  "num": "N° 067",
+  "palette": "papier",
+  "status": "draft"
+}

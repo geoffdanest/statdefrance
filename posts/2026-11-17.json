@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-17",
+  "slot": "matin",
+  "theme": "Numérique",
+  "template": "grille",
+  "source": "ADEME, numérique 2025",
+  "source_url": "https://data.ademe.fr/datasets/jsfqxx8g98c9djitr7pes4xe",
+  "dataset_id": "ademe:jsfqxx8g98c9djitr7pes4xe",
+  "pct": 29,
+  "label": "de l’électricité de nos usages numériques est consommée hors de France.",
+  "calc": "Consommations d'électricité des usages français du numérique, ANNEE_SCENARIO « 2025 - TEND » (identique dans les 5 scénarios) : Etranger 19,15 ; France 45,9 → 19,15 / 65,05 = 29,4 %. 2050 - TEND : Etranger 194,32 ; France 109,48 → 64,0 %.",
+  "caption": "Près d’un tiers de l’électricité de notre numérique est consommée à l’étranger.\n\nSelon l’ADEME, en 2025, 29 % de l’électricité utilisée par les usages numériques des Français est consommée hors de France : par exemple dans des data centers situés à l’étranger. Dans son scénario tendanciel, cette part monterait à 64 % en 2050. De quoi éclairer le débat sur les data centers, de plus en plus contestés en Europe.\n\nSource : ADEME, « Consommations d'électricité des usages français du numérique »\nhttps://data.ademe.fr/datasets/jsfqxx8g98c9djitr7pes4xe\n\n#statdefrance #opendata #numerique #datacenters #electricite #ademe",
+  "num": "N° 062",
+  "palette": "nuit",
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "slot": "matin",
+  "theme": "Climat",
+  "template": "colonnes",
+  "source": "RTE via ODRÉ, intensité CO2 2021-2025",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/part-enr-intensite-ges-conso-tr/",
+  "dataset_id": "odre:part-enr-intensite-ges-conso-tr",
+  "title": "Notre électricité émet trois fois moins de CO2 qu’en 2022.",
+  "series": [
+    [
+      2021,
+      38.0
+    ],
+    [
+      2022,
+      60.3
+    ],
+    [
+      2023,
+      31.6
+    ],
+    [
+      2024,
+      20.5
+    ],
+    [
+      2025,
+      18.7
+    ]
+  ],
+  "per_dot": 5,
+  "dot_unit": "g CO2e/kWh",
+  "decimals": 0,
+  "value_suffix": " g",
+  "calc": "part-enr-intensite-ges-conso-tr, moyenne annuelle des valeurs horaires de intensite_emissions_conso (gCO2e/kWh, France continentale, échanges compris) : 2021 38,0 ; 2022 60,3 ; 2023 31,6 ; 2024 20,5 ; 2025 18,7. 60,3 / 18,7 = 3,2.",
+  "caption": "Un kWh consommé en France émet trois fois moins de CO₂ qu’en 2022.\n\nEn moyenne sur l’année 2025, chaque kilowattheure consommé en France continentale a émis 19 g de CO₂e, contre 60 g en 2022. Les chiffres de RTE tiennent compte des échanges avec les pays voisins (moyenne des valeurs horaires). Un repère utile pendant la COP31.\n\nSource : ODRÉ (RTE), « Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel »\nhttps://odre.opendatasoft.com/explore/dataset/part-enr-intensite-ges-conso-tr/\n\n#statdefrance #opendata #climat #electricite #cop31 #rte #co2",
+  "num": "N° 066",
+  "palette": "nuit",
+  "status": "draft"
+}

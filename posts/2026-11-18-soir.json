@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-18",
+  "slot": "soir",
+  "theme": "Logement",
+  "template": "unsurn",
+  "source": "Min. Transition écologique, SRU 2025",
+  "source_url": "https://www.data.gouv.fr/datasets/communes-et-inventaire-sru",
+  "dataset_id": "6564969d3579e21795ebd378",
+  "n": 2,
+  "label": "Plus de la moitié des communes soumises à la loi SRU manquent de logements sociaux (bilan au 1er janvier 2025).",
+  "calc": "donnees-sru-data-gouv-2026.csv, Commune_sru_au_01_01_2026=1 : 2 203 communes ; commune_deficitaire_au_01-01-2025 = 1 → 1 140, = 0 → 1 058, vide → 5. 1 140 / 2 198 = 51,9 %. Communes carencées 2023-2025 : 335.",
+  "caption": "Une commune SRU sur deux n’atteint pas son quota de logements sociaux.\n\nLa loi SRU impose à certaines communes un minimum de logements sociaux (20 ou 25 % des résidences principales). Au 1er janvier 2025, 1 140 des 2 198 communes concernées dont la situation est connue étaient déficitaires, soit 52 %. Et 335 ont été déclarées « carencées » par l’État sur 2023-2025, ce qui alourdit leurs pénalités.\n\nSource : Ministère de la Transition écologique, « Communes et inventaire SRU », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/communes-et-inventaire-sru\n\n#statdefrance #opendata #logement #logementsocial #loisru #communes",
+  "num": "N° 065",
+  "palette": "papier",
+  "status": "draft"
+}

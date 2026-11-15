@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-21",
+  "slot": "matin",
+  "theme": "Numérique",
+  "template": "halteres",
+  "source": "Insee, équipement internet 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICM_EQUIPEMENT",
+  "dataset_id": "insee:DS_TICM_EQUIPEMENT",
+  "title": "Internet à la maison : les 75 ans et plus sont passés de 14 % à 66 %.",
+  "legend_a": "2009",
+  "legend_b": "2025",
+  "scale": "Internet à domicile, en %",
+  "range": [
+    0,
+    100
+  ],
+  "step": 25,
+  "decimals": 0,
+  "rows": [
+    {
+      "name": "15-29 ans",
+      "a": 83.1,
+      "b": 98.4
+    },
+    {
+      "name": "60-74 ans",
+      "a": 46.9,
+      "b": 91.2
+    },
+    {
+      "name": "75 ans et +",
+      "a": 14.3,
+      "b": 65.8,
+      "highlight": true
+    }
+  ],
+  "calc": "DS_TICM_EQUIPEMENT, TICM_MEASURE=EQUIP_INT, toutes autres dimensions=_T, OBS_STATUS=A : 2009 / 2025 → Y15T29 83,1 / 98,4 ; Y45T59 73,4 / 97,2 ; Y60T74 46,9 / 91,2 ; Y_GE75 14,3 / 65,8 ; ensemble 67,2 / 92,4. EQUIP_X_OUTILS_NUM 75+ 2025 : 34,6 %.",
+  "caption": "En 16 ans, Internet a conquis les plus âgés… presque.\n\nEn 2009, seuls 14 % des 75 ans et plus avaient Internet chez eux. En 2025, ils sont 66 %, contre plus de 97 % chez les moins de 60 ans. L’écart reste net : la même année, 35 % des 75 ans et plus n’ont ni ordinateur, ni tablette, ni smartphone.\n\nSource : Insee, « Équipement des ménages en internet »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICM_EQUIPEMENT\n\n#statdefrance #opendata #numerique #internet #seniors #insee",
+  "num": "N° 070",
+  "palette": "nuit",
+  "status": "draft"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-16",
+  "slot": "soir",
+  "theme": "Revenus",
+  "template": "classement",
+  "source": "Insee, Filosofi 2023",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+  "dataset_id": "insee:DS_FILOSOFI_SAGE_LOG_TP_NIVVIE",
+  "title": "Plus d’un enfant sur cinq vit sous le seuil de pauvreté.",
+  "axis_label": "Taux de pauvreté (seuil à 60 %), 2023",
+  "range": [
+    5,
+    25
+  ],
+  "step": 5,
+  "value_suffix": " %",
+  "rows": [
+    {
+      "name": "0-17 ans",
+      "value": 22.6,
+      "highlight": true
+    },
+    {
+      "name": "18-29 ans",
+      "value": 19.2
+    },
+    {
+      "name": "30-39 ans",
+      "value": 15.1
+    },
+    {
+      "name": "50-64 ans",
+      "value": 13.6
+    },
+    {
+      "name": "65-74 ans",
+      "value": 10.7
+    },
+    {
+      "name": "75 ans et +",
+      "value": 9.8
+    }
+  ],
+  "calc": "DS_FILOSOFI_SAGE_LOG_TP_NIVVIE, GEO=FM (France métropolitaine), FILOSOFI_MEASURE=PR_MD60, SEX=_T, TSH=_T, 2023 : Y_LT18 22,6 ; Y18T29 19,2 ; Y30T39 15,1 ; Y40T49 15,7 ; Y50T64 13,6 ; Y65T74 10,7 ; Y_GE75 9,8 ; ensemble 15,9.",
+  "caption": "Les enfants restent les plus touchés par la pauvreté.\n\nEn 2023, en France métropolitaine, 22,6 % des moins de 18 ans vivent dans un ménage sous le seuil de pauvreté (60 % du niveau de vie médian), contre 15,9 % pour l’ensemble de la population. Le taux baisse avec l’âge : 9,8 % seulement chez les 75 ans et plus.\n\nSource : Insee, « Niveau de vie médian et taux de pauvreté par tranche d’âge, sexe et statut d'occupation du logement en 2023 »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_FILOSOFI_SAGE_LOG_TP_NIVVIE\n\n#statdefrance #opendata #pauvrete #enfance #insee #niveaudevie",
+  "num": "N° 061",
+  "palette": "papier",
+  "status": "draft"
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-16",
+  "slot": "matin",
+  "theme": "Climat",
+  "template": "compare",
+  "source": "SNCF, émissions CO2e (données 2025)",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/emission-co2-perimetre-complet/",
+  "dataset_id": "sncf:emission-co2-perimetre-complet",
+  "title": "Paris-Marseille : 32 fois plus de CO2 en avion qu’en TGV.",
+  "dot_unit": "kg CO2e",
+  "per_dot": 2,
+  "rows": [
+    {
+      "name": "TGV",
+      "value": 2.6
+    },
+    {
+      "name": "Autocar",
+      "value": 29.5
+    },
+    {
+      "name": "Voiture thermique",
+      "value": 69.0
+    },
+    {
+      "name": "Avion",
+      "value": 82.8,
+      "highlight": true
+    }
+  ],
+  "calc": "emission-co2-perimetre-complet, ligne TGV Paris Gare de Lyon → Marseille Saint-Charles, kg CO2e par voyageur : train_empreinte_carbone_kgco2e 2,625 ; autocar_longue_distance 29,450 ; voiture_thermique_2_2_pers 68,975 ; avion 82,750. 82,750 / 2,625 = 31,5 → « 32 fois ».",
+  "caption": "Paris-Marseille : 32 fois plus de CO₂ en avion qu’en TGV.\n\nAlors que la COP31 se tient en Turquie, la SNCF publie l’empreinte carbone d’un aller simple sur ses grandes liaisons, comparée aux autres modes. Pour un Paris-Marseille : 2,6 kg de CO₂e par voyageur en TGV, 29,5 kg en autocar, 69 kg en voiture thermique (2,2 personnes à bord) et 82,8 kg en avion. Le calcul inclut la fabrication des véhicules et des infrastructures (« périmètre complet »).\n\nSource : SNCF, « Émissions de CO2e - périmètre complet »\nhttps://ressources.data.sncf.com/explore/dataset/emission-co2-perimetre-complet/\n\n#statdefrance #opendata #climat #cop31 #train #avion #sncf #co2",
+  "num": "N° 060",
+  "palette": "nuit",
+  "status": "draft"
+}

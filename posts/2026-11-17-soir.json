@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-17",
+  "slot": "soir",
+  "theme": "Énergie",
+  "template": "matrice",
+  "source": "RTE via ODRÉ, pics de consommation",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/pic-journalier-consommation-brute/",
+  "dataset_id": "odre:pic-journalier-consommation-brute",
+  "display": "101,9",
+  "label": "gigawatts : record de consommation électrique, le 8 février 2012.",
+  "history": [
+    [
+      "févr. 2012",
+      "101,9 GW"
+    ],
+    [
+      "févr. 2018",
+      "96,6 GW"
+    ],
+    [
+      "janv. 2026",
+      "90,6 GW"
+    ]
+  ],
+  "calc": "pic-journalier-consommation-brute (2012-01-01 → 2026-09-30), max de pic_journalier_consommation : 2012-02-08 = 101 867 MW (temp. moyenne -4,9 °C). Max par hiver : 2018-02-28 = 96 562 MW ; 2026-01-06 = 90 554 MW (plus haut depuis l’hiver 2017-2018).",
+  "caption": "101,9 GW : le jour où la France a battu son record d’électricité.\n\nLe 8 février 2012, par une température moyenne de -4,9 °C, la consommation française a atteint un pic de 101 867 mégawatts, le record de la série RTE depuis 2012. Le pic de l’hiver dernier, le 6 janvier 2026, est monté à 90 554 MW : le plus haut depuis février 2018. Quand il fait froid, la demande s’envole.\n\nSource : ODRÉ (RTE), « Pic journalier de la consommation brute d'électricité »\nhttps://odre.opendatasoft.com/explore/dataset/pic-journalier-consommation-brute/\n\n#statdefrance #opendata #energie #electricite #rte #hiver",
+  "num": "N° 063",
+  "palette": "papier",
+  "status": "draft"
+}

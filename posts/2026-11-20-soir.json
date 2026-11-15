@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-20",
+  "slot": "soir",
+  "theme": "Société",
+  "template": "grille",
+  "source": "Insee, SRCV 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_SATISFACTION",
+  "dataset_id": "insee:DS_SRCV_SATISFACTION",
+  "pct": 20,
+  "label": "des 16 ans et plus donnent 9 ou 10 sur 10 à la vie qu’ils mènent.",
+  "calc": "DS_SRCV_SATISFACTION, GEO=F_X_D976 (France hors Mayotte), SRCV_MEASURE=PT_NOTE_IN_VIESATISF_BY_SEX, SEX=_T, 2025 : 9T10 = 20,0 ; 6T8 = 63,2 ; 0T5 = 16,8. Note moyenne VIESATISF 2025 : 7,2.",
+  "caption": "Seul un Français sur cinq se dit pleinement satisfait de sa vie.\n\nEn 2025, l’Insee a demandé aux personnes de 16 ans ou plus de noter de 0 à 10 la vie qu’elles mènent. 20 % donnent 9 ou 10, 63 % une note de 6 à 8, et 17 % ne dépassent pas 5. La note moyenne est de 7,2 sur 10.\n\nSource : Insee, « Conditions de vie : niveau de satisfaction »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SRCV_SATISFACTION\n\n#statdefrance #opendata #societe #bonheur #insee #conditionsdevie",
+  "num": "N° 069",
+  "palette": "papier",
+  "status": "draft"
+}

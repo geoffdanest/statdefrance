@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-18",
+  "slot": "matin",
+  "theme": "Élections",
+  "template": "carte",
+  "source": "Insee, corps électoral 2026",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ELECTORAL",
+  "dataset_id": "insee:DS_ELECTORAL",
+  "number": "1,5 million",
+  "unit": "de jeunes",
+  "hook": "inscrits d’office à 18 ans entre 2024 et 2026.",
+  "calc": "DS_ELECTORAL, GEO_OBJECT=FRANCE, REU_MEASURE=EVO_REG_VOTERS, REU_REASON_REG=REG_VOTERS_Y_GE18, REU_ELECTION_TYPE=MUN, TIME_PERIOD=2026-02-11 : 1 476 369. Total électeurs (VOTERS, _T, MUN, 2026-02-11) : 50 187 093. Inscriptions volontaires en ligne : 2 424 393.",
+  "caption": "1,5 million de jeunes ajoutés aux listes électorales, sans rien demander.\n\nEntre les européennes de 2024 et les municipales de 2026, 1 476 369 jeunes ont été inscrits d’office sur les listes électorales en atteignant 18 ans, selon le répertoire électoral unique. À la veille de la présidentielle de 2027, la France compte 50,2 millions d’électeurs inscrits (février 2026), et 2,4 millions d’inscriptions volontaires ont été faites en ligne sur la même période.\n\nSource : Insee, « Caractéristiques du corps électoral »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ELECTORAL\n\n#statdefrance #opendata #elections #presidentielle2027 #jeunes #vote #insee",
+  "num": "N° 064",
+  "palette": "nuit",
+  "status": "draft"
+}

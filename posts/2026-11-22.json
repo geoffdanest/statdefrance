@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-22",
+  "slot": "matin",
+  "theme": "Société",
+  "template": "hemicycle",
+  "source": "DREES, ISD personnes âgées (2022)",
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/639_personnes-agees/",
+  "dataset_id": "drees:639_personnes-agees",
+  "pct": 38.3,
+  "title": "Après 75 ans, près de quatre personnes sur dix vivent seules.",
+  "label": "des 75 ans et plus vivent seuls",
+  "calc": "639_personnes-agees, annee=2022, France entière hors Mayotte (code FEM) : Part des 75 ans et plus vivant seules 0,383 ; en couple ou avec enfants 0,503 ; en institution 0,086 ; autres cas 0,028 (total 1,000).",
+  "caption": "38 % des 75 ans et plus vivent seuls chez eux.\n\nEn 2022, en France hors Mayotte, 38,3 % des personnes de 75 ans ou plus vivent seules, 50,3 % en couple ou avec leurs enfants et 8,6 % en institution (Ehpad notamment). Ces chiffres, issus du recensement, servent aux départements pour organiser l’aide à l’autonomie.\n\nSource : DREES, « ISD - Personnes âgées »\nhttps://data.drees.solidarites-sante.gouv.fr/explore/dataset/639_personnes-agees/\n\n#statdefrance #opendata #societe #seniors #solitude #drees",
+  "num": "N° 072",
+  "palette": "nuit",
+  "status": "draft"
+}

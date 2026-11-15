@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-20",
+  "slot": "matin",
+  "theme": "Santé",
+  "template": "compare",
+  "source": "Santé publique France, IRA en ESMS",
+  "source_url": "https://odisse.santepubliquefrance.fr/explore/dataset/ira-esms/",
+  "dataset_id": "odisse:ira-esms",
+  "title": "Ehpad et foyers : l’hiver dernier, plus d’épidémies de grippe que de Covid.",
+  "dot_unit": "épisodes",
+  "per_dot": 20,
+  "rows": [
+    {
+      "name": "Grippe",
+      "value": 1160,
+      "highlight": true
+    },
+    {
+      "name": "Covid-19",
+      "value": 974
+    },
+    {
+      "name": "VRS (bronchiolite)",
+      "value": 184
+    }
+  ],
+  "calc": "ira-esms, France (reg 99), somme de valeur par theme sur la saison 2025-2026 (semaines du 1er juillet 2025 au 30 juin 2026) : Grippe 1 160 ; COVID-19 974 ; VRS 184 ; total IRA 3 459. Saison 2023-2024 : Covid 2 774, grippe 533.",
+  "caption": "L’hiver dernier, la grippe a supplanté le Covid dans les établissements.\n\nEntre juillet 2025 et juin 2026, les établissements médico-sociaux (Ehpad, foyers…) ont signalé 3 459 épisodes de cas groupés d’infections respiratoires (au moins 3 résidents malades en 4 jours). La grippe en a causé 1 160, le Covid 974 et le VRS 184. Deux saisons plus tôt, c’était l’inverse : 2 774 foyers de Covid pour 533 de grippe. Les signalements repartent à la hausse cet automne.\n\nSource : Santé publique France, « IRA National - ESMS - Cas groupés d'IRA »\nhttps://odisse.santepubliquefrance.fr/explore/dataset/ira-esms/\n\n#statdefrance #opendata #sante #grippe #covid #ehpad #hiver",
+  "num": "N° 068",
+  "palette": "nuit",
+  "status": "draft"
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-21",
+  "slot": "soir",
+  "theme": "Énergie",
+  "template": "matrice",
+  "source": "EDF, production Saint-Pierre-et-Miquelon",
+  "source_url": "https://www.data.gouv.fr/datasets/production-annuelle-delectricite-par-filiere-saint-pierre-et-miquelon-1",
+  "dataset_id": "6965fd7bdd5d82d4c4664a66",
+  "display": "100%",
+  "label": "Saint-Pierre-et-Miquelon : l’électricité vient du diesel.",
+  "history": [
+    [
+      "2017",
+      "100 %"
+    ],
+    [
+      "2019",
+      "100 %"
+    ],
+    [
+      "2021",
+      "100 %"
+    ],
+    [
+      "2023",
+      "100 %"
+    ],
+    [
+      "2025",
+      "100 %"
+    ]
+  ],
+  "calc": "Fichier csv EDF SEI, Saint-Pierre-et-Miquelon 2017-2025 : seule la colonne « Moteurs diesel (MWh) » est renseignée (51 728 MWh en 2017 ; 51 302 MWh en 2025), Part ENR (%) = 0 et TauxNonEnR = 1 chaque année.",
+  "caption": "À Saint-Pierre-et-Miquelon, toute l’électricité vient du diesel.\n\nChaque année depuis 2017, 100 % de l’électricité produite sur l’archipel sort de moteurs diesel : 51 302 MWh en 2025, sans éolien, solaire ni liaison avec le continent selon les données d’EDF. Un cas à part dans un pays où l’électricité est très majoritairement décarbonée.\n\nSource : Electricité de France, « Production annuelle d’électricité par filière - Saint-Pierre-et-Miquelon », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/production-annuelle-delectricite-par-filiere-saint-pierre-et-miquelon-1\n\n#statdefrance #opendata #energie #saintpierreetmiquelon #outremer #electricite",
+  "num": "N° 071",
+  "palette": "papier",
+  "status": "draft"
+}
