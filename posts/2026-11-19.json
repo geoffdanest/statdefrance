@@ -37,5 +37,5 @@
   "caption": "Un kWh consommé en France émet trois fois moins de CO₂ qu’en 2022.\n\nEn moyenne sur l’année 2025, chaque kilowattheure consommé en France continentale a émis 19 g de CO₂e, contre 60 g en 2022. Les chiffres de RTE tiennent compte des échanges avec les pays voisins (moyenne des valeurs horaires). Un repère utile pendant la COP31.\n\nSource : ODRÉ (RTE), « Part des EnR et intensité en émissions de GES de l’électricité consommée en France en temps réel »\nhttps://odre.opendatasoft.com/explore/dataset/part-enr-intensite-ges-conso-tr/\n\n#statdefrance #opendata #climat #electricite #cop31 #rte #co2",
   "num": "N° 066",
   "palette": "nuit",
-  "status": "draft"
+  "status": "validated"
 }

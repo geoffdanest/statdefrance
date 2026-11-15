@@ -32,5 +32,5 @@
   "caption": "Paris-Marseille : 32 fois plus de CO₂ en avion qu’en TGV.\n\nAlors que la COP31 se tient en Turquie, la SNCF publie l’empreinte carbone d’un aller simple sur ses grandes liaisons, comparée aux autres modes. Pour un Paris-Marseille : 2,6 kg de CO₂e par voyageur en TGV, 29,5 kg en autocar, 69 kg en voiture thermique (2,2 personnes à bord) et 82,8 kg en avion. Le calcul inclut la fabrication des véhicules et des infrastructures (« périmètre complet »).\n\nSource : SNCF, « Émissions de CO2e - périmètre complet »\nhttps://ressources.data.sncf.com/explore/dataset/emission-co2-perimetre-complet/\n\n#statdefrance #opendata #climat #cop31 #train #avion #sncf #co2",
   "num": "N° 060",
   "palette": "nuit",
-  "status": "draft"
+  "status": "validated"
 }

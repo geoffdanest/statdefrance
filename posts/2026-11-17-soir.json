@@ -26,5 +26,5 @@
   "caption": "101,9 GW : le jour où la France a battu son record d’électricité.\n\nLe 8 février 2012, par une température moyenne de -4,9 °C, la consommation française a atteint un pic de 101 867 mégawatts, le record de la série RTE depuis 2012. Le pic de l’hiver dernier, le 6 janvier 2026, est monté à 90 554 MW : le plus haut depuis février 2018. Quand il fait froid, la demande s’envole.\n\nSource : ODRÉ (RTE), « Pic journalier de la consommation brute d'électricité »\nhttps://odre.opendatasoft.com/explore/dataset/pic-journalier-consommation-brute/\n\n#statdefrance #opendata #energie #electricite #rte #hiver",
   "num": "N° 063",
   "palette": "papier",
-  "status": "draft"
+  "status": "validated"
 }

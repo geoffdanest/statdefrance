@@ -12,5 +12,5 @@
   "caption": "Près d’un tiers de l’électricité de notre numérique est consommée à l’étranger.\n\nSelon l’ADEME, en 2025, 29 % de l’électricité utilisée par les usages numériques des Français est consommée hors de France : par exemple dans des data centers situés à l’étranger. Dans son scénario tendanciel, cette part monterait à 64 % en 2050. De quoi éclairer le débat sur les data centers, de plus en plus contestés en Europe.\n\nSource : ADEME, « Consommations d'électricité des usages français du numérique »\nhttps://data.ademe.fr/datasets/jsfqxx8g98c9djitr7pes4xe\n\n#statdefrance #opendata #numerique #datacenters #electricite #ademe",
   "num": "N° 062",
   "palette": "nuit",
-  "status": "draft"
+  "status": "validated"
 }
