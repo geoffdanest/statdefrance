@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "67fa24b39c0cffbd18806978",
+  "title": "Consommation finale d’énergie du secteur résidentiel - non corrigée des variations climatiques",
+  "page": "https://www.data.gouv.fr/datasets/consommation-finale-denergie-du-secteur-residentiel-non-corrigee-des-variations-climatiques",
+  "organization": "Ecolab",
+  "description": "La réduction de la consommation d'énergie en elle-même (quelle que soit la source d'énergie) par des comportements sobres, l'amélioration de l'efficacité des appareils, ou la rénovation énergétique du bâti, est un objectif essentiel pour réduire les émissions des bâtiments. L'indicateur représente la consommation totale d'énergie des logements pour l'année. \n\nLes données de consommation d'énergie finale excluent les usages non énergétiques, où les énergies sont utilisées en tant que matière première (pétrochimie, production d'engrais...).",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/consommation-finale-denergie-du-secteur-residentiel-non-corrigee-des-variations-climatiques/20260325-015711/description-des-champs.csv",
+  "last_modified": "2026-03-25T01:57:11.825000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "énergie",
+  "news": []
+}

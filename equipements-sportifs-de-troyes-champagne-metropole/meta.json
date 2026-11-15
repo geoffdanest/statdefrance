@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "66cf0db3aa3fd759057aea3a",
+  "title": "Equipements sportifs de Troyes Champagne Métropole ",
+  "page": "https://www.data.gouv.fr/datasets/equipements-sportifs-de-troyes-champagne-metropole",
+  "organization": "Troyes Champagne Métropole",
+  "description": "Ce sont des infrastructures dans lesquelles une activité sportive peut être pratiquée, spécialisées ou non, intérieures ou extérieures.\n\nSeules les installations accessibles à tout public, à titre individuel ou via une structure publique ou privée (associative ou commerciale), pour y pratiquer une activité physique et/ou sportive, sont prises en compte.\n\nUne variable donne le nombre d’équipements de ce même type au sein de l’installation géolocalisée.\nLes équipements de ce sous-domaine sont les équipements référencés au 1er janvier 2024 dans la base de données des équipements sportifs, espaces et sites de sports de nature (DATA ES). \n\n**INFORMATION** : LE JEU DE DONNÉES EST DISPONIBLE EN TROIS FORMATS (.XLSX, .CSV ET *.GPKG). LE NOMBRE D'ENREGISTREMENTS EST DE L'ORDRE DE : 153",
+  "resource_title": "l-1.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/equipements-sportifs-de-troyes-champagne-metropole/20240828-114501/l-1.csv",
+  "last_modified": "2024-08-28T13:45:01.597000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "équipements sportifs",
+  "news": []
+}

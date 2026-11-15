@@ -1,0 +1,17 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:regularite-mensuelle-intercites",
+  "title": "Régularité mensuelle Intercités",
+  "page": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-intercites/",
+  "organization": "SNCF",
+  "description": "Régularité mensuelle des trains Intercités depuis janvier 2014. Sur Intercités, la régularité est calculée lors de l’arrivée du train à la dernière gare de son parcours (terminus). Ce mode de calcul, qui n’intègre pas les gares intermédiaires, propose le retard cumulé sur l’ensemble d’un trajet. L’indicateur utilisé est celui de la « régularité composite » : un train est considéré en retard s’il arrive cinq minutes après son heure prévue pour un trajet de moins de 1h30, dix minutes pour un trajet de 1h30 à 3h, et quinze minutes pour un trajet de plus de 3h. Un train supprimé avant 16h la veille de sa circulation ne sera pas comptabilisé. En revanche, si l’annonce de sa suppression n’a pu être faite la veille avant 16h, le train sera bien comptabilisé comme un train supprimé, que cette suppression soit totale ou partielle (le train a effectué qu’une partie de son parcours). Par ailleurs, des trains Intercités peuvent effectuer une partie importante de leur trajet sous service TER. Ils sont alors comptabilisés dans les données de régularité TER. Le calcul de la régularité Intercités proposé ici ne prend pas en compte la totalité des trains, mais une sélection déterminée par l’Autorité de la Qualité de Service dans les Transports (AQST). NB: - Au 1er janvier 2020, l'ensemble des liaisons Intercités Normandie ont été transférées à TER Normandie. - La liaison Toulouse-Matabiau - Bayonne est prolongée jusqu'à Hendaye.",
+  "resource_title": "Régularité mensuelle Intercités",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/regularite-mensuelle-intercites/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-27T14:46:56+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Transports",
+  "query": "régularité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

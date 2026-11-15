@@ -1,0 +1,49 @@
+﻿annee;nom_du_fichier;url_de_telechargement
+2025;Formats SAS-CSV-PARQUET;https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/708_bases-statistiques-sae/attachments/sae_2025_bases_statistiques_formats_sas_csv7z
+2025;CAPACT-PM-PNM;https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/708_bases-statistiques-sae/attachments/capact_pm_pnm7z
+2025;Documentation;https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/708_bases-statistiques-sae/attachments/sae_2025_bases_statistiques_documentationpdf
+2025;Documentation - CAPACT-PM-PNM;https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/708_bases-statistiques-sae/attachments/documentation_des_bases_capact_pm_pnmpdf
+2024;Formats SAS-CSV;https://data.drees.solidarites-sante.gouv.fr/api/datasets/1.0/708_bases-statistiques-sae/attachments/sae_2024_bases_statistiques_formats_sas_csv_7z/
+2024;Documentation;https://data.drees.solidarites-sante.gouv.fr/api/datasets/1.0/708_bases-statistiques-sae/attachments/sae_2024_bases_statistiques_documentation_pdf/
+2023;Formats SAS-CSV;https://data.drees.solidarites-sante.gouv.fr/api/datasets/1.0/708_bases-statistiques-sae/attachments/sae_2023_bases_statistiques_formats_sas_csv_7z
+2023;Documentation;https://data.drees.solidarites-sante.gouv.fr/api/datasets/1.0/708_bases-statistiques-sae/attachments/sae_2023_bases_statistiques_documentation_pdf
+2022;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2022_Bases_statistiques_formats_SAS_CSV.7z
+2022;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2022_Bases_statistiques_Documentation.pdf
+2022;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2022_Dictionnaire_des_variables_par_bordereaux.xlsx
+2022;Note methodologique;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2022_Note_méthodologique.pdf
+2021;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2021_Dictionnaire_des_variables_par_bordereaux.xlsx
+2021;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2021_Bases_statistiques_formats_SAS_CSV.7z
+2021;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2021_Bases_statistiques_Documentation.pdf
+2020;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2020_Dictionnaire_des_variables_par_bordereaux.xlsx
+2020;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2020_Bases_statistiques_formats_SAS_CSV.7z
+2020;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2020_Bases_statistiques_Documentation.pdf
+2019;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2019_Bases_statistiques_formats_SAS_CSV.7z
+2019;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2019_Bases_statistiques_Documentation.pdf
+2019;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2019_Dictionnaire_des_variables_par_bordereaux.xlsx
+2018;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2018_Bases_statistiques_formats_SAS_CSV.7z
+2018;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2018_Dictionnaire_des_variables_par_bordereaux.xlsx
+2018;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2018_Bases_statistiques_Documentation.pdf
+2017;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2017_Bases_statistiques_formats_SAS_CSV.7z
+2017;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2017_Dictionnaire_des_variables_par_bordereaux.xlsx
+2017;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2017_Bases_statistiques_Documentation.pdf
+2016;Formats SAS-CSV;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2016_Bases_statistiques_formats_SAS_CSV.7z
+2016;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2016_Base_statistique_Documentation.pdf
+2016;Dictionnaires des variables par borderaux;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE2016_Dictionnaire_des_variables_par_bordereaux.xlsx
+2015;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2015_Base_statistique_Documentation.pdf
+2015;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2015_Bases_statistiques_formats_SAS_CSV.7z
+2014;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2014_Base_statistique_Documentation.pdf
+2014;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2014_Bases_statistiques_formats_SAS_CSV.7z
+2013;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2013_Base_statistique_Documentation.pdf
+2013;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2013_Bases_statistiques_formats_SAS_CSV.7z
+2012;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2012_Base_statistique_format_SAS.7z
+2012;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2012_Base_statistique_documentation.pdf
+2011;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2011_Base_statistique_documentation.pdf
+2011;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2011_Base_statistique_format_SAS.7z
+2010;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2010_Base_statistique_format_SAS.7z
+2010;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2010_Base_statistique_documentation.pdf
+2009;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2009_Base_statistique_format_SAS.7z
+2009;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2009_Base_statistique_documentation.pdf
+2008;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2008_Base_statistique_format_SAS.7z
+2008;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2008_Base_statistique_documentation.pdf
+2000-2007;Formats SAS;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2000_2007_Base_statistique_format_SAS.7z
+2000-2007;Documentation;https://fr.ftp.opendatasoft.com/sgsocialgouv/SAE_STATS/SAE_2000_2007_Base_statistique_documentation.pdf

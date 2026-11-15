@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6af2e9fe67265ab417139da6",
+  "title": "Subventions aux associations versées en 2025 (Direction générale de la santé)",
+  "page": "https://www.data.gouv.fr/datasets/subventions-aux-associations-versees-en-2025-direction-generale-de-la-sante",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "description": "Liste des données essentielles des conventions de subvention aux partenaires associatifs en 2025 de la Direction générale de la santé (DGS) relevant du ministère chargé de la santé. Les données concernent **le seul BOP de la DGS du programme budgétaire 204** \"Prévention, sécurité sanitaire et offre de soins\".\n\nLe tableau fourni reprend les attendus de l'[arrêté du 17 novembre 2017 relatif aux conditions de mises à disposition des données essentielles des conventions de subvention](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036040528). Seules les subventions d'associations sont recensées, autrement dit les subventions aux fondations et autres organismes de droit privé n'apparaissent pas dans ce jeu de données.\n",
+  "resource_title": "DGS_subventions-associations_2025.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/subventions-aux-associations-versees-en-2025-direction-generale-de-la-sante/20261110-101421/dgs-subventions-associations-2025.csv",
+  "last_modified": "2026-11-10T10:14:22.496000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

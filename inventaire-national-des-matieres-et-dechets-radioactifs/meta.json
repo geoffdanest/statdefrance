@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "577225c888ee383112ab6512",
+  "title": "Inventaire national des matières et déchets radioactifs",
+  "page": "https://www.data.gouv.fr/datasets/inventaire-national-des-matieres-et-dechets-radioactifs",
+  "organization": "Agence nationale pour la gestion des déchets radioactifs",
+  "description": "Au titre de sa mission d’intérêt général, [l’Andra](http://www.andra.fr) est chargée de recenser périodiquement l’ensemble des matières et déchets radioactifs présents sur le territoire français. Elle s’efforce de donner une vision aussi complète et exhaustive que possible de leur nature, de leur quantité et de leur localisation.\n\nLa loi du 28 juin 2006 prévoit ainsi que l’Andra publie régulièrement ces informations provenant des données déclarées par les producteurs (EDF, Orano, CEA...).\n\nPour simplifier l’accès à ces données et dans un souci de transparence, l’Andra publie chaque année le fichier source de l’Inventaire national des déchets radioactifs, téléchargeable sur cette page et sur le site [www.inventaire.andra.fr](http://www.inventaire.andra.fr)\n\n**Comment ce fichier est-il construit ?**\n\nLes producteurs et détenteurs de déchets radioactifs ont six mois pour transmettre à l’Andra l’inventaire des déchets présents sur leurs installations au 31 décembre de l’année écoulée.\nCes données sont ensuite traitées par l’Andra :\n\n1. Vérification de l’exhaustivité et de la cohérence des informations déclarées.\n2. Validation des déclarations des producteurs et détenteurs de déchets.\n3. Concaténation de la base de données des déchets déclarés par les producteurs / détenteurs de déchets et de la base de données des coordonnées géographiques (ville, département).\n4. Publication du fichier .csv « Inventaire national des déchets radioactifs ».\n\n**Les données publiées :**\n\nLe fichier ",
+  "resource_title": "Déchets déclarés à fin 2024.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/inventaire-national-des-matieres-et-dechets-radioactifs/20260210-174659/dechets-declares-a-fin-2024.csv",
+  "last_modified": "2026-02-10T17:47:25.253000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

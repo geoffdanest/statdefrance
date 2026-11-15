@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC_IRIS",
+  "title": "Logements (spécificités des départements d'Outre-mer DOM) - Principaux indicateurs - Iris",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_RP_LOGEMENT_DOM_PRINC_IRIS",
+  "organization": "Insee",
+  "description": "La feuille de logement dans les DOM diffère de celle de métropole notamment pour le type de logement et les aspects de confort des résidences principales. Les données détaillent, d’une part, les logements selon leur type (maisons ou immeubles en dur ou en bois, etc.) et, d’autre part, le confort des résidences principales selon la présence de l’électricité, de l’eau chaude, d’un chauffe-eau solaire, d’une pièce climatisée ou du tout-à-l’égout. Elles sont fournies pour les Iris.",
+  "resource_title": "DS_RP_LOGEMENT_DOM_PRINC_IRIS",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_RP_LOGEMENT_DOM_PRINC_IRIS/DS_RP_LOGEMENT_DOM_PRINC_IRIS_2023_CSV_FR",
+  "last_modified": "2026-10-15T14:00:49.232696262",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 13433,
+  "origin": "theme",
+  "label": "Logement",
+  "query": "Logement",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

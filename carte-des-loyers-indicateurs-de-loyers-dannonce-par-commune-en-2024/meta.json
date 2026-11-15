@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6751be987c09f4be821c6934",
+  "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2024",
+  "page": "https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024",
+  "organization": "Ministère de la Transition écologique",
+  "description": "**Une version plus récente de ces indicateurs est consultable sur cette page :** **<https://www.data.gouv.fr/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2025/>\nDu fait d'évolutions du maillage communal, les versions successives des indicateurs ne peuvent pas être comparées de manière globale pour fournir des informations sur l'évolution des loyers.**\n\n**Contexte du projet**\n\nLa connaissance du niveau des loyers est importante pour garantir le bon fonctionnement du marché locatif et la conduite des politiques nationales et locales de l’habitat. La Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN) a lancé en 2018 le projet de « carte des loyers » en s’associant d’une part à une équipe de recherche en économie d’Agrosup Dijon et de l’Institut national de la recherche en agronomique (INRAE), et d’autre part à SeLoger et leboncoin. En 2020, le projet a été repris par l’Agence Nationale pour l’Information sur le Logement (ANIL), qui a publié, en 2022, en 2023 et en 2024, de nouvelles versions de la carte.\nCe partenariat innovant a permis de reconstituer une base de données avec 9,9 millions d’annonces locatives. A partir de ces données, l’équipe de recherche et l’ANIL ont développé une méthodologie d’estimation d’indicateurs, à l’échelle communale, du loyer (charges comprises) par m² pour les appartements et maisons.\nCes indicateurs expérimentaux sont mis en ligne afin d’être utilisables par tous : services de l’Etat, collectivi",
+  "resource_title": "Indicateur de loyer appartement de 3 pièces ou plus",
+  "resource_url": "https://static.data.gouv.fr/resources/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024/20241205-145658/pred-app3-mef-dhup.csv",
+  "last_modified": "2024-12-05T15:34:35.480000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Logement",
+  "query": "loyers",
+  "news": []
+}

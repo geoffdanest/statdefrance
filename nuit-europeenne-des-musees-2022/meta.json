@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "62676ea6a33822fcdcf11a3b",
+  "title": "Nuit européenne des musées 2022",
+  "page": "https://www.data.gouv.fr/datasets/nuit-europeenne-des-musees-2022",
+  "organization": "Ministère de la Culture",
+  "description": "La 18e Nuit européenne des musées se tient cette année, le samedi 14 mai 2022 dans toute l'Europe.\n\n[Pour plus d'informations](https://nuitdesmusees.culture.gouv.fr/) sur cette manifestation.",
+  "resource_title": "nuit-des-musees-2020.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/nuit-europeenne-des-musees-2022/20250827-132805/nuit-des-musees-2020.csv",
+  "last_modified": "2025-08-27T13:28:06.331000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Culture",
+  "query": "musées",
+  "news": []
+}

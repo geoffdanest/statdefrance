@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:mpox-incidence-selon-l-age-region",
+  "title": "Mpox : Incidence selon l'âge (Région)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/mpox-incidence-selon-l-age-region/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la surveillance de la \"variole du singe\" (infection à virus Monkeypox) sont construits à partir des informations des déclarations obligatoires (DO) des « Orthopoxviroses dont la variole », transmises aux Agences régionales de santé (ARS), puis centralisées par Santé publique France. Ces déclarations obligatoires sont remplies par les cliniciens et/ou biologistes à partir d’un formulaire dédié. Les informations concernant certains cas déclarés, notamment au début de l’épidémie, peuvent être partielles car directement transmises par les laboratoires aux ARS. Les cas sont présentés par semaine de signalement. Les indicateurs sont mis à jour chaque semaine, et disponibles à partir du 16 mai 2022. Précisions : Un cas confirmé de variole du singe est une personne avec un résultat positif de qPCR ou RT-PCR spécifique du virus Monkeypox, ou un résultat positif en qPCR générique du genre Orthopoxvirus, associé ou non à un résultat de séquençage partiel spécifique du virus Monkeypox. Seuls les cas confirmés pour lesquels la région de résidence du patient (ou à défaut la région de signalement) sont répertoriés par région. Les personnes domiciliées à l’étranger ne sont pas comptabilisées dans les indicateurs déclinés au niveau régional. De ce fait la somme des cas comptabilisés au niveau régional peut être inférieure au nombre total de cas recensés en France. Le délai de déclaration des cas peut dépasser 15 jours dans certaines situations. Pour aller plus loin : Consul",
+  "resource_title": "Mpox : Incidence selon l'âge (Région)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/mpox-incidence-selon-l-age-region/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-11T11:11:39+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

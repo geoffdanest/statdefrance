@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DD_CNA_AGREGATS",
+  "title": "Produit Intérieur Brut (PIB) et grands agrégats économiques",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DD_CNA_AGREGATS",
+  "organization": "Insee",
+  "description": "Le produit intérieur brut (PIB) est le principal agrégat mesurant l'activité économique. Il correspond à la somme des valeurs ajoutées brutes nouvellement créées par les unités productrices résidentes une année donnée, évaluées au prix du marché. Il donne une mesure des richesses nouvelles créées chaque année par le système productif et permet des comparaisons internationales. Le produit intérieur brut est publié à prix courants et en volume aux prix de l'année précédente chaînés. Son évolution en volume (c'est-à-dire hors effet de prix) mesure la croissance économique.\n\nLes grands agrégats économiques associés au PIB sont le revenu national brut (RNB), la capacité ou le besoin de financement de la Nation, les grandes composantes de l'équilibre entre les éléments de l'offre (PIB, importations) et de la demande (consommation, investissement, exportations), la ventilation des facteurs de production (emploi, stock de capital) par secteurs institutionnels (entreprises, ménages, administrations publiques considérés comme producteurs de richesses) et la valeur ajoutée brute qu'ils génèrent.\n\nLes données annuelles des grands agrégats économiques associés au PIB suivent les concepts et méthodes des comptes nationaux en base 2020 (première publication fin mai 2024) et font partie des données à forte valeur désignées par Eurostat (HVD). ",
+  "resource_title": "DD_CNA_AGREGATS",
+  "resource_url": "https://api.insee.fr/melodi/file/DD_CNA_AGREGATS/DD_CNA_AGREGATS_CSV_FR",
+  "last_modified": "2026-08-31T15:53:44.131033164",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 228727,
+  "origin": "theme",
+  "label": "Économie",
+  "query": "Économie",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

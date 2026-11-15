@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:627_personnes-en-situation-de-handicap",
+  "title": "ISD - Personnes en situation de handicap",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/627_personnes-en-situation-de-handicap/",
+  "organization": "DREES",
+  "description": "Les indicateurs sociaux départementaux (ISD) constituent le socle commun d’un système d’information partagé entre échelons nationaux et départementaux dans les principaux domaines de l’action sociale départementale. Les prestations allouées aux personnes handicapées comprennent notamment l’allocation aux adultes handicapés (AAH), financée par l’État, et des prestations qui relèvent des Conseils départementaux : allocation compensatrice pour tierce personne (ACTP) et prestation de compensation du handicap (PCH) ainsi que des aides à l’accueil (accueil en établissement, accueil familial et accueil de jour). Enfin, le Conseil départemental verse également des aides ménagères. Plus d'informations sur les ISD est disponible sur la page dédiée : https://drees.solidarites-sante.gouv.fr/sources-outils-et-enquetes/les-indicateurs-sociaux-departementaux Attention, informations importantes : A compter de mai 2026, le format de diffusion des ISD évolue : les fichiers Excel sont remplacés par des formats ouverts, aisément réutilisables et exploitables par un système de traitement automatisé. Les archives des fichiers Excel demeurent accessibles en pièce jointe ci dessous. Une documentation ainsi qu'un tutoriel de prise en main du tableau interactif accompagnent également cette diffusion. Pour tout question ou remarque sur la diffusion des ISD : drees-vilas@sante.gouv.fr",
+  "resource_title": "ISD - Personnes en situation de handicap",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/627_personnes-en-situation-de-handicap/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-06T09:05:03.091000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

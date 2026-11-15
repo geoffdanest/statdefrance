@@ -1,0 +1,33 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:1520_indicateurs-de-sante-perinatale",
+  "title": "Indicateurs de santé périnatale",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/1520_indicateurs-de-sante-perinatale/",
+  "organization": "DREES",
+  "description": "Les indicateurs sur la santé périnatale à partir des données hospitalières ont été mis à jour de 2014 à 2024. Ce nouveau jeu de données présente, pour les naissances concernant les femmes domiciliées en France, les effectifs des naissances (totales et vivantes), et de mort-nés, ainsi que la répartition des mères selon leur âge à l’accouchement. Les taux de naissances prématurées, les taux de bébés avec un faible poids à la naissance et la proportion de naissances multiples sont détaillés, ainsi que les taux de mortinatalité (totale, spontanée et induite), selon l’âge des mères, l’âge gestationnel et la pluralité. Ces indicateurs sont présentés pour la France entière par région et, le plus souvent, par département. Les chiffres présentés ici sont issus de la base mère-enfant corrigée, créée par l’équipe OPPaLe de l’Inserm en partenariat avec la Drees et la Fédération française des Réseaux de santé en périnatalité (FFRSP). Cette base est construite à partir des informations du programme de médicalisation des systèmes d’information en médecine, chirurgie et obstétrique (PMSI-MCO), désormais disponibles pour les années 2014 à 2024. Les taux de mortalité néonatale précoce et de mortalité périnatale, calculés sans double-compte à partir de la seule source du PMSI, sont également disponibles par région, lissés sur 3 ans, de 2014 à 2024 Voir Etudes et Résultats n° 1378 ( La part d’enfants nés sans vie ou décédés au cours des sept premiers jours de vie s’élève à 11 pour 1 000 naissanc",
+  "resource_title": "Indicateurs de santé périnatale",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/1520_indicateurs-de-sante-perinatale/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-07-17T08:42:53.558000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "femme",
+  "query": "femme",
+  "news": [
+    {
+      "title": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
+      "link": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Seine-Saint-Denis : Une femme morte découverte dans une camionnette garée dans un garage, trois personnes interpellées",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4262944-20261115-seine-saint-denis-femme-morte-decouverte-camionnette-garee-garage-trois-personnes-interpellees?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Intempéries dans l’Hérault : Une femme de 73 ans portée disparue après les inondations a finalement été sauvée",
+      "link": "https://www.20minutes.fr/faits_divers/4262937-20261115-intemperies-femme-73-ans-portee-disparue-apres-inondations-herault-finalement-sauvee?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

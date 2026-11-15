@@ -1,0 +1,27 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "667e955551fb8c370827f640",
+  "title": "Gisement de déchets non dangereux du commerce et des industries (DNDAE) en Bretagne",
+  "page": "https://www.data.gouv.fr/datasets/gisement-de-dechets-non-dangereux-du-commerce-et-des-industries-dndae-en-bretagne",
+  "organization": "Observatoire de l'environnement en Bretagne",
+  "description": "Tonnage de déchets non dangereux du commerce et des industries (DNDAE), issus des établissements inscrits au Registre du Commerce et des Sociétés (RCS), de 2014 à 2017 en Bretagne.\n\n**Sources :** Chambre de Commerce et d'Industrie de Bretagne\n\n**Notes :** le gisement de DNDAE est estimé annuellement en Bretagne par la CCI. Les établissements considérés dans ces travaux sont tous les établissements bretons inscrits au Registre du Commerce et des Sociétés (RCS). Les établissements non-inscrits au RCS et donc non pris en compte dans les estimations sont : des établissements agricoles (non-inscrits au registre du commerce), des établissements artisanaux (non-inscrits au RCS), des établissements publics (établissements scolaires, collectivités, etc.), des professions libérales, des associations.\n\n**Aller plus loin :** consulter la méthodologie et les sources détaillées dans la datavisualisation <a href=\"https://bretagne-environnement.fr/tableau-de-bord/les-dechets-non-dangereux-du-commerce-et-des-industries\" target=\"_blank\">\"Les déchets non dangereux du commerce et des industries \"</a> réalisée par l'OEB. ",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.bretagne-environnement.fr/data-fair/api/v1/datasets/gisement-de-dechets-non-dangereux-du-commerce-et-des-industries-dndae-en-bretagne/raw",
+  "last_modified": "2026-01-29T20:34:28+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "dangereux",
+  "query": "dangereux",
+  "news": [
+    {
+      "title": "France-Turquie : les Bleus se montrent de plus en plus dangereux... Suivez le match de Ligue des nations avec nous",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
+      "link": "https://www.20minutes.fr/monde/russie/4262654-20261115-stress-reglements-compte-interne-ambassadeur-russe-metier-plus-dangereux-monde?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

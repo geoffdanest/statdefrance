@@ -1,0 +1,1090 @@
+{
+  "generated_at": "2026-11-15T20:45:14.752027+00:00",
+  "keywords": [
+    "présidentielle",
+    "personnes",
+    "menace",
+    "guerre",
+    "match",
+    "extrême",
+    "droite",
+    "intempéries",
+    "attentat",
+    "femme",
+    "dangereux",
+    "parce"
+  ],
+  "by_source": {
+    "data.gouv": 36,
+    "insee": 20,
+    "education": 4,
+    "odre": 4,
+    "sncf": 4,
+    "ameli": 2,
+    "drees": 4,
+    "odisse": 4,
+    "ademe": 4,
+    "france-travail": 1
+  },
+  "actu_by_source": {
+    "data.gouv": 5,
+    "insee": 5,
+    "education": 1,
+    "odre": 1,
+    "sncf": 1,
+    "drees": 2,
+    "odisse": 4,
+    "ademe": 1
+  },
+  "headlines": [
+    {
+      "title": "France-Turquie : les Bleus se montrent de plus en plus dangereux... Suivez le match de Ligue des nations avec nous",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", selon les Restos du Coeur",
+      "link": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+      "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au Cambodge, Emmanuel Macron appelle à l'\"unité\" de l'Organisation internationale de la francophonie, secouée par une rivalité entre la RDC et le Rwanda",
+      "link": "https://www.franceinfo.fr/culture/patrimoine/francophonie/au-cambodge-emmanuel-macron-appelle-a-l-unite-de-l-organisation-internationale-de-la-francophonie-secouee-par-une-rivalite-entre-la-rdc-et-le-rwanda_8283593.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Un policier municipal placé en garde à vue à Paris \"pour menace de mort en raison de la race, l’ethnie, la nation la religion\"",
+      "link": "https://www.franceinfo.fr/faits-divers/police/un-policier-municipal-place-en-garde-a-vue-pour-menace-de-mort-en-raison-de-la-race-l-ethnie-la-nation-la-religion-selon-le-parquet-de-paris_8283857.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "link": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+      "link": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"On voyait que l'eau était en train de monter\" : des automobilistes racontent leur nuit piégés par les intempéries dans l'Hérault",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/herault-apres-les-violents-orages-des-automobilistes-temoignent-de-leur-nuit-pieges-par-les-eaux_8283527.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les Houthis",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Un homme a été mis en examen et écroué dans les Yvelines, après un crypto-rapt à 900 000 euros",
+      "link": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "link": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
+      "link": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
+      "link": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
+      "link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le ministre de l'Education nationale se rend à Nantes lundi pour la réouverture du lycée Nelson-Mandela, en partie incendié le 1er octobre",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-education-nationale-se-rend-a-nantes-lundi-pour-la-reouverture-du-lycee-nelson-mandela-en-partie-incendie-le-1er-octobre_8283644.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Après l'attentat raciste à Trappes, Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-l-extreme-droite_8283533.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Tirs en rafale aux Abymes : un mort et plusieurs blessés, dont un grièvement atteint",
+      "link": "https://la1ere.franceinfo.fr/guadeloupe/tirs-en-rafale-aux-abymes-un-mort-et-trois-blesses-dont-un-grievement-atteint-1758009.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Hunger Games : lever de soleil sur la moisson\" : un nouveau préquel coloré au casting rafraîchissant",
+      "link": "https://www.franceinfo.fr/culture/cinema/hunger-games-lever-de-soleil-sur-la-moisson-un-nouveau-prequel-colore-au-casting-rafraichissant_8267603.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La France et le Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
+      "link": "https://www.franceinfo.fr/monde/asie/la-france-et-le-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_8283617.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Je suis là pour vivre un moment spécial de ma vie\" : à 46 ans, Ronaldinho rechausse les crampons pour un match officiel en troisième division italienne",
+      "link": "https://www.franceinfo.fr/sports/foot/je-suis-la-pour-vivre-un-moment-special-de-ma-vie-a-46-ans-ronaldinho-rechausse-les-crampons-pour-un-match-officiel-en-troisieme-division-italienne_8283596.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+      "link": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'Iran fait état de deux pétroliers en feu dans le détroit d'Ormuz",
+      "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-fait-etat-de-deux-petroliers-en-feu-dans-le-detroit-d-ormuz_8283602.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Face à la Turquie, Kylian Mbappé à la recherche du temps perdu avec Zinédine Zidane",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/face-a-la-turquie-kylian-mbappe-a-la-recherche-du-temps-perdu-avec-zinedine-zidane_8282852.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+      "link": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
+      "link": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une jeune fille de 12 ans interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance par la police",
+      "link": "https://www.franceinfo.fr/societe/manifestations/une-jeune-fille-de-12-ans-interpellee-a-paris-lors-de-la-mobilisation-du-14-novembre-et-remise-a-son-educateur-de-l-aide-sociale-a-l-enfance-par-la-police_8283875.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
+      "link": "https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« L’organisme, en état d’alerte, se prépare à s’opposer » : ce que la colère produit dans le corps",
+      "link": "https://www.lemonde.fr/intimites/article/2026/11/15/l-organisme-en-etat-d-alerte-se-prepare-a-s-opposer-ce-que-la-colere-produit-dans-le-corps_6811044_6190330.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT, France-Turquie : Kylian Mbappé et les Bleus butent sur le gardien Ozer, dans un début match animé",
+      "link": "https://www.lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/15/alice-ekman-sinologue-malgre-ses-difficultes-la-chine-veut-accelerer-la-restructuration-de-la-gouvernance-mondiale-et-marginaliser-les-pays-occidentaux_6811033_3232.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
+      "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiétudes sur la reconstruction",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/15/incendie-en-gironde-au-porge-ou-personne-n-est-reste-a-la-rue-des-relogements-temporaires-et-des-inquietudes-sur-la-reconstruction_6811032_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Tout savoir sur la fermeture de l’autoroute A13 entre Paris et Caen : durée des travaux, itinéraire de substitution et craintes de congestion",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/15/fermeture-de-l-a13-derriere-les-travaux-indispensables-la-crainte-de-congestion-sur-les-routes-des-hauts-de-seine_6811023_3234.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspension des vols aux Etats-Unis : retour à la normale du trafic aérien espéré lundi ; Donald Trump qualifie la gestion de l’aviation par Joe Biden de « désastre »",
+      "link": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 14 et 15 novembre",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-14-et-15-novembre_6811043_4355770.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Confrontée à un El Niño historique, l’Amazonie brésilienne en état d’urgence environnemental",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/15/confrontee-a-un-el-nino-historique-l-amazonie-bresilienne-en-etat-d-urgence-environnemental_6811024_3244.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
+      "link": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« On reçoit des coups de fil avec des menaces de saisir un avocat » : quand les parents contestent les décisions scolaires dans les grandes écoles",
+      "link": "https://www.lemonde.fr/campus/article/2026/11/15/on-recoit-des-coups-de-fil-avec-des-menaces-de-saisir-un-avocat-quand-les-parents-contestent-les-decisions-scolaires-dans-les-grandes-ecoles_6811012_4401467.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Une soirée en boîte de nuit pour favoriser les rencontres entre personnes handicapées : « On a échangé nos numéros, on va essayer de se revoir »",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/15/une-soiree-en-boite-de-nuit-pour-favoriser-les-rencontres-entre-personnes-handicapees-on-a-echange-nos-numeros-on-va-essayer-de-se-revoir_6811028_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT France - Turquie : Les Bleus dominent largement mais toujours pas de but...",
+      "link": "https://www.20minutes.fr/sport/football/ligue-nations/4262474-20261115-direct-france-turquie-retour-mbappe-bleus-quete-confiance-bordeaux?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
+      "link": "https://www.20minutes.fr/monde/russie/4262654-20261115-stress-reglements-compte-interne-ambassadeur-russe-metier-plus-dangereux-monde?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Lyon : « Volonté de lynchage », aucune interpellation… Ce que l’on sait de l’agression des journalistes de BFMTV",
+      "link": "https://www.20minutes.fr/faits_divers/4262973-20261115-lyon-volonte-lynchage-aucune-interpellation-sait-agression-journalistes-bfmtv?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Guerre en Ukraine : Une raffinerie russe bombardée par l’Ukraine et l'Estonie ferme ses frontières avec la Russie",
+      "link": "https://www.20minutes.fr/monde/ukraine/4262981-20261115-guerre-ukraine-raffinerie-russe-bombardee-ukraine-estonie-ferme-frontieres-russie?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Paris : Un policier municipal alcoolisé arrêté après avoir menacé de tuer des personnes racisées",
+      "link": "https://www.20minutes.fr/faits_divers/4262977-20261115-paris-policier-municipal-alcoolise-arrete-apres-avoir-menace-tuer-personnes-racisees?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Mélenchon, Chirac, Sarkozy, Royal… Les insultes marquantes de la Ve République",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4261582-images-melenchon-chirac-sarkozy-royal-insultes-marquantes-ve-republique?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Rien ne vaut la vie »… Lio se confie sur les circonstances du suicide de son fils Diego",
+      "link": "https://www.20minutes.fr/arts-stars/culture/4262976-20261115-rien-vaut-vie-lio-confie-circonstances-suicide-fils-diego?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Yvelines : Un homme écroué après un crypto-rapt à 900.000 euros",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4262987-20261115-yvelines-homme-ecroue-apres-crypto-rapt-900-000-euros?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images - Guerre en Ukraine : Les derniers instants de vie des Ukrainiens du Donbass",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4262752-images-guerre-ukraine-derniers-instants-vie-ukrainiens-donbass?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "EN IMAGES Ces pestes de séries et films cultes qu’on adore détester (parce qu’on est un peu pestouilles aussi)",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4262389-images-pestes-series-films-cultes-adore-detester-parce-peu-pestouilles-aussi?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Bordeaux : Son conjoint l’enferme dans la chambre avant d’y mettre le feu… Une mère de famille tuée par son compagnon",
+      "link": "https://www.20minutes.fr/faits_divers/faits-divers-bordeaux/4262972-20261115-bordeaux-conjoint-enferme-chambre-avant-mettre-feu-mere-famille-tuee-compagnon?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "La Poste : Millions de coordonnées volées, enquête… Le point sur la vaste cyberattaque qui a visé une de ses filiales",
+      "link": "https://www.20minutes.fr/societe/4262975-20261115-poste-millions-coordonnees-volees-enquete-point-vaste-cyberattaque-vise-filiales?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Tous les principaux candidats déclarés à l’élection présidentielle 2027",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4181125-images-tous-candidats-declares-election-presidentielle-2027-ceux-pensent-tres-fort?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Présidentielle 2027 : « Cette primaire, je n’y participerai pas. Point. »… Edouard Philippe balaye (encore) cette idée",
+      "link": "https://www.20minutes.fr/politique/4262961-20261115-presidentielle-2027-primaire-participerai-point-edouard-philippe-balaye-encore-idee?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Animaux : Votre toutou peut-il contribuer à votre repas de Noël ? On est parti à la chasse aux truffes en Toscane",
+      "link": "https://www.20minutes.fr/animaux/4262320-20261115-animaux-toutou-peut-contribuer-repas-noel-parti-chasse-truffes-toscane?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "datasets": [
+    {
+      "dataset_id": "5de8f397634f4164071119c5",
+      "title": "Fichier des personnes décédées",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "data.gouv",
+      "dir": "fichier-des-personnes-decedees"
+    },
+    {
+      "dataset_id": "6010206e7aa742eb447930f7",
+      "title": "Données relatives aux personnes vaccinées contre la Covid-19",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "data.gouv",
+      "dir": "donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1"
+    },
+    {
+      "dataset_id": "697c9aa7d6bc970fff176361",
+      "title": "Données brutes sur la menace concurrentielle chinoise pour l’industrie européenne",
+      "organization": "Haut-commissariat à la Stratégie et au Plan",
+      "origin": "actu",
+      "label": "menace",
+      "source": "data.gouv",
+      "dir": "donnees-brutes-sur-la-menace-concurrentielle-chinoise-pour-lindustrie-europeenne"
+    },
+    {
+      "dataset_id": "5af120fca3a7295e54c41a1c",
+      "title": "Photographies : Fonds de la guerre 14-18",
+      "organization": "Ministère de la Culture",
+      "origin": "actu",
+      "label": "guerre",
+      "source": "data.gouv",
+      "dir": "photographies-fonds-de-la-guerre-14-18-2"
+    },
+    {
+      "dataset_id": "667e955551fb8c370827f640",
+      "title": "Gisement de déchets non dangereux du commerce et des industries (DNDAE) en Bretagne",
+      "organization": "Observatoire de l'environnement en Bretagne",
+      "origin": "actu",
+      "label": "dangereux",
+      "source": "data.gouv",
+      "dir": "gisement-de-dechets-non-dangereux-du-commerce-et-des-industries-dndae-en-bretagn"
+    },
+    {
+      "dataset_id": "698deca8e4bef71927b68225",
+      "title": "Certification des établissements de santé pour la qualité des soins (6ème cycle)",
+      "organization": "Haute Autorité de santé",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "data.gouv",
+      "dir": "certification-des-etablissements-de-sante-pour-la-qualite-des-soins-6eme-cycle"
+    },
+    {
+      "dataset_id": "6af2e9fe67265ab417139da6",
+      "title": "Subventions aux associations versées en 2025 (Direction générale de la santé)",
+      "organization": "Ministère des Solidarités et de la Santé",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "data.gouv",
+      "dir": "subventions-aux-associations-versees-en-2025-direction-generale-de-la-sante"
+    },
+    {
+      "dataset_id": "6aba32e9fe937575a896c111",
+      "title": "Etablissements de santé vérifiés - Béziers",
+      "organization": "Communauté d'Agglomération Béziers Méditerranée",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "data.gouv",
+      "dir": "etablissements-de-sante-verifies-beziers"
+    },
+    {
+      "dataset_id": "635a0251e708959bd890f68e",
+      "title": "Emploi : Actifs des secteurs culturels par département",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "emploi-actifs-des-secteurs-culturels-par-departement"
+    },
+    {
+      "dataset_id": "6a9e70c287fd111bdb6a229d",
+      "title": "Emplois de la filière bois",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "emplois-de-la-filiere-bois"
+    },
+    {
+      "dataset_id": "6a8c50e89cd3c72a08931d48",
+      "title": "Acquisition de livres de Noël pour les enfants des écoles maternelles publiques et privées de la ville de Brignoles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "acquisition-de-livres-de-noel-pour-les-enfants-des-ecoles-maternelles-publiques-"
+    },
+    {
+      "dataset_id": "6a8c4cfcec97decdc46f7175",
+      "title": "Spectacles de Noël pour les écoles maternelles - Année 2026",
+      "organization": "Commune de Brignoles",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "spectacles-de-noel-pour-les-ecoles-maternelles-annee-2026"
+    },
+    {
+      "dataset_id": "63b6c31011ab308b7b112ee9",
+      "title": "Schéma directeur des infrastructures de recharge pour véhicules électriques et hybrides rechargeables (organisation Syndicat départemental des énergies de Seine et Marne)",
+      "organization": "Syndicat départemental des énergies de Seine et Marne",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "data.gouv",
+      "dir": "schema-directeur-des-infrastructures-de-recharge-pour-vehicules-electriques-et-h"
+    },
+    {
+      "dataset_id": "67fa24b39c0cffbd18806978",
+      "title": "Consommation finale d’énergie du secteur résidentiel - non corrigée des variations climatiques",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "data.gouv",
+      "dir": "consommation-finale-denergie-du-secteur-residentiel-non-corrigee-des-variations-"
+    },
+    {
+      "dataset_id": "67cad6ef9c8ad4fe75b8b7de",
+      "title": "Part de la surface agricole en agriculture biologique dans la surface agricole utile",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "data.gouv",
+      "dir": "part-de-la-surface-agricole-en-agriculture-biologique-dans-la-surface-agricole-u"
+    },
+    {
+      "dataset_id": "62676ea6a33822fcdcf11a3b",
+      "title": "Nuit européenne des musées 2022",
+      "organization": "Ministère de la Culture",
+      "origin": "theme",
+      "label": "Culture",
+      "source": "data.gouv",
+      "dir": "nuit-europeenne-des-musees-2022"
+    },
+    {
+      "dataset_id": "6af1fab66975e674caa83c1f",
+      "title": "Table de passage des codes communes vers le millésime en vigueur du COG",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "table-de-passage-des-codes-communes-vers-le-millesime-en-vigueur-du-cog"
+    },
+    {
+      "dataset_id": "6af1c36066c3141972460af0",
+      "title": "Saint Brieuc Armor Agglomération - Table listant les communes couvertes par le PLUi",
+      "organization": "Saint-Brieuc Armor Agglomération",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "saint-brieuc-armor-agglomeration-table-listant-les-communes-couvertes-par-le-plu"
+    },
+    {
+      "dataset_id": "6ae4c74abf2e3da280520ea0",
+      "title": "Nombre de communes desservies par un réseau de chaleur",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "nombre-de-communes-desservies-par-un-reseau-de-chaleur"
+    },
+    {
+      "dataset_id": "577225c888ee383112ab6512",
+      "title": "Inventaire national des matières et déchets radioactifs",
+      "organization": "Agence nationale pour la gestion des déchets radioactifs",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "inventaire-national-des-matieres-et-dechets-radioactifs"
+    },
+    {
+      "dataset_id": "667e955f315d42bcd893e228",
+      "title": "Déchets issus de l'artisanat en Bretagne",
+      "organization": "Observatoire de l'environnement en Bretagne",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "dechets-issus-de-lartisanat-en-bretagne"
+    },
+    {
+      "dataset_id": "6adf596f59999423721744c5",
+      "title": "Evolution de la quantité de déchets ménagers et assimilés (DMA) collectée par habitant  (base 100 en 2010)",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "evolution-de-la-quantite-de-dechets-menagers-et-assimiles-dma-collectee-par-habi"
+    },
+    {
+      "dataset_id": "69b989759cbf238599d4757a",
+      "title": "Taux de chômage (au sens du recensement)",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "data.gouv",
+      "dir": "taux-de-chomage-au-sens-du-recensement"
+    },
+    {
+      "dataset_id": "6751be987c09f4be821c6934",
+      "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2024",
+      "organization": "Ministère de la Transition écologique",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "data.gouv",
+      "dir": "carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024"
+    },
+    {
+      "dataset_id": "65f1185f3e0e630d9f924b51",
+      "title": "Consommation annuelle d’électricité et gaz par région",
+      "organization": "Agence ORE",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "data.gouv",
+      "dir": "consommation-annuelle-delectricite-et-gaz-par-region"
+    },
+    {
+      "dataset_id": "67cad6ce691ec92263232aa0",
+      "title": "Nombre d’exploitations agricoles",
+      "organization": "Ecolab",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "data.gouv",
+      "dir": "nombre-dexploitations-agricoles"
+    },
+    {
+      "dataset_id": "6acf81cf17a2cababf4d9a05",
+      "title": "Nombre moyen de stationnements vélo sécurisés par gare",
+      "organization": "Tableau de bord des mobilités durables",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "data.gouv",
+      "dir": "nombre-moyen-de-stationnements-velo-securises-par-gare-1"
+    },
+    {
+      "dataset_id": "6aba3ca57d893e3869d17f62",
+      "title": "Itinéraires vélo du Parc national de Port-Cros",
+      "organization": "Parc national de Port-Cros",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "data.gouv",
+      "dir": "itineraires-velo-du-parc-national-de-port-cros"
+    },
+    {
+      "dataset_id": "6536661882301752417a278d",
+      "title": "Recensement de la population - Fichiers détail : Individus localisés au canton-ou-ville ",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "recensement-de-la-population-fichiers-detail-individus-localises-au-canton-ou-vi"
+    },
+    {
+      "dataset_id": "67fe0fe2423db9c4a05d8ced",
+      "title": "Données sur la localisation et l’accès de la population aux équipements",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "data.gouv",
+      "dir": "donnees-sur-la-localisation-et-lacces-de-la-population-aux-equipements"
+    },
+    {
+      "dataset_id": "5b7ffc618b4c4169d30727e0",
+      "title": "Base Sirene des entreprises et de leurs établissements (SIREN, SIRET)",
+      "organization": "Institut national de la statistique et des études économiques (Insee)",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "data.gouv",
+      "dir": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret"
+    },
+    {
+      "dataset_id": "5bc5df57634f417a900a5ed0",
+      "title": "Annuaire des diagnostiqueurs immobiliers",
+      "organization": "Ministère de la Cohésion des territoires",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "data.gouv",
+      "dir": "annuaire-des-diagnostiqueurs-immobiliers"
+    },
+    {
+      "dataset_id": "6a2984c099d1cb741398dfce",
+      "title": "Extrait des coordonnées des étudiants boursiers pour les démarches proactives",
+      "organization": "Direction interministérielle du numérique",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "data.gouv",
+      "dir": "extrait-des-coordonnees-des-etudiants-boursiers-pour-les-demarches-proactives"
+    },
+    {
+      "dataset_id": "6834629c4aab22399dba4b3f",
+      "title": "Bibliothèque Départementale des Côtes d'Armor: identifiants des bibliothèques",
+      "organization": "Département des Côtes d'Armor",
+      "origin": "theme",
+      "label": "Culture",
+      "source": "data.gouv",
+      "dir": "bibliotheque-departementale-des-cotes-darmor-identifiants-des-bibliotheques-1"
+    },
+    {
+      "dataset_id": "66cf0db3aa3fd759057aea3a",
+      "title": "Equipements sportifs de Troyes Champagne Métropole ",
+      "organization": "Troyes Champagne Métropole",
+      "origin": "theme",
+      "label": "Sport",
+      "source": "data.gouv",
+      "dir": "equipements-sportifs-de-troyes-champagne-metropole"
+    },
+    {
+      "dataset_id": "61af30f22397a1134de82463",
+      "title": "Température de l’eau de mer à Antibes Juan-les-Pins",
+      "organization": "Ville d'Antibes",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "data.gouv",
+      "dir": "temperature-de-leau-de-mer-a-antibes-juan-les-pins"
+    },
+    {
+      "dataset_id": "insee:DS_TICE",
+      "title": "Les TIC et le commerce électronique dans les entreprises",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "insee",
+      "dir": "insee-ds_tice"
+    },
+    {
+      "dataset_id": "insee:DS_ERFS_NON_RETROPOLE",
+      "title": "Indicateurs de pauvreté et de niveau de vie de 1975 à 2024 (données non rétropolées)",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "insee",
+      "dir": "insee-ds_erfs_non_retropole"
+    },
+    {
+      "dataset_id": "insee:DS_NAT_SDG",
+      "title": "Indicateurs d'objectifs de développement durable",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "extrême",
+      "source": "insee",
+      "dir": "insee-ds_nat_sdg"
+    },
+    {
+      "dataset_id": "insee:DS_DECHET_SERVICES",
+      "title": "Enquête sur la production de déchets non dangereux dans les services en 2022",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "dangereux",
+      "source": "insee",
+      "dir": "insee-ds_dechet_services"
+    },
+    {
+      "dataset_id": "insee:DS_DECHET_COMMERCE",
+      "title": "Enquête sur la production de déchets non dangereux dans le commerce en 2022",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "dangereux",
+      "source": "insee",
+      "dir": "insee-ds_dechet_commerce"
+    },
+    {
+      "dataset_id": "insee:DS_COMPTES_REGIONAUX",
+      "title": "Comptes régionaux annuels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "insee",
+      "dir": "insee-ds_comptes_regionaux"
+    },
+    {
+      "dataset_id": "insee:DS_CNT_OPERATIONS",
+      "title": "Opérations sur biens et services",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "insee",
+      "dir": "insee-ds_cnt_operations"
+    },
+    {
+      "dataset_id": "insee:DS_RP_TD_NAT_PCS_NATIONALITY_R_COMP",
+      "title": "Population de 15 ans ou plus détaillée par groupe socioprofessionnel et nationalité actuelle (13 regroupements) - Données détaillées (ex NAT3B)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "insee",
+      "dir": "insee-ds_rp_td_nat_pcs_nationality_r_comp"
+    },
+    {
+      "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC_IRIS",
+      "title": "Logements (spécificités des départements d'Outre-mer DOM) - Principaux indicateurs - Iris",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "insee",
+      "dir": "insee-ds_rp_logement_dom_princ_iris"
+    },
+    {
+      "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC",
+      "title": "Logements dans les départements d'Outre-mer (DOM) - Principaux indicateurs (dossier complet)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Logement",
+      "source": "insee",
+      "dir": "insee-ds_rp_logement_dom_princ"
+    },
+    {
+      "dataset_id": "insee:DS_ANTIPOL",
+      "title": "Enquête annuelle sur les investissements pour protéger l'environnement (Antipol)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "insee",
+      "dir": "insee-ds_antipol"
+    },
+    {
+      "dataset_id": "insee:DS_EACEI",
+      "title": "Enquête annuelle sur les consommations d'énergie dans l'industrie (EACEI)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "insee",
+      "dir": "insee-ds_eacei"
+    },
+    {
+      "dataset_id": "insee:DS_SIDE_CREA_DEP_REG_NAT",
+      "title": "Créations d'entreprises et d'établissements au niveau départemental, régional et national par secteur d'activité (A21) et forme légale",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "insee",
+      "dir": "insee-ds_side_crea_dep_reg_nat"
+    },
+    {
+      "dataset_id": "insee:DS_SIDE_EQDEMO_A10",
+      "title": "Équations démographiques des unités légales et des établissements (A10)",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Agriculture",
+      "source": "insee",
+      "dir": "insee-ds_side_eqdemo_a10"
+    },
+    {
+      "dataset_id": "insee:DS_POPULATIONS_REFERENCE",
+      "title": "Populations de référence",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "insee",
+      "dir": "insee-ds_populations_reference"
+    },
+    {
+      "dataset_id": "insee:DS_IPC_IND_CAT",
+      "title": "Indice des prix à la consommation - indices catégoriels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Territoires",
+      "source": "insee",
+      "dir": "insee-ds_ipc_ind_cat"
+    },
+    {
+      "dataset_id": "insee:DS_DECHET_INDUSTRIE",
+      "title": "Enquête sur la production de déchets non dangereux dans l'industrie en 2022",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "insee",
+      "dir": "insee-ds_dechet_industrie"
+    },
+    {
+      "dataset_id": "insee:DS_CNT_CSI",
+      "title": "Comptes de secteurs institutionnels",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "insee",
+      "dir": "insee-ds_cnt_csi"
+    },
+    {
+      "dataset_id": "insee:DD_CNA_AGREGATS",
+      "title": "Produit Intérieur Brut (PIB) et grands agrégats économiques",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Économie",
+      "source": "insee",
+      "dir": "insee-dd_cna_agregats"
+    },
+    {
+      "dataset_id": "insee:DS_TOUR_FREQ",
+      "title": "Fréquentation des hébergements touristiques ",
+      "organization": "Insee",
+      "origin": "theme",
+      "label": "Récents",
+      "source": "insee",
+      "dir": "insee-ds_tour_freq"
+    },
+    {
+      "dataset_id": "education:fr-en-dix-plus-hautes-remunerations",
+      "title": "Dix plus hautes rémunérations",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "actu",
+      "label": "femme",
+      "source": "education",
+      "dir": "education-fr-en-dix-plus-hautes-remunerations"
+    },
+    {
+      "dataset_id": "education:fr-en-formations_diplomes",
+      "title": "Codification des diplômes et certifications préparés par la voie de l’apprentissage",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-formations-diplomes"
+    },
+    {
+      "dataset_id": "education:fr-en-sections-internationales",
+      "title": "Sections internationales et classes menant au baccalauréat français international (BFI) en France et dans les établissements français à l’étranger",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-sections-internationales"
+    },
+    {
+      "dataset_id": "education:fr-en-inserjeunes-lycee_pro-agri-formation-fine",
+      "title": "Inserjeunes Voie professionnelle scolaire agricole par établissement relevant du ministère de l'agriculture et formation fine",
+      "organization": "Ministère de l'Éducation nationale",
+      "origin": "theme",
+      "label": "Éducation",
+      "source": "education",
+      "dir": "education-fr-en-inserjeunes-lycee-pro-agri-formation-fine"
+    },
+    {
+      "dataset_id": "odre:points-dinjection-de-biomethane-en-france",
+      "title": "Points d'injection de méthane renouvelable et bas carbone en France en service",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "actu",
+      "label": "dangereux",
+      "source": "odre",
+      "dir": "odre-points-dinjection-de-biomethane-en-france"
+    },
+    {
+      "dataset_id": "odre:equilibre-national-mensuel-rpt-injection-soutirage",
+      "title": "Equilibre national mensuel RPT injection = soutirage",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-equilibre-national-mensuel-rpt-injection-soutirage"
+    },
+    {
+      "dataset_id": "odre:fc-tc-nationaux-mensuels-eolien-solaire",
+      "title": "Facteurs de charge et taux de couverture nationaux mensuels éoliens et solaires",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-fc-tc-nationaux-mensuels-eolien-solaire"
+    },
+    {
+      "dataset_id": "odre:equilibre-national-mensuel-prod-conso-brute",
+      "title": "Equilibre national mensuel production = consommation brute",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "theme",
+      "label": "Énergie",
+      "source": "odre",
+      "dir": "odre-equilibre-national-mensuel-prod-conso-brute"
+    },
+    {
+      "dataset_id": "sncf:assistance-psh-pmr",
+      "title": "Données du service d’Assistance Voyageur Handicapé en gare",
+      "organization": "SNCF",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "sncf",
+      "dir": "sncf-assistance-psh-pmr"
+    },
+    {
+      "dataset_id": "sncf:regularite-mensuelle-tgv-aqst",
+      "title": "Régularité mensuelle TGV par liaisons",
+      "organization": "SNCF",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "sncf",
+      "dir": "sncf-regularite-mensuelle-tgv-aqst"
+    },
+    {
+      "dataset_id": "sncf:reglarite-mensuelle-tgv-nationale",
+      "title": "Régularité mensuelle TGV globale",
+      "organization": "SNCF",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "sncf",
+      "dir": "sncf-reglarite-mensuelle-tgv-nationale"
+    },
+    {
+      "dataset_id": "sncf:regularite-mensuelle-intercites",
+      "title": "Régularité mensuelle Intercités",
+      "organization": "SNCF",
+      "origin": "theme",
+      "label": "Transports",
+      "source": "sncf",
+      "dir": "sncf-regularite-mensuelle-intercites"
+    },
+    {
+      "dataset_id": "ameli:referentiel-pathologies",
+      "title": "[Pour visualisation] Référentiel des pathologies",
+      "organization": "Assurance Maladie",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "ameli",
+      "dir": "ameli-referentiel-pathologies"
+    },
+    {
+      "dataset_id": "ameli:arrets-de-travail-par-secteur-d-activite-naf-1-et-naf-5",
+      "title": "Risques professionnels : arrêts de travail par secteur d’activité (NAF 1 et NAF 5)",
+      "organization": "Assurance Maladie",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "ameli",
+      "dir": "ameli-arrets-de-travail-par-secteur-d-activite-naf-1-et-naf-5"
+    },
+    {
+      "dataset_id": "drees:627_personnes-en-situation-de-handicap",
+      "title": "ISD - Personnes en situation de handicap",
+      "organization": "DREES",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "drees",
+      "dir": "drees-627-personnes-en-situation-de-handicap"
+    },
+    {
+      "dataset_id": "drees:1520_indicateurs-de-sante-perinatale",
+      "title": "Indicateurs de santé périnatale",
+      "organization": "DREES",
+      "origin": "actu",
+      "label": "femme",
+      "source": "drees",
+      "dir": "drees-1520-indicateurs-de-sante-perinatale"
+    },
+    {
+      "dataset_id": "drees:708_bases-statistiques-sae",
+      "title": "Bases statistiques SAE",
+      "organization": "DREES",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "drees",
+      "dir": "drees-708-bases-statistiques-sae"
+    },
+    {
+      "dataset_id": "drees:datastory-oc-9-4-duree-prise-en-charge-chambre",
+      "title": "Datastory OC - 3.3 Durée maximale de la prise en charge d'une chambre particulière à l'hôpital",
+      "organization": "DREES",
+      "origin": "theme",
+      "label": "Santé",
+      "source": "drees",
+      "dir": "drees-datastory-oc-9-4-duree-prise-en-charge-chambre"
+    },
+    {
+      "dataset_id": "odisse:mpox-incidence-selon-l-age-region",
+      "title": "Mpox : Incidence selon l'âge (Région)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "personnes",
+      "source": "odisse",
+      "dir": "odisse-mpox-incidence-selon-l-age-region"
+    },
+    {
+      "dataset_id": "odisse:maladies-cardio-neuro-vasculaires-taux-brut-dep",
+      "title": "Maladies Cardio-Neuro-Vasculaires : Taux brut (Département)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "extrême",
+      "source": "odisse",
+      "dir": "odisse-maladies-cardio-neuro-vasculaires-taux-brut-dep"
+    },
+    {
+      "dataset_id": "odisse:perinatalite-post-partum-departement",
+      "title": "Périnatalité : Post-partum (Département)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "femme",
+      "source": "odisse",
+      "dir": "odisse-perinatalite-post-partum-departement"
+    },
+    {
+      "dataset_id": "odisse:chutes-hospitalisations-et-deces-departement",
+      "title": "Chutes : Hospitalisations et Décès pour les plus de 65 ans (Département)",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "parce",
+      "source": "odisse",
+      "dir": "odisse-chutes-hospitalisations-et-deces-departement"
+    },
+    {
+      "dataset_id": "ademe:sinoe-indicateurs-chiffres-cles-decheterie-hors-gravats-2009-2017",
+      "title": "SINOE ® - Chiffres-clés Déchèteries (hors-gravats)",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "dangereux",
+      "source": "ademe",
+      "dir": "ademe-sinoe-indicateurs-chiffres-cles-decheterie-hors-gravats-2009-2017"
+    },
+    {
+      "dataset_id": "ademe:fa5ss31vaw3ciucj0f1kbuq7",
+      "title": "Nomenclature des matrices",
+      "organization": "ADEME",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "ademe",
+      "dir": "ademe-fa5ss31vaw3ciucj0f1kbuq7"
+    },
+    {
+      "dataset_id": "ademe:4qe9-fkz42ud-dcsu4r04s5n",
+      "title": "Liste des origines des déchets",
+      "organization": "ADEME",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "ademe",
+      "dir": "ademe-4qe9-fkz42ud-dcsu4r04s5n"
+    },
+    {
+      "dataset_id": "ademe:9cc31sucx--bqla1n-1kcie6",
+      "title": "Liste des codes CED avec correspondance déchet",
+      "organization": "ADEME",
+      "origin": "theme",
+      "label": "Environnement",
+      "source": "ademe",
+      "dir": "ademe-9cc31sucx--bqla1n-1kcie6"
+    },
+    {
+      "dataset_id": "6ab4f21c5ac5c534ba2a05b1",
+      "title": "Référentiel des Comités Locaux Pour l'Emploi",
+      "organization": "France Travail",
+      "origin": "theme",
+      "label": "Emploi",
+      "source": "france-travail",
+      "dir": "france-travail-6ab4f21c5ac5c534ba2a05b1"
+    }
+  ]
+}

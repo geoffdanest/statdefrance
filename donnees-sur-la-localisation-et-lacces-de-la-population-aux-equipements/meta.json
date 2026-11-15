@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "67fe0fe2423db9c4a05d8ced",
+  "title": "Données sur la localisation et l’accès de la population aux équipements",
+  "page": "https://www.data.gouv.fr/datasets/donnees-sur-la-localisation-et-lacces-de-la-population-aux-equipements",
+  "organization": "Institut national de la statistique et des études économiques (Insee)",
+  "description": "Ce jeu de données produit par l’Insee permet de s’intéresser aux temps d’accès aux équipements, en utilisant comme source principale la [base permanente des équipements](https://www.data.gouv.fr/fr/datasets/base-permanente-des-equipements-1/) (BPE). Il fournit, pour chaque carreau de 200 mètres de côté, sa population (issue du [dispositif Filosofi](https://www.data.gouv.fr/fr/datasets/revenus-pauvrete-et-niveau-de-vie-donnees-carroyees/)) ainsi que la distance et la durée par la route le séparant de son équipement le plus proche, pour chaque type d’équipement de la BPE. Il s’appuie sur le [distancier Metric-OSRM](https://metric-osrm.pages.lab.sspcloud.fr/metric-osrm-package/), qui permet des calculs de trajets routiers en voiture optimaux, de point à point, avec une grande rapidité d’exécution.\n\nLes données sont mises à jour à chaque nouveau millésime de la BPE. La description complète du jeu de données figure dans la note méthodologique à télécharger ci-dessous.\n\nLes bases sont au format *parquet*, partitionnées selon la région (variable *reg*). Un exemple de code R montre comment les exploiter à l’aide du package *{duckdb}*.&#x20;\n\nDans les publications où elles sont utilisées, il est demandé de citer les sources des données comme suit :\n\nSources : Insee, base permanente des équipements, distancier Metric-OSRM, © les contributeurs d’OpenStreetMap et du projet OSRM\n",
+  "resource_title": "dessin-de-fichier-acces-equipements.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-sur-la-localisation-et-lacces-de-la-population-aux-equipements/20260818-085947/dessin-de-fichier-acces-equipements.csv",
+  "last_modified": "2026-08-18T08:59:47.957000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "population",
+  "news": []
+}

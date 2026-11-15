@@ -1,0 +1,28 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:points-dinjection-de-biomethane-en-france",
+  "title": "Points d'injection de méthane renouvelable et bas carbone en France en service",
+  "page": "https://odre.opendatasoft.com/explore/dataset/points-dinjection-de-biomethane-en-france/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données présente la liste des points d'injection de méthane renouvelable et bas carbone dans les réseaux de gaz naturel en France et leurs capacités de production en GWh/an ( la valeur de la capacité est celle correspondant à l'année en cours, la plus actuelle. Un site d'injection peut, après sa mise en service, adapter sa capacité maximale théorique vers la hausse ou la baisse ). Cela concerne les points d'injection directement raccordés au réseau de distribution mais également ceux directement raccordés au réseau de transport (NaTran / Terega). Ce jeu de données est mis à jour mensuellement vers le 10 du mois n+1. Il est publié dans le respect des règles relatives à la protection des Informations Commercialement Sensibles. En effet, la localisation géographique communiquée est une approximation respectant les règles du secret statistique. ISDND = Installation de stockage de déchets non dangereux.",
+  "resource_title": "Points d'injection de méthane renouvelable et bas carbone en France en service",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/points-dinjection-de-biomethane-en-france/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-04T15:29:43+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "dangereux",
+  "query": "dangereux",
+  "news": [
+    {
+      "title": "France-Turquie : les Bleus se montrent de plus en plus dangereux... Suivez le match de Ligue des nations avec nous",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
+      "link": "https://www.20minutes.fr/monde/russie/4262654-20261115-stress-reglements-compte-interne-ambassadeur-russe-metier-plus-dangereux-monde?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

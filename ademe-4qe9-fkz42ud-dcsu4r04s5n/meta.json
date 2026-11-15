@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:4qe9-fkz42ud-dcsu4r04s5n",
+  "title": "Liste des origines des déchets",
+  "page": "https://data.ademe.fr/datasets/4qe9-fkz42ud-dcsu4r04s5n",
+  "organization": "ADEME",
+  "description": "Liste des origines des déchets (données publiques)",
+  "resource_title": "Liste des origines des déchets",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/4qe9-fkz42ud-dcsu4r04s5n/lines?format=csv&size=10000",
+  "last_modified": "2026-11-15T10:25:06.813Z",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

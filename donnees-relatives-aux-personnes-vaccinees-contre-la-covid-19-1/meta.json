@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6010206e7aa742eb447930f7",
+  "title": "Données relatives aux personnes vaccinées contre la Covid-19",
+  "page": "https://www.data.gouv.fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1",
+  "organization": "Santé publique France",
+  "description": "🆕**24/11/2022**\nPublication de nouveaux indicateurs à compter de ce jour :\n1. Couverture vaccinale du vaccin contre la COVID-19, personnes vaccinées avec trois doses de rappel (`n_3_rappel`, `couv_3_rappel`)\n2. Couverture vaccinale du vaccin contre la COVID-19, personnes vaccinées avec un rappel adapté aux variants Omicron (`n_rappel_biv`, `n_cum_rappel_biv`, `couv__rappel_biv`)  \n\nSanté publique France met à jour les référentiels géographiques et de population, utilisés pour la production et la diffusion des indicateurs de suivi de l’épidémie de COVID-19. Cette actualisation sera effective le **7 juillet 2022** . Elle est amenée à être renouvelée chaque année.\n\n**MAJ 01/07/2021**\nCes ressources ne sont actualisées que les **jours ouvrés**.\n\n### Vaccination contre la COVID-19 \n\nDès le lancement de la campagne de vaccination, les autorités sanitaires ont disposé d’informations permettant un suivi quotidien de l’avancée et du déploiement de la campagne sur le territoire. Celles-ci, recueillies auprès des établissements pour personnes âgées et des centres de vaccination, étaient transmises par les Agences régionales de santé. \n\nParallèlement, l’Assurance maladie a élaboré le système d’information Vaccin Covid (VAC-SI), qui est depuis pleinement opérationnel après un travail d’analyse de l’exhaustivité et de la complétude des données.\n\nLe système d’information Vaccin Covid est alimenté par les professionnels de santé réalisant les vaccinations. \n\nSur la base de l’exploitation de ",
+  "resource_title": "vacsi-tot-v-dep-2023-07-13-15h51.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/20230713-135138/vacsi-tot-v-dep-2023-07-13-15h51.csv",
+  "last_modified": "2023-07-13T15:51:38.382000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

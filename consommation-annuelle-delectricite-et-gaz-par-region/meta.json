@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "65f1185f3e0e630d9f924b51",
+  "title": "Consommation annuelle d’électricité et gaz par région",
+  "page": "https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-region",
+  "organization": "Agence ORE",
+  "description": "<p><span>Permet de visualiser l’évolution de 2011 à 2025 des consommations d'électricité et de gaz par secteur d'activité, par catégorie de consommation, par code NAF et par région.</span></p><p><br /></p><p>Ces données sont publiées dans le respect des règles relatives à la protection des Informations Commercialement Sensibles.</p><p>Une notice méthodologique est disponible en PJ (méthodologie appliquée depuis le millésime 2022). <span>Les données sont ventilées sur le dernier référentiel INSEE.</span></p><p><span>Une question sur le jeu de données ? Un cas d'usage à partager avec d'autres utilisateurs ? Le </span><a href=\"https://www.agenceore.fr/forum-expert\"><span>Forum des experts open data électricité et gaz</span></a><span> est là pour ça !<br /><br /></span></p><p>L'ensemble des mises à jours est renseigné dans le JDD accessible ici : <a href=\"https://portail.agenceore.fr/pages/explore?explorepath=datasets%2Fhistorique-des-mises-a-jours-des-jdd-de-l-agence-ore\">historique des mises à jour des JDD de l'Agence ORE</a></p>",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://opendata.agenceore.fr/data-fair/api/v1/datasets/consommation-annuelle-d-electricite-et-gaz-par-region/convert",
+  "last_modified": "2026-11-05T09:54:10+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "électricité",
+  "news": []
+}

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "667e955f315d42bcd893e228",
+  "title": "Déchets issus de l'artisanat en Bretagne",
+  "page": "https://www.data.gouv.fr/datasets/dechets-issus-de-lartisanat-en-bretagne",
+  "organization": "Observatoire de l'environnement en Bretagne",
+  "description": "Tonnage collecté et dangerosité des déchets issus de l'artisanat entre 2012 et 2019 en Bretagne.\n\n**Sources :** Chambre Régionale de Métiers et de l'Artisanat de Bretagne (CRMA Bretagne)\n\n**Aller plus loin :** consulter la méthodologie et les sources détaillées dans la datavisualisation <a href=\"https://bretagne-environnement.fr/tableau-de-bord/les-dechets-issus-de-lartisanat-en-bretagne\" target=\"_blank\">\"Les déchets issus de l'artisanat en Bretagne\"</a> réalisée par l'OEB. \n\n**Note :** juin 2026 : l'information sur les déchets issus de l'artisanat n'étant plus disponible (plus d'enquête), cette donnée n'est plus mis à jour. ",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://data.bretagne-environnement.fr/data-fair/api/v1/datasets/dechets-issus-de-lartisanat-en-bretagne/raw",
+  "last_modified": "2026-01-29T20:27:56+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": []
+}

@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:9cc31sucx--bqla1n-1kcie6",
+  "title": "Liste des codes CED avec correspondance déchet",
+  "page": "https://data.ademe.fr/datasets/9cc31sucx--bqla1n-1kcie6",
+  "organization": "ADEME",
+  "description": "Ce jeu de donnée détaille la correspondance entre les codes déchets de SINOE et les codes déchets CED (données publiques)",
+  "resource_title": "Liste des codes CED avec correspondance déchet",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/9cc31sucx--bqla1n-1kcie6/lines?format=csv&size=10000",
+  "last_modified": "2026-11-15T10:20:19.310Z",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Environnement",
+  "query": "déchets",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

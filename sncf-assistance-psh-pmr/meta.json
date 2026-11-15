@@ -1,0 +1,33 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:assistance-psh-pmr",
+  "title": "Données du service d’Assistance Voyageur Handicapé en gare",
+  "page": "https://ressources.data.sncf.com/explore/dataset/assistance-psh-pmr/",
+  "organization": "SNCF",
+  "description": "Liste des informations de l’assistance aux personnes en situation de handicap et aux personnes à mobilité réduite dans les gares SNCF (horaires, lieu de rendez vous, ...) Les données affichées sont les suivantes : Id_Gare : Identifiant de la gare (jointure possible avec le référentiel des gares) Nom_Gare : Nom de la Gare typePriseEnCharge : Type de prise en charge, ex : « Réservé et Spontané », « Réservé », « Spontané » Date de création du service : Date de création du service d'assistance dans cette gare typeTarification : Type de tarification lieuRendezVousGare : Lieu du rendez-vous dans la gare lieuRendezVousTaxi : Lieu du rendez-vous pour le taxi premierAuDernierTrain : Service disponible du premier au dernier train (1 = OUI) Code_UIC : code segment UIC HORAIRES JOUR NOMINAL LUNDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL MARDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL MERCREDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL JEUDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL VENDREDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL SAMEDI : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22:00 » HORAIRES JOUR NOMINAL DIMANCHE : Horaires d’ouverture de ce service Ex : « 07:00 - 13:30 / 14:00 - 22",
+  "resource_title": "Données du service d’Assistance Voyageur Handicapé en gare",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/assistance-psh-pmr/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-15T07:30:10+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

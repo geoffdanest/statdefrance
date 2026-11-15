@@ -1,0 +1,28 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:sinoe-indicateurs-chiffres-cles-decheterie-hors-gravats-2009-2017",
+  "title": "SINOE ® - Chiffres-clés Déchèteries (hors-gravats)",
+  "page": "https://data.ademe.fr/datasets/sinoe-indicateurs-chiffres-cles-decheterie-hors-gravats-2009-2017",
+  "organization": "ADEME",
+  "description": "Le jeu de données \" Indicateurs chiffres clés des Déchèteries Hors Gravats \" contient, pour les années impaires à partir dede 2009, diverses données sur le nombre de déchèteries, les populations desservies, les tonnages de déchets collecté hors déblais / gravats, les fréquentations et des indicateurs calculés : taux, ratios de collecte par département. Les déchets collectés en déchèterie comprennent les déchets dangereux, les matériaux recyclables, les déchets verts, les encombrants, les DEEE (Déchets d'équipements électriques et électroniques), autres déchets et hors déblais et gravats.",
+  "resource_title": "SINOE ® - Chiffres-clés Déchèteries (hors-gravats)",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/sinoe-indicateurs-chiffres-cles-decheterie-hors-gravats-2009-2017/lines?format=csv&size=10000",
+  "last_modified": "2023-08-03T15:06:27.200Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "dangereux",
+  "query": "dangereux",
+  "news": [
+    {
+      "title": "France-Turquie : les Bleus se montrent de plus en plus dangereux... Suivez le match de Ligue des nations avec nous",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
+      "link": "https://www.20minutes.fr/monde/russie/4262654-20261115-stress-reglements-compte-interne-ambassadeur-russe-metier-plus-dangereux-monde?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

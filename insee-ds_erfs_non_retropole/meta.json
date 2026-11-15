@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_ERFS_NON_RETROPOLE",
+  "title": "Indicateurs de pauvreté et de niveau de vie de 1975 à 2024 (données non rétropolées)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ERFS_NON_RETROPOLE",
+  "organization": "Insee",
+  "description": "Le jeu de données comporte des indicateurs de niveau de vie (distribution du niveau de vie, niveau de vie moyen), d'inégalités (ratio interdécile, indice de Gini, ...), de pauvreté (taux de pauvreté, seuil de pauvreté, ...) ainsi que la décomposition du revenu disponible et la part de niveau de vie détenue par décile de niveau de vie. Les indicateurs sont disponible uniquement pour la France Métropolitaine. \nCes indicateurs sont également dans le tableau de bord de l'économie française (https://www.insee.fr/fr/outil-interactif/5367857/tableau/30_RPC/31_RNP et https://www.insee.fr/fr/outil-interactif/5367857/tableau/30_RPC/33_PAU).\n\nListe des indicateurs disponibles de 1996 à 2024 :\n\n- Déciles du niveau de vie (du 1er au 9ème)\n- 95ème centile du niveau de vie\n- Niveau de vie moyen\n- Rapports interdéciles (D9/D1, D9/D5 et D5/D1) du niveau de vie\n- Indice de Gini\n- Part des masses de niveau de vie (S20_SL, S40_SL, S50_SL, S80_SL, S90_SL)\n- Ratio des masses de niveau de vie (S80S20_SL, S90S40_SL, S90S50_SL)\n- Nombre de personnes pauvres\n- Taux de pauvreté\n- Seuil de pauvreté (en euros constants et courants)\n- Niveau de vie médian des personnes pauvres\n- Intensité de la pauvreté\n- Part de la masse totale de niveau de vie détenue (en %) par décile de niveau de vie\n\nListe des indicateurs disponibles en 1975, 1979, 1984, 1990 :\n\n- 1er et 9ème déciles du niveau de vie\n- Niveau de vie moyen\n- Rapports interdéciles (D9/D1, D9/D5 et D5/D1) du niveau de vie\n- Indice de Gini\n- Part des mas",
+  "resource_title": "DS_ERFS_NON_RETROPOLE",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_ERFS_NON_RETROPOLE/DS_ERFS_NON_RETROPOLE_CSV_FR",
+  "last_modified": "2026-07-30T17:56:57.474022231",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 8647,
+  "origin": "actu",
+  "label": "personnes",
+  "query": "personnes",
+  "news": [
+    {
+      "title": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

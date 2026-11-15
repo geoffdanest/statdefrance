@@ -1,0 +1,28 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:chutes-hospitalisations-et-deces-departement",
+  "title": "Chutes : Hospitalisations et Décès pour les plus de 65 ans (Département)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/chutes-hospitalisations-et-deces-departement/",
+  "organization": "Santé publique France",
+  "description": "Dans le cadre du Plan Antichutes chez les Personnes Agées (PAPA) lancé en 2022 par le Ministère en charge des Solidarités et piloté par la Direction générale de la cohésion sociale, Santé publique France a mis en place une surveillance épidémiologique des chutes chez les personnes de 65 ans et plus, en collaboration avec le Centre d’épidémiologie sur les causes médicales de décès (CépiDc) et l’Agence technique de l’information sur l’hospitalisation (ATIH), à partir des causes médicales en texte libre des certificats de décès et des données médico-administratives du Système National des Données de Santé (SNDS). Les indicateurs présents : · Les hospitalisations pour chutes (issues des données PMSI-MCO) : séjours hospitaliers avec un diagnostic principal (DP) relatif aux lésions traumatiques (code CIM-10 du DP commençant par S), avec un diagnostic associé (DA) correspondant aux chutes (code CIM-10 du DAS commençant par W00–W19 ou R296). Sur les données de 2015 à 2024, 7 811 séjours hospitaliers en lien avec une chute ont été exclus des analyses, principalement parce que le code postal ne permettait pas de déterminer la région ou le département de résidence du patient (n=7 581). · Les décès en lien avec une chute (issus des textes libres des certificats de décès) : repérés grâce à l’implémentation d’un algorithme d’identification des certificats de décès contenant une mention de chute accidentelle dans l’ensemble des causes médicales de décès disponibles en texte libre. Cet algor",
+  "resource_title": "Chutes : Hospitalisations et Décès pour les plus de 65 ans (Département)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/chutes-hospitalisations-et-deces-departement/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-03-23T09:00:24+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "parce",
+  "query": "parce",
+  "news": [
+    {
+      "title": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+      "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "EN IMAGES Ces pestes de séries et films cultes qu’on adore détester (parce qu’on est un peu pestouilles aussi)",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4262389-images-pestes-series-films-cultes-adore-detester-parce-peu-pestouilles-aussi?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

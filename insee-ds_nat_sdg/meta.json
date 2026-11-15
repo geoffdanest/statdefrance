@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_NAT_SDG",
+  "title": "Indicateurs d'objectifs de développement durable",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_NAT_SDG",
+  "organization": "Insee",
+  "description": "L’Assemblée générale de l’Organisation des Nations unies (ONU) a adopté 17 objectifs de développement durable (ODD), déclinés en 169 cibles pour la période 2015-2030. Ces objectifs et cibles constituent pour les États une feuille de route commune de la transition vers un développement durable.Trois buts essentiels sont poursuivis : lutter contre les inégalités, l'exclusion et les injustices ; faire face au défi climatique ; mettre fin à l'extrême pauvreté.\n\nLa France a décidé d’engager un travail d’appropriation afin de définir un ensemble d’indicateurs majeurs adapté à ses priorités et spécificités nationales, qui permettent, via des données statistiques, de suivre les politiques publiques françaises concourant aux ODD.\n\nÀ l'issue d'une concertation menée sous l'égide du Conseil national de l’Information statistique (Cnis) a été proposé mi-2018 une liste de 98 indicateurs qui constituent le cadre national pour le suivi des progrès de la France dans l’atteinte des 17 ODD.  Parmi les indicateurs retenus, on trouve notamment l’ensemble des indicateurs de richesse nationale.\n\nLe jeu de données publié ici contient ainsi les données de ces 98 indicateurs.",
+  "resource_title": "DS_NAT_SDG",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_NAT_SDG/DS_NAT_SDG_CSV_FR",
+  "last_modified": "2026-06-22T15:28:40.392437636",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 7823,
+  "origin": "actu",
+  "label": "extrême",
+  "query": "extrême",
+  "news": [
+    {
+      "title": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+      "link": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Après l'attentat raciste à Trappes, Sandrine Rousseau accuse le gouvernement de \"sous-estimer la menace venant de l'extrême droite\"",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-l-extreme-droite_8283533.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Attentat à Trappes : Sandrine Rousseau accuse le gouvernement de « sous-estimer la menace venant de l’extrême droite »",
+      "link": "https://www.20minutes.fr/politique/4262950-20261115-attentat-trappes-sandrine-rousseau-accuse-gouvernement-sous-estimer-menace-venant-extreme-droite?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

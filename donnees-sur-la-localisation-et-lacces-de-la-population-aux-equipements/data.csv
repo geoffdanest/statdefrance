@@ -1,0 +1,15 @@
+Nom,Description,Type
+idSrc,Identifiant du carreau de population (non unique puisqu’un carreau peut être à cheval sur plusieurs communes ou IRIS),Texte
+X,"Latitude du point inférieur gauche du carreau de population (EPSG:3035 pour la métropole, EPSG:4559 pour la Martinique, EPSG:2975 pour La Réunion)",Numérique
+Y,"Longitude du point inférieur gauche du carreau de population (EPSG:3035 pour la métropole, EPSG:4559 pour la Martinique, EPSG:2975 pour La Réunion)",Numérique
+typeeq_id,Type d’équipement,Texte
+distance,"Distance du trajet optimal en voiture, calculée avec Metric-OSRM (km)",Numérique
+deuclidienne,Distance à vol d’oiseau entre le carreau et l’équipement le plus proche (km),Numérique
+duree,"Durée du trajet optimal en voiture, calculée avec Metric-OSRM (minutes)",Numérique
+depcom,"Code de la commune couverte par le carreau, en géographie N pour le millésime N (les arrondissements de Paris, Lyon et Marseille sont détaillés à partir du millésime 2025)",Texte
+iris,"Code de l’IRIS couvert par le carreau, en géographie N pour le millésime N",Texte
+pop,"Population de la commune ou de l’IRIS couverte par le carreau (en faisant l’hypothèse que la population se répartit de manière homogène en cas de carreau sur plusieurs communes ou IRIS, issue de Filosofi.",Numérique
+domaine,Domaine du type d’équipement,Texte
+depcom_equipement,"Code de la commune du type d’équipement, en géographie N pour le millésime N",Texte
+dep,Code département du carreau,Texte
+reg,Code région du carreau,Texte
