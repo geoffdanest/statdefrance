@@ -40,6 +40,10 @@ avec les différences ci-dessous.
   jamais le sujet du post de 12h du même jour (lis `posts/AAAA-MM-JJ-actu-12h.json` s'il existe).
 - Elle doit pouvoir s'éclairer par une **donnée publique** : économie, salaires, prix, emploi,
   santé, énergie, transports, logement, éducation, environnement, institutions, élections…
+- **Actu politique** (candidature, retrait, élection, remaniement) : acceptée si un **chiffre
+  électoral neutre** l'éclaire : participation, abstention, nombre de candidats, inscrits sur les
+  listes, d'une élection à l'autre. Le chiffre décrit l'élection, jamais un camp : pas de score
+  d'un parti ou d'un candidat, pas de sondage, pas de temps de parole.
 - **Exclus** (on passe à l'info suivante) : attentats, catastrophes ou accidents avec victimes,
   faits divers, décès d'une personne, affaires judiciaires visant des personnes, guerres et
   conflits armés, résultats sportifs, vie privée de personnalités. Pas de chiffre posé sur un drame.
