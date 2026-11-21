@@ -47,7 +47,7 @@ Une stat n'est retenue que si elle sort **exactement** du fichier.
   semaine), toutes sources confondues, si le contenu le permet. Chercher le lien dans chaque
   source : un titre sur la grippe peut donner un post Odissé, Ameli ou DREES ; une grève SNCF,
   un post SNCF ; une vague de froid, un post ODRÉ (éCO2mix)… Les placer de préférence le matin, en début de semaine. Le lien avec l'actu doit être évident pour un lecteur.
-- **Surprise** : le chiffre doit faire réagir (« ah bon ? ») tout en étant compréhensible en 3 secondes.
+- **Surprise** : le chiffre doit faire réagir (« ah bon ? », « c'est scandaleux », « chez moi c'est pareil ») tout en étant compréhensible en 3 secondes. Voir la ligne éditoriale en section 4.
 - **Variété** : 3 posts maximum par thème ; utiliser **les 10 gabarits** dans la semaine (chacun
   au moins une fois, voir la table de la section 3) ; aucun gabarit plus de 2 fois.
   Le même jour, le matin et le soir : deux thèmes et deux gabarits différents.
@@ -87,18 +87,75 @@ Exemples complets dans `examples/`.
 
 ## 4. Écrire
 
+### Ligne éditoriale : simple, clivant, engageant
+
+Le compte doit faire réagir. **Clivant sur le constat, neutre sur le camp** : c'est le chiffre
+qui frappe, jamais une opinion. La crédibilité (source officielle, chiffre exact) est l'arme.
+
+**Simple**
+- **Test du café** : chaque titre doit pouvoir se dire à voix haute à un ami sans qu'il
+  demande « c'est quoi ? ».
+- **Zéro jargon** : aucun sigle ni terme administratif sans traduction en mots de tous les
+  jours (« zone A bis » → « les communes où se loger est le plus dur » ; « secours à personne »
+  → « malaises, chutes, blessures » ; « euros constants » → « une fois l'inflation retirée »).
+- **Un chiffre héros + une comparaison** : 3 chiffres maximum dans la légende (hors source),
+  toujours arrondis (« 2,2 millions », jamais « 2 154 956 »).
+- **Même cadrage** sur le visuel et dans la légende : si la légende dit « un sur deux n'a pas »,
+  le visuel montre la part qui n'a pas.
+- **National par défaut**. Une stat locale doit dire sur le visuel où elle s'applique, et
+  l'accroche ne doit jamais généraliser au-delà de ce lieu.
+
+**Clivant** (au moins un de ces leviers par post)
+- **Le duel** : opposer ce que les gens défendent déjà (Paris / province, privé / public,
+  patron / salarié, deux villes ou régions voisines).
+- **L'idée reçue cassée** : partir de ce que tout le monde croit, puis le démonter
+  (« Les pompiers éteignent des feux ? Dans 2 % des cas. »).
+- **Le podium du pire** : nommer le dernier (la ligne la moins ponctuelle, la ville la plus chère).
+- **La vie réelle** : traduire en mois de salaire, pleins, loyers plutôt qu'en pourcentages
+  (« Ce qu'un coiffeur gagne en 11 mois, un patron de grande entreprise le gagne en un. »).
+- **Le « tu »** : parler au lecteur (« ton salaire », « ton train »).
+- Sujets à privilégier : ceux dont on débat au dîner (salaires, loyers, impôts, transports,
+  médecins, école, énergie) et les classements avec un gagnant et un perdant.
+
+**Lignes rouges** (elles priment sur tout le reste)
+- Jamais de prise de parti politique ni de coupable désigné (« la faute à… », « le gouvernement
+  a échoué »). Le constat suffit.
+- Jamais un groupe de personnes ciblé (origine, religion, etc.) : on vise des systèmes, des
+  lieux, des institutions.
+- Aucune causalité inventée (« le privé accueille des élèves plus favorisés » est un constat ;
+  « le privé trie ses élèves » n'en est pas un).
+- L'accroche la plus forte reste **vraie mot pour mot**, sans dépasser ce que dit la donnée.
+
+**Engageant : la question au lecteur**
+- Chaque légende se termine (avant la source) par **une question courte** qui donne envie de
+  répondre en commentaire.
+- Préférer les questions auxquelles on répond en **un mot ou un chiffre** : « Normal ou pas ? »,
+  « Ça vous choque ? », « Tu paies combien chez toi ? », « Tu la prends, cette ligne ? »,
+  « Tu aurais dit combien ? », « Ta ville fait mieux ? ».
+- La question découle du chiffre et invite à **comparer avec sa propre vie** ou à **trancher**.
+  Jamais une question militante ou orientée vers un camp (pas de « Faut-il taxer… ? »,
+  « Qui est responsable ? »).
+- Varier : pas deux fois la même question dans la semaine.
+- Les formules d'attache à l'actu (« Un chiffre à garder en tête alors que… », « Un repère
+  utile… », « De quoi éclairer… ») sont proscrites : si le lien avec l'actu n'est pas
+  évident, ne pas en parler.
+
 **Sur le visuel** (le gabarit refuse un texte trop long : raccourcir, jamais tricher)
 - Phrases courtes, en français courant. Un chiffre arrondi honnêtement (« près de », « plus de »).
+- Le titre porte le levier clivant (duel, idée reçue, pire…) : c'est lui qui arrête le pouce.
 - `source` : forme courte « Producteur, jeu (année) », ex. « Insee, COG 2026 ».
 
 **Légende Instagram** (`caption`)
-1. Une première ligne accrocheuse (c'est tout ce qu'on voit avant « plus »).
-2. 2 à 4 phrases de contexte : ce que mesure la donnée, l'année, une comparaison utile,
-   le lien avec l'actu si pertinent (reformulé, jamais copié d'un article).
-3. `Source : <producteur>, « <titre du jeu> », data.gouv.fr` puis l'URL de la page du jeu.
+1. Une première ligne accrocheuse et clivante (c'est tout ce qu'on voit avant « plus »).
+   Elle ne répète pas mot pour mot le titre du visuel.
+2. 2 ou 3 phrases courtes : le chiffre en clair (avec l'année), la comparaison qui surprend,
+   puis l'actu seulement si le lien est évident (reformulé, jamais copié d'un article).
+3. Optionnel : une seule ligne « À noter : … » pour la précaution de méthode indispensable.
+4. La question au lecteur, seule sur sa ligne.
+5. `Source : <producteur>, « <titre du jeu> », data.gouv.fr` puis l'URL de la page du jeu.
    Pour les autres sources : `Source : <organization de meta.json>, « <titre du jeu> »`
    puis l'URL `page` de `meta.json` (ex. catalogue Insee, data.education.gouv.fr, odre…).
-4. 5 à 8 hashtags : `#statdefrance #opendata` + thème + sujet.
+6. 5 à 8 hashtags : `#statdefrance #opendata` + thème + sujet.
 
 ## 5. Fichiers
 
@@ -120,6 +177,10 @@ python -m render posts/AAAA-MM-JJ*.json … --planche
 - Puis **regarder chaque JPEG** : équilibre, coupures de lignes naturelles, pas de mot
   orphelin, chiffre bien mis en valeur. La composition compte énormément pour Geoffroy :
   si quelque chose est maladroit, reformuler et rendre à nouveau.
+- Enfin, **relire chaque texte** avec la grille de la section 4 : test du café passé ? aucun
+  jargon ? 3 chiffres maximum ? même cadrage visuel / légende ? un levier clivant ? une
+  question au lecteur, différente des autres de la semaine ? aucune ligne rouge franchie ?
+  Réécrire tout post qui échoue avant de le présenter.
 
 ## 7. Enregistrer et présenter
 
