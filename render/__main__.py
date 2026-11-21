@@ -4,6 +4,8 @@ Pour chaque post : vérifie le contenu, compose le visuel, écrit le JPEG à cô
 du JSON (Instagram n'accepte que le JPEG). Code de sortie 1 si un post échoue.
 Si le post a un champ « question », écrit aussi la slide finale du carrousel
 (<post>-fin.jpg : la question + abonne-toi / partage, même palette).
+Si le post a un champ « une » (créneaux actu), écrit aussi la slide d'ouverture
+(<post>-une.jpg : photo plein cadre + titre), à partir de la photo du champ « photo ».
 Option --planche : écrit aussi posts/_planche.jpg avec tous les visuels rendus.
 """
 import json, sys, re
@@ -11,6 +13,9 @@ from pathlib import Path
 from PIL import Image
 from .templates import render, LayoutError, W, H
 from .cta import render_cta
+from .une import render_une
+
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def check_caption(post):
@@ -36,6 +41,16 @@ def main(args):
             post = json.loads(p.read_text(encoding="utf-8"))
             check_caption(post)
             im = render(post)
+            if post.get("une"):
+                photo = ROOT / post.get("photo", "")
+                if not post.get("photo") or not photo.is_file():
+                    raise LayoutError("« photo » manquante : chemin du fichier depuis la racine du repo (ex. posts/photos/AAAA-MM-JJ-actu-20h.jpg).")
+                if not post.get("photo_credit"):
+                    raise LayoutError("« photo_credit » manquant (ex. « Photo : Nom, CC0 »).")
+                une = p.with_name(p.stem + "-une.jpg")
+                render_une(post, photo).save(une, "JPEG", quality=94, optimize=True, progressive=True)
+                rendered.append(une)
+                print(f"OK      {p.name} → {une.name} (une)")
             out = p.with_suffix(".jpg")
             im.save(out, "JPEG", quality=94, optimize=True, progressive=True)
             rendered.append(out)

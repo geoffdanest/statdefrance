@@ -4,5 +4,5 @@ __pycache__/
 .DS_Store
 posts/_planche.jpg
 examples/_planche.jpg
-candidates-news/
-photos/
+/candidates-news/
+/photos/

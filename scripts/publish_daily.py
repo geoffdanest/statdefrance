@@ -15,9 +15,10 @@ Variables d'environnement (secrets GitHub) :
   IG_USER_ID       identifiant du compte Instagram professionnel
   IG_ACCESS_TOKEN  clé de publication (jeton « utilisateur système », sans expiration)
   GITHUB_REPOSITORY fourni automatiquement par GitHub (pseudo/repo)
-Créneau « actu » (20h, posts/AAAA-MM-JJ-actu.json) : l'info du jour, préparée et validée
-automatiquement par la tâche programmée de 18h40 (voir NEWS.md).
-Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|soir|actu, --dry-run (n'appelle pas Instagram)
+Créneaux actu (12h : posts/AAAA-MM-JJ-actu-12h.json ; 20h : posts/AAAA-MM-JJ-actu-20h.json) :
+l'info du jour, préparée et validée automatiquement par les tâches de 10h40 et 18h40 (voir NEWS.md).
+Carrousel : [<post>-une.jpg si elle existe], <post>.jpg, [<post>-fin.jpg si « question »].
+Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|actu12|soir|actu20, --dry-run (n'appelle pas Instagram)
 """
 import json, os, sys, time
 from datetime import datetime
@@ -68,7 +69,7 @@ def publish(image_url, caption, extra_urls=()):
     return media, link
 
 
-SLOTS = [("matin", "", 9), ("soir", "-soir", 18), ("actu", "-actu", 20)]   # (nom, suffixe du fichier, heure de Paris)
+SLOTS = [("matin", "", 9), ("actu12", "-actu-12h", 12), ("soir", "-soir", 18), ("actu20", "-actu-20h", 20)]   # (nom, suffixe, heure de Paris)
 
 
 def publish_slot(day, name, suffix, now, dry):
@@ -87,9 +88,10 @@ def publish_slot(day, name, suffix, now, dry):
     repo = os.environ.get("GITHUB_REPOSITORY", "pseudo/statdefrance")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
     base = f"https://raw.githubusercontent.com/{repo}/{branch}/posts/"
-    image_url = base + img.name
-    fin = f.with_name(f.stem + "-fin.jpg")
-    extra = [base + fin.name] if post.get("question") and fin.exists() else []
+    une, fin = f.with_name(f.stem + "-une.jpg"), f.with_name(f.stem + "-fin.jpg")
+    slides = ([une] if post.get("une") and une.exists() else []) + [img] \
+        + ([fin] if post.get("question") and fin.exists() else [])
+    image_url, extra = base + slides[0].name, [base + x.name for x in slides[1:]]
     kind = "carrousel" if extra else "image seule"
     log(f"[{name}] Publication du {day} ({post['template']}, {post['palette']}, {kind}) depuis {image_url}")
     if dry:
@@ -99,7 +101,7 @@ def publish_slot(day, name, suffix, now, dry):
     except RuntimeError as e:
         if not extra: raise
         log(f"[{name}] Carrousel refusé ({e}) : publication du visuel seul.")
-        media, link = publish(image_url, post["caption"])
+        media, link = publish(base + img.name, post["caption"])
     post.update(status="published", ig_media_id=media, ig_permalink=link, published_at=now.isoformat())
     f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     log(f"[{name}] Publié : {link}")
