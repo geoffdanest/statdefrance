@@ -1,11 +1,11 @@
-name: Publication Instagram (9h et 18h)
-# Toujours lancée par les tâches programmées Claude (9h02 et 18h02, heure de Paris),
+name: Publication Instagram (9h, 18h et 20h)
+# Toujours lancée par les tâches programmées Claude (9h02, 18h02 et 20h02, heure de Paris),
 # ou à la main depuis l'onglet Actions. Pas d'horaire GitHub : une seule source de déclenchement.
 on:
   workflow_dispatch:
     inputs:
       date: { description: "Date à publier (AAAA-MM-JJ), vide = aujourd'hui", required: false }
-      slot: { description: "Créneau : matin, soir, ou vide = les deux", required: false }
+      slot: { description: "Créneau : matin, soir, actu, ou vide = tous ceux dont l'heure est passée", required: false }
 permissions:
   contents: write
 concurrency: { group: publish, cancel-in-progress: false }

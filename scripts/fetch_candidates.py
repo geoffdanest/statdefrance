@@ -9,6 +9,12 @@
 5. Télécharge un fichier CSV léger par jeu retenu dans candidates/, avec ses métadonnées.
 
 Aucune IA ici : le script collecte, Claude choisit ensuite.
+
+Mode actu du jour (créneau de 20h, voir NEWS.md) :
+  --news                      lit seulement l'actu (titres de presse, Google Trends, Wikipédia)
+                              et écrit candidates-news/index.json, sans aucun jeu de données ;
+  --news --keywords "a;b;c"   cherche les jeux liés à ces mots-clés (choisis par Claude),
+                              dans toutes les sources, sans les thèmes de la semaine.
 """
 import io, json, re, sys, time, unicodedata, zipfile, xml.etree.ElementTree as ET
 from collections import Counter
@@ -93,6 +99,41 @@ def used_datasets():
         except Exception:
             pass
     return used
+
+
+TRENDS_RSS = "https://trends.google.com/trending/rss?geo=FR"
+WIKI_TOP = "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/fr.wikipedia.org/all-access/{:%Y/%m/%d}"
+WIKI_SKIP = ("Spécial:", "Wikipédia:", "Fichier:", "Aide:", "Portail:", "Catégorie:", "Modèle:")
+
+
+def trends():
+    """Recherches Google en forte hausse en France (flux RSS public, sans clé)."""
+    out = []
+    try:
+        r = requests.get(TRENDS_RSS, headers=UA, timeout=20); r.raise_for_status()
+        root = ET.fromstring(r.content)
+        ns = {"ht": "https://trends.google.com/trending/rss"}
+        for it in root.iter("item"):
+            t = (it.findtext("title") or "").strip()
+            traffic = it.findtext("ht:approx_traffic", default="", namespaces=ns)
+            news = [n.findtext("ht:news_item_title", default="", namespaces=ns) for n in it.findall("ht:news_item", ns)]
+            if t: out.append({"query": t, "traffic": traffic, "news": [n for n in news if n][:3]})
+    except Exception as e:
+        print(f"  Google Trends ignoré : {e}")
+    return out
+
+
+def wiki_top(n=40):
+    """Articles de Wikipédia en français les plus lus la veille (API Wikimedia, sans clé)."""
+    from datetime import timedelta
+    day = datetime.now(timezone.utc) - timedelta(days=1)
+    try:
+        r = requests.get(WIKI_TOP.format(day), headers=UA, timeout=20); r.raise_for_status()
+        arts = r.json()["items"][0]["articles"]
+        return [{"article": a["article"].replace("_", " "), "views": a["views"]} for a in arts
+                if not a["article"].startswith(WIKI_SKIP) and a["article"] != "Wikipédia:Accueil_principal"][:n]
+    except Exception as e:
+        print(f"  Wikipédia ignoré : {e}"); return []
 
 
 def headlines():
@@ -210,7 +251,7 @@ def insee_download(url, dest_dir):
     return n
 
 
-def collect_insee(kws, used, news):
+def collect_insee(kws, used, news, actu_only=False):
     """Jeux Insee : d'abord ceux liés aux mots-clés d'actu, puis par thème, puis les plus récents."""
     catalog = insee_catalog()
     print(f"{len(catalog)} jeux au catalogue Insee.")
@@ -235,8 +276,9 @@ def collect_insee(kws, used, news):
         return [x for x in rows if re.search(rf"\b{re.escape(w)}", x["text"])]
 
     queue = [("actu", kw, match(kw)) for kw in kws]
-    queue += [("theme", theme, [x for q in qs for x in match(q)]) for theme, qs in THEMES.items()]
-    queue += [("recent", "Récents", rows)]
+    if not actu_only:
+        queue += [("theme", theme, [x for q in qs for x in match(q)]) for theme, qs in THEMES.items()]
+        queue += [("recent", "Récents", rows)]
 
     picked, seen, total = [], set(), 0
     for origin, label, cands in queue:
@@ -302,15 +344,29 @@ def download(url, dest):
     return n
 
 
-def main():
+def main(args=()):
+    global OUT, MAX_DATASETS
+    news_mode = "--news" in args
+    given = []
+    if "--keywords" in args:
+        given = [k.strip() for k in args[args.index("--keywords") + 1].split(";") if k.strip()]
+    if news_mode:
+        OUT = ROOT / "candidates-news"; MAX_DATASETS = 12
     OUT.mkdir(exist_ok=True)
     used = used_datasets(); print(f"{len(used)} jeux déjà utilisés, exclus.")
-    news = headlines(); kws = keywords(news)
-    print(f"{len(news)} titres lus. Mots-clés d'actu : {', '.join(kws)}")
+    news = headlines(); tr = trends(); wk = wiki_top()
+    kws = given or keywords(news)
+    print(f"{len(news)} titres, {len(tr)} tendances Google, {len(wk)} articles Wikipédia lus.")
+    print(f"Mots-clés d'actu : {', '.join(kws)}")
+    if news_mode and not given:   # 1re passe du créneau actu : l'actu seule, Claude choisira le sujet
+        index = {"generated_at": datetime.now(timezone.utc).isoformat(), "mode": "news-headlines",
+                 "headlines": news[:80], "trends": tr, "wiki_top": wk, "datasets": []}
+        (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+        print("Actu du jour enregistrée (sans jeu de données)."); return 0
 
     # file d'attente : actu d'abord, puis thèmes en tourniquet (tous les thèmes représentés)
     queue = [("actu", kw, kw, "-reuses") for kw in kws]
-    rounds = max(len(q) for q in THEMES.values())
+    rounds = 0 if news_mode else max(len(q) for q in THEMES.values())
     for i in range(rounds):
         for theme, qs in THEMES.items():
             if i < len(qs):
@@ -351,17 +407,19 @@ def main():
             time.sleep(0.3)
 
     print(f"{len(picked)} jeux data.gouv retenus, {total / 1e6:.1f} Mo.")
-    picked += collect_insee(kws, used, news)
+    picked += collect_insee(kws, used, news, actu_only=news_mode)
 
     taken = used | {p["dataset_id"] for p in picked}
     extra = sources.collect_all(kws=kws, themes=THEMES, used=taken, news=news, out_dir=OUT, ua=UA, norm=norm,
-                                max_age_days=MAX_AGE_DAYS, api=API, pick_resource=pick_resource)
+                                max_age_days=MAX_AGE_DAYS, api=API, pick_resource=pick_resource,
+                                actu_only=news_mode)
     print(f"{len(extra)} jeux des portails thématiques retenus.")
     picked += extra
 
     by_source = Counter(p.get("source", "data.gouv") for p in picked)
     actu = Counter(p.get("source", "data.gouv") for p in picked if p.get("origin") == "actu")
     index = {"generated_at": datetime.now(timezone.utc).isoformat(), "keywords": kws,
+             "mode": "news" if news_mode else "week", "trends": tr, "wiki_top": wk,
              "by_source": dict(by_source), "actu_by_source": dict(actu),
              "headlines": news[:60], "datasets": picked}
     (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -370,4 +428,4 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main(sys.argv[1:]))

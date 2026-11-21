@@ -1,0 +1,37 @@
+name: Collecte actu du jour (créneau 20h)
+# Lancée deux fois par la tâche programmée Claude « statdefrance actu 20h — préparation » :
+#   1) sans mots-clés : lit l'actu du jour (presse, Google Trends, Wikipédia) ;
+#   2) avec les mots-clés choisis par Claude : cherche les jeux de données liés.
+# Résultat sur la branche « candidates-news » (écrasée à chaque passage).
+on:
+  workflow_dispatch:
+    inputs:
+      keywords: { description: "Mots-clés séparés par « ; » (vide = actu seule)", required: false }
+permissions:
+  contents: write
+concurrency: { group: news, cancel-in-progress: false }
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Collecter
+        env:
+          KEYWORDS: ${{ github.event.inputs.keywords }}
+        run: |
+          if [ -n "$KEYWORDS" ]; then
+            python scripts/fetch_candidates.py --news --keywords "$KEYWORDS" || true
+          else
+            python scripts/fetch_candidates.py --news
+          fi
+          test -f candidates-news/index.json
+      - name: Publier sur la branche « candidates-news »
+        run: |
+          cd candidates-news
+          git init -q -b candidates-news
+          git add -A
+          git -c user.name="statdefrance-bot" -c user.email="statdefrance-bot@users.noreply.github.com" commit -qm "Actu du $(date -u +%F) $(date -u +%H:%M)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" candidates-news

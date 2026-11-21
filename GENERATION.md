@@ -83,6 +83,8 @@ Exemples complets dans `examples/`.
 
 - `palette` : alterner `papier` / `nuit` à chaque post, dans l'ordre de publication (lundi matin,
   lundi soir, mardi matin…), en continuant la série précédente (regarder le dernier post existant).
+  Ignorer les posts `-actu` (créneau de 20h, voir `NEWS.md`) : ils ne comptent ni pour la palette
+  ni pour la numérotation.
 - `num` : « N° 0XX », à la suite du plus grand numéro existant dans `posts/`, dans l'ordre de publication.
 
 ## 4. Écrire

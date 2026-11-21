@@ -102,7 +102,8 @@ class Post:
     def chrome(self, p, right=None):
         t = self.t
         draw_logo(self.d, M, M + 26, 30, t["ink"], t["acc"], SS)
-        self.text((W - M, M + 26), p["theme"].upper(), self.f("inter700", 20), t["acc"], "rs")
+        kicker = ("Actu · " if p.get("slot") == "actu" else "") + p["theme"]   # créneau de 20h
+        self.text((W - M, M + 26), kicker.upper(), self.f("inter700", 20), t["acc"], "rs")
         src = typo(f"Source : {p['source']}")
         fn = self.f("inter500", 21)
         right = right or p.get("num", "")

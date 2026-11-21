@@ -149,11 +149,12 @@ def datagouv_org_search(api, org_id, q, ua, pick_resource, limit=10):
 # ---------- Collecte commune ----------
 
 def collect_source(key, producer, theme, own_kws, search, *, kws, themes, used, news, out_dir,
-                   ua, norm, max_age_days, id_prefix):
+                   ua, norm, max_age_days, id_prefix, actu_only=False):
     """Actu d'abord (un jeu par mot-clé), puis thèmes, puis plus récents. Renvoie les jeux retenus."""
     queue = [("actu", kw, kw) for kw in kws]
-    queue += [("theme", theme, q) for q in own_kws + themes.get(theme, [])]
-    queue += [("theme", theme, "")]                       # les plus récents du portail
+    if not actu_only:
+        queue += [("theme", theme, q) for q in own_kws + themes.get(theme, [])]
+        queue += [("theme", theme, "")]                   # les plus récents du portail
     picked, seen, total, failures = [], set(), 0, 0
     for origin, label, q in queue:
         if len(picked) >= PER_SOURCE or total >= MAX_SOURCE_TOTAL or failures >= 3: break
@@ -195,9 +196,10 @@ def collect_source(key, producer, theme, own_kws, search, *, kws, themes, used, 
     return picked
 
 
-def collect_all(*, kws, themes, used, news, out_dir, ua, norm, max_age_days, api, pick_resource, trusted_ids=None):
+def collect_all(*, kws, themes, used, news, out_dir, ua, norm, max_age_days, api, pick_resource, trusted_ids=None,
+                actu_only=False):
     common = dict(kws=kws, themes=themes, used=used, news=news, out_dir=out_dir, ua=ua, norm=norm,
-                  max_age_days=max_age_days)
+                  max_age_days=max_age_days, actu_only=actu_only)
     picked = []
     for key, (domain, producer, theme, own) in ODS_PORTALS.items():
         picked += collect_source(key, producer, theme, own, lambda q, d=domain: ods_search(d, q, ua),

@@ -15,7 +15,9 @@ Variables d'environnement (secrets GitHub) :
   IG_USER_ID       identifiant du compte Instagram professionnel
   IG_ACCESS_TOKEN  clé de publication (jeton « utilisateur système », sans expiration)
   GITHUB_REPOSITORY fourni automatiquement par GitHub (pseudo/repo)
-Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|soir, --dry-run (n'appelle pas Instagram)
+Créneau « actu » (20h, posts/AAAA-MM-JJ-actu.json) : l'info du jour, préparée et validée
+automatiquement par la tâche programmée de 18h40 (voir NEWS.md).
+Options : --force (ignore l'heure), --date AAAA-MM-JJ, --slot matin|soir|actu, --dry-run (n'appelle pas Instagram)
 """
 import json, os, sys, time
 from datetime import datetime
@@ -66,7 +68,7 @@ def publish(image_url, caption, extra_urls=()):
     return media, link
 
 
-SLOTS = [("matin", "", 9), ("soir", "-soir", 18)]   # (nom, suffixe du fichier, heure de Paris)
+SLOTS = [("matin", "", 9), ("soir", "-soir", 18), ("actu", "-actu", 20)]   # (nom, suffixe du fichier, heure de Paris)
 
 
 def publish_slot(day, name, suffix, now, dry):
