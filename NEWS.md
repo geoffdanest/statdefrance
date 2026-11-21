@@ -40,6 +40,10 @@ avec les différences ci-dessous.
   jamais le sujet du post de 12h du même jour (lis `posts/AAAA-MM-JJ-actu-12h.json` s'il existe).
 - Elle doit pouvoir s'éclairer par une **donnée publique** : économie, salaires, prix, emploi,
   santé, énergie, transports, logement, éducation, environnement, institutions, élections…
+- **Présidentielle 2027 en priorité** : jusqu'à l'élection, si une info liée à la présidentielle
+  (candidatures, retraits, primaires, campagne, règles du scrutin) figure parmi les infos qui
+  dominent, la choisir plutôt qu'une autre. Neutralité stricte : tous les camps sont traités de
+  la même façon, sans sondage ni pronostic.
 - **Actu politique** (candidature, retrait, élection, remaniement) : acceptée si un **chiffre
   électoral neutre** l'éclaire : participation, abstention, nombre de candidats, inscrits sur les
   listes, d'une élection à l'autre. Le chiffre décrit l'élection, jamais un camp : pas de score
