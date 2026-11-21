@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-21",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Politique",
+  "palette": "nuit",
+  "template": "une",
+  "num": "ACTU · 21.11",
+  "une": [
+    "Présidentielle : François Ruffin jette l’éponge.",
+    "Il souhaite « bonne campagne » aux candidats de gauche."
+  ],
+  "photo": "posts/photos/2026-11-21-actu-20h.jpg",
+  "photo_credit": "Photo : Jamain, CC BY",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Isoloirs_J1.jpg",
+  "photo_focus": 0.5,
+  "source": "franceinfo, Le Monde (21/11/2026)",
+  "source_url": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html",
+  "dataset_id": null,
+  "calc": "Pas de donnée publique pertinente (seuls jeux trouvés : temps de parole 2022 et voix par nuance aux législatives 2024, écartés car partisans). Post « une » seule, sans chiffre, à la demande de Geoffroy.",
+  "news_topic": "François Ruffin retire sa candidature à la présidentielle 2027",
+  "news_links": [
+    "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html",
+    "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html"
+  ],
+  "caption": "François Ruffin ne sera pas candidat à l'Élysée en 2027.\n\nIl a annoncé ce samedi retirer sa candidature à l'élection présidentielle. Il dit renoncer « face au risque » de l'arrivée de l'extrême droite au pouvoir, et souhaite « bonne campagne » aux candidats de gauche encore en lice.\n\nSource : franceinfo, Le Monde\nhttps://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html\nPhoto : Jamain, CC BY\n\n#statdefrance #actu #presidentielle2027 #ruffin #politique #election"
+}

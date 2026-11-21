@@ -6,6 +6,8 @@ Si le post a un champ « question », écrit aussi la slide finale du carrousel
 (<post>-fin.jpg : la question + abonne-toi / partage, même palette).
 Si le post a un champ « une » (créneaux actu), écrit aussi la slide d'ouverture
 (<post>-une.jpg : photo plein cadre + titre), à partir de la photo du champ « photo ».
+Si « template » vaut « une » (créneau actu sans donnée pertinente), seule la une est rendue,
+dans <post>.jpg : le post est publié en image seule, sans visuel ni slide finale.
 Option --planche : écrit aussi posts/_planche.jpg avec tous les visuels rendus.
 """
 import json, sys, re
@@ -40,7 +42,10 @@ def main(args):
         try:
             post = json.loads(p.read_text(encoding="utf-8"))
             check_caption(post)
-            im = render(post)
+            seule = post.get("template") == "une"   # créneau actu sans donnée : la une seule, sans carrousel
+            if seule and post.get("question"):
+                raise LayoutError("Post « une » seule : pas de « question » (pas de carrousel).")
+            im = None if seule else render(post)
             if post.get("une"):
                 photo = ROOT / post.get("photo", "")
                 if not post.get("photo") or not photo.is_file():
@@ -49,10 +54,14 @@ def main(args):
                     raise LayoutError("« photo_credit » manquant (ex. « Photo : Nom, CC0 »).")
                 if post["photo_credit"] not in post.get("caption", ""):
                     raise LayoutError("La légende doit reprendre « photo_credit » (ligne après la source).")
-                une = p.with_name(p.stem + "-une.jpg")
+                une = p.with_suffix(".jpg") if seule else p.with_name(p.stem + "-une.jpg")
                 render_une(post, photo).save(une, "JPEG", quality=94, optimize=True, progressive=True)
                 rendered.append(une)
-                print(f"OK      {p.name} → {une.name} (une)")
+                print(f"OK      {p.name} → {une.name} (une{' seule' if seule else ''})")
+                if seule:
+                    continue
+            elif seule:
+                raise LayoutError("Post « une » seule : champs « une » et « photo » obligatoires.")
             out = p.with_suffix(".jpg")
             im.save(out, "JPEG", quality=94, optimize=True, progressive=True)
             rendered.append(out)

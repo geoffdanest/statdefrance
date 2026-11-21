@@ -61,7 +61,20 @@ avec les différences ci-dessous.
    Préfère la donnée la plus récente ; si une édition plus récente existe mais a déjà servi,
    l'ancienne est acceptable à condition de dire son année.
 4. Le lien avec l'info doit sauter aux yeux. Si aucun jeu ne convient pour le sujet ni pour ses
-   réserves : **pas de post** (voir section 7).
+   réserves : **post « une » seule** (ci-dessous), ou pas de post si l'info elle-même pose doute.
+
+### Sans donnée pertinente : la une seule
+
+Quand l'info du moment est claire et publiable mais qu'aucun chiffre officiel ne l'éclaire, on
+publie **une image seule, sans carrousel** : la une (photo + titre), rien d'autre.
+- `template: "une"` ; pas de `question`, pas de `rows`/`pct`… ; `dataset_id: null` ; `calc`
+  explique pourquoi aucune donnée n'a été retenue.
+- `une` : 1re phrase = l'info ; 2e phrase = un fait vérifié de l'info (citation exacte entre
+  guillemets ou fait rapporté par au moins deux médias), jamais une opinion ni un chiffre non sourcé.
+- `source` : les médias lus, forme courte (« franceinfo, Le Monde (JJ/MM/AAAA) ») ; `source_url` :
+  l'article principal, cité dans la légende avec le crédit photo sur la ligne suivante.
+- Légende : 2 ou 3 phrases factuelles, reformulées ; hashtags sans `#opendata`.
+- Le rendu écrit directement `<post>.jpg` (la une) ; la publication le poste en image seule.
 
 ## 4. Trouver la photo
 
