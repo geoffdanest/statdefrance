@@ -1,0 +1,79 @@
+﻿"SCENARIO","TYPE_ALIMENT","Somme de VALEUR"
+"REF","Alcools",87.1
+"REF","Autres (sucres, plats préparés, boissons non alcoolisées)",290.8
+"REF","Boissons chaudes (café, thé, cacao)",635.9
+"REF","Céréales",189.3
+"REF","Fruits",325.2
+"REF","Huiles végétales",12.5
+"REF","Légumes",307.9
+"REF","Légumineuses et dérivés (substituts à base de soja)",23
+"REF","Poissons et fruits de mer",32
+"REF","Produits laitiers et œufs",301.9
+"REF","Viande porcine, charcuteries, abats et autres",66.43
+"REF","Viande ruminants (bovine et ovine)",68.67
+"REF","Viande volailles",25.6
+"S1","Alcools",63.06
+"S1","Autres (sucres, plats préparés, boissons non alcoolisées)",174.5
+"S1","Boissons chaudes (café, thé, cacao)",263.04
+"S1","Céréales",195.84
+"S1","Fruits",185.01
+"S1","Huiles végétales",25.28
+"S1","Légumes",397.57
+"S1","Légumineuses et dérivés (substituts à base de soja)",310.71
+"S1","Poissons et fruits de mer",18.57
+"S1","Produits laitiers et œufs",142.85
+"S1","Viande porcine, charcuteries, abats et autres",13.01
+"S1","Viande ruminants (bovine et ovine)",10.3
+"S1","Viande volailles",14.18
+"S2","Alcools",73.56
+"S2","Autres (sucres, plats préparés, boissons non alcoolisées)",177.36
+"S2","Boissons chaudes (café, thé, cacao)",247.07
+"S2","Céréales",193.41
+"S2","Fruits",204.65
+"S2","Huiles végétales",23.81
+"S2","Légumes",379.48
+"S2","Légumineuses et dérivés (substituts à base de soja)",204.83
+"S2","Poissons et fruits de mer",26.63
+"S2","Produits laitiers et œufs",175.24
+"S2","Viande porcine, charcuteries, abats et autres",22.81
+"S2","Viande ruminants (bovine et ovine)",18.29
+"S2","Viande volailles",20.54
+"S3","Alcools",79.61
+"S3","Autres (sucres, plats préparés, boissons non alcoolisées)",185.52
+"S3","Boissons chaudes (café, thé, cacao)",359.59
+"S3","Céréales",185.05
+"S3","Fruits",222.69
+"S3","Huiles végétales",23.16
+"S3","Légumes",358.17
+"S3","Légumineuses et dérivés (substituts à base de soja)",129.88
+"S3","Poissons et fruits de mer",30.76
+"S3","Produits laitiers et œufs",193.29
+"S3","Viande porcine, charcuteries, abats et autres",31.71
+"S3","Viande ruminants (bovine et ovine)",25.74
+"S3","Viande volailles",28.45
+"S4","Alcools",94.77
+"S4","Autres (sucres, plats préparés, boissons non alcoolisées)",180.54
+"S4","Boissons chaudes (café, thé, cacao)",564.56
+"S4","Céréales",193.59
+"S4","Fruits",297.83
+"S4","Huiles végétales",21.05
+"S4","Légumes",368.81
+"S4","Légumineuses et dérivés (substituts à base de soja)",63.56
+"S4","Poissons et fruits de mer",41.03
+"S4","Produits laitiers et œufs",245.72
+"S4","Viande porcine, charcuteries, abats et autres",45.17
+"S4","Viande ruminants (bovine et ovine)",37.19
+"S4","Viande volailles",28.97
+"TEND","Alcools",94.77
+"TEND","Autres (sucres, plats préparés, boissons non alcoolisées)",180.54
+"TEND","Boissons chaudes (café, thé, cacao)",564.56
+"TEND","Céréales",193.59
+"TEND","Fruits",297.83
+"TEND","Huiles végétales",21.05
+"TEND","Légumes",368.81
+"TEND","Légumineuses et dérivés (substituts à base de soja)",63.56
+"TEND","Poissons et fruits de mer",41.03
+"TEND","Produits laitiers et œufs",245.72
+"TEND","Viande porcine, charcuteries, abats et autres",45.17
+"TEND","Viande ruminants (bovine et ovine)",37.19
+"TEND","Viande volailles",28.97

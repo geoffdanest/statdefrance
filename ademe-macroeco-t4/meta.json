@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:macroeco-t4",
+  "title": "Macroéco T4. Agrégats macroéconomiques : S1 en écart au TEND",
+  "page": "https://data.ademe.fr/datasets/macroeco-t4",
+  "organization": "ADEME",
+  "description": "N.B. : Salaire net réel : hors cotisations employeurs et employés, unitaire. Coût réel du travail : y.c. cotisations employeurs et employés, unitaire. * *Revenu dispo réel de la population en MdEUR 2021* : en MdEUR * *Variation du taux d'épargne* : en Pts de revenu * *Emplois* en pourcentage et *Emplois (milliers)* en milliers * *Écart du taux de chômage* : en Pts pop. active * *Écart de la balance commerciale* : en Pts de PIB * *BC énergétique* : en Pts de PIB * *BC non énergétique* : en Pts de PIB * *Écart du solde public primaire* : en Pts de PIB * *Écart du solde public* : en Pts de PIB * *Écart de la dette publique* : en Pts de PIB Les autres valeurs sont en Pourcentage",
+  "resource_title": "Macroéco T4. Agrégats macroéconomiques : S1 en écart au TEND",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/macroeco-t4/lines?format=csv&size=10000",
+  "last_modified": "2022-12-15T14:52:26.615Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "salaire",
+  "query": "salaire",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

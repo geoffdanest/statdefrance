@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:k6mn7ea2ggsstdzd0r028ty4",
+  "title": "Alimentation humaine en 2050",
+  "page": "https://data.ademe.fr/datasets/k6mn7ea2ggsstdzd0r028ty4",
+  "organization": "ADEME",
+  "description": "",
+  "resource_title": "Alimentation humaine en 2050",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/k6mn7ea2ggsstdzd0r028ty4/lines?format=csv&size=10000",
+  "last_modified": "2026-10-14T12:24:36.545Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "alimentation",
+  "query": "alimentation",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_DERA_PUBLIC_ANNUEL",
+  "title": "Salaires dans la fonction publique par catégorie socioprofessionnelle détaillée",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DERA_PUBLIC_ANNUEL",
+  "organization": "Insee",
+  "description": "Les salaires nets en équivalent temps plein (EQTP) sont ventilées par catégorie socioprofessionnelle détaillée, sexe, tranche d’âge, versant de la fonction publique, statut de la fonction publique et temps de travail. Les effectifs mesurés en EQTP sont également disponibles pour chacune des catégories.\nChamp : France hors Mayotte, agents de la fonction publique, hors militaires, apprentis, contrats d’engagement du service public, internes et externes médicaux, assistants maternels et familiaux ; y compris contrats aidés.\nCertaines professions peuvent être exercées à la fois en tant que salariés du privé ou que salariés du public (par exemple médecin) ou encore en tant que non-salariés (par exemple avocat) ; pour ces professions, seuls les salariés exerçant dans le public ont été pris en compte. Les professions majoritairement exercées dans le privé ont par ailleurs été exclues du champ.\nCes données peuvent également être consultées dans l'outil de datavisualisation sur les salaires.",
+  "resource_title": "DS_DERA_PUBLIC_ANNUEL",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_DERA_PUBLIC_ANNUEL/DS_DERA_PUBLIC_ANNUEL_2023_CSV_FR",
+  "last_modified": "2025-12-04T15:00:42.838917009",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 3472,
+  "origin": "actu",
+  "label": "salaire",
+  "query": "salaire",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

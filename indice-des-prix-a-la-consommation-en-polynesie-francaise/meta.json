@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "68c22610f8dc1ce1a7530e75",
+  "title": "Indice des prix à la consommation en Polynésie française",
+  "page": "https://www.data.gouv.fr/datasets/indice-des-prix-a-la-consommation-en-polynesie-francaise",
+  "organization": "Institut de la statistique de la Polynésie française",
+  "description": "## L'indice des prix à la consommation\n\nDepuis 1981, l’ISPF est chargé du calcul de l’indice des prix à la consommation (IPC) qui est l’instrument de mesure de l’inflation en Polynésie française. Cet indicateur statistique officiel traduit l’augmentation, la baisse ou la stabilité des prix d’un mois sur l’autre, ou sur 12 mois glissants. Il est utilisé comme index de référence lors de la révision de contrats (loyers, pensions alimentaires, etc.) et pour fixer le montant du SMIG. Son calcul est normé et issu de la collecte de nombreux prix de produits et de services, à qualité constante, sur le territoire.\n\nLes prix des produits et des services collectés couvrent près de la totalité de la consommation des ménages : il s'agit des produits d'achat courant, auxquels il faut ajouter les produits de consommation durables (automobile neuve, lave-vaisselle, etc.) ainsi que les services utilisés par certains ménages (loyer, énergie, transports, entretien du logement, téléphonie mobile, médecins, enseignement, etc.). Tous les domaines sont concernés : alimentation, habillement, ameublement, santé, nouvelles technologies, loisirs et culture, transports, hôtellerie, restauration, protection sociale ou encore assurances. Chacun de ces postes de consommation des ménages retenus dans l'indice est pondéré à la hauteur de la part des dépenses correspondant à ce poste dans la dépense totale de la consommation des ménages (données issues de l’enquête Budget des familles). On obtient ainsi un in",
+  "resource_title": "Indice des prix à la consommation ouvrier et détaillé au niveau 1",
+  "resource_url": "https://static.data.gouv.fr/resources/indice-des-prix-a-la-consommation-en-polynesie-francaise/20261112-194635/10908.csv",
+  "last_modified": "2026-11-12T19:46:36.229000+00:00",
+  "license": "odc-odbl",
+  "origin": "actu",
+  "label": "prix à la consommation",
+  "query": "prix à la consommation",
+  "news": []
+}

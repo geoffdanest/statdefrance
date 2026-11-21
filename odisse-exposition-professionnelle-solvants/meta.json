@@ -1,0 +1,17 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:exposition-professionnelle-solvants",
+  "title": "Expositions professionnelles : Solvants",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/exposition-professionnelle-solvants/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la prévalence d’exposition professionnelle aux solvants dans la population active occupée sont estimés à l'aide d'une matrice emplois-exposition du programme Matgéné coordonné par Santé publique France. Solvants chlorés : Les données professionnelles disponibles dans le recensement de la population fourni par l'Insee ont été croisées avec la matrice \"exposition à au moins un solvant chloré\" développée au sein du programme Matgéné. Cette matrice évalue l'exposition professionnelle à au moins l'un des solvants chlorés suivants : le trichloroéthylène, le perchloroéthylène, le chlorure de méthylène, le tétrachlorure de carbone et le chloroforme. La matrice donne pour chaque emploi, défini comme un couple profession-secteur d'activité, une évaluation de l'exposition entre 1950 et 2007 à l'aide de deux indices d'exposition : la probabilité et le niveau d'exposition. Solvants pétroliers et carburants : Les données professionnelles disponibles dans le recensement de la population fourni par l'Insee ont été croisées avec la matrice \"exposition à au moins un solvant pétrolier ou carburant\" développée au sein du programme Matgéné. Cette matrice évalue l'exposition professionnelle à au moins l'un des solvants pétroliers ou carburants suivants : le benzène, l'essence carburant, le white-spirit et autres coupes légères aromatiques, les essences spéciales et autres solvants pétroliers aliphatiques, et les gasoil, fiouls et kérosène. La matrice donne pour chaque emploi, dé",
+  "resource_title": "Expositions professionnelles : Solvants",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/exposition-professionnelle-solvants/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-06-06T10:04:05+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "carburants",
+  "query": "carburants",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,17 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:jkt19xlxs-yorryez6om6fq7",
+  "title": "Evolution de la consommation totale d'électricité",
+  "page": "https://data.ademe.fr/datasets/jkt19xlxs-yorryez6om6fq7",
+  "organization": "ADEME",
+  "description": "",
+  "resource_title": "Evolution de la consommation totale d'électricité",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/jkt19xlxs-yorryez6om6fq7/lines?format=csv&size=10000",
+  "last_modified": "2026-10-14T14:42:07.248Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "électricité",
+  "query": "électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

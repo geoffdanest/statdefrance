@@ -1,0 +1,730 @@
+{
+  "generated_at": "2026-11-21T09:45:56.307911+00:00",
+  "keywords": [
+    "prix à la consommation",
+    "salaire",
+    "alimentation",
+    "électricité",
+    "carburants",
+    "loyers"
+  ],
+  "mode": "news",
+  "trends": [
+    {
+      "query": "james gray",
+      "traffic": "200+",
+      "news": [
+        "James Gray revient à la tragédie new-yorkaise avec \"Paper Tiger\"",
+        "Cinéma : on a vu « Paper Tiger », un polar délicat et violent de James Gray dans le New York des années 1980",
+        "James Gray aux sources du thriller"
+      ]
+    },
+    {
+      "query": "égypte",
+      "traffic": "100+",
+      "news": [
+        "En Égypte, des archéologues repèrent depuis l'espace un temple enfoui dans le sol depuis 2 500 ans : il contiendrait un trésor pharaonique",
+        "Une mystérieuse structure enfouie depuis 2.600 ans vient d'être repérée en Égypte depuis l'espace",
+        "Pour reprendre le contrôle de ses mines d’or, l’Égypte fait appel à un homme d’affaires sulfureux"
+      ]
+    },
+    {
+      "query": "impôt",
+      "traffic": "2000+",
+      "news": [
+        "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
+        "Régulariser les « impayés » des ultra-riches ruinerait l’économie, juge le gouvernement",
+        "La bataille culturelle pour taxer les ultrariches veut se réimposer à Paris"
+      ]
+    },
+    {
+      "query": "england vs australia",
+      "traffic": "200+",
+      "news": [
+        "Australia vs England LIVE: First T20, MCG, Melbourne - cricket score, commentary & updates",
+        "Australia v England: first men’s T20 cricket international – live",
+        "Harper and Shaw debut as Australia bowl, Crocombe debuts for England"
+      ]
+    },
+    {
+      "query": "nathalie péchalat",
+      "traffic": "100+",
+      "news": [
+        "Après avoir été honoré à Liège, Jean Dujardin officialise sa relation avec sa nouvelle compagne Aurélie Chaigneau",
+        "Jean Dujardin officialise avec sa nouvelle compagne Aurélie Chaigneau loin de la France",
+        "Qui est Aurélie Chaigneau, la nouvelle compagne de l'acteur Jean Dujardin ?"
+      ]
+    },
+    {
+      "query": "équipe de nouvelle zélande de rugby à xv",
+      "traffic": "1000+",
+      "news": [
+        "Un quintuplé avec l'Angleterre pour sa deuxième cape 4 ans après la première : Will Joseph, l'éloge de la patience",
+        "Championnat des Nations - À quelle heure et sur quelle chaîne voir le duel au sommet Angleterre - Nouvelle-Zélande",
+        "Les stats avant Angleterre - Nouvelle-Zélande - Rugby - Championnat des nations"
+      ]
+    },
+    {
+      "query": "maintien de l'ordre",
+      "traffic": "1000+",
+      "news": [
+        "Dissolution d'une unité de police, stratégie de désescalade... Comment Zohran Mamdani transforme le maintien de l'ordre à New York",
+        "A New York, Mamdani dissout une unité de police controversée",
+        "La pensée magique"
+      ]
+    },
+    {
+      "query": "claudia schiffer",
+      "traffic": "200+",
+      "news": [
+        "Bal des débutantes 2026 : Iris de Kersauson, petite-fille d’Olivier de Kersauson, sera la plus jeune participante",
+        "Bal des débutantes 2026 : qui sont les 19 participantes ?",
+        "Bal des débutantes 2026 au Shangri-La Paris : Clementine Vaughn, Iris de Kersauson… découvrez les 20 candidates de la prestigieuse cérémonie"
+      ]
+    },
+    {
+      "query": "culture générale",
+      "traffic": "2000+",
+      "news": [
+        "Avez-vous autant de culture G que les candidates Miss France ?",
+        "« Je regarde les 12 Coups de midi, ça aide » : les candidates à Miss France 2027 débriefent le test de culture générale",
+        "Les nouveaux profils des Miss"
+      ]
+    },
+    {
+      "query": "confédération générale du travail",
+      "traffic": "1000+",
+      "news": [
+        "« Les employeurs jouent la montre » : les syndicats relancent la mobilisation pour le pouvoir d'achat dans le privé et le public",
+        "Nouvelle journée de grève dans la fonction publique le 1ᵉʳ décembre ; la CFDT, la CGT et l’UNSA appellent les salariés du privé à se joindre au mouvement",
+        "Colère sociale : Un nouvel appel à la grève pour le mardi 1er décembre dans la fonction publique"
+      ]
+    }
+  ],
+  "wiki_top": [
+    {
+      "article": "Dominique de Villepin",
+      "views": 98388
+    },
+    {
+      "article": "Liste de sondages sur l'élection présidentielle française de 2027",
+      "views": 50406
+    },
+    {
+      "article": "Hugues Moutouh",
+      "views": 40983
+    },
+    {
+      "article": "David Habib",
+      "views": 37553
+    },
+    {
+      "article": "Hypothèse de Riemann",
+      "views": 35396
+    },
+    {
+      "article": "Grand Theft Auto VI",
+      "views": 27333
+    },
+    {
+      "article": "Michael Jackson",
+      "views": 24753
+    },
+    {
+      "article": "La Vie et rien d'autre",
+      "views": 24676
+    },
+    {
+      "article": "Jairo (chanteur)",
+      "views": 23195
+    },
+    {
+      "article": "Alain Afflelou (entrepreneur)",
+      "views": 21336
+    },
+    {
+      "article": "Thierry Le Luron",
+      "views": 18539
+    },
+    {
+      "article": "Compartiment tueurs",
+      "views": 16905
+    },
+    {
+      "article": "David Lisnard",
+      "views": 16824
+    },
+    {
+      "article": "General Sherman (arbre)",
+      "views": 16463
+    },
+    {
+      "article": "Affaire Michel Zecler",
+      "views": 16451
+    },
+    {
+      "article": "Thalasso (film)",
+      "views": 16322
+    },
+    {
+      "article": "Grand Theft Auto",
+      "views": 15795
+    },
+    {
+      "article": "Hunger Games (série de films)",
+      "views": 14952
+    },
+    {
+      "article": "Aliocha Schneider",
+      "views": 14338
+    },
+    {
+      "article": "Jaafar Jackson",
+      "views": 14012
+    },
+    {
+      "article": "Nana Mouskouri",
+      "views": 13368
+    },
+    {
+      "article": "Élisabeth de Wittelsbach",
+      "views": 13161
+    },
+    {
+      "article": "Jean-Luc Mélenchon",
+      "views": 12768
+    },
+    {
+      "article": "Nicole Croisille",
+      "views": 11606
+    },
+    {
+      "article": "Robert Pattinson",
+      "views": 11382
+    },
+    {
+      "article": "Philosophie de l'esprit",
+      "views": 11320
+    },
+    {
+      "article": "Sylvain Durif",
+      "views": 10859
+    },
+    {
+      "article": "Hunger Games : Lever de soleil sur la moisson (film)",
+      "views": 10784
+    },
+    {
+      "article": "France Gall",
+      "views": 10222
+    },
+    {
+      "article": "Affaire des Avions renifleurs",
+      "views": 9638
+    },
+    {
+      "article": "XNXX",
+      "views": 9529
+    },
+    {
+      "article": "XXX",
+      "views": 9154
+    },
+    {
+      "article": "Mascarade (film, 2022)",
+      "views": 8937
+    },
+    {
+      "article": "Enrico Macias",
+      "views": 8936
+    },
+    {
+      "article": "Joseph Jackson",
+      "views": 8844
+    },
+    {
+      "article": "Lola Dewaere",
+      "views": 8805
+    },
+    {
+      "article": "Georges-Alain Jones",
+      "views": 8798
+    },
+    {
+      "article": "Ayọ",
+      "views": 8683
+    },
+    {
+      "article": "Maritie et Gilbert Carpentier",
+      "views": 8597
+    },
+    {
+      "article": "Michel Houellebecq",
+      "views": 8596
+    }
+  ],
+  "by_source": {
+    "data.gouv": 2,
+    "insee": 6,
+    "odre": 1,
+    "sncf": 2,
+    "odisse": 2,
+    "ademe": 3
+  },
+  "actu_by_source": {
+    "data.gouv": 2,
+    "insee": 6,
+    "odre": 1,
+    "sncf": 2,
+    "odisse": 2,
+    "ademe": 3
+  },
+  "headlines": [
+    {
+      "title": "Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère, pour le sixième samedi d'affilée",
+      "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Eric Zemmour lance sa campagne pour l'élection présidentielle avec un meeting à Toulon",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Christine Lagarde, un recours pour la droite et le centre à l’élection présidentielle ?",
+      "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/christine-lagarde-un-recours-pour-la-droite-et-le-centre-a-l-election-presidentielle_8271749.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Serge Money, avocat de Michel Zecler, salue une \"décision historique\" mais les peines \"laissent un petit goût amer\"",
+      "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/serge-money-avocat-de-michel-zecler-salue-une-decision-historique-mais-les-peines-laissent-un-petit-gout-amer_8293472.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Des campagnes d'attaques de plus en plus automatisées\" : comment les cybercriminels ont placé l'intelligence artificielle au cœur de leurs opérations",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-campagnes-d-attaques-de-plus-en-plus-automatisees-comment-les-cybercriminels-ont-place-l-intelligence-artificielle-au-c-ur-de-leurs-operations_8292092.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Ballon d'or Harry Kane, blessé à la cheville, sera absent plusieurs mois selon l'entraîneur du Bayern Munich Vincent Kompany",
+      "link": "https://www.franceinfo.fr/sports/foot/harry-kane/le-ballon-d-or-harry-kane-blesse-a-la-cheville-sera-absent-plusieurs-mois-selon-l-entraineur-du-bayern-munich-vincent-kompany_8293541.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère samedi et dimanche",
+      "link": "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?",
+      "link": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Max Verstappen partira en pole position du GP de Las Vegas, le champion du monde Kimi Antonelli écope d'une pénalité",
+      "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/max-verstappen-partira-en-pole-position-du-gp-de-las-vegas-le-champion-du-monde-kimi-antonelli-ecope-d-une-penalite_8293505.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Face à une Argentine toujours imprévisible, le XV de France veut finir le travail et valider son billet pour la finale du Championnat des nations",
+      "link": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/face-a-une-argentine-toujours-imprevisible-le-xv-de-france-veut-finir-le-travail-et-valider-son-billet-pour-la-finale-du-championnat-des-nations_8292017.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Un policier condamné à 18 mois de prison ferme pour un tir mortel sur un automobiliste noir en Seine-Saint-Denis",
+      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/un-policier-condamne-a-18-mois-de-prison-ferme-pour-un-tir-mortel-sur-un-automobiliste-noir-en-seine-saint-denis_8293448.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les négociations se prolongent samedi à la COP31, faute d'accord sur les textes les plus disputés",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/les-negociations-se-prolongent-samedi-a-la-cop31-faute-d-accord-sur-les-textes-les-plus-disputes_8293427.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Black Week, Cyber Monday, Black Month… Pourquoi les commerçants n'attendent-ils plus le Black Friday pour casser les prix ?",
+      "link": "https://www.franceinfo.fr/economie/black-week-cyber-monday-black-month-pourquoi-les-commercants-n-attendent-ils-plus-le-black-friday-pour-casser-les-prix_8284550.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Présomption d’usage légal des armes par les forces de l’ordre : \"Ce n'est en aucun cas un permis de tuer\", estime le syndicat Unsa Police",
+      "link": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Les ventes de \"GTA VI\" ont généré 3,79 milliards de dollars le jour de sa sortie, selon l'éditeur du jeu vidéo",
+      "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/les-ventes-de-gta-vi-ont-atteint-3-79-milliards-de-dollars-le-jour-de-sa-sortie-selon-l-editeur-du-jeu-video_8292920.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Les médias ont clairement été le déclencheur\" : en République tchèque, une réforme de l'audiovisuel public à l'origine d'une vaste mobilisation",
+      "link": "https://www.franceinfo.fr/monde/europe/reportage-les-medias-ont-clairement-ete-le-declencheur-en-republique-tcheque-une-reforme-de-l-audiovisuel-public-a-l-origine-d-une-vaste-mobilisation_8292938.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat",
+      "link": "https://www.franceinfo.fr/faits-divers/pyrenees-atlantiques-le-mari-de-laure-zacchello-disparue-depuis-deux-ans-est-desormais-mis-en-examen-pour-assassinat_8293466.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Guerre en Ukraine : Emmanuel Macron dénonce un \"agenda agressif\" de la Russie, après une série d'\"incidents graves\", notamment en Pologne et au Danemark",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
+      "link": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Jupiter\", \"Hunger Games\", \"Gabin\"... Quels sont les films à voir (ou pas) cette semaine au cinéma ?",
+      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/jupiter-hunger-games-gabin-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8290559.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Une bulle dans le quotidien\" : comment le \"splunch\", mi-spa, mi lunch, relance la fréquentation de l'hôtellerie de luxe",
+      "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-une-bulle-dans-le-quotidien-comment-le-splunch-mi-spa-mi-lunch-relance-la-frequentation-de-l-hotellerie-de-luxe_8271737.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
+      "link": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
+      "link": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\"",
+      "link": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/face-a-l-essoufflement-du-mouvement-des-gilets-jaunes-appellent-a-trouver-d-autres-moyens-d-action_8293499.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
+      "link": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ?",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Mèmes, montages vidéo et propositions électorales… Quand les politiques s'emparent de la sortie de \"GTA VI\"",
+      "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/mmes-montages-video-et-propositions-electorales-quand-les-politiques-s-emparent-de-la-sortie-de-gta-vi_8289689.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Pas-de-Calais maintenu en vigilance orange aux crues samedi, la Canche a atteint son maximum",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-pas-de-calais-maintenu-en-vigilance-orange-aux-crues-samedi-la-canche-a-atteint-son-maximum_8293436.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/21/l-explosion-de-l-extreme-richesse-constitue-le-fait-social-majeur-de-notre-temps-le-manifeste-de-plus-de-110-intellectuels-contre-l-oligarchie_6813943_3232.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+      "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
+      "link": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "L’écrivaine et réalisatrice québécoise Anaïs Barbeau-Lavalette : « Le fait que je sois mortelle m’habite. C’est très vivifiant et ça fait de moi une femme qui prend des risques »",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/l-ecrivaine-et-realisatrice-quebecoise-anais-barbeau-lavalette-le-fait-que-je-sois-mortelle-m-habite-c-est-tres-vivifiant-et-ca-fait-de-moi-une-femme-qui-prend-des-risques_6813917_4500055.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’histoire",
+      "link": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : deux morts et 47 blessés dans des frappes russes sur Kryvy Rih, ville natale de Volodymyr Zelensky",
+      "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Alexander Zverev, un numéro un mondial en mal de reconnaissance et de légitimité aux Finales ATP",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/21/alexander-zverev-un-numero-un-mondial-en-mal-de-reconnaissance-et-de-legitimite-aux-finales-atp_6813957_3242.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Inondations dans le Pas-de-Calais : la Canche reste en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "De retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping",
+      "link": "https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Quelles précautions prendre quand on prête une somme d’argent à un proche ?",
+      "link": "https://www.lemonde.fr/argent/article/2026/11/21/quelles-precautions-prendre-quand-on-prete-une-somme-d-argent-a-un-proche_6813921_1657007.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "48 heures à Szeged, bijou de l’Empire austro-hongrois",
+      "link": "https://www.lemonde.fr/m-styles/article/2026/11/21/48-heures-a-szeged-bijou-de-l-empire-austro-hongrois_6813911_4497319.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Bernabé Malacalza, géopolitologue : « Il existe une construction narrative complotiste autour de l’influence chinoise en Amérique latine »",
+      "link": "https://www.lemonde.fr/international/article/2026/11/20/bernabe-malacalza-geopolitologue-il-existe-une-construction-narrative-complotiste-autour-de-l-influence-chinoise-en-amerique-latine_6813679_3210.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "« Une entrave à la liberté »… A Perpignan, les manifestants interdits de centre-ville depuis plus d’un mois",
+      "link": "https://www.20minutes.fr/societe/4264342-20261121-entrave-liberte-perpignan-manifestants-interdits-centre-ville-depuis-plus-mois?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Les ados aussi ont leurs propres sujets »… « Vies de famille » s’installe dans les foyers sur France 4",
+      "link": "https://www.20minutes.fr/arts-stars/television/4264142-20261120-ados-aussi-propres-sujets-vies-famille-installe-foyers-france-4?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Six ans après l’agression de Michel Zecler, les trois policiers condamnés à des peines de 1 à 2 ans de prison ferme",
+      "link": "https://www.20minutes.fr/justice/4264385-20261120-six-ans-apres-agression-michel-zecler-trois-policiers-condamnes-peines-1-2-ans-prison-ferme?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Etats-Unis : Trump adoube Miller comme futur président, gros tacle à Rubio et Vance",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4264619-20261121-etats-unis-trump-adoube-miller-comme-futur-president-gros-tacle-rubio-vance?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Artemis », « Amoco Cadiz », « Tresta Star »… Ces bateaux échoués qui ont marqué les esprits en France",
+      "link": "https://www.20minutes.fr/societe/4264465-20261120-artemis-amoco-cadiz-tresta-star-bateaux-echoues-marque-esprits-france?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Qui est Philomena Cunk, la folle furieuse qui défonce le Septième Art à coups de punchlines sur Netflix ?",
+      "link": "https://www.20minutes.fr/arts-stars/serie/4263534-20261121-philomena-cunk-folle-furieuse-defonce-septieme-art-coups-punchlines-netflix?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Star Academy 2026 : Elles imitent Georges-Alain devant lui sur Las Ketchup, « La boucle est bouclée »",
+      "link": "https://www.20minutes.fr/arts-stars/television/4264606-20261121-star-academy-2026-elles-imitent-georges-alain-devant-las-ketchup-boucle-bouclee?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "À Shenzhen, au Kremlin ou à New York, pourquoi les tables de négociations internationales sont-elles toujours immenses ?",
+      "link": "https://www.20minutes.fr/monde/4264365-20261120-shenzhen-kremlin-new-york-pourquoi-tables-negociations-internationales-elles-toujours-immenses?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Etats-Unis : Trump ne veut pas de centres de données américains à l’étranger et souhaite le retour du patron de Nvidia",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4264603-20261121-etats-unis-trump-veut-centres-donnees-americains-etranger-souhaite-retour-patron-nvidia?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Miss France 2027 : Le test de culture générale est tombé, à vous de jouer (sans tricher)",
+      "link": "https://www.20minutes.fr/arts-stars/television/miss_france/4263531-20261120-miss-france-2027-test-culture-generale-tombe-jouer-tricher?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Seine-Saint-Denis : L’ex-policier de la BAC condamné à 18 mois de prison ferme pour avoir tué un automobiliste",
+      "link": "https://www.20minutes.fr/justice/4264618-20261121-seine-saint-denis-ex-policier-bac-condamne-18-mois-prison-ferme-avoir-tue-automobiliste?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "GTA 6 : Les ventes atteignent un record de 3,79 milliards de dollars en 24 heures",
+      "link": "https://www.20minutes.fr/gaming/jeux_video/4264602-20261120-gta-6-ventes-atteignent-record-3-79-milliards-dollars-24-heures?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "En images : Tous les principaux candidats déclarés à l’élection présidentielle 2027",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4181125-images-tous-candidats-declares-election-presidentielle-2027-ceux-pensent-tres-fort?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "Airbnb : Poubelles, ménage… Ces nouvelles règles qui réjouissent les locataires et font hurler les propriétaires",
+      "link": "https://www.20minutes.fr/societe/4264588-20261120-airbnb-poubelles-menage-nouvelles-regles-rejouissent-locataires-font-hurler-proprietaires?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "title": "« Je n’aime plus sortir, je n’aime plus le bruit », assure Camille Lellouche qui sort « Minuit », son troisième album",
+      "link": "https://www.20minutes.fr/arts-stars/culture/musique/4263794-20261120-aime-plus-sortir-aime-plus-bruit-assure-camille-lellouche-sort-minuit-troisieme-album?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "datasets": [
+    {
+      "dataset_id": "68c22610f8dc1ce1a7530e75",
+      "title": "Indice des prix à la consommation en Polynésie française",
+      "organization": "Institut de la statistique de la Polynésie française",
+      "origin": "actu",
+      "label": "prix à la consommation",
+      "source": "data.gouv",
+      "dir": "indice-des-prix-a-la-consommation-en-polynesie-francaise"
+    },
+    {
+      "dataset_id": "6751be987c09f4be821c6934",
+      "title": "\"Carte des loyers\" - Indicateurs de loyers d'annonce par commune en 2024",
+      "organization": "Ministère de la Transition écologique",
+      "origin": "actu",
+      "label": "loyers",
+      "source": "data.gouv",
+      "dir": "carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024"
+    },
+    {
+      "dataset_id": "insee:DS_IPC_IND_CAT",
+      "title": "Indice des prix à la consommation - indices catégoriels",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "prix à la consommation",
+      "source": "insee",
+      "dir": "insee-ds_ipc_ind_cat"
+    },
+    {
+      "dataset_id": "insee:DS_IPCH",
+      "title": "Indice des prix à la consommation harmonisés (IPCH)",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "prix à la consommation",
+      "source": "insee",
+      "dir": "insee-ds_ipch"
+    },
+    {
+      "dataset_id": "insee:DS_DERA_PUBLIC_ANNUEL",
+      "title": "Salaires dans la fonction publique par catégorie socioprofessionnelle détaillée",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "salaire",
+      "source": "insee",
+      "dir": "insee-ds_dera_public_annuel"
+    },
+    {
+      "dataset_id": "insee:DS_DERA_PUBLIC_SERIES_LONGUES",
+      "title": "Séries longues des salaires dans la fonction publique ",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "salaire",
+      "source": "insee",
+      "dir": "insee-ds_dera_public_series_longues"
+    },
+    {
+      "dataset_id": "insee:DS_RP_LOGEMENT_DOM_PRINC",
+      "title": "Logements dans les départements d'Outre-mer (DOM) - Principaux indicateurs (dossier complet)",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "insee",
+      "dir": "insee-ds_rp_logement_dom_princ"
+    },
+    {
+      "dataset_id": "insee:DS_COMPTES_REGIONAUX",
+      "title": "Comptes régionaux annuels",
+      "organization": "Insee",
+      "origin": "actu",
+      "label": "loyers",
+      "source": "insee",
+      "dir": "insee-ds_comptes_regionaux"
+    },
+    {
+      "dataset_id": "odre:production-nette-nucleaire",
+      "title": "Production nucléaire",
+      "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "odre",
+      "dir": "odre-production-nette-nucleaire"
+    },
+    {
+      "dataset_id": "sncf:sncf-transilien-gtfs",
+      "title": "Horaires des lignes Transilien",
+      "organization": "SNCF",
+      "origin": "actu",
+      "label": "alimentation",
+      "source": "sncf",
+      "dir": "sncf-sncf-transilien-gtfs"
+    },
+    {
+      "dataset_id": "sncf:emission-co2-perimetre-usage",
+      "title": "Émissions de CO2e - périmètre usage",
+      "organization": "SNCF",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "sncf",
+      "dir": "sncf-emission-co2-perimetre-usage"
+    },
+    {
+      "dataset_id": "odisse:sum-eau-indicateurs",
+      "title": "SUM'eau : Surveillance du COVID-19 dans les eaux usées",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "alimentation",
+      "source": "odisse",
+      "dir": "odisse-sum-eau-indicateurs"
+    },
+    {
+      "dataset_id": "odisse:exposition-professionnelle-solvants",
+      "title": "Expositions professionnelles : Solvants",
+      "organization": "Santé publique France",
+      "origin": "actu",
+      "label": "carburants",
+      "source": "odisse",
+      "dir": "odisse-exposition-professionnelle-solvants"
+    },
+    {
+      "dataset_id": "ademe:macroeco-t4",
+      "title": "Macroéco T4. Agrégats macroéconomiques : S1 en écart au TEND",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "salaire",
+      "source": "ademe",
+      "dir": "ademe-macroeco-t4"
+    },
+    {
+      "dataset_id": "ademe:k6mn7ea2ggsstdzd0r028ty4",
+      "title": "Alimentation humaine en 2050",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "alimentation",
+      "source": "ademe",
+      "dir": "ademe-k6mn7ea2ggsstdzd0r028ty4"
+    },
+    {
+      "dataset_id": "ademe:jkt19xlxs-yorryez6om6fq7",
+      "title": "Evolution de la consommation totale d'électricité",
+      "organization": "ADEME",
+      "origin": "actu",
+      "label": "électricité",
+      "source": "ademe",
+      "dir": "ademe-jkt19xlxs-yorryez6om6fq7"
+    }
+  ]
+}

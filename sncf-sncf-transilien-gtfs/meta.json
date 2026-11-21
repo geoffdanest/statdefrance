@@ -1,0 +1,17 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:sncf-transilien-gtfs",
+  "title": "Horaires des lignes Transilien",
+  "page": "https://ressources.data.sncf.com/explore/dataset/sncf-transilien-gtfs/",
+  "organization": "SNCF",
+  "description": "Information importante concernant le changement de format de l’offre de transport Afin de se mettre en conformité avec les exigences réglementaires de la loi LOM, des évolutions importantes sont mises en place depuis juillet 2021 : Une alimentation quotidienne de l’offre de transport Transilien ; La mise en place de nouveaux référentiels (ILICO, ICAR) ; Une nouvelle structure de l’offre ; Et de fait, un changement au niveau des formats de mise à disposition de l’offre de transport sur l’open data via, en plus de la fourniture d'un format GTFS, d'un format NeTEx qui est le format de référence défini au niveau européen. Vous trouverez ci-dessous quelques éléments explicatifs : Télécharger au format pptx . Télécharger au format pdf . Le fichier GTFS est disponible ici : https://eu.ftp.opendatasoft.com/sncf/gtfs/transilien-gtfs.zip Le fichier au format NeTEX est disponible ici : https://eu.ftp.opendatasoft.com/sncf/gtfs/transilien-netexfr.zip Le fichier de transcodification (V8) est téléchargeable en pièce jointe. En cas de question, v ous pouvez nous contacter à l'adresse mail suivante : LD.OpenData-Transilien@sncf.fr",
+  "resource_title": "Horaires des lignes Transilien",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/sncf-transilien-gtfs/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-08T05:30:03+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "alimentation",
+  "query": "alimentation",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

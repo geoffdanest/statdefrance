@@ -1,0 +1,17 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:sum-eau-indicateurs",
+  "title": "SUM'eau : Surveillance du COVID-19 dans les eaux usées",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/sum-eau-indicateurs/",
+  "organization": "Santé publique France",
+  "description": "Un dispositif de surveillance des eaux usées (SUM’eau) a été initié pendant la pandémie de Covid-19 afin de détecter la présence de génome du SARS-CoV-2 en population générale et de suivre les tendances de la circulation virale au sein de la population. Les données de la surveillance permettent de produire des indicateurs de suivi du SARS-CoV-2 dans les eaux usées. Les indicateurs sont actualisés selon une fréquence hebdomadaire et disponibles à partir de la semaine 30 – 2022 (semaine débutant au 25/07/2022) Précisions : Le dispositif a été initié sous l’impulsion de la direction générale de la santé (Ministère chargé de la Santé) et de la direction de l’eau et de la biodiversité (Ministère chargé de l’écologie) avec l’appui technique et scientifique des agences sanitaires (Santé publique France, Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail). Les données proposées permettent d’estimer la tendance de circulation du virus SARS-CoV-2 dans les eaux usées au sein de 54 collectivités. Les indicateurs de suivi du SARS-CoV-2 dans les eaux usées sont calculés à partir du ratio entre la concentration virale de SARS-CoV-2 (exprimée en cg/L et quantification réalisée à partir du gène E) et la concentration en azote ammoniacal (exprimée en mg de N/L). Les résultats font ensuite l’objet d’un lissage par un modèle GAM hiérarchique (Generalized Additive Model). Cette approche intègre à la fois une tendance d’ensemble et les variations propres à c",
+  "resource_title": "SUM'eau : Surveillance du COVID-19 dans les eaux usées",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/sum-eau-indicateurs/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-18T11:30:04+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "alimentation",
+  "query": "alimentation",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

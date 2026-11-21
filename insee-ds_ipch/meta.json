@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_IPCH",
+  "title": "Indice des prix à la consommation harmonisés (IPCH)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPCH",
+  "organization": "Insee",
+  "description": "L'indice des prix à la consommation harmonisé (IPCH) est l'indicateur permettant d'apprécier le respect du critère de convergence portant sur la stabilité des prix, dans le cadre du traité de l'Union européenne (UE), traité de Maastricht. Pour la France, le territoire national économique comprend la France métropolitaine et les départements et région d'outre-mer (Drom), à l'exclusion des autres territoires de l'outre-mer. Cet indice est conçu expressément à des fins de comparaison internationale, en harmonisant les méthodes et le contenu pour tous les États membres.",
+  "resource_title": "DS_IPCH",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_IPCH/DS_IPCH_CSV_FR",
+  "last_modified": "2026-09-30T08:45:43.847363793",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 173095,
+  "origin": "actu",
+  "label": "prix à la consommation",
+  "query": "prix à la consommation",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}
