@@ -127,7 +127,11 @@ qui frappe, jamais une opinion. La crédibilité (source officielle, chiffre exa
 - L'accroche la plus forte reste **vraie mot pour mot**, sans dépasser ce que dit la donnée.
 
 **Engageant : la question au lecteur**
-- Chaque légende se termine (avant la source) par **une question courte** qui donne envie de
+- Chaque post est un **carrousel de 2 slides** : le visuel, puis une slide finale à mise en
+  page fixe (la question en très gros, « Réponds en commentaire », abonne-toi / partage).
+  La question s'écrit dans le champ `question` ; le rendu fabrique la slide `<post>-fin.jpg`.
+  Elle tient en 3 lignes maximum sur la slide (viser 2 à 8 mots) et finit par « ? ».
+- La même question termine la légende (avant la source) : **une question courte** qui donne envie de
   répondre en commentaire.
 - Préférer les questions auxquelles on répond en **un mot ou un chiffre** : « Normal ou pas ? »,
   « Ça vous choque ? », « Tu paies combien chez toi ? », « Tu la prends, cette ligne ? »,
@@ -151,7 +155,7 @@ qui frappe, jamais une opinion. La crédibilité (source officielle, chiffre exa
 2. 2 ou 3 phrases courtes : le chiffre en clair (avec l'année), la comparaison qui surprend,
    puis l'actu seulement si le lien est évident (reformulé, jamais copié d'un article).
 3. Optionnel : une seule ligne « À noter : … » pour la précaution de méthode indispensable.
-4. La question au lecteur, seule sur sa ligne.
+4. La question au lecteur (texte identique au champ `question`), seule sur sa ligne.
 5. `Source : <producteur>, « <titre du jeu> », data.gouv.fr` puis l'URL de la page du jeu.
    Pour les autres sources : `Source : <organization de meta.json>, « <titre du jeu> »`
    puis l'URL `page` de `meta.json` (ex. catalogue Insee, data.education.gouv.fr, odre…).
@@ -162,7 +166,7 @@ qui frappe, jamais une opinion. La crédibilité (source officielle, chiffre exa
 Deux fichiers par jour (voir `examples/`) : `posts/AAAA-MM-JJ.json` (matin, publié à 9h) et
 `posts/AAAA-MM-JJ-soir.json` (soir, publié à 18h). Champs communs obligatoires :
 `date, theme, palette, template, num, source, source_url, dataset_id, caption`, plus
-`slot` (`"matin"` ou `"soir"`), `status: "draft"` et `calc` : un court texte qui décrit le calcul (colonnes, filtres, résultat
+`slot` (`"matin"` ou `"soir"`), `question` (slide finale du carrousel, voir section 4), `status: "draft"` et `calc` : un court texte qui décrit le calcul (colonnes, filtres, résultat
 brut) pour que la vérification soit possible.
 `dataset_id` et `source_url` se recopient tels quels depuis `meta.json` (`dataset_id` et `page`) :
 hors data.gouv, `dataset_id` est préfixé par la source (`insee:DS_…`, `sncf:…`, `ademe:…`).

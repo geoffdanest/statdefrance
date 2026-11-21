@@ -7,6 +7,9 @@ aucun horaire propre. Chaque passage publie les créneaux du jour dont l'heure e
 atteinte et pas encore publiés. Un post n'est publié que si son statut est
 « validated » (validé par toi dans Claude). Après publication : statut
 « published » + lien du post Instagram, enregistrés dans le JSON.
+Si le post a une « question » et sa slide finale (<post>-fin.jpg), il est publié en
+carrousel [visuel, slide finale]. Si Instagram refuse le carrousel, le visuel seul est
+publié, pour ne jamais rater un créneau.
 
 Variables d'environnement (secrets GitHub) :
   IG_USER_ID       identifiant du compte Instagram professionnel
@@ -36,14 +39,28 @@ def graph(method, path, **params):
     return r.json()
 
 
-def publish(image_url, caption):
-    uid = os.environ["IG_USER_ID"]
-    container = graph("POST", f"{uid}/media", image_url=image_url, caption=caption)["id"]
+def wait_ready(container):
     for _ in range(30):  # Instagram télécharge et traite l'image
         st = graph("GET", container, fields="status_code").get("status_code")
-        if st == "FINISHED": break
+        if st == "FINISHED": return
         if st in ("ERROR", "EXPIRED"): raise RuntimeError(f"Conteneur Instagram en échec : {st}")
         time.sleep(4)
+    raise RuntimeError("Conteneur Instagram pas prêt après 2 minutes.")
+
+
+def publish(image_url, caption, extra_urls=()):
+    """Publie une image, ou un carrousel si extra_urls contient d'autres images."""
+    uid = os.environ["IG_USER_ID"]
+    if extra_urls:
+        children = []
+        for url in (image_url, *extra_urls):
+            c = graph("POST", f"{uid}/media", image_url=url, is_carousel_item="true")["id"]
+            wait_ready(c); children.append(c)
+        container = graph("POST", f"{uid}/media", media_type="CAROUSEL",
+                          children=",".join(children), caption=caption)["id"]
+    else:
+        container = graph("POST", f"{uid}/media", image_url=image_url, caption=caption)["id"]
+    wait_ready(container)
     media = graph("POST", f"{uid}/media_publish", creation_id=container)["id"]
     link = graph("GET", media, fields="permalink").get("permalink", "")
     return media, link
@@ -67,11 +84,20 @@ def publish_slot(day, name, suffix, now, dry):
         log(f"[{name}] ERREUR : visuel manquant {img.name}"); return 1
     repo = os.environ.get("GITHUB_REPOSITORY", "pseudo/statdefrance")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
-    image_url = f"https://raw.githubusercontent.com/{repo}/{branch}/posts/{img.name}"
-    log(f"[{name}] Publication du {day} ({post['template']}, {post['palette']}) depuis {image_url}")
+    base = f"https://raw.githubusercontent.com/{repo}/{branch}/posts/"
+    image_url = base + img.name
+    fin = f.with_name(f.stem + "-fin.jpg")
+    extra = [base + fin.name] if post.get("question") and fin.exists() else []
+    kind = "carrousel" if extra else "image seule"
+    log(f"[{name}] Publication du {day} ({post['template']}, {post['palette']}, {kind}) depuis {image_url}")
     if dry:
         log("[simulation] Instagram non appelé."); return 0
-    media, link = publish(image_url, post["caption"])
+    try:
+        media, link = publish(image_url, post["caption"], extra)
+    except RuntimeError as e:
+        if not extra: raise
+        log(f"[{name}] Carrousel refusé ({e}) : publication du visuel seul.")
+        media, link = publish(image_url, post["caption"])
     post.update(status="published", ig_media_id=media, ig_permalink=link, published_at=now.isoformat())
     f.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     log(f"[{name}] Publié : {link}")

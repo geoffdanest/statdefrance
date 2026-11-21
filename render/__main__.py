@@ -2,12 +2,15 @@
 
 Pour chaque post : vérifie le contenu, compose le visuel, écrit le JPEG à côté
 du JSON (Instagram n'accepte que le JPEG). Code de sortie 1 si un post échoue.
+Si le post a un champ « question », écrit aussi la slide finale du carrousel
+(<post>-fin.jpg : la question + abonne-toi / partage, même palette).
 Option --planche : écrit aussi posts/_planche.jpg avec tous les visuels rendus.
 """
 import json, sys, re
 from pathlib import Path
 from PIL import Image
 from .templates import render, LayoutError, W, H
+from .cta import render_cta
 
 
 def check_caption(post):
@@ -19,6 +22,9 @@ def check_caption(post):
         raise LayoutError(f"{len(tags)} hashtags (max 30).")
     if post["source_url"] not in cap:
         raise LayoutError("La légende doit citer l'URL de la source (source_url).")
+    q = post.get("question")
+    if q and q.strip() not in cap:
+        raise LayoutError("La légende doit reprendre la « question » (seule sur sa ligne, avant la source).")
 
 
 def main(args):
@@ -34,6 +40,11 @@ def main(args):
             im.save(out, "JPEG", quality=94, optimize=True, progressive=True)
             rendered.append(out)
             print(f"OK      {p.name} → {out.name}")
+            if post.get("question"):
+                fin = p.with_name(p.stem + "-fin.jpg")
+                render_cta(post["palette"], post["question"]).save(fin, "JPEG", quality=94, optimize=True, progressive=True)
+                rendered.append(fin)
+                print(f"OK      {p.name} → {fin.name} (slide finale)")
         except LayoutError as e:
             ok = False; print(f"ERREUR  {p.name} : {e}")
         except (KeyError, ValueError, json.JSONDecodeError) as e:
