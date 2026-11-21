@@ -179,7 +179,16 @@ def trusted(ds):
     return bool(badges & TRUSTED_BADGES) if "badges" in org else True
 
 
+def electoral(ds):
+    """Résultats et candidatures publiés par le ministère de l'Intérieur : pas de limite d'âge
+    (une présidentielle n'a lieu que tous les 5 ans, ses résultats ne sont pas « mis à jour »)."""
+    org = re.sub(r"[^a-z]", "", norm((ds.get("organization") or {}).get("name", "")))
+    return "ministeredelinterieur" in org and "election" in norm(ds.get("title", ""))
+
+
 def recent(ds):
+    if electoral(ds):
+        return True
     d = ds.get("last_update") or ds.get("last_modified") or ""
     try:
         age = datetime.now(timezone.utc) - datetime.fromisoformat(d.replace("Z", "+00:00"))
