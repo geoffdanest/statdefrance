@@ -92,7 +92,9 @@ Champs du fichier, en plus des champs communs de `GENERATION.md` :
 - `palette: "nuit"` (toujours, pour les 3 slides) ;
 - `une` : [« phrase 1 », « phrase 2 »] ;
 - `photo` : `posts/photos/AAAA-MM-JJ-actu-12h.jpg` ; `photo_credit` : « Photo : Auteur, CC0 »
-  (ou « CC BY », ou « domaine public ») ; `photo_source` : l'URL `page` de la photo ;
+  (ou « CC BY », ou « domaine public »). Le crédit photo **n'est pas sur l'image** : il va dans
+  la légende, sur la ligne qui suit l'URL de la source. En bas à droite de la une s'affiche la
+  **source de l'info** (champ `source`, forme courte : « Insee, prix à la consommation (2026) ») ; `photo_source` : l'URL `page` de la photo ;
   option `photo_focus` (0 à 1, point vertical gardé au recadrage, 0,5 par défaut) ;
 - `question` (slide finale, obligatoire) ;
 - `news_topic` : le sujet en quelques mots ; `news_links` : 2 ou 3 liens d'articles lus.

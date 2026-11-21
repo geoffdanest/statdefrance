@@ -47,6 +47,8 @@ def main(args):
                     raise LayoutError("« photo » manquante : chemin du fichier depuis la racine du repo (ex. posts/photos/AAAA-MM-JJ-actu-20h.jpg).")
                 if not post.get("photo_credit"):
                     raise LayoutError("« photo_credit » manquant (ex. « Photo : Nom, CC0 »).")
+                if post["photo_credit"] not in post.get("caption", ""):
+                    raise LayoutError("La légende doit reprendre « photo_credit » (ligne après la source).")
                 une = p.with_name(p.stem + "-une.jpg")
                 render_une(post, photo).save(une, "JPEG", quality=94, optimize=True, progressive=True)
                 rendered.append(une)

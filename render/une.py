@@ -1,7 +1,8 @@
 """statdefrance — slide « une » du créneau actu : photo plein cadre + titre en capitales.
 
 Mise en page inspirée des médias d'actu : photo pleine page, dégradé sombre en bas, titre en
-capitales (1re partie en crème, 2e partie en corail), ligne « stat·de·france · date », crédit photo.
+capitales (1re partie en crème, 2e partie en corail), ligne « stat·de·france · date », source de l'info.
+Le crédit photo n'est pas sur l'image : il est dans la légende.
 La photo est recadrée pour remplir le 4:5 ; `focus` (0–1, défaut 0.5) choisit le point vertical gardé.
 """
 import numpy as np
@@ -68,13 +69,16 @@ def render_une(p, photo_path):
     if len(a) + len(b) > 5:
         raise LayoutError(f"« une » fait {len(a) + len(b)} lignes (max 5). Raccourcir.")
     meta = typo(f"stat·de·france  ·  {p['date'][8:10]}/{p['date'][5:7]}/{p['date'][:4]}")
-    credit = typo(p.get("photo_credit", ""))
+    source = typo("Source : " + p["source"]) if p.get("source") else ""   # le crédit photo va dans la légende
     y = H - M - 70 - 40 - (len(a) + len(b)) * lh + lh      # ligne de base de la 1re ligne
     for l in a:
         s.text((M, y), l, fh, t["ink"], "ls"); y += lh
     for l in b:
         s.text((M, y), l, fh, t["acc"], "ls"); y += lh
     s.text((M, H - M - 18), meta, s.f("inter500", 24), t["soft"], "ls")
-    if credit:
-        s.text((W - M, H - M - 18), credit, s.f("mono400", 16), t["soft"], "rs")
+    if source:
+        fs = s.f("inter500", 20)
+        if s.tw(source, fs) > W - 2 * M - s.tw(meta, s.f("inter500", 24)) - 40:
+            raise LayoutError("« source » trop longue pour le pied de la une. Raccourcir.")
+        s.text((W - M, H - M - 18), source, fs, t["soft"], "rs")
     return s.image()
