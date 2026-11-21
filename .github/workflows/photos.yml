@@ -1,0 +1,25 @@
+name: Photos libres (créneau actu)
+# Lancé par la tâche « statdefrance actu 20h — préparation » avec des mots-clés (en anglais de préférence).
+# Résultat sur la branche « photos » (écrasée à chaque passage).
+on:
+  workflow_dispatch:
+    inputs:
+      queries: { description: "Recherches séparées par « ; »", required: true }
+permissions:
+  contents: write
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Chercher
+        env: { QUERIES: "${{ github.event.inputs.queries }}" }
+        run: python scripts/fetch_photos.py "$QUERIES"
+      - name: Publier sur la branche « photos »
+        run: |
+          cd photos && git init -q -b photos && git add -A
+          git -c user.name="statdefrance-bot" -c user.email="statdefrance-bot@users.noreply.github.com" commit -qm "Photos du $(date -u +%F)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" photos
