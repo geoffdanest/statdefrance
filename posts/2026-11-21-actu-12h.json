@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-21",
+  "slot": "actu12",
+  "status": "validated",
+  "auto": true,
+  "theme": "Économie",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "ACTU · 21.11",
+  "une": [
+    "Vie chère : la France manifeste pour un sixième samedi.",
+    "En un an, le carburant a pris 27 %. L'alimentation, 1 %."
+  ],
+  "photo": "posts/photos/2026-11-21-actu-12h.jpg",
+  "photo_credit": "Photo : rawpixel, CC0",
+  "photo_source": "https://www.rawpixel.com/image/6020081/gasoline-free-public-domain-cc0-photo",
+  "photo_focus": 0.5,
+  "title": "En un an, le plein et le gaz ont flambé. Les courses, presque pas.",
+  "rows": [
+    {
+      "name": "Carburants",
+      "value": 27.4,
+      "highlight": true
+    },
+    {
+      "name": "Gaz",
+      "value": 14.3
+    },
+    {
+      "name": "Tous les prix",
+      "value": 2.6
+    },
+    {
+      "name": "Loyers",
+      "value": 1.6
+    },
+    {
+      "name": "Alimentation",
+      "value": 1.1
+    }
+  ],
+  "per_dot": 1,
+  "dot_unit": "% de hausse en un an",
+  "source": "Insee, prix à la consommation (août 2026)",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPCH",
+  "dataset_id": "insee:DS_IPCH",
+  "question": "Tu le sens sur ton plein ?",
+  "news_topic": "Sixième samedi de mobilisation contre la vie chère",
+  "news_links": [
+    "https://www.boursedirect.fr/fr/actualites/categorie/economie/sixieme-samedi-de-mobilisation-pour-la-jeunesse-et-contre-la-vie-chere-afp-2be72d6cc3e73d26d59be05fb3e968d7fd2cdd47",
+    "https://actu.orange.fr/france/syndicats-jeunesse-gilets-jaunes-a-quoi-faut-il-s-attendre-pour-la-journee-de-mobilisation-du-21-novembre-l-express-via-6medias-CNT000002tPx6C.html"
+  ],
+  "calc": "DS_IPCH (indice des prix harmonisé, base 2025 = 100), IND_TYPE = IX, FREQ = M. Hausse = indice août 2026 / indice août 2025 - 1. Carburants et lubrifiants (COICOP 07.2.2) : 126,11 / 98,97 → +27,42 %. Gaz (04.5.2) : 114,69 / 100,37 → +14,27 %. Ensemble (00) : 103,76 / 101,10 → +2,63 % (YOY officiel du fichier : 2,6). Loyers effectivement payés (04.1) : 101,74 / 100,12 → +1,62 %. Alimentation et boissons non alcoolisées (01) : 101,81 / 100,66 → +1,14 %. Août 2026 = dernier mois disponible pour le détail par poste (septembre 2026 provisoire et seulement pour l'ensemble).",
+  "caption": "Les courses ont à peine bougé. Le plein, lui, a flambé.\n\nEntre août 2025 et août 2026, les prix des carburants ont bondi de 27 %, selon l'Insee. Sur la même période, l'alimentation n'a pris que 1 %, et l'ensemble des prix 2,6 %. Alors que la France manifeste contre la vie chère pour un nouveau samedi, les plus fortes hausses viennent de l'énergie : le gaz aussi grimpe nettement.\n\nÀ noter : alimentation = produits alimentaires et boissons sans alcool ; indice des prix harmonisé européen.\n\nTu le sens sur ton plein ?\n\nSource : Insee, « Indice des prix à la consommation harmonisés (IPCH) »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_IPCH\n\n#statdefrance #opendata #viechere #inflation #carburant #pouvoirdachat"
+}
