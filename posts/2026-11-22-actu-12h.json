@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-22",
+  "slot": "actu12",
+  "status": "validated",
+  "auto": true,
+  "theme": "Climat",
+  "palette": "nuit",
+  "template": "une",
+  "num": "ACTU · 22.11",
+  "une": [
+    "Climat : les énergies fossiles divisent la COP31.",
+    "La France dénonce un texte qui « nous ramène en arrière »."
+  ],
+  "photo": "posts/photos/2026-11-22-actu-12h.jpg",
+  "photo_credit": "Photo : GuavaTrain, CC0",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg",
+  "photo_focus": 0.5,
+  "source": "franceinfo, Le Monde (22/11/2026)",
+  "source_url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
+  "dataset_id": null,
+  "calc": "Pas de donnée publique pertinente. Trois collectes (énergies fossiles, bilan énergétique, émissions de GES, production d'électricité, énergie primaire, facture énergétique, empreinte carbone…) n'ont donné que des jeux régionaux (Bretagne), des projections, des descriptifs de champs sans données, ou l'éCO2mix national dont l'angle (part du gaz dans l'électricité, CO2 par kWh) a déjà été publié les 10 et 19/11. Post « une » seule, sans chiffre.",
+  "news_topic": "COP31 : désaccord sur la sortie des énergies fossiles, la France dénonce le projet de texte",
+  "news_links": [
+    "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
+    "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-presidence-de-la-cop31-fait-une-nouvelle-proposition-de-compromis-la-france-denonce-un-texte-qui-nous-ramene-en-arriere_8294591.html",
+    "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/plusieurs-pays-dont-la-france-exigent-une-decision-finale-de-la-cop31-incluant-une-transition-claire-hors-des-energies-fossiles_8292470.html"
+  ],
+  "caption": "Pétrole, gaz, charbon : la COP31 se divise sur leur avenir.\n\nCe dimanche matin, les pays réunis à Antalya, en Turquie, négociaient toujours un accord final sur le climat. Le dernier projet de texte de la présidence ne mentionne pas la sortie des énergies fossiles. La France, qui réclame avec d'autres pays « une transition claire hors des énergies fossiles », estime que ce texte « nous ramène en arrière ».\n\nSource : franceinfo, Le Monde\nhttps://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html\nPhoto : GuavaTrain, CC0\n\n#statdefrance #actu #climat #cop31 #energiesfossiles #environnement"
+}
