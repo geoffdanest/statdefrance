@@ -13,5 +13,5 @@
   "caption": "La France vend son électricité à ses voisins. Beaucoup.\n\nEn 2025, les exportations nettes ont atteint 93 térawattheures : 17 % de tout ce que le pays a produit. En 2022, c’était l’inverse : la France avait dû importer plus qu’elle n’exportait.\n\nÀ noter : il s’agit du solde, exportations moins importations.\n\nTu le savais ?\n\nSource : ODRÉ (RTE), « Equilibre national mensuel production = consommation brute »\nhttps://odre.opendatasoft.com/explore/dataset/equilibre-national-mensuel-prod-conso-brute/\n\n#statdefrance #opendata #energie #electricite #export #rte",
   "palette": "papier",
   "num": "N° 077",
-  "status": "draft"
+  "status": "validated"
 }

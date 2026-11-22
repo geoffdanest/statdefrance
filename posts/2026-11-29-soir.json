@@ -11,7 +11,7 @@
   "caption": "Sur Bordeaux–Marseille, prévoir de la marge.\n\nEn 2025, près d’un Intercités sur trois est arrivé en retard sur la ligne Bordeaux–Marseille : 68 % seulement à l’heure, le pire score du réseau. Sur l’ensemble des Intercités, c’est 84 %.\n\nTu la prends, cette ligne ?\n\nSource : SNCF, « Régularité mensuelle Intercités »\nhttps://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-intercites/\n\n#statdefrance #opendata #transports #sncf #intercites #retards",
   "palette": "papier",
   "num": "N° 087",
-  "status": "draft",
+  "status": "validated",
   "n": 3,
   "label": "Sur Bordeaux–Marseille, près d’un Intercités sur trois est arrivé en retard en 2025."
 }
