@@ -1,0 +1,91 @@
+﻿deciles_de_garanties;type_de_contrats;en_;annee
+D1;Ensemble;0;2021
+D1;Ensemble;0;2023
+D2;Contrats collectifs;50;2019
+D2;Contrats collectifs;50;2021
+D2;Contrats individuels;30;2019
+D2;Ensemble;35;2023
+D3;Contrats individuels;33;2019
+D3;Contrats individuels;33;2023
+D3;Ensemble;40;2021
+D3;Ensemble;40;2023
+D4;Contrats collectifs;60;2021
+D4;Contrats collectifs;73;2023
+D4;Contrats individuels;38;2021
+D4;Ensemble;50;2021
+D5;Contrats collectifs;75;2019
+D6;Contrats collectifs;80;2021
+D6;Contrats collectifs;80;2023
+D6;Contrats individuels;55;2019
+D6;Contrats individuels;50;2023
+D7;Contrats collectifs;91;2023
+D7;Contrats individuels;60;2021
+D7;Ensemble;80;2019
+D8;Contrats collectifs;101;2019
+D8;Contrats individuels;72;2021
+D8;Contrats individuels;70;2023
+D8;Ensemble;80;2019
+D9;Contrats collectifs;137;2021
+D9;Contrats individuels;80;2021
+D9;Contrats individuels;80;2023
+D9;Ensemble;120;2023
+Moyenne;Ensemble;61;2021
+D1;Contrats collectifs;40;2019
+D1;Contrats individuels;0;2019
+D1;Contrats individuels;0;2021
+D1;Contrats individuels;0;2023
+D2;Contrats collectifs;50;2023
+D2;Contrats individuels;30;2021
+D3;Contrats collectifs;60;2019
+D3;Contrats collectifs;55;2021
+D3;Contrats collectifs;60;2023
+D4;Contrats individuels;40;2019
+D4;Ensemble;50;2023
+D5;Contrats collectifs;68;2021
+D5;Contrats collectifs;75;2023
+D5;Contrats individuels;45;2021
+D5;Contrats individuels;40;2023
+D5;Ensemble;60;2019
+D6;Contrats collectifs;80;2019
+D6;Ensemble;67;2019
+D6;Ensemble;73;2023
+D7;Contrats collectifs;80;2019
+D7;Contrats individuels;60;2019
+D7;Ensemble;75;2021
+D8;Contrats collectifs;102;2021
+D8;Contrats collectifs;110;2023
+D8;Contrats individuels;75;2019
+D9;Contrats collectifs;140;2023
+D9;Ensemble;101;2019
+Moyenne;Contrats collectifs;77;2021
+Moyenne;Contrats collectifs;80;2023
+Moyenne;Contrats individuels;45;2023
+Moyenne;Ensemble;60;2019
+D1;Contrats collectifs;35;2021
+D1;Contrats collectifs;40;2023
+D1;Ensemble;22;2019
+D2;Contrats individuels;25;2023
+D2;Ensemble;33;2019
+D2;Ensemble;33;2021
+D3;Contrats individuels;33;2021
+D3;Ensemble;45;2019
+D4;Contrats collectifs;67;2019
+D4;Contrats individuels;40;2023
+D4;Ensemble;50;2019
+D5;Contrats individuels;45;2019
+D5;Ensemble;60;2021
+D5;Ensemble;60;2023
+D6;Contrats individuels;50;2021
+D6;Ensemble;65;2021
+D7;Contrats collectifs;90;2021
+D7;Contrats individuels;60;2023
+D7;Ensemble;80;2023
+D8;Ensemble;80;2021
+D8;Ensemble;91;2023
+D9;Contrats collectifs;120;2019
+D9;Contrats individuels;80;2019
+D9;Ensemble;120;2021
+Moyenne;Contrats collectifs;74;2019
+Moyenne;Contrats individuels;47;2019
+Moyenne;Contrats individuels;46;2021
+Moyenne;Ensemble;64;2023

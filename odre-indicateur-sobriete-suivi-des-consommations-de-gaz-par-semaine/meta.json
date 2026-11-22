@@ -1,0 +1,33 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:indicateur-sobriete-suivi-des-consommations-de-gaz-par-semaine",
+  "title": "Suivi des consommations de gaz par semaine - Période 2022/2023",
+  "page": "https://odre.opendatasoft.com/explore/dataset/indicateur-sobriete-suivi-des-consommations-de-gaz-par-semaine/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données présente la consommation de gaz par secteurs à la maille France en brut et en corrigé du climat. Les données sont agrégées à un pas de temps hebdomadaire pour l'exercice débutant le 1er août 2022 et se terminant le 31 juillet 2023.",
+  "resource_title": "Suivi des consommations de gaz par semaine - Période 2022/2023",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/indicateur-sobriete-suivi-des-consommations-de-gaz-par-semaine/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-10-19T17:24:31.437000+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "climat",
+  "query": "climat",
+  "news": [
+    {
+      "title": "COP31 : le sommet pour le climat s’achève à Antalya sans accord final, de nombreux pays restant divisés sur la question des énergies fossiles",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-cop31-s-acheve-a-antalya-sans-que-les-pays-ne-s-accordent-sur-une-declaration-finale-divises-sur-la-question-des-energies-fossiles_8295011.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'absence d'accord à l'issue de la COP 31 est \"frustrant\", réagit Laurence Tubiana, présidente de la Fondation européenne pour le climat",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-absence-d-accord-a-l-issue-de-la-cop-31-est-frustrant-reagit-laurence-tubiana-presidente-de-la-fondation-europeenne-pour-le-climat_8295074.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "COP31 : le secrétaire général de l'Onu \"profondément déçu\" par l'échec des négociations sur le climat",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

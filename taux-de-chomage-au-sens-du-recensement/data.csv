@@ -1,0 +1,20 @@
+champ,description
+annee,Année de la valeur de l'indicateur.
+date_mesure,"Date de la mesure de l'indicateur, au format ISO 8601 (AAAA-MM-JJTHH:MM:SS.nnn)."
+geocode_country,"Code non officiel, FR_TOT : France entière, FR_METRO : France métropolitaine, FR_METRO_HORS_IDF : France métropolitaine sans l'Ile-de-France."
+libelle_country,Libellé du territoire correspondant au code geocode_country.
+geocode_region,Code officiel géographique régional selon les données de l'INSEE de l'année en cours.
+libelle_region,Libellé du territoire correspondant au code geocode_region.
+geocode_departement,Code officiel géographique départemental selon les données de l'INSEE de l'année en cours.
+libelle_departement,Libellé du territoire correspondant au code geocode_departement.
+geocode_aom,Code officiel géographique des Autorités Organisatrices de la Mobilité (AOM).
+libelle_aom,Libellé du territoire correspondant au code geocode_aom.
+geocode_epci,Code officiel géographique des EPCI selon les données de l'INSEE de l'année en cours.
+libelle_epci,Libellé du territoire correspondant au code geocode_epci.
+geocode_ept,Code officiel géographique des Établissements Public Territoriaux (EPT) pour la métropole du Grand Paris ou bien un code EPCI pour les territoires hors de la métropole du Grand Paris.
+libelle_ept,Libellé du territoire correspondant au code geocode_ept.
+geocode_commune,Code officiel géographique communal selon les données de l'INSEE de l'année en cours.
+libelle_commune,Libellé du territoire correspondant au code geocode_commune.
+valeur,"Valeur de l'indicateur, unité : %"
+numerateur,"Numérateur de la valeur de l'indicateur, unité : actifs au chômage"
+denominateur,Dénominateur de la valeur de l'indicateur.

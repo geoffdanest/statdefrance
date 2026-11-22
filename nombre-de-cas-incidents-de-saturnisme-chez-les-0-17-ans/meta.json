@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6ab3e3dcade261fa65662b5e",
+  "title": "Nombre de cas incidents de saturnisme chez les 0-17 ans",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-cas-incidents-de-saturnisme-chez-les-0-17-ans",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nLes indicateurs de la surveillance du saturnisme de l’enfant en France sont construits à partir des données issues du système national de surveillance des plombémies de l’enfant (SNPE). Ce système de surveillance inclut les informations de la déclaration obligatoire (DO) des cas de saturnisme et de l’ensemble des plombémies réalisées en France. Ces données sont transmises à Santé Publique France par les Agences régionales de santé et les Centres Antipoison. La surveillance des plombémies concerne les enfants âgés de 0 à 17 ans ayant bénéficié d’au moins un dosage de la plombémie.\n\nUne analyse de la plombémie peut être réalisée à partir d'un échantillon de sang veineux ou du sang du cordon.\n\nLe critère de signalement et de notification des cas de saturnisme depuis le 17 juin 2015, correspond à une plombémie de 50 µg/L mesurée pour la première fois chez un enfant. L’atteinte de ce niveau implique la déclaration obligatoire du cas et déclenche une enquête environnementale. Auparavant, ce seuil était de 100 µg/L.\n\nLe nombre de cas incidents correspond au nombre d'enfants testés une première fois au dessus du seuil de signalement au cours d'une année.\nLe nombre de cas prévalents correspond au nombre d'enfants testés au dessus du seuil de signalement au cours d'une année : il correspond au nombre de cas incidents de l'année et au nombre ",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-cas-incidents-de-saturnisme-chez-les-0-17-ans/20260928-081931/description-des-champs.csv",
+  "last_modified": "2026-09-28T08:19:31.959000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "incidents",
+  "query": "incidents",
+  "news": [
+    {
+      "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\"",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ]
+}

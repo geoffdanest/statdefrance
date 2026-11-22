@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SIDE_EQDEMO_A10",
+  "title": "Équations démographiques des unités légales et des établissements (A10)",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SIDE_EQDEMO_A10",
+  "organization": "Insee",
+  "description": "Les équations démographiques sont disponibles pour les unités légales et les établissements. Elles sont détaillées selon le secteur d'activité (A10 hors agriculture) et la forme légale (3 catégories) au niveau géographique France, ou bien indépendamment par région (secteur d'activité ou forme légale).\nPour chacune des observations contenues dans le jeu de données, le statut de l’observation indique si la donnée est manquante (OBS_STATUS = O). Les données sont également soumises au secret statistique et certaines régions ne sont pas diffusées (CONF_STATUS = C).",
+  "resource_title": "DS_SIDE_EQDEMO_A10",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SIDE_EQDEMO_A10/DS_SIDE_EQDEMO_A10_2022_CSV_FR",
+  "last_modified": "2025-04-01T17:00:37.749884716",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 43740,
+  "origin": "theme",
+  "label": "Agriculture",
+  "query": "Agriculture",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

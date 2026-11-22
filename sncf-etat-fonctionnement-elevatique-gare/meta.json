@@ -1,0 +1,33 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:etat-fonctionnement-elevatique-gare",
+  "title": "Etat de fonctionnement des équipements d'élévatique en gare",
+  "page": "https://ressources.data.sncf.com/explore/dataset/etat-fonctionnement-elevatique-gare/",
+  "organization": "SNCF",
+  "description": "Ce jeu de données expose les équipements d'élévatique des gares de voyageurs. Id_Gare : il s’agit de la clé permettant d’identifier la gare dans le référentiel des gares voyageurs (https://ressources.data.sncf.com/explore/dataset/referentiel-gares-voyageurs) Id_equipement : Il s'agit de la clé permettant d'identifier un équipement d'élévatique Nom de l'équipement : Nom fonctionnel de l'équipement d'élévatique Localisation : Information textuelle sur l’emplacement de l’équipement Etat de fonctionnement de l’équipement : OK : fonctionnel, KO : non fonctionnel , Inconnu : état inconnu A noter que cet état de fonctionnement : est calculé à partir de paramètres techniques remontés par l’équipement et des mises à jour de nos services de maintenance est mis à jour toutes les heures n'est pas contractuel pour le calcul de la disponibilité Pour rappel, la suppression de la position géographique dans ce jeu de données est effective depuis le 07/10/2026. Cette dernière se trouve maintenant uniquement dans le fichier NeTEx disponible via le jeu de données Accessibilité des gares .",
+  "resource_title": "Etat de fonctionnement des équipements d'élévatique en gare",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/etat-fonctionnement-elevatique-gare/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-22T20:30:14+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "partir",
+  "query": "partir",
+  "news": [
+    {
+      "title": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

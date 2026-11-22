@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "642e445d0d25370b8c538672",
+  "title": "Préfets et préfètes français depuis 1800",
+  "page": "https://www.data.gouv.fr/datasets/prefets-et-prefetes-francais-depuis-1800",
+  "organization": "Ministère de la Culture",
+  "description": "Les dossiers de carrière des fonctionnaires du ministère de l'Intérieur clos sont archivés et conservés par les Archives nationales. Depuis les années 1980, les dossiers des préfets ont fait l'objet de nombreuses études et publications scientifiques, à commencer par les dictionnaires biographiques des préfets en deux volumes ([1800-1870](https://sia.culture.fr/siv/IR/FRAN_IR_001513) et [1870-1982](https://sia.culture.fr/siv/IR/FRAN_IR_001514)) publiés par les Archives nationales sous la direction de René Bargeton. Un troisième volume consacré aux [préfets depuis 1982](https://sia.culture.fr/siv/IR/FRAN_IR_060133) a été publié en 2022, inventaire qui est appelé à s'enrichir au fur et à mesure des versements des dossiers de carrière des préfets.\n\nCes inventaires dématérialisés et publiés en ligne ont font l'objet depuis 2018 d'un vaste travail d'alignements et d'enrichissements mutuels avec Wikidata, permettant ainsi d'élaborer ce jeu de données relatifs aux préfets et préfètes français depuis 1800.\n\nCe jeu de données de près de 3900 individus comporte les informations suivantes :\n\n* Nom ;\n\n* Prénom ;\n\n* Sexe ;\n\n* Lien vers la notice biographique sur le portail documentaire des Archives nationales ;\n\n* Lien d'entité Wikidata ;\n\n* Poste en département (le cas échéant) ;\n\n* Poste en département avec années d'exercice (le cas échéant) : autant que possible, ce sont les dates d’installation et non de nomination qui ont été retenues ;\n\n* Année de naissance (hors données soumises au ",
+  "resource_title": "prefets-et-prefetes-francais-depuis-1800.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/prefets-et-prefetes-francais-depuis-1800/20251013-193828/od-prefets-et-prefetes-francais-depuis-1800.csv",
+  "last_modified": "2025-10-13T19:38:28.691000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "préfet",
+  "query": "préfet",
+  "news": [
+    {
+      "title": "\"On tient le bon bout\" après les inondations, la décrue \"est très nette sur l'amont de La Canche, affirme le préfet du Pas-de-Calais",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-tient-le-bon-bout-apres-les-inondations-la-decrue-est-tres-nette-sur-l-amont-de-la-canche-affirme-le-prefet-du-pas-de-calais_8294786.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

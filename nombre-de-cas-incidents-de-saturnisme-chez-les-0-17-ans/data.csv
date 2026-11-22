@@ -1,0 +1,7 @@
+Colonne,Description
+date_mesure,
+geocode_departement,
+libelle_departement,
+geocode_region,
+libelle_region,
+valeur,Valeur de l'indicateur en nb : Nombre de cas incidents de saturnisme chez les 0-17 ans

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "614b3fb671e1083ae45effd7",
+  "title": "Base sur la qualité et la sécurité des soins (anciennement Scope Santé)",
+  "page": "https://www.data.gouv.fr/datasets/base-sur-la-qualite-et-la-securite-des-soins-anciennement-scope-sante",
+  "organization": "Haute Autorité de santé",
+  "description": "La base sur la qualité et la sécurité des soins (BQSS) regroupe les informations sur la qualité des hôpitaux et des cliniques produites par la Haute Autorité de Santé, à savoir :\n\n- Les résultats de certification\n- Les indicateurs de qualité et de sécurité des soins associés\n\nElle contient également différentes informations de contexte, caractérisant les établissements de santé :\n\n- Les informations d'immatriculation et d'autorisation du répertoire FINESS\n- Les statistiques annuelles d'activité des établissements de santé\n\nLa BQSS alimente un espace dédié sur le site internet de la HAS nommé [QualiScope](hhttps://www.has-sante.fr/qualiscope).\n\nElle contient tout l'historique de ces données, de façon à permettre des analyses, pour tout acteur du secteur de la santé ou tous les citoyens qui souhaiteraient réutiliser ces données.\n\nLa documentation du jeu de donnée est [accessible en ligne](https://has-sante.pages.has-sante.fr/public/bqss/), pour plus de détails voir:\n\n- [Tutoriels d'utilisation des données](https://has-sante.pages.has-sante.fr/public/bqss/donnees/tutoriels/index.html)\n- [Description générale des données](https://has-sante.pages.has-sante.fr/public/bqss/donnees/general-description.html)\n- [Le modèle de données des fichiers composants la base](https://has-sante.pages.has-sante.fr/public/bqss/donnees/schemas-finaux.html)\n",
+  "resource_title": "nomenclatures.csv",
+  "resource_url": "https://minio.data.has-sante.fr/bqss/prod/nomenclatures.csv",
+  "last_modified": "2026-11-17T09:04:46+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

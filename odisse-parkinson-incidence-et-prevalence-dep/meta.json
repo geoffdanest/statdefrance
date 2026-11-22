@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:parkinson-incidence-et-prevalence_dep",
+  "title": "Parkinson : Incidence et prévalence (Département)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/parkinson-incidence-et-prevalence_dep/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la surveillance de la maladie de Parkinson en France sont construits à partir des données de remboursement de médicaments antiparkinsoniens, auxquelles Santé publique France accède dans le Système National des Données de Santé. Les effectifs de personnes traitées pour une maladie de Parkinson au 31 décembre dans l’ensemble de la population française sont calculés chaque année. Précisions : Les cas prévalents ont été définis à l’aide d’un modèle prédictif validé à partir des données de remboursement de médicaments antiparkinsoniens. L'indicateur tient compte de la spécificité (86,4 %) et de la sensibilité (92,5 %) de la méthode d’identification. Les cas incidents ont été définis comme le nombre de personnes nouvellement traitées dans l’année pour une maladie de Parkinson en considérant les personnes identifiées par le même modèle prédictif et sans aucun remboursement de médicaments antiparkinsonien l’année précédente Les taux de prévalence et d’incidence de la maladie de Parkinson au 31 décembre de chaque année sont standardisés sur l’âge et le sexe par la méthode directe en utilisant la distribution de la population nationale disponible dans les données d’estimations de populations fournies par l’Insee. Limites : En 2020, la plus grande proportion de patients parkinsoniens décédés dans l'année dans le contexte de la pandémie de COVID-19 peut expliquer une prévalence stable par rapport à 2019 alors qu'une augmentation était observée les années précédentes en",
+  "resource_title": "Parkinson : Incidence et prévalence (Département)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/parkinson-incidence-et-prevalence_dep/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-06-09T09:58:24+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "incidents",
+  "query": "incidents",
+  "news": [
+    {
+      "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\"",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

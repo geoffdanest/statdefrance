@@ -1,0 +1,34 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_SUIVI_DDE_TOUR",
+  "title": "Suivi de la demande touristique",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_SUIVI_DDE_TOUR",
+  "organization": "Insee",
+  "description": "Le suivi de la demande touristique permet d'estimer le nombre de nuitées passées par les résidents de France métropolitaine dans l'ensemble des hébergements marchands ou non marchands, en métropole, dans les DOM et à l'étranger, à partir de leur déclaration.",
+  "resource_title": "DS_SUIVI_DDE_TOUR",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_SUIVI_DDE_TOUR/DS_SUIVI_DDE_TOUR_CSV_FR",
+  "last_modified": "2026-07-02T19:51:30.442783192",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 2104,
+  "origin": "actu",
+  "label": "partir",
+  "query": "partir",
+  "news": [
+    {
+      "title": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

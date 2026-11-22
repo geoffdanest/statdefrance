@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6a8c4cfcec97decdc46f7175",
+  "title": "Spectacles de Noël pour les écoles maternelles - Année 2026",
+  "page": "https://www.data.gouv.fr/datasets/spectacles-de-noel-pour-les-ecoles-maternelles-annee-2026",
+  "organization": "Commune de Brignoles",
+  "description": "La présente consultation porte sur l’organisation de spectacles de Noël à destination des enfants de 3 à 6 ans scolarisés dans les écoles maternelles publiques et privées du territoire. Environ 800 enfants sont concernés par ce spectacle.\n",
+  "resource_title": "Avis-Attrib-MAPA-35-2026-.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/spectacles-de-noel-pour-les-ecoles-maternelles-annee-2026/20260824-135404/avis-attrib-mapa-35-2026-.csv",
+  "last_modified": "2026-08-24T13:54:04.785000+00:00",
+  "license": "notspecified",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "école",
+  "news": []
+}

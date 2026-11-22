@@ -1,0 +1,32 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "539a67b7a3a7293bc2728384",
+  "title": "Les condamnations (statistiques à partir du casier judiciaire national)",
+  "page": "https://www.data.gouv.fr/datasets/les-condamnations-statistiques-a-partir-du-casier-judiciaire-national",
+  "organization": "Ministère de la Justice",
+  "description": "Les données sur les condamnations sont issues du casier judiciaire national qui est une source riche d’informations. Son exploitation permet de décrire les condamnations par nature d’infraction, de peine mais également de fournir des renseignements démographiques sur le profil condamnés. L’étude des condamnations ne donne pas une image complète de la réponse judiciaire à la délinquance. En effet, les données ne portent que sur les personnes condamnées. D’autres réponses pénales peuvent être apportées, par exemple la composition pénale qui s’applique principalement au contentieux routier (70 000 compositions pénales en 2013).",
+  "resource_title": "tableaux-des-condamnations-2012.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/les-condamnations-statistiques-a-partir-du-casier-judiciaire-national/20221006-161342/tableaux-des-condamnations-2012.csv",
+  "last_modified": "2022-10-06T16:13:51.495000+00:00",
+  "license": "fr-lo",
+  "origin": "actu",
+  "label": "partir",
+  "query": "partir",
+  "news": [
+    {
+      "title": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "odre",
+  "dataset_id": "odre:production-nette-nucleaire",
+  "title": "Production nucléaire",
+  "page": "https://odre.opendatasoft.com/explore/dataset/production-nette-nucleaire/",
+  "organization": "ODRÉ (RTE, GRTgaz, Enedis…)",
+  "description": "Ce jeu de données présente la production nette d’électricité d’origine nucléaire française moyennée au pas de temps horaire et ceci depuis 2001 en GWh. Note : la convention débutante est appliquée.",
+  "resource_title": "Production nucléaire",
+  "resource_url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/production-nette-nucleaire/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-03T10:04:28+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Énergie",
+  "query": "production électricité",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

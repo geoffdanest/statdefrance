@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:hm9pzqfrh2z4grbx1bon1dap",
+  "title": "ALDO - flux 2 - unitaire - EPCI",
+  "page": "https://data.ademe.fr/datasets/hm9pzqfrh2z4grbx1bon1dap",
+  "organization": "ADEME",
+  "description": "Ce jeu de données représent les flux de référence unitaires (tC/ha/an) pour chaque changement d'occupation du sol - échelle EPCI. ## Flux de carbone Ce terme désigne les échanges de carbone entre les sols, la forêt et l’atmosphère. Il s'agit de la quantité de carbone qui est émise (émission nette) ou captée et séquestrée (séquestration nette) chaque année. La séquestration nette de dioxyde de carbone (CO2) ou puits net de carbone est ici l’augmentation, sur le territoire, des stocks de carbone sous forme de matière organique dans les sols et les forêt (y compris produits bois). La séquestration est un flux net de l’atmosphère vers ces réservoirs. Inversement, une réduction des stocks de carbone des sols et forêts se traduit par une émission nette de CO2 soit une source de carbone. Ces flux traduisent un déséquilibre entre les entrées de carbone (ex : photosynthèse, apports de matières organiques exogènes) et les sorties (ex : dégradation de la biomasse après mortalité et/ou prélèvements anthropiques, respiration des organismes vivants conduisant à la minéralisation de la matière organique, export de matières organiques). Cette séquestration nette/émission nette consécutive aux variations de la quantité de carbone stockée dans les forêts et les sols est théoriquement limitée dans le temps, car elle s’interrompt lorsqu’un nouvel équilibre est atteint. Le niveau de stock à l’équilibre dépend, au-delà des conditions pédoclimatiques des territoires, de l’aménagement du territoire ",
+  "resource_title": "ALDO - flux 2 - unitaire - EPCI",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/hm9pzqfrh2z4grbx1bon1dap/lines?format=csv&size=10000",
+  "last_modified": "2026-06-25T15:19:11.857Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "climat",
+  "query": "climat",
+  "news": [
+    {
+      "title": "COP31 : le sommet pour le climat s’achève à Antalya sans accord final, de nombreux pays restant divisés sur la question des énergies fossiles",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-cop31-s-acheve-a-antalya-sans-que-les-pays-ne-s-accordent-sur-une-declaration-finale-divises-sur-la-question-des-energies-fossiles_8295011.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "L'absence d'accord à l'issue de la COP 31 est \"frustrant\", réagit Laurence Tubiana, présidente de la Fondation européenne pour le climat",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-absence-d-accord-a-l-issue-de-la-cop-31-est-frustrant-reagit-laurence-tubiana-presidente-de-la-fondation-europeenne-pour-le-climat_8295074.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "COP31 : le secrétaire général de l'Onu \"profondément déçu\" par l'échec des négociations sur le climat",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

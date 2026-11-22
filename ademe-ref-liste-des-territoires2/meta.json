@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:ref-liste-des-territoires2",
+  "title": "Ref - Liste des territoires",
+  "page": "https://data.ademe.fr/datasets/ref-liste-des-territoires2",
+  "organization": "ADEME",
+  "description": "Ce jeu de données présente le **référentiel complet des territoires** de la maille \"Zone géographique internationale\" à la maille communale. **Dernière actualisation en Avril 2026** à partir de la publication du Code Officiel Géographique de 2026. Comme tous les jeux de données disponibles sur ce portail, les données sont accessibles : * En **consultation**, avec la possibilité de faire des recherches et des tris * En **téléchargement** * par **API** : pour utiliser l'API, consulter la documentation associée ou contacter le Pôle données",
+  "resource_title": "Ref - Liste des territoires",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/ref-liste-des-territoires2/lines?format=csv&size=10000",
+  "last_modified": "2026-11-22T10:45:15.100Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "partir",
+  "query": "partir",
+  "news": [
+    {
+      "title": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

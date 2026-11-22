@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "60522808c3095fb3fbf94a1d",
+  "title": "Lieux de dépistage Covid-19 en pharmacie - Santé.fr",
+  "page": "https://www.data.gouv.fr/datasets/lieux-de-depistage-covid-19-en-pharmacie-sante-fr",
+  "organization": "Ministère des Solidarités et de la Santé",
+  "description": "[Santé.fr](https://www.sante.fr/) propose recueille et diffuse l'offre de dépistage Covid-19 des pharmacies l'ayant déclarée dans le portail de déclaration des officines.\n\nLes données sont publiées sur cette page une fois par jour (jours ouvrés uniquement). Il n'y a pas toujours une mise à jour ou une correction, seule la dernière version est disponible.\n",
+  "resource_title": "santefr-lieux-depistage-covid-pharmacies.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/lieux-de-depistage-covid-19-en-pharmacie-sante-fr/20261119-220028/santefr-lieux-depistage-covid-pharmacies.csv",
+  "last_modified": "2026-11-19T22:00:30.377000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "santé",
+  "news": []
+}

@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6af1c36066c3141972460af0",
+  "title": "Saint Brieuc Armor Agglomération - Table listant les communes couvertes par le PLUi",
+  "page": "https://www.data.gouv.fr/datasets/saint-brieuc-armor-agglomeration-table-listant-les-communes-couvertes-par-le-plui",
+  "organization": "Saint-Brieuc Armor Agglomération",
+  "description": "La table dresse la liste des communes couvertes par le document d'urbanisme opposable.",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://datarmor.cotesdarmor.fr/data-fair/api/v1/datasets/200069409-doc-urba-com-update/raw",
+  "last_modified": "2026-11-10T13:43:42+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

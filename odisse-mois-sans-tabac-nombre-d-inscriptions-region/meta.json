@@ -1,0 +1,28 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:mois-sans-tabac-nombre-d-inscriptions-region",
+  "title": "Tabac : Inscription à Mois sans tabac (Région)",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/mois-sans-tabac-nombre-d-inscriptions-region/",
+  "organization": "Santé publique France",
+  "description": "La campagne Mois sans tabac est une campagne annuelle diffusée depuis 2016, basée sur les principes du marketing social, incitant les fumeurs à s'arrêter de fumer pendant 30 jours en novembre et à s'inscrire sur un site dédié pour pouvoir bénéficier d'aides adaptées, notamment celles proposées par Tabac info service. Le nombre d'inscriptions à l'opération constitue un des indicateurs de processus recueillis dans le cadre de son évaluation, disponible au niveau national, régional et départemental. La proportion d'inscrits à Mois sans tabac correspond au nombre d'inscrits rapporté à la population des fumeurs quotidiens estimée dans le Baromètre de Santé publique France. Elle est disponible aux niveaux national et régional. La population de référence est celle estimée par le Baromètre de Santé publique France 2017 pour les années 2018 et 2019 en France hexagonale, par le Baromètre santé DOM 2014 pour les années 2018 et 2019 dans les DROM, par le Baromètre de Santé publique France 2021 pour les années 2020 à 2022 (en France hexagonale et dans les DROM) et par le Baromètre de Santé publique France 2024 pour les années 2023 à 2025 (en France hexagonale et dans les DROM). Précisions : Le nombre et la proportion d’inscrits à Mois sans tabac constituent seulement l'un des nombreux indicateurs d'évaluation recueillis chaque année, qui présente l'intérêt de pouvoir être décliné aux niveaux régional et départemental. La distinction entre les deux départements corses est faite en routine ",
+  "resource_title": "Tabac : Inscription à Mois sans tabac (Région)",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/mois-sans-tabac-nombre-d-inscriptions-region/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2025-12-23T10:50:13+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "nombreux",
+  "query": "nombreux",
+  "news": [
+    {
+      "title": "COP31 : le sommet pour le climat s’achève à Antalya sans accord final, de nombreux pays restant divisés sur la question des énergies fossiles",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-cop31-s-acheve-a-antalya-sans-que-les-pays-ne-s-accordent-sur-une-declaration-finale-divises-sur-la-question-des-energies-fossiles_8295011.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Trois morts et de nombreux disparus dans l’incendie d’une usine de bonbons en Indonésie",
+      "link": "https://www.20minutes.fr/monde/4264734-20261122-dizaines-disparus-incendie-usine-bonbons-indonesie?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

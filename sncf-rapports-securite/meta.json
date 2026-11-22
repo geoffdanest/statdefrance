@@ -1,0 +1,33 @@
+{
+  "source": "sncf",
+  "dataset_id": "sncf:rapports-securite",
+  "title": "Rapports sécurité",
+  "page": "https://ressources.data.sncf.com/explore/dataset/rapports-securite/",
+  "organization": "SNCF",
+  "description": "Les rapports de sécurité proposent un panorama global sur les missions et actions de SNCF en matière de sécurité ainsi que l’information sur les enquêtes en cours. Publié chaque année, le rapport sécurité recense les incidents, accidents et constats, actions et procédures mis en œuvre par SNCF pour faire progresser les performances de sécurité sur le réseau. Ce rapport comporte trois parties distinctes qui reflètent l’ensemble des activités de SNCF : éléments généraux transverses à l’entreprise, activités d’entreprise ferroviaire et activités de gestionnaire d’infrastructure délégué. Nous publions également dans cette section les rapports d'enquêtes et expertises sur des événements ponctuels.",
+  "resource_title": "Rapports sécurité",
+  "resource_url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/rapports-securite/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-02-17T18:52:02+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "incidents",
+  "query": "incidents",
+  "news": [
+    {
+      "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\"",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

@@ -1,0 +1,128 @@
+key,value,label,source
+certif_id_niveau,1,Certification,Certification v2014
+certif_id_niveau,2,Certification avec recommandation(s) d'amélioration,Certification v2014
+certif_id_niveau,3,Certification avec obligation (s) d'amélioration,Certification v2014
+certif_id_niveau,4,Sursis à statuer,Certification v2014
+certif_id_niveau,5,Non certification,Certification v2014
+certif_decision_thematique_x,A,Exigence atteinte,Certification v2014
+certif_decision_thematique_x,B,Recommandation d'amélioration,Certification v2014
+certif_decision_thematique_x,C,Obligation d'amélioration,Certification v2014
+certif_decision_thematique_x,D,Réserve,Certification v2014
+classement_48h,A,score >= 77.3,IQSS questionnaire patient
+classement_48h,B,score dans l'intervalle [74-77.3[,IQSS questionnaire patient
+classement_48h,C,score dans l'intervalle [70.7-74[,IQSS questionnaire patient
+classement_48h,D,score < 70.7,IQSS questionnaire patient
+classement_48h,DI,données insuffisantes (moins de 30 réponses exploitables),IQSS questionnaire patient
+classement_48h,NR,non répondant,IQSS questionnaire patient
+classement_48h,NV,non validé,IQSS questionnaire patient
+classement_ca,A,score >= 79.7,IQSS questionnaire patient
+classement_ca,B,score dans l'intervalle [76.5-79.7[,IQSS questionnaire patient
+classement_ca,C,score dans l'intervalle [73.1-76.5[,IQSS questionnaire patient
+classement_ca,D,score < 73.1,IQSS questionnaire patient
+classement_ca,DI,données insuffisantes (moins de 30 réponses exploitables),IQSS questionnaire patient
+classement_ca,NR,non répondant,IQSS questionnaire patient
+classement_ca,NV,non validé,IQSS questionnaire patient
+classement_ssr,A,score >= 76.6,IQSS questionnaire patient
+classement_ssr,B,score dans l'intervalle [72.9-76.6[,IQSS questionnaire patient
+classement_ssr,C,score dans l'intervalle [68.5-72.9[,IQSS questionnaire patient
+classement_ssr,D,score < 68.5,IQSS questionnaire patient
+classement_ssr,DI,données insuffisantes (moins de 30 réponses exploitables),IQSS questionnaire patient
+classement_ssr,NR,non répondant,IQSS questionnaire patient
+classement_ssr,NV,non validé,IQSS questionnaire patient
+had_dpa_dtn_2017-classe_dtn,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_dtn_2017-classe_dtn,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_dtn_2017-classe_dtn,C,Objectif de performance non atteint,IQSS dossier patient
+na_ias_icsha.2_2015-icsha2_classe,A,Pourcentage de l'objectif minimum personalisé: ≥ 80%,IQSS questionnaire établissement
+na_ias_icsha.2_2015-icsha2_classe,B,Pourcentage de l'objectif minimum personalisé: de 60% à 80%,IQSS questionnaire établissement
+na_ias_icsha.2_2015-icsha2_classe,C,Pourcentage de l'objectif minimum personalisé: de 40% à 60%,IQSS questionnaire établissement
+na_ias_icsha.2_2015-icsha2_classe,D,Pourcentage de l'objectif minimum personalisé: de 20% à 40%,IQSS questionnaire établissement
+na_ias_icsha.2_2015-icsha2_classe,E,Pourcentage de l'objectif minimum personalisé: < 20%,IQSS questionnaire établissement
+tch_ias_icsha.2_2015-icsha2_classe,A,Pourcentage de l'objectif minimum personalisé: ≥ 80%,IQSS questionnaire établissement
+tch_ias_icsha.2_2015-icsha2_classe,B,Pourcentage de l'objectif minimum personalisé: de 60% à 80%,IQSS questionnaire établissement
+tch_ias_icsha.2_2015-icsha2_classe,C,Pourcentage de l'objectif minimum personalisé: de 40% à 60%,IQSS questionnaire établissement
+tch_ias_icsha.2_2015-icsha2_classe,D,Pourcentage de l'objectif minimum personalisé: de 20% à 40%,IQSS questionnaire établissement
+tch_ias_icsha.2_2015-icsha2_classe,E,Pourcentage de l'objectif minimum personalisé: < 20%,IQSS questionnaire établissement
+mhs_ias_icsha_2018-icsha_classe,A,Objectif de performance dépassé,IQSS questionnaire établissement
+mhs_ias_icsha_2018-icsha_classe,B,Objectif de performance atteint,IQSS questionnaire établissement
+mhs_ias_icsha_2018-icsha_classe,C,Objectif de performance non atteint,IQSS questionnaire établissement
+psy_ias_icsha_2018-icsha_classe,A,Objectif de performance dépassé,IQSS questionnaire établissement
+psy_ias_icsha_2018-icsha_classe,B,Objectif de performance atteint,IQSS questionnaire établissement
+psy_ias_icsha_2018-icsha_classe,C,Objectif de performance non atteint,IQSS questionnaire établissement
+na_ias_icsha.3_2017-icsha3_classe,A,Pourcentage du volume théorique de PHA à délivrer: ≥ 100%,IQSS questionnaire établissement
+na_ias_icsha.3_2017-icsha3_classe,B,Pourcentage du volume théorique de PHA à délivrer: de 80% à 99%,IQSS questionnaire établissement
+na_ias_icsha.3_2017-icsha3_classe,C,Pourcentage du volume théorique de PHA à délivrer: < 80%,IQSS questionnaire établissement
+tch_ias_icsha.3_2017-icsha3_classe,A,Pourcentage du volume théorique de PHA à délivrer: ≥ 100%,IQSS questionnaire établissement
+tch_ias_icsha.3_2017-icsha3_classe,B,Pourcentage du volume théorique de PHA à délivrer: de 80% à 99%,IQSS questionnaire établissement
+tch_ias_icsha.3_2017-icsha3_classe,C,Pourcentage du volume théorique de PHA à délivrer: < 80%,IQSS questionnaire établissement
+tch_ias_icshav4_2021-icsha_v4_classe,A,Pourcentage du volume théorique de PHA à délivrer: ≥ 100%,IQSS questionnaire établissement
+tch_ias_icshav4_2021-icsha_v4_classe,B,Pourcentage du volume théorique de PHA à délivrer: de 80% à 99%,IQSS questionnaire établissement
+tch_ias_icshav4_2021-icsha_v4_classe,C,Pourcentage du volume théorique de PHA à délivrer: < 80%,IQSS questionnaire établissement
+mco_dpa_pcd_2018-pcd_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_dpa_pcd_2018-pcd_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_dpa_pcd_2018-pcd_classe,C,Objectif de performance non atteint,IQSS dossier patient
+ssr_dpa_pcd_2018-pcd_classe,A,Objectif de performance dépassé,IQSS dossier patient
+ssr_dpa_pcd_2018-pcd_classe,B,Objectif de performance atteint,IQSS dossier patient
+ssr_dpa_pcd_2018-pcd_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_ca_qls_2018-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_ca_qls_2018-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_ca_qls_2018-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+ssr_dpa_pspv_2018-pspv_classe,A,Objectif de performance dépassé,IQSS dossier patient
+ssr_dpa_pspv_2018-pspv_classe,B,Objectif de performance atteint,IQSS dossier patient
+ssr_dpa_pspv_2018-pspv_classe,C,Objectif de performance non atteint,IQSS dossier patient
+ssr_dpa_qls_2018-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+ssr_dpa_qls_2018-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+ssr_dpa_qls_2018-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_dpa_qls_2017-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_dpa_qls_2017-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_dpa_qls_2017-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_tdp_2018-tdp_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_tdp_2018-tdp_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_tdp_2018-tdp_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_tre_2017-tre_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_tre_2017-tre_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_tre_2017-tre_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_coord_2018-coord_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_coord_2018-coord_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_coord_2018-coord_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_coord_2021-coord_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_coord_2021-coord_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_coord_2021-coord_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_pcd_2021-pcd_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_pcd_2021-pcd_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_pcd_2021-pcd_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_qls_2021-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_qls_2021-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_qls_2021-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+had_dpa_tdp_2021-tdp_classe,A,Objectif de performance dépassé,IQSS dossier patient
+had_dpa_tdp_2021-tdp_classe,B,Objectif de performance atteint,IQSS dossier patient
+had_dpa_tdp_2021-tdp_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_dpa_qls_2021-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_dpa_qls_2021-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_dpa_qls_2021-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_pcc_inf_2021-pcc_inf_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_pcc_inf_2021-pcc_inf_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_pcc_inf_2021-pcc_inf_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_pcc_mep_2021-pcc_mep_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_pcc_mep_2021-pcc_mep_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_pcc_mep_2021-pcc_mep_classe,C,Objectif de performance non atteint,IQSS dossier patient
+mco_pcc_pcc_2021-pcc_classe,A,Objectif de performance dépassé,IQSS dossier patient
+mco_pcc_pcc_2021-pcc_classe,B,Objectif de performance atteint,IQSS dossier patient
+mco_pcc_pcc_2021-pcc_classe,C,Objectif de performance non atteint,IQSS dossier patient
+psy_smhosp_add_2021-add_classe,A,Objectif de performance dépassé,IQSS dossier patient
+psy_smhosp_add_2021-add_classe,B,Objectif de performance atteint,IQSS dossier patient
+psy_smhosp_add_2021-add_classe,C,Objectif de performance non atteint,IQSS dossier patient
+psy_smhosp_cv_2021-cv_classe,A,Objectif de performance dépassé,IQSS dossier patient
+psy_smhosp_cv_2021-cv_classe,B,Objectif de performance atteint,IQSS dossier patient
+psy_smhosp_cv_2021-cv_classe,C,Objectif de performance non atteint,IQSS dossier patient
+psy_smhosp_pcd_2021-pcd_classe,A,Objectif de performance dépassé,IQSS dossier patient
+psy_smhosp_pcd_2021-pcd_classe,B,Objectif de performance atteint,IQSS dossier patient
+psy_smhosp_pcd_2021-pcd_classe,C,Objectif de performance non atteint,IQSS dossier patient
+psy_smhosp_qls_2021-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+psy_smhosp_qls_2021-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+psy_smhosp_qls_2021-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+ssr_dpa_pcd_2021-qls_classe,A,Objectif de performance dépassé,IQSS dossier patient
+ssr_dpa_pcd_2021-qls_classe,B,Objectif de performance atteint,IQSS dossier patient
+ssr_dpa_pcd_2021-qls_classe,C,Objectif de performance non atteint,IQSS dossier patient
+ssr_dpa_pspv_2021-pspv_classe,A,Objectif de performance dépassé,IQSS dossier patient
+ssr_dpa_pspv_2021-pspv_classe,B,Objectif de performance atteint,IQSS dossier patient
+ssr_dpa_pspv_2021-pspv_classe,C,Objectif de performance non atteint,IQSS dossier patient

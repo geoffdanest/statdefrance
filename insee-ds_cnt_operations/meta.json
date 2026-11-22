@@ -1,0 +1,18 @@
+{
+  "source": "insee",
+  "dataset_id": "insee:DS_CNT_OPERATIONS",
+  "title": "Opérations sur biens et services",
+  "page": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_OPERATIONS",
+  "organization": "Insee",
+  "description": "Le tableau des entrées-sorties (ou TES) rassemble dans un même cadre comptable, les comptes de biens et de services par produits et les comptes de production et d'exploitation par branches. Les comptes de biens et de services donnent les équilibres entre ressources (production et importations) et emplois (consommation, formation brute de capital fixe, acquisitions moins cessions d'objets de valeur, variation des stocks, exportations) par produits. Les comptes de production et d'exploitation par branches permettent de mesurer la valeur ajoutée brute des branches (c'est-à-dire leur apport productif) et leur excédent brut d'exploitation ainsi que leur revenu mixte brut. \n\nL'ensemble de ces informations fournit une image synthétique de l'économie nationale, de l'interdépendance entre les branches (homogènes) qui la constituent et des liens entre l'économie nationale et le reste du monde.\n\nCe jeu de données contient des données estimées en valeur et en volume aux prix de l’année précédentes chaînés, corrigées des variations saisonnières et des jours ouvrés. Les données sont diffusées suivant la nomenclature française A17. Quelques regroupements supplémentaires (hors nomenclature classique) sont disponibles comme le total services ou le total biens.\n\nLes comptes trimestriels sont calés sur les comptes annuels et suivent les concepts et méthodes des comptes nationaux en base 2020 (première publication fin mai 2024).",
+  "resource_title": "DS_CNT_OPERATIONS",
+  "resource_url": "https://api.insee.fr/melodi/file/DS_CNT_OPERATIONS/DS_CNT_OPERATIONS_CSV_FR",
+  "last_modified": "2026-10-30T07:30:08.590419181",
+  "license": "Licence ouverte Etalab",
+  "num_observations": 212098,
+  "origin": "theme",
+  "label": "Emploi",
+  "query": "Emploi",
+  "news": [],
+  "lecture": "CSV séparé par « ; ». Valeur = OBS_VALUE. Les colonnes contiennent des codes : leurs libellés sont dans labels.csv (COD_VAR/LIB_VAR pour les colonnes, COD_MOD/LIB_MOD pour les valeurs)."
+}

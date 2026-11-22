@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6afc41f1aafe5e769f9b03cc",
+  "title": "Nombre de communes desservies par le gaz",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-communes-desservies-par-le-gaz",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\n**Définition**\nL'indicateur compte les communes du territoire sur lesquelles au moins un gestionnaire de réseau public de distribution de gaz est présent. Il renseigne sur l'accès des communes au gaz de réseau, qu'il s'agisse de gaz naturel ou de propane distribué par canalisation.\n\n**Périmètre**\nL'indicateur couvre la France entière : la France métropolitaine et les cinq départements et régions d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte). Il est disponible aux mailles commune, établissement public de coopération intercommunale (EPCI), département et région, pour une seule date de mesure, le 1er janvier 2025, sur le référentiel des communes de l'Institut national de la statistique et des études économiques (INSEE) à cette date. Paris, Lyon et Marseille comptent chacune pour une commune ; leurs arrondissements ne sont pas comptés séparément. À la maille commune, la valeur vaut 1 si la commune est desservie et 0 sinon ; les valeurs s'additionnent ensuite d'un territoire à l'autre. Aucune commune n'est desservie en Corse et dans les départements et régions d'outre-mer.\nL'indicateur ne mesure ni le nombre de logements ou de clients raccordés, ni la part de la population desservie, ni les quantités de gaz consommées. Il ne tient pas compte des sites industriels raccordés directement au réseau de transport de gaz.\n\n",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-communes-desservies-par-le-gaz/20261117-120437/description-des-champs.csv",
+  "last_modified": "2026-11-17T12:04:39.519000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

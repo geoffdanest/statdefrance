@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "56a8a5dcc751df5b7dceae20",
+  "title": "Journées départementales du sport féminin dans les Côtes d'Armor",
+  "page": "https://www.data.gouv.fr/datasets/journees-departementales-du-sport-feminin-dans-les-cotes-darmor",
+  "organization": "Département des Côtes d'Armor",
+  "description": "Les clubs sportifs du département ouvrent leurs portes aux femmes et aux filles. Découvrez la liste des activités à tester. \nLes Journées départementales du sport féminin proposent d'essayer gratuitement de nouvelles activités sportives. L’objectif de ces journées est de mettre en lumière les associations qui accueillent des femmes et des filles ou qui souhaitent fortement les compter parmi leurs membres et licenciés. \nSur cette période, ces associations sont invitées à ouvrir gratuitement leurs portes au moins une fois par semaine au public féminin. Ainsi les femmes peuvent «tester» l’activité. \nDe nombreux clubs du département sont partenaires de cette opération organisée par le Conseil Départemental des Côtes d'Armor. Le but est de favoriser la pratique des femmes et des filles dans les clubs sportifs, à l'heure où persistent des inégalités dans la pratique sportive entre les hommes et les femmes.",
+  "resource_title": "Fichier csv",
+  "resource_url": "https://datarmor.cotesdarmor.fr/data-fair/api/v1/datasets/journees-departementales-du-sport-feminin-dans-les-cotes-darmor/raw",
+  "last_modified": "2026-01-29T21:07:52+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Sport",
+  "query": "sport",
+  "news": []
+}

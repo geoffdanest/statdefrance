@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:pcaet-demarches-partie-3",
+  "title": "PCAET (v1) - Démarches - Partie 3",
+  "page": "https://data.ademe.fr/datasets/pcaet-demarches-partie-3",
+  "organization": "ADEME",
+  "description": "Les collectivités devant mettre en œuvre un plan climat-air-énergie territorial (PCAET) au titre de l’article L229-26 du code de l’environnement : * ont la possibilité de déposer leur projet de PCAET sur la plateforme [Territoires et Climat](https://www.territoires-climat.ademe.fr/#_blank), ce dépôt valant alors transmission pour avis au préfet de région telle que prévue au R229-54. * ont l'obligation de déposer leurs PCAET adoptés sur la plateforme [Territoires et Climat](https://www.territoires-climat.ademe.fr/#_blank). La plateforme [Territoires et Climat](https://www.territoires-climat.ademe.fr/#_blank) propose une rubrique [Open Data](https://www.territoires-climat.ademe.fr/opendata#_blank) mettant à disposition des jeux de données en téléchargement. Nous proposons également ces jeux de données depuis ce portail, actualisés quotidiennement, pour vous permettre une meilleure réutilisation, notamment via API. Le jeu de données présenté ici contient les extractions des **données de production ENR (détail ci-dessous) sur les démarches PCAET publiées** avec la version 1 (V1) du formulaire de dépôt, soit avant le printemps 2020. Les autres données de diagnostic et d’objectifs associées à ces PCAET sont accessibles via les jeux de données suivants : * [Démarches PCAET – Partie 2/4 – Profil Energie Climat et Séquestration (Formulaire V1)](https://data.ademe.fr/datasets/pcaet-demarches-partie-2) ; * [Démarches PCAET – Partie 4/4 – Profil Energie Climat et Séquestration (Formulair",
+  "resource_title": "PCAET (v1) - Démarches - Partie 3",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/pcaet-demarches-partie-3/lines?format=csv&size=10000",
+  "last_modified": "2026-11-17T06:22:11.245Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "préfet",
+  "query": "préfet",
+  "news": [
+    {
+      "title": "\"On tient le bon bout\" après les inondations, la décrue \"est très nette sur l'amont de La Canche, affirme le préfet du Pas-de-Calais",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-tient-le-bon-bout-apres-les-inondations-la-decrue-est-tres-nette-sur-l-amont-de-la-canche-affirme-le-prefet-du-pas-de-calais_8294786.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

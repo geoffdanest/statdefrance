@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6ae4c74abf2e3da280520ea0",
+  "title": "Nombre de communes desservies par un réseau de chaleur",
+  "page": "https://www.data.gouv.fr/datasets/nombre-de-communes-desservies-par-un-reseau-de-chaleur",
+  "organization": "Ecolab",
+  "description": "---\n\n🚧 **INDICATEUR EN COURS DE REVUE** 🚧\n\n👀 Aidez-nous à le fiabiliser : faites nous part de vos retours dans l'onglet **« Discussions »**.\n\n---\n\nCet indicateur compte le nombre de communes desservies par au moins un réseau de chaleur en exploitation. Il mesure l'accessibilité territoriale au chauffage à forte part d’énergies renouvelables et de récupération, un système distribuant de la chaleur centralisée (biomasse, géothermie, récupération de chaleur fatale) vers les bâtiments via un réseau de canalisations.\n\nIl concerne l'Hexagone uniquement, aux mailles communale, intercommunale, départementale et régionale. Il ne dit rien des réseaux de froid, des projets en construction, ni de la situation infra-communale ; les réseaux sans tracé géographique sont toutefois inclus, et le nom des communes fusionnées ou modifiées a été actualisé pour correspondre au Code officiel géographique (COG) en vigueur.\n\nLes réseaux de chaleur contribuent à réduire les émissions de gaz à effet de serre du bâtiment en substituant des énergies renouvelables et de récupération aux énergies fossiles. Ils améliorent l’efficacité énergétique grâce à la mutualisation de la production et à la valorisation de la chaleur fatale, et participent à la résilience territoriale ainsi qu’à la lutte contre la précarité énergétique, en offrant une chaleur au coût plus stable.\n\nLes collectivités et planificateurs l’utilisent pour identifier les zones prioritaires d’extension des réseaux, suivre les objectifs de la p",
+  "resource_title": "Description des champs",
+  "resource_url": "https://static.data.gouv.fr/resources/nombre-de-communes-desservies-par-un-reseau-de-chaleur/20261030-163721/description-des-champs.csv",
+  "last_modified": "2026-10-30T16:37:22.424000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

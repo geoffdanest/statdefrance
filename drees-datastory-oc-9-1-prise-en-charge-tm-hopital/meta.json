@@ -1,0 +1,17 @@
+{
+  "source": "drees",
+  "dataset_id": "drees:datastory-oc-9-1-prise-en-charge-tm-hopital",
+  "title": "Datastory OC - 3.1 Prise en charge pour une opération de la cataracte à l'hôpital",
+  "page": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/datastory-oc-9-1-prise-en-charge-tm-hopital/",
+  "organization": "DREES",
+  "description": "Ce jeu de données sert à construire les graphique de la data story \"Enquête OC\" accessible en suivant ce lien : Datastory OC Il est extrait du jeu de données complet de l'\"enquête OC\" accessible sur la plateforme data.drees en suivant ce lien : Enquête auprès des organismes offrant des couvertures complémentaires santé (Enquête OC) depuis 2019 — DATA.DREES",
+  "resource_title": "Datastory OC - 3.1 Prise en charge pour une opération de la cataracte à l'hôpital",
+  "resource_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/datastory-oc-9-1-prise-en-charge-tm-hopital/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-09-23T14:06:20.941000+00:00",
+  "license": "Licence ouverte",
+  "origin": "theme",
+  "label": "Santé",
+  "query": "hôpital",
+  "news": [],
+  "lecture": "CSV séparé par « ; »."
+}

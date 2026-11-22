@@ -1,0 +1,33 @@
+{
+  "source": "odisse",
+  "dataset_id": "odisse:leptospirose-donnees-a-declaration-obligatoire",
+  "title": "Leptospirose : Données à signalement obligatoire",
+  "page": "https://odisse.santepubliquefrance.fr/explore/dataset/leptospirose-donnees-a-declaration-obligatoire/",
+  "organization": "Santé publique France",
+  "description": "Les indicateurs de la surveillance de la Leptospirose sont construits à partir des informations des signalement obligatoires (SO), transmises aux Agences régionales de santé (ARS), puis centralisées par Santé publique France. Les taux sont rapportés à la population résidente du territoire considéré, estimée à partir des estimations localisées de population fournies par l’Insee pour une année donnée. Les cas sont comptabilisés par année de déclaration, et présentés par département de signalement et de résidence ainsi que par région d'exposition aux activités de baignades ou d'activités liées à l'agriculture et jardinage. Les indicateurs sont mis à jour annuellement et disponibles à partir de l’année 2024. Tous les cas répondant à la définition des cas en vigueur au moment de leur survenue ont été inclus dans l’analyse. Consulter le dossier Leptospirose sur le site internet de Santé publique France",
+  "resource_title": "Leptospirose : Données à signalement obligatoire",
+  "resource_url": "https://odisse.santepubliquefrance.fr/api/explore/v2.1/catalog/datasets/leptospirose-donnees-a-declaration-obligatoire/exports/csv?delimiter=%3B&limit=200000",
+  "last_modified": "2026-11-19T09:41:29+00:00",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "partir",
+  "query": "partir",
+  "news": [
+    {
+      "title": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "link": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "link": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

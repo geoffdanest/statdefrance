@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6af1fab66975e674caa83c1f",
+  "title": "Table de passage des codes communes vers le millésime en vigueur du COG",
+  "page": "https://www.data.gouv.fr/datasets/table-de-passage-des-codes-communes-vers-le-millesime-en-vigueur-du-cog",
+  "organization": "Ecolab",
+  "description": "Table de passage des codes communes d'un millésime du Code officiel géographique (COG) de l'Insee vers le millésime en vigueur, utilisée pour ramener les données des indicateurs sur la géographie communale actuelle.\n\nChaque ligne relie le code d'une commune dans le COG d'une année donnée (`annee_initiale`, `geocode_commune_initial`) à son code dans le COG en vigueur (`geocode_commune`). Seules les communes ayant connu au moins une fusion ou une scission depuis l'année initiale figurent dans la table : une commune absente garde son code.\n\n- `type_modification` : `fusion`, `scission` ou `both` (les deux) ;\n- `liste_evenements` : la liste des événements successifs, sous la forme `année:type`.\n\nSelon la nature de l'indicateur, la table s'applique différemment :\n\n- **indicateurs sommables** (volumes, effectifs, surfaces) : lors d'une fusion, les valeurs des communes fusionnées sont additionnées ; lors d'une scission, la valeur reste sur le code d'origine ;\n- **indicateurs non sommables** (moyennes, taux, températures, nombres de jours par territoire) : lors d'une fusion, on garde la valeur de la commune qui conserve son code, sans somme ; lors d'une scission, les communes résultantes, nouveaux codes compris, reprennent la valeur de la commune initiale.\n\nLa table est mise à jour à chaque nouveau millésime du COG. Source : Insee, Code officiel géographique (fusions et scissions de communes).",
+  "resource_title": "Table de passage des codes communes vers le COG en vigueur",
+  "resource_url": "https://static.data.gouv.fr/resources/table-de-passage-des-codes-communes-vers-le-millesime-en-vigueur-du-cog/20261109-165416/table-passage-codes-communes.csv",
+  "last_modified": "2026-11-09T16:54:29.057000+00:00",
+  "license": "fr-lo",
+  "origin": "theme",
+  "label": "Territoires",
+  "query": "communes",
+  "news": []
+}

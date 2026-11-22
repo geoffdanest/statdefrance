@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6af5e756213e0de71660341e",
+  "title": "Écoles publiques et privées sous contrat - Ministère de l’Éducation nationale - Région académique Centre-Val de Loire (académie d’Orléans-Tours)",
+  "page": "https://www.data.gouv.fr/datasets/ecoles-publiques-et-privees-sous-contrat-ministere-de-leducation-nationale-region-academique-centre-val-de-loire-academie-dorleans-tours",
+  "organization": "DRANE Centre-Val de Loire",
+  "description": "**Écoles publiques et privées sous contrat**, sous tutelle du ministère de l’Éducation nationale, situés dans la **région académique Centre-Val de Loire** (académie d’Orléans-Tours).\n\nCe jeu de données regroupe les écoles publiques et privées sous contrat, sous tutelle du ministère de l’Éducation nationale, en **Centre-Val de Loire** (Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret), issus de l’Annuaire de l’éducation.\n\nL’objectif principal est de fournir une version **lisible, homogène et prête à l’emploi** pour toute personne amenée à manipuler des données, que ce soit dans des outils de type Grist, des tableaux de bord, des indicateurs ou d’autres applications métier.\n\nLes libellés des colonnes sont volontairement verbeux et en français clair afin de faciliter la compréhension et l’utilisation directe, sans avoir à renommer les champs.\n\nUne colonne **École** permet de faciliter l’identification en limitant les erreurs, notamment lors de la sélection d’un établissement dans un formulaire Grist.\n\n## Contenu\n\nLe fichier contient notamment les informations suivantes :\n\n* Code UAI (Unité Administrative Immatriculée, anciennement code RNE)\n* Nom de l’établissement et libellé **École** pour la sélection\n* Type et nature de l’établissement (avec code BCN)\n* Secteur (Public / Privé)\n* Types de contrat des établissements privés (BCN)\n* Éducation prioritaire (REP, REP+)\n* Dispositifs ULIS\n* Localisation (département, commune, code INSEE, code postal, adresse)\n* Circon",
+  "resource_title": "drane-cvl-ecoles-education-nationale-region-centre-val-de-loire.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/ecoles-publiques-et-privees-sous-contrat-ministere-de-leducation-nationale-region-academique-centre-val-de-loire-academie-dorleans-tours/20261112-162040/drane-cvl-ecoles-education-nationale-region-centre-val-de-loire-2026-11-12.csv",
+  "last_modified": "2026-11-12T16:20:41.494000+00:00",
+  "license": "lov2",
+  "origin": "theme",
+  "label": "Éducation",
+  "query": "école",
+  "news": []
+}
