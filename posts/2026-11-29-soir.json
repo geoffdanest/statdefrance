@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-29",
+  "slot": "soir",
+  "theme": "Transports",
+  "template": "unsurn",
+  "source": "SNCF, régularité Intercités 2025",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-intercites/",
+  "dataset_id": "sncf:regularite-mensuelle-intercites",
+  "question": "Tu la prends, cette ligne ?",
+  "calc": "regularite-mensuelle-intercites, année 2025, deux sens regroupés : 1 − Σ trains en retard à l’arrivée / Σ trains ayant circulé. Bordeaux–Marseille 1 430/4 492 → 68,2 % ; Paris–Briançon 69,0 ; Paris–Nice 76,3 ; Lyon–Nantes 85,6 ; Paris–Toulouse 86,9 ; Paris–Clermont 89,3. Ensemble Intercités 2025 : 84,0 %.",
+  "caption": "Sur Bordeaux–Marseille, prévoir de la marge.\n\nEn 2025, près d’un Intercités sur trois est arrivé en retard sur la ligne Bordeaux–Marseille : 68 % seulement à l’heure, le pire score du réseau. Sur l’ensemble des Intercités, c’est 84 %.\n\nTu la prends, cette ligne ?\n\nSource : SNCF, « Régularité mensuelle Intercités »\nhttps://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-intercites/\n\n#statdefrance #opendata #transports #sncf #intercites #retards",
+  "palette": "papier",
+  "num": "N° 087",
+  "status": "draft",
+  "n": 3,
+  "label": "Sur Bordeaux–Marseille, près d’un Intercités sur trois est arrivé en retard en 2025."
+}

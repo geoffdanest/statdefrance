@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-23",
+  "slot": "soir",
+  "theme": "Transports",
+  "template": "colonnes",
+  "source": "SNCF, régularité TGV 2015-2026",
+  "source_url": "https://ressources.data.sncf.com/explore/dataset/reglarite-mensuelle-tgv-nationale/",
+  "dataset_id": "sncf:reglarite-mensuelle-tgv-nationale",
+  "title": "TGV en retard : la part a presque doublé depuis 2021.",
+  "series": [
+    [
+      "2019",
+      9.3
+    ],
+    [
+      "2021",
+      8.7
+    ],
+    [
+      "2023",
+      12.1
+    ],
+    [
+      "2025",
+      13.0
+    ],
+    [
+      "2026",
+      16.7
+    ]
+  ],
+  "per_dot": 2,
+  "dot_unit": "% de TGV en retard",
+  "value_suffix": " %",
+  "decimals": 1,
+  "question": "Ton dernier TGV était à l’heure ?",
+  "calc": "reglarite-mensuelle-tgv-nationale, colonne regularite_composite, moyenne des mois de janvier à septembre de chaque année (2026 disponible jusqu’en septembre) : 2019 90,7 ; 2021 91,3 ; 2023 87,9 ; 2025 87,0 ; 2026 83,3. Part en retard = 100 − régularité : 9,3 / 8,7 / 12,1 / 13,0 / 16,7. 83,3 est le plus bas de la série janv.-sept. depuis 2015.",
+  "caption": "Un TGV sur six arrive en retard cette année.\n\nDe janvier à septembre 2026, 16,7 % des TGV sont arrivés en retard. Sur la même période en 2021, c’était 8,7 %. Jamais depuis 2015 la ponctualité n’avait été aussi mauvaise.\n\nÀ noter : un TGV compte en retard à partir de 5 à 15 minutes selon la durée du trajet.\n\nTon dernier TGV était à l’heure ?\n\nSource : SNCF, « Régularité mensuelle TGV globale »\nhttps://ressources.data.sncf.com/explore/dataset/reglarite-mensuelle-tgv-nationale/\n\n#statdefrance #opendata #transports #sncf #tgv #retards",
+  "palette": "papier",
+  "num": "N° 075",
+  "status": "draft"
+}

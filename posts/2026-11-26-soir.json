@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-26",
+  "slot": "soir",
+  "theme": "Logement",
+  "template": "compare",
+  "source": "Carte des loyers, annonces 2024",
+  "source_url": "https://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024",
+  "dataset_id": "6751be987c09f4be821c6934",
+  "title": "Louer un appartement : 4 fois plus cher au m² dans Paris 6e qu’à Limoges.",
+  "rows": [
+    {
+      "name": "Paris 6e",
+      "value": 37,
+      "highlight": true
+    },
+    {
+      "name": "Nice",
+      "value": 19
+    },
+    {
+      "name": "Bordeaux",
+      "value": 14
+    },
+    {
+      "name": "Limoges",
+      "value": 9
+    }
+  ],
+  "dot_unit": "€/m²",
+  "question": "Tu paies combien chez toi ?",
+  "calc": "Carte des loyers 2024, indicateur appartements de 3 pièces ou plus, colonne loypredm2 (loyer d’annonce charges comprises, €/m²) : Paris 6e 37,17 (le plus élevé de France) ; Nice 18,60 ; Bordeaux 14,41 ; Limoges 8,63. 37,17/8,63 = 4,3.",
+  "caption": "Même appartement, même mètre carré : la facture n’a rien à voir.\n\nEn 2024, un appartement de 3 pièces ou plus se louait 37 € le m² dans le 6e arrondissement de Paris, le plus cher de France. À Limoges, c’était moins de 9 €. Nice, à 19 €, coûte deux fois plus que Limoges.\n\nÀ noter : loyers d’annonce, charges comprises.\n\nTu paies combien chez toi ?\n\nSource : Ministère de la Transition écologique, « Carte des loyers - Indicateurs de loyers d’annonce par commune en 2024 », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2024\n\n#statdefrance #opendata #logement #loyers #paris #immobilier",
+  "palette": "papier",
+  "num": "N° 081",
+  "status": "draft"
+}

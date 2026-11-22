@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-27",
+  "slot": "matin",
+  "theme": "Salaires",
+  "template": "matrice",
+  "source": "Éducation nationale, 10 plus hautes rémunérations",
+  "source_url": "https://data.education.gouv.fr/explore/dataset/fr-en-dix-plus-hautes-remunerations/",
+  "dataset_id": "education:fr-en-dix-plus-hautes-remunerations",
+  "display": "+19%",
+  "label": "en sept ans pour les 10 plus hauts salaires de l’Éducation nationale.",
+  "history": [
+    [
+      "2018",
+      "13 800 €"
+    ],
+    [
+      "2021",
+      "14 300 €"
+    ],
+    [
+      "2023",
+      "15 000 €"
+    ],
+    [
+      "2025",
+      "16 400 €"
+    ]
+  ],
+  "question": "Normal ou pas ?",
+  "calc": "fr-en-dix-plus-hautes-remunerations : somme_10_plus_hautes_remunerations / duree_cumulee_mois (120 mois) : 2018 1 653 838/120 = 13 782 ; 2021 1 712 647/120 = 14 272 ; 2023 1 794 034/120 = 14 950 ; 2025 1 972 637,68/120 = 16 439. Hausse 2018-2025 : +19 %. 2025 : 5 femmes, 5 hommes.",
+  "caption": "Au sommet du ministère de l’Éducation, les fiches de paie grimpent.\n\nEn 2025, les dix agents les mieux payés du ministère ont touché en moyenne 16 400 € brut par mois. En 2018, c’était 13 800 € : une hausse de 19 %. Le ministère publie ces chiffres chaque année, comme la loi l’y oblige.\n\nNormal ou pas ?\n\nSource : Ministère de l’Éducation nationale, « Dix plus hautes rémunérations »\nhttps://data.education.gouv.fr/explore/dataset/fr-en-dix-plus-hautes-remunerations/\n\n#statdefrance #opendata #salaires #educationnationale #fonctionpublique #transparence",
+  "palette": "nuit",
+  "num": "N° 082",
+  "status": "draft"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-28",
+  "slot": "matin",
+  "theme": "Santé",
+  "template": "colonnes",
+  "source": "Santé publique France, chutes 2015-2024",
+  "source_url": "https://odisse.santepubliquefrance.fr/explore/dataset/chutes-hospitalisations-et-deces-departement/",
+  "dataset_id": "odisse:chutes-hospitalisations-et-deces-departement",
+  "title": "Chutes après 65 ans : 20 000 morts par an, 46 % de plus qu’en 2015.",
+  "series": [
+    [
+      "2015",
+      13794
+    ],
+    [
+      "2018",
+      15625
+    ],
+    [
+      "2021",
+      17713
+    ],
+    [
+      "2024",
+      20148
+    ]
+  ],
+  "per_dot": 2000,
+  "dot_unit": "décès",
+  "decimals": 0,
+  "question": "Chez toi, on a sécurisé la maison ?",
+  "calc": "chutes-hospitalisations-et-deces-departement, indicateur=Décès, somme de « nombre » sur les 101 départements : 2015 13 794 ; 2018 15 625 ; 2021 17 713 ; 2024 20 148 (+46 %). Hospitalisations 2024 : 174 824.",
+  "caption": "Une chute peut tuer. Et c’est de plus en plus fréquent.\n\nEn 2024, plus de 20 000 personnes de 65 ans et plus sont mortes après une chute, contre 13 800 en 2015. La même année, 175 000 ont été hospitalisées pour une chute.\n\nÀ noter : ce sont des nombres, pas des taux ; le vieillissement de la population pèse dans la hausse.\n\nChez toi, on a sécurisé la maison ?\n\nSource : Santé publique France, « Chutes : Hospitalisations et Décès pour les plus de 65 ans »\nhttps://odisse.santepubliquefrance.fr/explore/dataset/chutes-hospitalisations-et-deces-departement/\n\n#statdefrance #opendata #sante #seniors #chutes #prevention",
+  "palette": "nuit",
+  "num": "N° 084",
+  "status": "draft"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-27",
+  "slot": "soir",
+  "theme": "Économie",
+  "template": "hemicycle",
+  "source": "Insee, comptes régionaux 2024",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_COMPTES_REGIONAUX",
+  "dataset_id": "insee:DS_COMPTES_REGIONAUX",
+  "pct": 30,
+  "title": "Près de 30 % de la richesse du pays est produite en Île-de-France.",
+  "label": "du PIB de la France",
+  "question": "Paris ou province ?",
+  "calc": "DS_COMPTES_REGIONAUX, STO=B1GQ (PIB), ACTIVITY=_T, PRICES=V, 2024 (provisoire) : Île-de-France (FR1) 865 652 M€ / France (FR_HHT) 2 918 844 M€ = 29,7 %. STO=POP 2024 : 12 453 / 68 552 milliers = 18,2 %. PIB par habitant 2024 : IDF 69 514 €, France métropolitaine hors IDF 37 080 €.",
+  "caption": "Une région, presque un tiers du pays.\n\nEn 2024, l’Île-de-France a produit 30 % de la richesse nationale (PIB), alors qu’elle n’abrite que 18 % des habitants. Par habitant, c’est 69 500 €, contre 37 100 € dans le reste de la métropole.\n\nParis ou province ?\n\nSource : Insee, « Comptes régionaux annuels »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_COMPTES_REGIONAUX\n\n#statdefrance #opendata #economie #iledefrance #regions #insee",
+  "palette": "papier",
+  "num": "N° 083",
+  "status": "draft"
+}

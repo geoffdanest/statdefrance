@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-24",
+  "slot": "soir",
+  "theme": "Énergie",
+  "template": "unsurn",
+  "source": "RTE via ODRÉ, bilan électrique 2025",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/equilibre-national-mensuel-prod-conso-brute/",
+  "dataset_id": "odre:equilibre-national-mensuel-prod-conso-brute",
+  "n": 6,
+  "label": "En 2025, plus d’un kWh produit en France sur six est parti à l’étranger.",
+  "question": "Tu le savais ?",
+  "calc": "equilibre-national-mensuel-prod-conso-brute, somme des 12 mois de 2025 : production_totale 547 456 GWh, solde_echanges_physiques 93 151 GWh (exportations nettes), 93 151/547 456 = 17,0 % (> 1/6 = 16,7 %). 2022 : solde −14 996 GWh (importations nettes). 2024 : 89 575 GWh.",
+  "caption": "La France vend son électricité à ses voisins. Beaucoup.\n\nEn 2025, les exportations nettes ont atteint 93 térawattheures : 17 % de tout ce que le pays a produit. En 2022, c’était l’inverse : la France avait dû importer plus qu’elle n’exportait.\n\nÀ noter : il s’agit du solde, exportations moins importations.\n\nTu le savais ?\n\nSource : ODRÉ (RTE), « Equilibre national mensuel production = consommation brute »\nhttps://odre.opendatasoft.com/explore/dataset/equilibre-national-mensuel-prod-conso-brute/\n\n#statdefrance #opendata #energie #electricite #export #rte",
+  "palette": "papier",
+  "num": "N° 077",
+  "status": "draft"
+}

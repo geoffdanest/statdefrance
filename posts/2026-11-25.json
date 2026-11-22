@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-25",
+  "slot": "matin",
+  "theme": "Société",
+  "template": "grille",
+  "source": "Insee, indicateurs ODD 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_NAT_SDG",
+  "dataset_id": "insee:DS_NAT_SDG",
+  "pct": 79,
+  "label": "des victimes de violences physiques ou sexuelles dans la famille sont des femmes (2023).",
+  "question": "Tu aurais dit combien ?",
+  "calc": "DS_NAT_SDG, INDICATOR_SDG=5.i3b (part des femmes parmi les victimes de violences intrafamiliales physiques et/ou sexuelles), 2023 = 79 % (2021 : 75, rupture de série). 5.i3a (nombre de victimes) 2023 = 197 600.",
+  "caption": "Aujourd’hui, 25 novembre, c’est la journée contre les violences faites aux femmes.\n\nEn 2023, près de 200 000 personnes ont déclaré avoir subi des violences physiques ou sexuelles au sein de leur famille. Près de 8 sur 10 étaient des femmes.\n\nTu aurais dit combien ?\n\nSource : Insee, « Indicateurs d’objectifs de développement durable »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_NAT_SDG\n\nEn cas d’urgence : 17. Violences Femmes Info : 3919.\n\n#statdefrance #opendata #societe #violencesfaitesauxfemmes #25novembre #insee",
+  "palette": "nuit",
+  "num": "N° 078",
+  "status": "draft"
+}

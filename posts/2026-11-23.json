@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-23",
+  "slot": "matin",
+  "theme": "Pauvreté",
+  "template": "carte",
+  "source": "Insee, niveau de vie 2024",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ERFS_NON_RETROPOLE",
+  "dataset_id": "insee:DS_ERFS_NON_RETROPOLE",
+  "number": "9,8",
+  "unit": "millions de pauvres",
+  "hook": "En 2024 : le chiffre le plus élevé publié par l’Insee depuis 1975.",
+  "question": "Tu aurais dit combien ?",
+  "calc": "DS_ERFS_NON_RETROPOLE, ERFS_MEASURE=NUM_PER_MD60 (seuil à 60 % du niveau de vie médian), AGE/SEX/PCS/TPH/EMPSTA_ENQ/QUANTILE=_T, UNIT_MULT=3 : 2024 = 9 817 milliers (max de la série 1975-2024 ; 2023 = 9 792). PR_MD60 2024 = 15,4 %. PT_MD60_CURR 2024 = 1 337 € par mois.",
+  "caption": "Jamais la France n’avait compté autant de pauvres.\n\nEn 2024, 9,8 millions de personnes vivaient sous le seuil de pauvreté, soit 15,4 % de la population. Ce seuil : 1 337 € par mois pour une personne seule. C’est le chiffre le plus élevé publié par l’Insee depuis 1975.\n\nÀ noter : la série connaît quelques ruptures de méthode au fil des années.\n\nTu aurais dit combien ?\n\nSource : Insee, « Indicateurs de pauvreté et de niveau de vie de 1975 à 2024 »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_ERFS_NON_RETROPOLE\n\n#statdefrance #opendata #pauvrete #niveaudevie #societe #insee",
+  "palette": "nuit",
+  "num": "N° 074",
+  "status": "draft"
+}

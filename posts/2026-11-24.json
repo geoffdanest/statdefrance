@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-24",
+  "slot": "matin",
+  "theme": "Numérique",
+  "template": "compare",
+  "source": "Insee, TIC dans les entreprises 2025",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICE",
+  "dataset_id": "insee:DS_TICE",
+  "title": "L’IA au travail : 58 % des grandes entreprises, 13 % des petites.",
+  "rows": [
+    {
+      "name": "10 à 19 salariés",
+      "value": 13
+    },
+    {
+      "name": "20 à 49 salariés",
+      "value": 19
+    },
+    {
+      "name": "50 à 249 salariés",
+      "value": 31
+    },
+    {
+      "name": "250 salariés et plus",
+      "value": 58,
+      "highlight": true
+    }
+  ],
+  "dot_unit": "%",
+  "question": "Et dans ta boîte ?",
+  "calc": "DS_TICE 2025, ACTIVITY=_T, IA_TECH (entreprises utilisant au moins une technologie d’IA) / NB_ENT : ELT20 15 307/115 372 = 13,3 % ; E20T49 9 602/50 115 = 19,2 % ; E50T249 7 217/23 337 = 30,9 % ; EGE250 3 147/5 420 = 58,1 % ; ensemble 35 273/194 243 = 18,2 %. IA_NON_UTIL_UTILITE / NB_ENT = 112 272/194 243 = 57,8 %. Champ : entreprises de 10 personnes ou plus (tranche ELT20 = 10 à 19).",
+  "caption": "L’IA est partout… sauf dans les petites boîtes.\n\nEn 2025, 58 % des entreprises de 250 salariés et plus utilisent une technologie d’intelligence artificielle. Dans celles de 10 à 19 salariés, c’est 13 %. Toutes tailles confondues, moins d’une entreprise sur cinq s’y est mise.\n\nÀ noter : l’enquête couvre les entreprises d’au moins 10 personnes.\n\nEt dans ta boîte ?\n\nSource : Insee, « Les TIC et le commerce électronique dans les entreprises »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_TICE\n\n#statdefrance #opendata #numerique #intelligenceartificielle #entreprises #insee",
+  "palette": "nuit",
+  "num": "N° 076",
+  "status": "draft",
+  "per_dot": 2
+}

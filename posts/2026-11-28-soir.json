@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-28",
+  "slot": "soir",
+  "theme": "Énergie",
+  "template": "halteres",
+  "source": "ODRÉ, éolien et solaire 2026",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/fc-tc-nationaux-mensuels-eolien-solaire/",
+  "dataset_id": "odre:fc-tc-nationaux-mensuels-eolien-solaire",
+  "title": "En hiver, le vent. En été, le soleil.",
+  "legend_a": "Éolien",
+  "legend_b": "Solaire",
+  "scale": "Part de la consommation couverte en 2026, en %",
+  "range": [
+    0,
+    15
+  ],
+  "step": 5,
+  "decimals": 1,
+  "rows": [
+    {
+      "name": "Janvier",
+      "a": 12.4,
+      "b": 2.3
+    },
+    {
+      "name": "Avril",
+      "a": 10.8,
+      "b": 11.4
+    },
+    {
+      "name": "Juillet",
+      "a": 8.8,
+      "b": 14.1,
+      "highlight": true
+    }
+  ],
+  "question": "Tu l’aurais deviné ?",
+  "calc": "fc-tc-nationaux-mensuels-eolien-solaire, tc_moyen_eolien / tc_moyen_solaire (taux de couverture moyen de la consommation, %) : 2026-01 12,4 / 2,3 ; 2026-04 10,8 / 11,4 ; 2026-07 8,8 / 14,1.",
+  "caption": "L’éolien et le solaire se passent le relais au fil des saisons.\n\nEn janvier 2026, les éoliennes ont couvert 12 % de la consommation d’électricité, le solaire à peine 2 %. En juillet, c’est l’inverse : 14 % pour le solaire, 9 % pour l’éolien.\n\nTu l’aurais deviné ?\n\nSource : ODRÉ (RTE), « Facteurs de charge et taux de couverture nationaux mensuels éoliens et solaires »\nhttps://odre.opendatasoft.com/explore/dataset/fc-tc-nationaux-mensuels-eolien-solaire/\n\n#statdefrance #opendata #energie #eolien #solaire #electricite",
+  "palette": "papier",
+  "num": "N° 085",
+  "status": "draft"
+}

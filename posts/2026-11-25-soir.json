@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-25",
+  "slot": "soir",
+  "theme": "Environnement",
+  "template": "bulles",
+  "source": "Andra, inventaire national fin 2024",
+  "source_url": "https://www.data.gouv.fr/datasets/inventaire-national-des-matieres-et-dechets-radioactifs",
+  "dataset_id": "577225c888ee383112ab6512",
+  "title": "Déchets nucléaires : les plus radioactifs tiennent dans 4 700 m³.",
+  "unit": "m³",
+  "rows": [
+    {
+      "name": "Faible et moyenne activité (vie courte)",
+      "value": 1006990
+    },
+    {
+      "name": "Haute activité",
+      "value": 4717,
+      "highlight": true
+    }
+  ],
+  "question": "Tu imaginais plus ou moins ?",
+  "calc": "Inventaire Andra, « Déchets déclarés à fin 2024 », somme de VOLUME EQUIVALENT CONDITIONNE par CATEGORIE : FMA-VC 1 006 990 m³ ; TFA 716 652 m³ ; HA 4 717 m³ ; MA-VL 35 505 ; FA-VL 125 010 ; « sans catégorie » 1 328 387. FMA-VC / HA = 213.",
+  "caption": "Le cœur du problème nucléaire tient dans un volume minuscule.\n\nFin 2024, les déchets de haute activité, les plus radioactifs, représentaient 4 700 m³. Les déchets de faible et moyenne activité à vie courte en font 1 million : plus de 200 fois plus.\n\nTu imaginais plus ou moins ?\n\nSource : Andra, « Inventaire national des matières et déchets radioactifs », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/inventaire-national-des-matieres-et-dechets-radioactifs\n\n#statdefrance #opendata #nucleaire #dechets #environnement #andra",
+  "palette": "papier",
+  "num": "N° 079",
+  "status": "draft"
+}

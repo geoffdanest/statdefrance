@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-29",
+  "slot": "matin",
+  "theme": "Énergie",
+  "template": "carte",
+  "source": "ODRÉ, points d’injection de biométhane 2026",
+  "source_url": "https://odre.opendatasoft.com/explore/dataset/points-dinjection-de-biomethane-en-france/",
+  "dataset_id": "odre:points-dinjection-de-biomethane-en-france",
+  "number": 868,
+  "unit": "sites de biogaz",
+  "hook": "Jusqu’en 2015, il n’y en avait que 17.",
+  "question": "Il y en a un près de chez toi ?",
+  "calc": "points-dinjection-de-biomethane-en-france : site_ouvert=True → 868 sites (871 lignes, 3 fermés) ; procédé méthanisation pour 870 sur 871. Mises en service cumulées jusqu’en 2015 (annee_mes ≤ 2015) : 1+2+3+11 = 17. Capacité totale 16 630 GWh/an ; Grand Est 138 sites.",
+  "caption": "Le gaz vert sort de terre partout en France.\n\nFin 2026, 868 sites injectent dans le réseau du gaz produit par méthanisation : on fait fermenter des déchets agricoles ou alimentaires pour en tirer du méthane. Jusqu’en 2015, on n’en comptait que 17. Le Grand Est en a le plus : 138.\n\nIl y en a un près de chez toi ?\n\nSource : ODRÉ, « Points d’injection de méthane renouvelable et bas carbone en France en service »\nhttps://odre.opendatasoft.com/explore/dataset/points-dinjection-de-biomethane-en-france/\n\n#statdefrance #opendata #energie #biogaz #methanisation #agriculture",
+  "palette": "nuit",
+  "num": "N° 086",
+  "status": "draft"
+}
