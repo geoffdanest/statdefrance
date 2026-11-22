@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-22",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Politique",
+  "palette": "nuit",
+  "template": "une",
+  "num": "ACTU · 22.11",
+  "une": [
+    "Présidentielle : la date du second tour fait débat.",
+    "La CFDT demande d'avancer le vote d'une semaine."
+  ],
+  "photo": "posts/photos/2026-11-22-actu-20h.jpg",
+  "photo_credit": "Photo : Jamain, CC BY",
+  "photo_source": "https://commons.wikimedia.org/w/index.php?curid=116808675",
+  "photo_focus": 0.5,
+  "source": "franceinfo, Sud Radio (22/11/2026)",
+  "source_url": "https://www.sudradio.fr/societe/presidentielle-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai",
+  "dataset_id": null,
+  "calc": "Pas de donnée publique pertinente. Deux collectes (élection présidentielle, second tour, participation, abstention, 1er mai, présidentielle 2022, résultats du second tour) n'ont donné que le temps de parole des candidats 2022 (écarté car partisan), les municipales 2026 (hors sujet) et des jeux sans rapport ; le jeu Insee DS_ELECTORAL a déjà servi le 18/11. Post « une » seule, sans chiffre. Sujets écartés : COP31 (sujet du post de 12h), affaire du préfet Moutouh (affaire visant des personnes), déclarations de campagne d'un candidat (neutralité).",
+  "news_topic": "Présidentielle 2027 : la CFDT demande d'avancer le scrutin pour éviter un second tour le 2 mai",
+  "news_links": [
+    "https://www.sudradio.fr/societe/presidentielle-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai",
+    "https://actu.orange.fr/politique/presidentielle-2027-la-secretaire-generale-de-la-cfdt-veut-changer-la-date-du-second-tour-trop-proche-du-1-mai-l-express-via-6medias-CNT000002tWUsu.html",
+    "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html"
+  ],
+  "caption": "Voter le 2 mai, juste après le 1er-Mai : le calendrier de la présidentielle est contesté.\n\nLe premier tour est fixé au 18 avril 2027 et le second au 2 mai. Dans La Tribune dimanche, la secrétaire générale de la CFDT, Marylise Léon, demande d'avancer l'élection d'une semaine pour éviter un second tour « au lendemain des défilés du 1er-Mai ». D'autres responsables politiques ont eux aussi demandé un changement de date.\n\nSource : franceinfo, Sud Radio\nhttps://www.sudradio.fr/societe/presidentielle-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai\nPhoto : Jamain, CC BY\n\n#statdefrance #actu #presidentielle2027 #election #politique #1ermai"
+}
