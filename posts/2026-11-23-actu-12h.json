@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "slot": "actu12",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Économie",
   "palette": "nuit",
@@ -17,12 +17,30 @@
   "photo_focus": 0.4,
   "title": "Le déficit public n'est pas repassé sous 3 % depuis 2019.",
   "series": [
-    [2019, 2.4],
-    [2020, 8.9],
-    [2021, 6.6],
-    [2022, 4.7],
-    [2023, 5.4],
-    [2024, 5.8]
+    [
+      2019,
+      2.4
+    ],
+    [
+      2020,
+      8.9
+    ],
+    [
+      2021,
+      6.6
+    ],
+    [
+      2022,
+      4.7
+    ],
+    [
+      2023,
+      5.4
+    ],
+    [
+      2024,
+      5.8
+    ]
   ],
   "per_dot": 1,
   "dot_unit": "%",
@@ -39,5 +57,8 @@
     "https://www.boursorama.com/actualite-economique/actualites/france-le-deficit-public-bondit-a-5-8-du-pib-en-2024-c09d847435c218687e078cc38d0f6978"
   ],
   "calc": "DD_CNA_AGREGATS (Insee, comptes nationaux base 2020), données annuelles en valeur (PRICES=V, UNIT_MEASURE=XDC, UNIT_MULT=6, GEO=F). Déficit public = besoin de financement des administrations publiques (STO=B9, REF_SECTOR=S13) ; PIB = STO=B1GQ, REF_SECTOR=S1. Ratio déficit/PIB : 2019 = -58 225,5 / 2 432 199 = 2,39 % ; 2020 = -207 084,4 / 2 318 330 = 8,93 % ; 2021 = -165 149,3 / 2 508 050 = 6,58 % ; 2022 = -125 895,8 / 2 653 997 = 4,74 % ; 2023 = -151 920,3 / 2 833 826 = 5,36 % ; 2024 = -169 118,1 / 2 935 236 = 5,76 % (arrondi 5,8 %, conforme au chiffre officiel Insee). Dernier exercice complet disponible : 2024. Limite européenne (pacte de stabilité) : 3 % du PIB. Dernière année sous 3 % : 2019.",
-  "caption": "La dernière année où le déficit public est passé sous les 3 % du PIB, c'était en 2019.\n\nEn 2024, il a atteint 5,8 % du PIB, soit 169 milliards d'euros, selon l'Insee. C'est près du double de la limite de 3 % fixée par les règles européennes, un seuil que la France n'a plus respecté depuis cinq ans. Emmanuel Macron réfléchit à inscrire une « règle d'or » budgétaire dans la Constitution pour encadrer ces déficits.\n\nÀ noter : déficit public = besoin de financement de l'ensemble des administrations publiques (État, Sécurité sociale, collectivités).\n\nÇa te choque, ce chiffre ?\n\nSource : Insee, « Produit intérieur brut (PIB) et grands agrégats économiques »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DD_CNA_AGREGATS\nPhoto : Dinkum, CC0\n\n#statdefrance #opendata #budget #deficit #economie #financespubliques"
+  "caption": "La dernière année où le déficit public est passé sous les 3 % du PIB, c'était en 2019.\n\nEn 2024, il a atteint 5,8 % du PIB, soit 169 milliards d'euros, selon l'Insee. C'est près du double de la limite de 3 % fixée par les règles européennes, un seuil que la France n'a plus respecté depuis cinq ans. Emmanuel Macron réfléchit à inscrire une « règle d'or » budgétaire dans la Constitution pour encadrer ces déficits.\n\nÀ noter : déficit public = besoin de financement de l'ensemble des administrations publiques (État, Sécurité sociale, collectivités).\n\nÇa te choque, ce chiffre ?\n\nSource : Insee, « Produit intérieur brut (PIB) et grands agrégats économiques »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DD_CNA_AGREGATS\nPhoto : Dinkum, CC0\n\n#statdefrance #opendata #budget #deficit #economie #financespubliques",
+  "ig_media_id": "17977904280147793",
+  "ig_permalink": "https://www.instagram.com/p/DgFOrtTjRa9/",
+  "published_at": "2026-11-23T12:03:28.372744+01:00"
 }
