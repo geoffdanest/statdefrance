@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "slot": "actu12",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Institutions",
   "palette": "nuit",
@@ -28,5 +28,8 @@
     "https://www.franceinfo.fr/politique/congres-des-maires-des-consignes-transmises-aux-candidats-a-l-election-presidentielle-pour-eviter-que-l-evenement-ne-se-transforme-en-meeting_8297280.html"
   ],
   "calc": "Répertoire national des élus (ministère de l'Intérieur), fichier elus-maires (mise à jour du 20/11/2026, après les municipales des 15 et 22 mars 2026) : 34 845 lignes, une par commune (34 845 codes commune distincts). Colonne « Code sexe » : F = 7 992, M = 26 853. Part des femmes = 7 992 / 34 845 = 22,94 % (arrondi 23 %). Comparaison : fichier des maires sortants (jeu 69a233819c17f13feedbc2cc, extraction RNE du 27/02/2026, mandature 2020-2026) : F = 7 391 sur 34 889, soit 21,18 % (arrondi 21 %).",
-  "caption": "Moins d'une mairie sur quatre est dirigée par une femme.\n\nAprès les municipales de mars 2026, la France compte près de 35 000 maires, dont 23 % de femmes, selon le Répertoire national des élus. Juste avant le scrutin, elles étaient 21 %. Leur congrès annuel s'ouvre aujourd'hui, en pleine campagne présidentielle.\n\nÀ noter : chiffres au 20 novembre 2026, un maire par commune.\n\nChez toi, c'est un maire ou une maire ?\n\nSource : Ministère de l'Intérieur, « Répertoire national des élus », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/repertoire-national-des-elus-1\nPhoto : Romainbehar, CC0\n\n#statdefrance #opendata #maires #congresdesmaires #municipales #parite #presidentielle2027"
+  "caption": "Moins d'une mairie sur quatre est dirigée par une femme.\n\nAprès les municipales de mars 2026, la France compte près de 35 000 maires, dont 23 % de femmes, selon le Répertoire national des élus. Juste avant le scrutin, elles étaient 21 %. Leur congrès annuel s'ouvre aujourd'hui, en pleine campagne présidentielle.\n\nÀ noter : chiffres au 20 novembre 2026, un maire par commune.\n\nChez toi, c'est un maire ou une maire ?\n\nSource : Ministère de l'Intérieur, « Répertoire national des élus », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/repertoire-national-des-elus-1\nPhoto : Romainbehar, CC0\n\n#statdefrance #opendata #maires #congresdesmaires #municipales #parite #presidentielle2027",
+  "ig_media_id": "17994647738861350",
+  "ig_permalink": "https://www.instagram.com/p/DgHzc_-l57y/",
+  "published_at": "2026-11-24T12:03:11.405055+01:00"
 }
