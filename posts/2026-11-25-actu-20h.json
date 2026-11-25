@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-25",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Emploi",
+  "palette": "nuit",
+  "template": "une",
+  "num": "ACTU · 25.11",
+  "une": [
+    "Apprentissage : la Cour des comptes pointe fraudes et abus.",
+    "Jusqu'à 3 milliards d'euros d'aides exposés."
+  ],
+  "photo": "posts/photos/2026-11-25-actu-20h.jpg",
+  "photo_credit": "Photo : Christoph Braun, CC0",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg",
+  "photo_focus": 0.5,
+  "source": "L'Etudiant, Echos Plus (25/11/2026)",
+  "source_url": "https://www.letudiant.fr/educpros/actualite/aides-a-l-apprentissage-la-cour-des-comptes-pointe-des-fraudes-et-abus-importants.html",
+  "dataset_id": null,
+  "calc": "Pas de donnée publique pertinente. Quatre collectes (apprentissage, apprentis, contrats d'apprentissage, alternance, Dares, CFA, commerce extérieur, exportations, grippe) n'ont pas donné le nombre national d'entrées en apprentissage : seulement Inserjeunes par CFA (taux par établissement, sans effectifs pour pondérer : pas de chiffre national exact), la codification des diplômes, les salaires de la fonction publique et des jeux sans rapport. Post « une » seule, sans chiffre calculé. Les montants de la une (jusqu'à 3 milliards d'euros, sur environ 16 milliards de dépenses en 2024) sont ceux de la Cour des comptes rapportés par L'Etudiant et Echos Plus. Sujets écartés : congrès des maires / réélection de David Lisnard (même événement que le post de 12h), droits de douane américains (aucune donnée France-États-Unis), grippe (un seul titre), Teddy Riner / Gabriel Attal sur l'Ukraine (guerre, déclarations de campagne).",
+  "news_topic": "Apprentissage : la Cour des comptes estime jusqu'à 3 milliards d'euros d'aides exposés aux fraudes et abus",
+  "news_links": [
+    "https://www.letudiant.fr/educpros/actualite/aides-a-l-apprentissage-la-cour-des-comptes-pointe-des-fraudes-et-abus-importants.html",
+    "https://echosplus.com/2026/11/25/aides-a-lapprentissage-jusqua-3-milliards-deuros-exposes-aux-risques-de-fraude-et-dabus/",
+    "https://www.20minutes.fr/societe/4265639-20261125-apprentissage-cour-comptes-denonce-milliards-euros-fraudes-abus"
+  ],
+  "caption": "Les aides à l'apprentissage, sous la loupe de la Cour des comptes.\n\nDans un rapport publié ce mercredi, la Cour estime qu'entre 10 et 20 % des dépenses d'apprentissage seraient exposées à des fraudes ou à des abus, soit jusqu'à 3 milliards d'euros sur quelque 16 milliards dépensés en 2024. Elle cite des formations payées mais jamais données, des contrats fictifs ou des aides versées après la rupture d'un contrat, et demande que les versements puissent être suspendus rapidement.\n\nSource : L'Etudiant, Echos Plus\nhttps://www.letudiant.fr/educpros/actualite/aides-a-l-apprentissage-la-cour-des-comptes-pointe-des-fraudes-et-abus-importants.html\nPhoto : Christoph Braun, CC0\n\n#statdefrance #actu #apprentissage #alternance #courdescomptes #emploi"
+}
