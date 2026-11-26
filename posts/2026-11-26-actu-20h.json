@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "slot": "actu20",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Protection sociale",
   "palette": "nuit",
@@ -52,5 +52,8 @@
     "https://lcp.fr/actualites/budget-de-la-secu-desaccord-confirme-entre-deputes-et-senateurs-en-cmp-le-texte-de",
     "https://www.moneyvox.fr/votre-argent/actualites/111327/budget-2027-de-la-secu-la-cmp-planifiee-pour-le-26-novembre"
   ],
-  "caption": "Le budget de la Sécu repart à l'Assemblée. Près de la moitié de nos prestations sociales va à la vieillesse.\n\nDéputés et sénateurs n'ont pas réussi à s'entendre ce jeudi sur le budget de la Sécurité sociale pour 2027. En 2024, la France a versé 933 milliards d'euros de prestations sociales. La vieillesse, retraites en tête, arrive loin devant la santé (36 %).\n\nÀ noter : ces chiffres couvrent toute la protection sociale (Sécu, retraites complémentaires, État, départements, mutuelles…), un champ plus large que le seul budget de la Sécu.\n\nTu aurais mis la santé en premier ?\n\nSource : DREES, « Les comptes de la protection sociale »\nhttps://data.drees.solidarites-sante.gouv.fr/explore/dataset/305_les-comptes-de-la-protection-sociale/\nPhoto : DXR, domaine public\n\n#statdefrance #opendata #actu #securitesociale #retraites #protectionsociale #budget"
+  "caption": "Le budget de la Sécu repart à l'Assemblée. Près de la moitié de nos prestations sociales va à la vieillesse.\n\nDéputés et sénateurs n'ont pas réussi à s'entendre ce jeudi sur le budget de la Sécurité sociale pour 2027. En 2024, la France a versé 933 milliards d'euros de prestations sociales. La vieillesse, retraites en tête, arrive loin devant la santé (36 %).\n\nÀ noter : ces chiffres couvrent toute la protection sociale (Sécu, retraites complémentaires, État, départements, mutuelles…), un champ plus large que le seul budget de la Sécu.\n\nTu aurais mis la santé en premier ?\n\nSource : DREES, « Les comptes de la protection sociale »\nhttps://data.drees.solidarites-sante.gouv.fr/explore/dataset/305_les-comptes-de-la-protection-sociale/\nPhoto : DXR, domaine public\n\n#statdefrance #opendata #actu #securitesociale #retraites #protectionsociale #budget",
+  "ig_media_id": "18113776415192236",
+  "ig_permalink": "https://www.instagram.com/p/DgNz9VHksso/",
+  "published_at": "2026-11-26T20:03:07.066164+01:00"
 }
