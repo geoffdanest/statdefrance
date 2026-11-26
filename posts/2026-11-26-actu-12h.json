@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-26",
+  "slot": "actu12",
+  "status": "validated",
+  "auto": true,
+  "theme": "Éducation",
+  "palette": "nuit",
+  "template": "une",
+  "num": "ACTU · 26.11",
+  "une": [
+    "Universités : étudiants et profs mobilisés ce jeudi.",
+    "Ils veulent 150 000 places, l'État en annonce 20 000."
+  ],
+  "photo": "posts/photos/2026-11-26-actu-12h.jpg",
+  "photo_credit": "Photo : Sahaib, CC BY",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Empty_lecture_room_at_Dundee_Uni_due_to_strikes.jpg",
+  "photo_focus": 0.5,
+  "source": "AFP, Café pédagogique (11/2026)",
+  "source_url": "https://www.tahiti-infos.com/%E2%80%8BAppel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre_a240141.html",
+  "dataset_id": null,
+  "calc": "Pas de donnée publique pertinente. Trois collectes (Parcoursup, effectifs étudiants, étudiants inscrits, boursiers, enseignement supérieur, universités, vœux Parcoursup, dépense d'éducation, enseignants-chercheurs, bourses sur critères sociaux, inscriptions université, police nationale, PFAS) n'ont donné aucun jeu sur les effectifs ou les places du supérieur : seulement les CPGE par sexe, les boursiers du secondaire par département, un challenge cyber, la codification des diplômes d'apprentissage, la délinquance enregistrée et la compétence police/gendarmerie (sans lien avec les revendications). Post « une » seule, sans chiffre calculé. Les deux nombres de la une (150 000 places réclamées par l'intersyndicale, 20 000 places supplémentaires annoncées par le gouvernement) sont rapportés par l'AFP (Tahiti Infos, 23/11/2026) et Social Mag (24/11/2026) ; les 150 000 places aussi par Café pédagogique (24/11/2026). Sujets écartés : écrits antisémites attribués à Jordan Bardella (accusations visant une personne), procès d'Emilie König (affaire judiciaire), campagne de David Lisnard (pas d'événement nouveau, parrainages déjà traités le 25/11), rassemblements de policiers (aucune donnée sur leurs conditions de travail), PFAS dans les laits infantiles (alerte d'ONG, aucune donnée).",
+  "news_topic": "Universités : journée de grève et de manifestations des étudiants et enseignants du supérieur",
+  "news_links": [
+    "https://www.tahiti-infos.com/%E2%80%8BAppel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre_a240141.html",
+    "https://www.cafepedagogique.net/2026/11/24/enseignement-superieur-nouvelle-journee-de-mobilisation-le-26-novembre/",
+    "https://www.socialmag.news/24/11/2026/mobilisation-etudiante-26-novembre-2026-places-bourses-universites/"
+  ],
+  "caption": "Grève et manifestations dans le supérieur ce jeudi.\n\nUne intersyndicale d'étudiants et d'enseignants du supérieur appelle à la mobilisation partout en France. Elle demande 150 000 places de plus à l'université, davantage de recrutements et des bourses revalorisées. Le gouvernement a annoncé 20 000 places supplémentaires, jugées insuffisantes par les syndicats.\n\nSource : AFP, Café pédagogique\nhttps://www.tahiti-infos.com/%E2%80%8BAppel-intersyndical-a-la-mobilisation-des-etudiants-et-enseignants-du-superieur-le-26-novembre_a240141.html\nPhoto : Sahaib, CC BY\n\n#statdefrance #actu #universite #etudiants #enseignementsuperieur #greve"
+}
