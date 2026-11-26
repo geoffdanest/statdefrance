@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-26",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Protection sociale",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "ACTU · 26.11",
+  "une": [
+    "Budget de la Sécu : pas d'accord entre députés et sénateurs.",
+    "Vieillesse : près de la moitié des prestations sociales."
+  ],
+  "photo": "posts/photos/2026-11-26-actu-20h.jpg",
+  "photo_credit": "Photo : DXR, domaine public",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Palais_Bourbon,_Paris_7e,_NW_View_140402_1.jpg",
+  "photo_focus": 0.5,
+  "title": "933 milliards de prestations sociales : 427 pour la vieillesse.",
+  "rows": [
+    {
+      "name": "Vieillesse (retraites en tête)",
+      "value": 427,
+      "highlight": true
+    },
+    {
+      "name": "Santé",
+      "value": 339
+    },
+    {
+      "name": "Famille",
+      "value": 65
+    },
+    {
+      "name": "Chômage et emploi",
+      "value": 51
+    },
+    {
+      "name": "Pauvreté et logement",
+      "value": 50
+    }
+  ],
+  "per_dot": 10,
+  "dot_unit": "milliards d'euros",
+  "source": "DREES, comptes de la protection sociale (2024)",
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/explore/dataset/305_les-comptes-de-la-protection-sociale/",
+  "dataset_id": "drees:305_les-comptes-de-la-protection-sociale",
+  "question": "Tu aurais mis la santé en premier ?",
+  "calc": "DREES, 305_les-comptes-de-la-protection-sociale (data.csv, ';', valeurs en millions d'euros). Filtre : annee = 2024, si_niveau = 0, si_code = S1 (Total tous régimes). Total prestations (ps_code E11-0) = 933 160,53 M€ (= somme des 6 risques de niveau 1). Risques (ps_niveau = 1) : Vieillesse-survie E11-2 = 426 698,85 (45,73 %) ; Santé E11-1 = 339 438,64 (36,37 %) ; Famille E11-3 = 65 476,73 (7,02 %) ; Emploi E11-4 = 51 301,31 (5,50 %) ; Pauvreté-exclusion E11-6 = 34 186,45 (3,66 %) + Logement E11-5 = 16 058,55 (1,72 %) = 50 245,00 (5,38 %). Affiché en milliards arrondis : 427, 339, 65, 51, 50. Dans la vieillesse-survie, les pensions de retraite (droit direct E11-21.1 = 359,4 Md€ et réversion E11-22.1 = 41,7 Md€) font 401,1 Md€, d'où « retraites en tête ». Champ : toute la protection sociale (Sécurité sociale, retraites complémentaires, État, collectivités, mutuelles et assurances…), plus large que le seul budget de la Sécu, précisé dans la légende.",
+  "news_topic": "Budget de la Sécurité sociale 2027 : échec de la commission mixte paritaire, le texte retourne à l'Assemblée",
+  "news_links": [
+    "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-les-deputes-et-senateurs-echouent-a-trouver-un-accord-le-texte-retourne-a-l-assemblee_8301108.html",
+    "https://lcp.fr/actualites/budget-de-la-secu-desaccord-confirme-entre-deputes-et-senateurs-en-cmp-le-texte-de",
+    "https://www.moneyvox.fr/votre-argent/actualites/111327/budget-2027-de-la-secu-la-cmp-planifiee-pour-le-26-novembre"
+  ],
+  "caption": "Le budget de la Sécu repart à l'Assemblée. Près de la moitié de nos prestations sociales va à la vieillesse.\n\nDéputés et sénateurs n'ont pas réussi à s'entendre ce jeudi sur le budget de la Sécurité sociale pour 2027. En 2024, la France a versé 933 milliards d'euros de prestations sociales. La vieillesse, retraites en tête, arrive loin devant la santé (36 %).\n\nÀ noter : ces chiffres couvrent toute la protection sociale (Sécu, retraites complémentaires, État, départements, mutuelles…), un champ plus large que le seul budget de la Sécu.\n\nTu aurais mis la santé en premier ?\n\nSource : DREES, « Les comptes de la protection sociale »\nhttps://data.drees.solidarites-sante.gouv.fr/explore/dataset/305_les-comptes-de-la-protection-sociale/\nPhoto : DXR, domaine public\n\n#statdefrance #opendata #actu #securitesociale #retraites #protectionsociale #budget"
+}
