@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-27",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Santé",
+  "palette": "nuit",
+  "template": "halteres",
+  "num": "ACTU · 27.11",
+  "une": [
+    "Papillomavirus : les ados encore loin de l'objectif.",
+    "Moins d'un garçon de 15 ans sur deux a reçu une dose."
+  ],
+  "photo": "posts/photos/2026-11-27-actu-20h.jpg",
+  "photo_credit": "Photo : Japanexperterna.se, CC BY",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Japanese_female_scientist_wearing_plastic_gloves_holding_syringe_and_vial,_researching_a_coronavirus_vaccine_(50739007612).jpg",
+  "photo_focus": 0.5,
+  "title": "Papillomavirus : les garçons rattrapent les filles, mais restent loin du compte.",
+  "legend_a": "Garçons",
+  "legend_b": "Filles",
+  "scale": "% des 15 ans ayant reçu au moins une dose",
+  "range": [
+    0,
+    80
+  ],
+  "step": 20,
+  "rows": [
+    {
+      "name": "2023",
+      "a": 25.9,
+      "b": 54.6
+    },
+    {
+      "name": "2024",
+      "a": 36.9,
+      "b": 58.4
+    },
+    {
+      "name": "2025",
+      "a": 46.0,
+      "b": 61.6,
+      "highlight": true
+    }
+  ],
+  "source": "Santé publique France (2025)",
+  "source_url": "https://odisse.santepubliquefrance.fr/explore/dataset/couvertures-vaccinales-des-adolescents-et-adultes-depuis-2011-france/",
+  "dataset_id": "odisse:couvertures-vaccinales-des-adolescents-et-adultes-depuis-2011-france",
+  "question": "Tu savais que c'est aussi pour les garçons ?",
+  "calc": "Odissé (Santé publique France), « Couvertures vaccinales des adolescents et adultes depuis 2011 (France) », data.csv ';' (mis à jour le 08/10/2026). Colonnes hpv1_f (filles) et hpv1_g (garçons) = couverture au moins une dose à 15 ans, en %, par an_mesure. 2022 (non affiché) : 47,0 / 12,8 ; 2023 : 54,6 / 25,9 ; 2024 : 58,4 / 36,9 ; 2025 : 61,6 / 46,0. Écart filles-garçons : 34,2 → 28,7 → 21,5 → 15,6 points (« rattrapent »). 46,0 % < 50 % → « moins d'un garçon sur deux ». Définition confirmée par le bilan SpF 2025 : « En 2025, 61,6 % des jeunes filles de 15 ans avaient reçu une première dose » et « 46,0 % des jeunes garçons de 15 ans ». Objectif : 80 % à l'horizon 2030 (Stratégie décennale de lutte contre les cancers, cité par SpF). Vaccination recommandée aux garçons depuis 2021 (série garçons à partir de 2022 dans le fichier). Arrondis légende : 62 % / 46 %.",
+  "news_topic": "Papillomavirus : la couverture vaccinale des ados reste loin de l'objectif (bilan SpF de la campagne 2025-2026)",
+  "news_links": [
+    "https://www.franceinfo.fr/sante/vaccins/la-couverture-vaccinale-des-adolescents-contre-le-papillomavirus-reste-loin-de-l-objectif-apres-une-campagne-2025-2026-au-bilan-stable-selon-sante-publique-france_8303136.html",
+    "https://www.santepubliquefrance.fr/vaccination/bulletin-national/vaccination-des-enfants-adolescents-et-jeunes-adultes-en-france-bilan-de-la-couverture-vaccinale-en"
+  ],
+  "caption": "Le vaccin contre le papillomavirus progresse, mais la France reste loin du compte.\n\nEn 2025, 62 % des filles de 15 ans avaient reçu au moins une dose, contre 46 % des garçons, pour qui il est recommandé depuis peu. L'écart se resserre chaque année, mais l'objectif est de 80 % d'ici 2030. Le bilan de la dernière campagne de vaccination, publié ce vendredi par Santé publique France, est jugé stable.\n\nÀ noter : chiffres tirés des remboursements de l'Assurance maladie, sans doute un peu sous-estimés (certaines doses gratuites n'y figurent pas).\n\nTu savais que c'est aussi pour les garçons ?\n\nSource : Santé publique France, « Couvertures vaccinales des adolescents et adultes depuis 2011 (France) »\nhttps://odisse.santepubliquefrance.fr/explore/dataset/couvertures-vaccinales-des-adolescents-et-adultes-depuis-2011-france/\nPhoto : Japanexperterna.se, CC BY\n\n#statdefrance #opendata #actu #sante #vaccination #papillomavirus #hpv #prevention"
+}
