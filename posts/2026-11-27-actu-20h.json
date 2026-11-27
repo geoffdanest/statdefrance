@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "slot": "actu20",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Santé",
   "palette": "nuit",
@@ -52,5 +52,8 @@
     "https://www.franceinfo.fr/sante/vaccins/la-couverture-vaccinale-des-adolescents-contre-le-papillomavirus-reste-loin-de-l-objectif-apres-une-campagne-2025-2026-au-bilan-stable-selon-sante-publique-france_8303136.html",
     "https://www.santepubliquefrance.fr/vaccination/bulletin-national/vaccination-des-enfants-adolescents-et-jeunes-adultes-en-france-bilan-de-la-couverture-vaccinale-en"
   ],
-  "caption": "Le vaccin contre le papillomavirus progresse, mais la France reste loin du compte.\n\nEn 2025, 62 % des filles de 15 ans avaient reçu au moins une dose, contre 46 % des garçons, pour qui il est recommandé depuis peu. L'écart se resserre chaque année, mais l'objectif est de 80 % d'ici 2030. Le bilan de la dernière campagne de vaccination, publié ce vendredi par Santé publique France, est jugé stable.\n\nÀ noter : chiffres tirés des remboursements de l'Assurance maladie, sans doute un peu sous-estimés (certaines doses gratuites n'y figurent pas).\n\nTu savais que c'est aussi pour les garçons ?\n\nSource : Santé publique France, « Couvertures vaccinales des adolescents et adultes depuis 2011 (France) »\nhttps://odisse.santepubliquefrance.fr/explore/dataset/couvertures-vaccinales-des-adolescents-et-adultes-depuis-2011-france/\nPhoto : Japanexperterna.se, CC BY\n\n#statdefrance #opendata #actu #sante #vaccination #papillomavirus #hpv #prevention"
+  "caption": "Le vaccin contre le papillomavirus progresse, mais la France reste loin du compte.\n\nEn 2025, 62 % des filles de 15 ans avaient reçu au moins une dose, contre 46 % des garçons, pour qui il est recommandé depuis peu. L'écart se resserre chaque année, mais l'objectif est de 80 % d'ici 2030. Le bilan de la dernière campagne de vaccination, publié ce vendredi par Santé publique France, est jugé stable.\n\nÀ noter : chiffres tirés des remboursements de l'Assurance maladie, sans doute un peu sous-estimés (certaines doses gratuites n'y figurent pas).\n\nTu savais que c'est aussi pour les garçons ?\n\nSource : Santé publique France, « Couvertures vaccinales des adolescents et adultes depuis 2011 (France) »\nhttps://odisse.santepubliquefrance.fr/explore/dataset/couvertures-vaccinales-des-adolescents-et-adultes-depuis-2011-france/\nPhoto : Japanexperterna.se, CC BY\n\n#statdefrance #opendata #actu #sante #vaccination #papillomavirus #hpv #prevention",
+  "ig_media_id": "17922172263467744",
+  "ig_permalink": "https://www.instagram.com/p/DgQYxYPDdlf/",
+  "published_at": "2026-11-27T20:03:22.428995+01:00"
 }
