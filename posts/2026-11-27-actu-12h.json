@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "slot": "actu12",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Économie",
   "palette": "nuit",
@@ -50,5 +50,8 @@
     "https://www.lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html",
     "https://www.sudradio.fr/societe/france-le-pib-recule-de-02-au-troisieme-trimestre-apres-revision-a-la-baisse-2"
   ],
-  "caption": "La France produit moins de richesses qu'il y a un an.\n\nEntre juillet et septembre, le PIB a reculé de 0,2 %, selon les chiffres publiés ce vendredi par l'Insee. Après un début d'année déjà dans le rouge et un printemps révisé en très léger recul, l'institut parle désormais de récession. À l'été 2025, l'économie progressait encore de 0,5 % sur un trimestre.\n\nÀ noter : PIB = la richesse produite dans le pays, une fois l'inflation retirée, comparée au trimestre précédent.\n\nTu le sens, au quotidien ?\n\nSource : Insee, « Équilibre du produit intérieur brut »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_PIB_EQB_RF\nPhoto : Gugalcrom123, CC BY\n\n#statdefrance #opendata #actu #economie #recession #pib #croissance"
+  "caption": "La France produit moins de richesses qu'il y a un an.\n\nEntre juillet et septembre, le PIB a reculé de 0,2 %, selon les chiffres publiés ce vendredi par l'Insee. Après un début d'année déjà dans le rouge et un printemps révisé en très léger recul, l'institut parle désormais de récession. À l'été 2025, l'économie progressait encore de 0,5 % sur un trimestre.\n\nÀ noter : PIB = la richesse produite dans le pays, une fois l'inflation retirée, comparée au trimestre précédent.\n\nTu le sens, au quotidien ?\n\nSource : Insee, « Équilibre du produit intérieur brut »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_PIB_EQB_RF\nPhoto : Gugalcrom123, CC BY\n\n#statdefrance #opendata #actu #economie #recession #pib #croissance",
+  "ig_media_id": "18116504858174695",
+  "ig_permalink": "https://www.instagram.com/p/DgPh2nAGczy/",
+  "published_at": "2026-11-27T12:03:29.475023+01:00"
 }
