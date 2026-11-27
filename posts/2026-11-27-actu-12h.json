@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-27",
+  "slot": "actu12",
+  "status": "validated",
+  "auto": true,
+  "theme": "Économie",
+  "palette": "nuit",
+  "template": "matrice",
+  "num": "ACTU · 27.11",
+  "une": [
+    "La France est entrée en récession, selon l'Insee.",
+    "Le PIB a reculé de 0,2 % de juillet à septembre."
+  ],
+  "photo": "posts/photos/2026-11-27-actu-12h.jpg",
+  "photo_credit": "Photo : Gugalcrom123, CC BY",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense_skyline_from_Eiffel_Tower.jpg",
+  "photo_focus": 0.5,
+  "display": "-0,2%",
+  "label": "pour le PIB cet été : la France produit moins qu'il y a un an.",
+  "history": [
+    [
+      "été 2025",
+      "+0,5 %"
+    ],
+    [
+      "fin 2025",
+      "+0,2 %"
+    ],
+    [
+      "début 2026",
+      "-0,2 %"
+    ],
+    [
+      "printemps",
+      "0,0 %"
+    ],
+    [
+      "été 2026",
+      "-0,2 %"
+    ]
+  ],
+  "source": "Insee, comptes trimestriels (T3 2026)",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_PIB_EQB_RF",
+  "dataset_id": "insee:DS_CNT_PIB_EQB_RF",
+  "question": "Tu le sens, au quotidien ?",
+  "calc": "Insee, DS_CNT_PIB_EQB_RF (data.csv ';', mis à jour le 27/11/2026 à 8h45, comptes trimestriels base 2020). Filtre : STO=B1GQ (PIB), SEASONAL_ADJUST=Y (CVS-CJO), UNIT_MEASURE=PT (évolution en %, volume). Valeurs : 2025-Q3 = +0,488558 ; 2025-Q4 = +0,224669 ; 2026-Q1 = -0,202122 ; 2026-Q2 = -0,021926 ; 2026-Q3 = -0,240960 (affichés arrondis à 1 décimale : +0,5 / +0,2 / -0,2 / 0,0 / -0,2). Vérification avec les niveaux (UNIT_MEASURE=EUR, PRICES=L, volumes chaînés, millions d'euros) : 2025-Q3 = 664 221,1 ; 2025-Q4 = 665 713,4 ; 2026-Q1 = 664 367,9 ; 2026-Q2 = 664 222,2 ; 2026-Q3 = 662 621,7 → 662 621,7/664 222,2 - 1 = -0,241 %. « Moins qu'il y a un an » : 2026-Q3 (662 621,7) < 2025-Q3 (664 221,1), soit -0,24 % sur un an. Le T2 à -0,02 % est arrondi à 0,0 % comme dans la communication de l'Insee, qui parle de « très léger recul » (Marie Leclair, AFP). Libellés : été = T3 (juillet-septembre), fin 2025 = T4, début 2026 = T1, printemps = T2.",
+  "news_topic": "Récession : le PIB recule de 0,2 % au 3e trimestre 2026 après révision de l'Insee",
+  "news_links": [
+    "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html",
+    "https://www.lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html",
+    "https://www.sudradio.fr/societe/france-le-pib-recule-de-02-au-troisieme-trimestre-apres-revision-a-la-baisse-2"
+  ],
+  "caption": "La France produit moins de richesses qu'il y a un an.\n\nEntre juillet et septembre, le PIB a reculé de 0,2 %, selon les chiffres publiés ce vendredi par l'Insee. Après un début d'année déjà dans le rouge et un printemps révisé en très léger recul, l'institut parle désormais de récession. À l'été 2025, l'économie progressait encore de 0,5 % sur un trimestre.\n\nÀ noter : PIB = la richesse produite dans le pays, une fois l'inflation retirée, comparée au trimestre précédent.\n\nTu le sens, au quotidien ?\n\nSource : Insee, « Équilibre du produit intérieur brut »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_PIB_EQB_RF\nPhoto : Gugalcrom123, CC BY\n\n#statdefrance #opendata #actu #economie #recession #pib #croissance"
+}
