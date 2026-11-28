@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-28",
+  "slot": "actu20",
+  "status": "validated",
+  "auto": true,
+  "theme": "Justice",
+  "palette": "nuit",
+  "template": "compare",
+  "num": "ACTU · 28.11",
+  "une": [
+    "Prison : le Sénat vote une contribution de 5 euros par jour.",
+    "Début 2026, 137 habitants sur 100 000 étaient détenus."
+  ],
+  "photo": "posts/photos/2026-11-28-actu-20h.jpg",
+  "photo_credit": "Photo : Evad37, CC0",
+  "photo_source": "https://commons.wikimedia.org/w/index.php?curid=38268616",
+  "photo_focus": 0.5,
+  "title": "En prison, près de 30 fois plus d'hommes que de femmes.",
+  "rows": [
+    {
+      "name": "Hommes",
+      "value": 275,
+      "highlight": true
+    },
+    {
+      "name": "Femmes",
+      "value": 9
+    }
+  ],
+  "per_dot": 1,
+  "dot_unit": "détenu pour 100 000 habitants",
+  "source": "Ministère de la Justice (2026)",
+  "source_url": "https://www.data.gouv.fr/datasets/series-statistiques-des-personnes-placees-sous-main-de-justice-a-partir-de-1980-taux-de-prevalence-des-personnes-ecrouees-et-detenues-en-france",
+  "dataset_id": "6af08dbbd098ad5b525346cb",
+  "question": "Ça te surprend ?",
+  "calc": "Ministère de la Justice (DGAP), « Séries statistiques des personnes placées sous main de justice à partir de 1980 – Taux de prévalence des personnes écrouées et détenues en France », ressource 68_taux_personnes_detenues_par_age_sexe.csv (';', last_modified 08/11/2026). Ligne tranches_age = « Total », date_reference = 2026-01-01 : taux_hommes_detenus_pour_100000_habitants = 275 ; taux_femmes_detenues_pour_100000_habitants = 9 ; taux_total_detenus_pour_100000_habitants = 137. Rapport des taux : 275 / 9 = 30,6 ; en effectifs, compte tenu d'un peu plus de femmes que d'hommes dans la population, environ 29 → « près de 30 fois plus ». Population Insee de référence incluant les moins de 13 ans (note du producteur). Fait d'actu : amendement au projet de budget 2027 adopté au Sénat le samedi 28/11/2026 (contribution forfaitaire de 5 € par jour aux frais d'incarcération pour les détenus définitivement condamnés, effective seulement si maintenue dans le texte final, selon Public Sénat/AFP).",
+  "news_topic": "Le Sénat vote une contribution de 5 euros par jour pour les détenus (budget 2027)",
+  "news_links": [
+    "https://www.publicsenat.fr/actualites/politique/le-senat-vote-pour-une-contribution-de-cinq-euros-par-jour-par-prisonnier",
+    "https://www.franceinfo.fr/societe/prisons/le-senat-vote-en-faveur-d-une-contribution-journaliere-de-cinq-euros-pour-les-detenus_8304762.html"
+  ],
+  "caption": "Le Sénat veut faire participer les détenus aux frais de prison. Derrière les barreaux, presque uniquement des hommes.\n\nAu 1er janvier 2026, 275 hommes sur 100 000 étaient détenus en France, contre 9 femmes sur 100 000, selon le ministère de la Justice. Ce samedi, lors de l'examen du budget 2027, le Sénat a voté une contribution de 5 euros par jour aux frais d'incarcération pour les détenus condamnés. Elle ne s'appliquera que si elle reste dans la version finale du texte.\n\nÀ noter : taux calculés sur toute la population, enfants compris.\n\nÇa te surprend ?\n\nSource : Ministère de la Justice, « Séries statistiques des personnes placées sous main de justice à partir de 1980 – Taux de prévalence des personnes écrouées et détenues en France », data.gouv.fr\nhttps://www.data.gouv.fr/datasets/series-statistiques-des-personnes-placees-sous-main-de-justice-a-partir-de-1980-taux-de-prevalence-des-personnes-ecrouees-et-detenues-en-france\nPhoto : Evad37, CC0\n\n#statdefrance #opendata #actu #justice #prison #senat #budget2027"
+}
