@@ -1,0 +1,16 @@
+{
+  "source": "data.gouv",
+  "dataset_id": "6af08dbbd098ad5b525346cb",
+  "title": "Séries statistiques des personnes placées sous main de justice à partir de 1980 – Taux de prévalence des personnes écrouées et détenues en France",
+  "page": "https://www.data.gouv.fr/datasets/series-statistiques-des-personnes-placees-sous-main-de-justice-a-partir-de-1980-taux-de-prevalence-des-personnes-ecrouees-et-detenues-en-france",
+  "organization": "Ministère de la Justice",
+  "description": "Cette publication de la DGAP a pour objet la sérialisation des statistiques des personnes placées sous main de justice depuis 1980 ou depuis leur date la plus ancienne de production.\nIl s’agit d’un document qui propose des données d’évolution sur une longue période du fait de l’ancienneté des statistiques manuelles provenant des établissements pénitentiaires et des services pénitentiaires d’insertion et de probation.\nCes données concernent le recensement des effectifs à une date donnée (données dites en stock) et les mouvements d’entrées et de sorties au cours d’une période (données dites de flux).\n\nTableau 64 : Taux de personnes sous écrou au 1er janvier de chaque année pour 100 000 habitants en France (stock)\n\\- Champ : France entière\n\\- Sources :\n\n* Population Insee : Estimations de population et statistiques de l’état civil\n* Ecroués : Ministère de la Justice / DGAP / EX3 / Statistique des établissements et des personnes écrouées en France\n\nPopulation Insee (en milliers) : La population Insee ne se limite pas ici à la population pouvant être incarcérée, car elle inclut les personnes âgées de moins de 13 ans. Le choix de continuer de les inclure malgré la publication des pyramides d’âge par l’Insee depuis 2014 vise à permettre la comparaison historique.\n\n2024 - 2025 : données Insee provisoires\n\nTableau 67 : Taux de personnes sous écrou pour 100 000 habitants au 1er janvier 2026 selon l’âge et le sexe (stock) -\nChamp : France entière\nSources :\n\n* Population Insee : Estimati",
+  "resource_title": "68_taux_personnes_detenues_par_age_sexe.csv",
+  "resource_url": "https://static.data.gouv.fr/resources/series-statistiques-des-personnes-placees-sous-main-de-justice-1980-2026-donnees-generiques-et-comparaisons-internationales/20261108-145659/68-taux-personnes-detenues-par-age-sexe.csv",
+  "last_modified": "2026-11-08T14:57:00.195000+00:00",
+  "license": "lov2",
+  "origin": "actu",
+  "label": "personnes écrouées",
+  "query": "personnes écrouées",
+  "news": []
+}

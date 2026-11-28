@@ -1,0 +1,33 @@
+{
+  "source": "ademe",
+  "dataset_id": "ademe:pxktz0scmweig6lhun2ni-6i",
+  "title": "Inventaire des bâtiments publics des collectivités et de l'Etat",
+  "page": "https://data.ademe.fr/datasets/pxktz0scmweig6lhun2ni-6i",
+  "organization": "ADEME",
+  "description": "Ce jeu de données présente un **inventaire des bâtiments publics** constitué à partir du croisement de différentes sources d’information. Il inclut les bâtiments chauffés et/ou refroidis, détenus ou occupés par l’État, ses opérateurs, les autorités administratives indépendantes (AAI), ainsi que par les collectivités territoriales, situés en France hexagonale, en Corse et dans les départements-régions d'outre-mer, au 01/01/2024. Pour le périmètre de l’État, les données ont été produites par la **Direction de l’immobilier de l’État** (DIE) et concernent uniquement les biens immobiliers bâtis (hors données confidentielles) dont la surface utile brute (SUB) totale est supérieure à 250 m². Pour celui des **collectivités**, les informations proviennent de plusieurs bases de données et référentiels, notamment les fichiers fonciers, Chorus RT, la Base Adresse Nationale (BAN), le Référentiel National des Bâtiments (RNB), BANATIC, la BD TOPO, la Base Permanente des Équipements (BPE), etc. Cet inventaire constitue une première version et a vocation à être enrichi et amélioré progressivement. ## Enjeux de la réduction de la consommation énergétique des bâtiments publics En France, le parc du patrimoine public est encore mal évalué. Cette première version de l’inventaire permet d’affiner les chiffres sur les bâtiments du secteur public et vise à s’améliorer au fil des années. L’inventaire actuel met en évidence un patrimoine public estimé à **près de 263 millions de m²** pour les collecti",
+  "resource_title": "Inventaire des bâtiments publics des collectivités et de l'Etat",
+  "resource_url": "https://data.ademe.fr/data-fair/api/v1/datasets/pxktz0scmweig6lhun2ni-6i/lines?format=csv&size=10000",
+  "last_modified": "2026-04-10T11:59:56.118Z",
+  "license": "Licence ouverte",
+  "origin": "actu",
+  "label": "détenus",
+  "query": "détenus",
+  "news": [
+    {
+      "title": "Le Sénat vote en faveur d'une contribution journalière de cinq euros pour les détenus",
+      "link": "https://www.franceinfo.fr/societe/prisons/le-senat-vote-en-faveur-d-une-contribution-journaliere-de-cinq-euros-pour-les-detenus_8304762.html#xtor=RSS-3-[lestitres]",
+      "feed": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "title": "Cinq euros par jour de prison : le Sénat vote en faveur d’une contribution pour les détenus",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/28/cinq-euros-par-jour-de-prison-le-senat-vote-en-faveur-d-une-contribution-pour-les-detenus_6816114_823448.html",
+      "feed": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "title": "Cinq euros par jour de prison… Le Sénat veut taxer les détenus",
+      "link": "https://www.20minutes.fr/societe/4266479-20261128-cinq-euros-jour-prison-senat-veut-taxer-detenus?at_medium=display&at_campaign=149",
+      "feed": "https://www.20minutes.fr/feeds/rss-une.xml"
+    }
+  ],
+  "lecture": "CSV séparé par « ; »."
+}

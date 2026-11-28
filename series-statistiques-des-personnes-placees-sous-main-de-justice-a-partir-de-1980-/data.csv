@@ -1,0 +1,10 @@
+date_reference;tranches_age;taux_hommes_detenus_pour_100000_habitants;taux_femmes_detenues_pour_100000_habitants;taux_total_detenus_pour_100000_habitants
+2026-01-01;De 13 à   moins de 18 ans;32;1;17
+2026-01-01;De 18 à   moins de 21 ans;393;11;209
+2026-01-01;De 21 à  moins de 25 ans;713;23;374
+2026-01-01;De 25 à   moins de 30 ans;714;22;368
+2026-01-01;De 30 à  moins de 40 ans;562;19;286
+2026-01-01;De 40 à   moins de 50 ans;329;13;168
+2026-01-01;De 50 à   moins de 60 ans;148;6;76
+2026-01-01;60 ans et plus;41;1;19
+2026-01-01;Total;275;9;137
