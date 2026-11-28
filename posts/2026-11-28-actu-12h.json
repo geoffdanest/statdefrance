@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-28",
+  "slot": "actu12",
+  "status": "validated",
+  "auto": true,
+  "theme": "Économie",
+  "palette": "nuit",
+  "template": "colonnes",
+  "num": "ACTU · 28.11",
+  "une": [
+    "L'agence S&P menace de baisser la note de la France.",
+    "Les intérêts de sa dette ont atteint 66 milliards d'euros en 2025."
+  ],
+  "photo": "posts/photos/2026-11-28-actu-12h.jpg",
+  "photo_credit": "Photo : Dinkum, CC0",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Bercy_-_Minist%C3%A8re_de_l%27Economie_et_des_Finances_4.JPG",
+  "photo_focus": 0.5,
+  "title": "Les intérêts de la dette publique ont presque doublé depuis 2021.",
+  "series": [
+    [
+      2019,
+      36.9
+    ],
+    [
+      2020,
+      29.7
+    ],
+    [
+      2021,
+      34.8
+    ],
+    [
+      2022,
+      50.9
+    ],
+    [
+      2023,
+      53.4
+    ],
+    [
+      2024,
+      60.1
+    ],
+    [
+      2025,
+      65.7
+    ]
+  ],
+  "per_dot": 5,
+  "dot_unit": "milliards d'euros",
+  "value_suffix": " Md€",
+  "decimals": 0,
+  "source": "Insee, comptes nationaux trimestriels (2026)",
+  "source_url": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_CSI",
+  "dataset_id": "insee:DS_CNT_CSI",
+  "question": "Inquiétant ou pas ?",
+  "calc": "Insee, DS_CNT_CSI (Comptes de secteurs institutionnels, comptes trimestriels base 2020, data.csv ';', last_modified 27/11/2026). Filtres : REF_SECTOR=S13 (administrations publiques : État, collectivités, Sécurité sociale), STO=D41 (Intérêts), ACCOUNTING_ENTRY=D (emploi = intérêts versés), GEO=F, SEASONAL_ADJUST=S (CVS), UNIT_MEASURE=EUR, UNIT_MULT=6 (millions d'euros). Somme des 4 trimestres par année : 2019 = 36 868,2 ; 2020 = 29 724,1 ; 2021 = 34 799,9 ; 2022 = 50 934,0 ; 2023 = 53 409,9 ; 2024 = 60 130,9 ; 2025 = 65 720,9 (millions d'euros, valeurs courantes, inflation non retirée). Affiché en milliards arrondis à l'unité (37, 30, 35, 51, 53, 60, 66). « Presque doublé depuis 2021 » : 65 720,9 / 34 799,9 = 1,89. 2026 incomplet (3 trimestres, non affiché).",
+  "news_topic": "Note de la France : S&P menace de dégrader la note, Roland Lescure y voit un « avertissement »",
+  "news_links": [
+    "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+    "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html"
+  ],
+  "caption": "La facture des intérêts de la dette publique a presque doublé en quatre ans.\n\nEn 2025, l'État, les collectivités et la Sécurité sociale ont versé 66 milliards d'euros d'intérêts, selon l'Insee. En 2021, c'était 35 milliards. Vendredi, l'agence S&P a menacé d'abaisser la note de la France, qui mesure sa capacité à rembourser ce qu'elle emprunte.\n\nÀ noter : montants de chaque année, sans retirer l'inflation.\n\nInquiétant ou pas ?\n\nSource : Insee, « Comptes de secteurs institutionnels »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_CSI\nPhoto : Dinkum, CC0\n\n#statdefrance #opendata #actu #economie #dettepublique #financespubliques #notation"
+}
