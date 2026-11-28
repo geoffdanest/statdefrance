@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
   "slot": "actu12",
-  "status": "validated",
+  "status": "published",
   "auto": true,
   "theme": "Économie",
   "palette": "nuit",
@@ -60,5 +60,8 @@
     "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
     "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html"
   ],
-  "caption": "La facture des intérêts de la dette publique a presque doublé en quatre ans.\n\nEn 2025, l'État, les collectivités et la Sécurité sociale ont versé 66 milliards d'euros d'intérêts, selon l'Insee. En 2021, c'était 35 milliards. Vendredi, l'agence S&P a menacé d'abaisser la note de la France, qui mesure sa capacité à rembourser ce qu'elle emprunte.\n\nÀ noter : montants de chaque année, sans retirer l'inflation.\n\nInquiétant ou pas ?\n\nSource : Insee, « Comptes de secteurs institutionnels »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_CSI\nPhoto : Dinkum, CC0\n\n#statdefrance #opendata #actu #economie #dettepublique #financespubliques #notation"
+  "caption": "La facture des intérêts de la dette publique a presque doublé en quatre ans.\n\nEn 2025, l'État, les collectivités et la Sécurité sociale ont versé 66 milliards d'euros d'intérêts, selon l'Insee. En 2021, c'était 35 milliards. Vendredi, l'agence S&P a menacé d'abaisser la note de la France, qui mesure sa capacité à rembourser ce qu'elle emprunte.\n\nÀ noter : montants de chaque année, sans retirer l'inflation.\n\nInquiétant ou pas ?\n\nSource : Insee, « Comptes de secteurs institutionnels »\nhttps://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_CNT_CSI\nPhoto : Dinkum, CC0\n\n#statdefrance #opendata #actu #economie #dettepublique #financespubliques #notation",
+  "ig_media_id": "18141920740642402",
+  "ig_permalink": "https://www.instagram.com/p/DgSGnYHjjY0/",
+  "published_at": "2026-11-28T12:03:14.106564+01:00"
 }
